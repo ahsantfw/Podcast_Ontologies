@@ -1,0 +1,327 @@
+{% extends "base.html" %}
+
+{% block title %}Upload Transcripts - Knowledge Graph System{% endblock %}
+
+{% block content %}
+<div class="row">
+    <div class="col-12">
+        <h1><i class="bi bi-upload"></i> Upload & Process Transcripts</h1>
+        <hr>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-8">
+        <div class="card">
+            <div class="card-header">
+                <h5><i class="bi bi-cloud-upload"></i> Upload Files</h5>
+            </div>
+            <div class="card-body">
+                <form id="upload-form" enctype="multipart/form-data">
+                    <div class="mb-3">
+                        <label for="file-input" class="form-label">Select Transcript Files:</label>
+                        <input 
+                            type="file" 
+                            class="form-control" 
+                            id="file-input" 
+                            multiple 
+                            accept=".txt,.md,.text"
+                            onchange="updateFileList()"
+                        >
+                        <div class="form-text">You can select multiple files at once.</div>
+                    </div>
+                    <div id="file-list" class="mb-3"></div>
+                    <button type="button" class="btn btn-primary" onclick="uploadFiles()">
+                        <i class="bi bi-upload"></i> Upload Files
+                    </button>
+                    <button type="button" class="btn btn-secondary" onclick="clearFiles()">
+                        <i class="bi bi-x-circle"></i> Clear
+                    </button>
+                </form>
+            </div>
+        </div>
+
+        <!-- Processing Section -->
+        <div class="card mt-4" id="processing-card" style="display: none;">
+            <div class="card-header">
+                <h5><i class="bi bi-gear"></i> Processing Status</h5>
+            </div>
+            <div class="card-body">
+                <div class="mb-3">
+                    <label class="form-label">Progress:</label>
+                    <div class="progress" style="height: 30px;">
+                        <div 
+                            class="progress-bar progress-bar-striped progress-bar-animated" 
+                            id="progress-bar" 
+                            role="progressbar" 
+                            style="width: 0%"
+                        >
+                            <span id="progress-text">0%</span>
+                        </div>
+                    </div>
+                </div>
+                <div id="processing-status" class="alert alert-info">
+                    <i class="bi bi-hourglass-split"></i> Processing...
+                </div>
+                <div id="processing-results" style="display: none;"></div>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-4">
+        <div class="card">
+            <div class="card-header">
+                <h5><i class="bi bi-info-circle"></i> Instructions</h5>
+            </div>
+            <div class="card-body">
+                <ol>
+                    <li>Select transcript files (.txt, .md)</li>
+                    <li>Click "Upload Files"</li>
+                    <li>Files will be saved to your workspace</li>
+                    <li>Click "Start Processing" to extract KG</li>
+                    <li>Processing can take time (1.5 hours for 1000 files)</li>
+                    <li>Progress persists even if you refresh the page</li>
+                </ol>
+                <div class="alert alert-warning mt-3">
+                    <small>
+                        <strong>Note:</strong> Processing is done in the background. 
+                        You can close this page and check back later.
+                    </small>
+                </div>
+            </div>
+        </div>
+
+        <!-- Processing Options -->
+        <div class="card mt-3">
+            <div class="card-header">
+                <h5><i class="bi bi-sliders"></i> Processing Options</h5>
+            </div>
+            <div class="card-body">
+                <div class="form-check mb-3">
+                    <input 
+                        class="form-check-input" 
+                        type="checkbox" 
+                        id="clear-existing"
+                    >
+                    <label class="form-check-label" for="clear-existing">
+                        Clear existing knowledge graph
+                    </label>
+                </div>
+                <button 
+                    type="button" 
+                    class="btn btn-success w-100" 
+                    id="process-btn" 
+                    onclick="startProcessing()"
+                    disabled
+                >
+                    <i class="bi bi-play-circle"></i> Start Processing
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block extra_js %}
+<script>
+    let uploadedFiles = [];
+    let uploadId = null;
+    let jobId = null;
+    let progressInterval = null;
+
+    function updateFileList() {
+        const input = document.getElementById('file-input');
+        const fileList = document.getElementById('file-list');
+        
+        if (input.files.length > 0) {
+            let html = '<strong>Selected Files:</strong><ul class="list-group mt-2">';
+            for (let file of input.files) {
+                html += `<li class="list-group-item d-flex justify-content-between">
+                    <span>${file.name}</span>
+                    <span class="badge bg-secondary">${(file.size / 1024).toFixed(2)} KB</span>
+                </li>`;
+            }
+            html += '</ul>';
+            fileList.innerHTML = html;
+        } else {
+            fileList.innerHTML = '';
+        }
+    }
+
+    function uploadFiles() {
+        const input = document.getElementById('file-input');
+        if (input.files.length === 0) {
+            alert('Please select files first');
+            return;
+        }
+
+        const formData = new FormData();
+        for (let file of input.files) {
+            formData.append('files', file);
+        }
+
+        const workspaceId = getWorkspaceId();
+        const uploadBtn = event.target;
+        uploadBtn.disabled = true;
+        uploadBtn.innerHTML = '<span class="spinner-border spinner-border-sm"></span> Uploading...';
+
+        fetch('/api/v1/ingest/upload', {
+            method: 'POST',
+            headers: {
+                'X-Workspace-Id': workspaceId
+            },
+            body: formData
+        })
+        .then(response => response.json())
+        .then(data => {
+            uploadId = data.upload_id;
+            uploadedFiles = data.files;
+            
+            // Enable process button
+            document.getElementById('process-btn').disabled = false;
+            
+            // Show success
+            alert(`Successfully uploaded ${data.files.length} file(s)`);
+            
+            uploadBtn.disabled = false;
+            uploadBtn.innerHTML = '<i class="bi bi-upload"></i> Upload Files';
+        })
+        .catch(error => {
+            alert(`Upload failed: ${error.message}`);
+            uploadBtn.disabled = false;
+            uploadBtn.innerHTML = '<i class="bi bi-upload"></i> Upload Files';
+        });
+    }
+
+    function startProcessing() {
+        if (!uploadId) {
+            alert('Please upload files first');
+            return;
+        }
+
+        const clearExisting = document.getElementById('clear-existing').checked;
+        const workspaceId = getWorkspaceId();
+        const processBtn = document.getElementById('process-btn');
+        
+        processBtn.disabled = true;
+        processBtn.innerHTML = '<span class="spinner-border spinner-border-sm"></span> Starting...';
+
+        fetch('/api/v1/ingest/process', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+                'X-Workspace-Id': workspaceId
+            },
+            body: JSON.stringify({
+                upload_id: uploadId,
+                clear_existing: clearExisting
+            })
+        })
+        .then(response => response.json())
+        .then(data => {
+            jobId = data.job_id;
+            document.getElementById('processing-card').style.display = 'block';
+            
+            // Start polling for progress
+            pollProgress();
+            
+            processBtn.disabled = false;
+            processBtn.innerHTML = '<i class="bi bi-play-circle"></i> Start Processing';
+        })
+        .catch(error => {
+            alert(`Failed to start processing: ${error.message}`);
+            processBtn.disabled = false;
+            processBtn.innerHTML = '<i class="bi bi-play-circle"></i> Start Processing';
+        });
+    }
+
+    function pollProgress() {
+        if (!jobId) return;
+
+        // Clear existing interval
+        if (progressInterval) {
+            clearInterval(progressInterval);
+        }
+
+        // Poll every 2 seconds
+        progressInterval = setInterval(() => {
+            fetch(`/api/v1/ingest/status/${jobId}`)
+                .then(response => response.json())
+                .then(data => {
+                    updateProgress(data);
+                    
+                    if (data.status === 'completed' || data.status === 'failed') {
+                        clearInterval(progressInterval);
+                    }
+                })
+                .catch(error => {
+                    console.error('Error polling progress:', error);
+                });
+        }, 2000);
+
+        // Initial poll
+        fetch(`/api/v1/ingest/status/${jobId}`)
+            .then(response => response.json())
+            .then(data => updateProgress(data));
+    }
+
+    function updateProgress(data) {
+        const progressBar = document.getElementById('progress-bar');
+        const progressText = document.getElementById('progress-text');
+        const statusDiv = document.getElementById('processing-status');
+        const resultsDiv = document.getElementById('processing-results');
+
+        const progress = data.progress || 0;
+        progressBar.style.width = `${progress}%`;
+        progressText.textContent = `${progress}%`;
+
+        if (data.status === 'completed') {
+            progressBar.classList.remove('progress-bar-animated');
+            progressBar.classList.add('bg-success');
+            statusDiv.className = 'alert alert-success';
+            statusDiv.innerHTML = '<i class="bi bi-check-circle"></i> Processing completed!';
+            
+            if (data.results) {
+                resultsDiv.style.display = 'block';
+                resultsDiv.innerHTML = `
+                    <h6>Results:</h6>
+                    <ul>
+                        <li>Concepts: ${data.results.concepts || 0}</li>
+                        <li>Relationships: ${data.results.relationships || 0}</li>
+                        <li>Quotes: ${data.results.quotes || 0}</li>
+                        <li>Total Files: ${data.results.total_files || 0}</li>
+                        <li>Total Chunks: ${data.results.total_chunks || 0}</li>
+                    </ul>
+                `;
+            }
+        } else if (data.status === 'failed') {
+            progressBar.classList.remove('progress-bar-animated');
+            progressBar.classList.add('bg-danger');
+            statusDiv.className = 'alert alert-danger';
+            statusDiv.innerHTML = `<i class="bi bi-x-circle"></i> Processing failed: ${data.error || 'Unknown error'}`;
+        } else {
+            statusDiv.innerHTML = `<i class="bi bi-hourglass-split"></i> Processing... (${data.status})`;
+        }
+    }
+
+    function clearFiles() {
+        document.getElementById('file-input').value = '';
+        document.getElementById('file-list').innerHTML = '';
+        uploadedFiles = [];
+        uploadId = null;
+        document.getElementById('process-btn').disabled = true;
+    }
+
+    // Check for existing job on page load
+    document.addEventListener('DOMContentLoaded', function() {
+        // TODO: Load existing job from localStorage and resume polling
+        const savedJobId = localStorage.getItem('current_job_id');
+        if (savedJobId) {
+            jobId = savedJobId;
+            document.getElementById('processing-card').style.display = 'block';
+            pollProgress();
+        }
+    });
+</script>
+{% endblock %}
+

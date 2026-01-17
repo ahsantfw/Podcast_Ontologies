@@ -1,0 +1,60 @@
+# Shared logging configuration (console + rotating file)
+
+version: 1
+disable_existing_loggers: false
+
+formatters:
+  json:
+    format: '{"ts":"%(asctime)s","level":"%(levelname)s","logger":"%(name)s","msg":"%(message)s","context":%(context)s}'
+    datefmt: '%Y-%m-%dT%H:%M:%S'
+
+filters:
+  context_filter:
+    (): core_engine.logging.ContextFilter
+
+handlers:
+  console:
+    class: logging.StreamHandler
+    level: INFO
+    formatter: json
+    filters: [context_filter]
+    stream: ext://sys.stdout
+
+  file_info:
+    class: logging.handlers.RotatingFileHandler
+    level: INFO
+    formatter: json
+    filters: [context_filter]
+    filename: logs/app.log
+    maxBytes: 1048576  # 1 MB
+    backupCount: 5
+    encoding: utf-8
+
+  file_error:
+    class: logging.handlers.RotatingFileHandler
+    level: ERROR
+    formatter: json
+    filters: [context_filter]
+    filename: logs/app.error.log
+    maxBytes: 1048576
+    backupCount: 5
+    encoding: utf-8
+
+loggers:
+  core_engine:
+    level: INFO
+    handlers: [console, file_info, file_error]
+    propagate: false
+  backend:
+    level: INFO
+    handlers: [console, file_info, file_error]
+    propagate: false
+  frontend:
+    level: INFO
+    handlers: [console, file_info, file_error]
+    propagate: false
+
+root:
+  level: INFO
+  handlers: [console, file_info, file_error]
+

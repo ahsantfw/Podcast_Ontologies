@@ -1,0 +1,16 @@
+tunnel: your-tunnel-id
+credentials-file: /home/tayyab/.cloudflared/your-tunnel-id.json
+
+ingress:
+  # Backend API - Route /api/* to backend
+  - hostname: your-app.your-domain.com
+    path: /api/*
+    service: http://localhost:8000
+  
+  # Frontend - All other routes to frontend
+  - hostname: your-app.your-domain.com
+    service: http://localhost:3000
+  
+  # Catch-all rule (must be last)
+  - service: http_status:404
+

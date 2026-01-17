@@ -1,0 +1,60 @@
+{
+  "summary": {
+    "total_operations": 3,
+    "total_duration": 6.5737974643707275,
+    "total_items_processed": 4162,
+    "overall_throughput": 633.1195967867264,
+    "by_operation": {
+      "load_transcripts": {
+        "count": 1,
+        "total_duration": 0.030504703521728516,
+        "total_items": 62,
+        "avg_duration": 0.030504703521728516,
+        "avg_throughput": 2032.4734497366076,
+        "min_duration": 0.030504703521728516,
+        "max_duration": 0.030504703521728516
+      },
+      "chunk_documents": {
+        "count": 1,
+        "total_duration": 1.278869867324829,
+        "total_items": 4100,
+        "avg_duration": 1.278869867324829,
+        "avg_throughput": 3205.9555899745133,
+        "min_duration": 1.278869867324829,
+        "max_duration": 1.278869867324829
+      },
+      "initialize_schema": {
+        "count": 1,
+        "total_duration": 5.26442289352417,
+        "total_items": 0,
+        "avg_duration": 5.26442289352417,
+        "avg_throughput": 0.0,
+        "min_duration": 5.26442289352417,
+        "max_duration": 5.26442289352417
+      }
+    }
+  },
+  "operations": [
+    {
+      "name": "load_transcripts",
+      "duration": 0.030504703521728516,
+      "items_processed": 62,
+      "items_per_second": 2032.4734497366076,
+      "metadata": {}
+    },
+    {
+      "name": "chunk_documents",
+      "duration": 1.278869867324829,
+      "items_processed": 4100,
+      "items_per_second": 3205.9555899745133,
+      "metadata": {}
+    },
+    {
+      "name": "initialize_schema",
+      "duration": 5.26442289352417,
+      "items_processed": 0,
+      "items_per_second": 0.0,
+      "metadata": {}
+    }
+  ]
+}

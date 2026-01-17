@@ -1,0 +1,144 @@
+{% extends "base.html" %}
+
+{% block title %}Dashboard - Knowledge Graph System{% endblock %}
+
+{% block content %}
+<div class="row">
+    <div class="col-12">
+        <h1><i class="bi bi-speedometer2"></i> Dashboard</h1>
+        <hr>
+    </div>
+</div>
+
+<!-- Workspace Selector -->
+<div class="row mb-4">
+    <div class="col-md-6">
+        <div class="card">
+            <div class="card-header">
+                <h5><i class="bi bi-folder"></i> Workspace</h5>
+            </div>
+            <div class="card-body">
+                <div class="mb-3">
+                    <label for="workspace-select" class="form-label">Select Workspace:</label>
+                    <select class="form-select" id="workspace-select" onchange="changeWorkspace(this.value)">
+                        <option value="default">default</option>
+                    </select>
+                </div>
+                <button class="btn btn-primary" onclick="createWorkspace()">
+                    <i class="bi bi-plus-circle"></i> Create New Workspace
+                </button>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-6">
+        <div class="card">
+            <div class="card-header">
+                <h5><i class="bi bi-graph-up"></i> Graph Statistics</h5>
+            </div>
+            <div class="card-body" id="stats-container">
+                <div class="text-center">
+                    <div class="spinner-border" role="status">
+                        <span class="visually-hidden">Loading...</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Quick Actions -->
+<div class="row mb-4">
+    <div class="col-12">
+        <h4><i class="bi bi-lightning"></i> Quick Actions</h4>
+        <div class="d-grid gap-2 d-md-flex">
+            <a href="/query" class="btn btn-primary btn-lg">
+                <i class="bi bi-chat-dots"></i> Ask a Question
+            </a>
+            <a href="/upload" class="btn btn-success btn-lg">
+                <i class="bi bi-upload"></i> Upload Transcripts
+            </a>
+            <a href="/scripts" class="btn btn-info btn-lg">
+                <i class="bi bi-file-text"></i> Generate Script
+            </a>
+            <a href="/explore" class="btn btn-warning btn-lg">
+                <i class="bi bi-diagram-2"></i> Explore Graph
+            </a>
+        </div>
+    </div>
+</div>
+
+<!-- Recent Activity -->
+<div class="row">
+    <div class="col-md-6">
+        <div class="card">
+            <div class="card-header">
+                <h5><i class="bi bi-clock-history"></i> Recent Queries</h5>
+            </div>
+            <div class="card-body">
+                <div id="recent-queries">
+                    <p class="text-muted">No recent queries</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-6">
+        <div class="card">
+            <div class="card-header">
+                <h5><i class="bi bi-file-earmark-text"></i> Recent Scripts</h5>
+            </div>
+            <div class="card-body">
+                <div id="recent-scripts">
+                    <p class="text-muted">No recent scripts</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block extra_js %}
+<script>
+    // Load dashboard data on page load
+    document.addEventListener('DOMContentLoaded', function() {
+        loadStats();
+        loadRecentActivity();
+    });
+
+    function loadStats() {
+        const workspaceId = getWorkspaceId();
+        fetch(`/api/v1/graph/stats`, {
+            headers: {
+                'X-Workspace-Id': workspaceId
+            }
+        })
+        .then(response => response.json())
+        .then(data => {
+            const container = document.getElementById('stats-container');
+            container.innerHTML = `
+                <p><strong>Total Nodes:</strong> ${data.total_nodes || 0}</p>
+                <p><strong>Total Relationships:</strong> ${data.total_relationships || 0}</p>
+                ${data.by_type ? `<p><strong>Nodes by Type:</strong></p><ul class="list-unstyled ms-3">${
+                    Object.entries(data.by_type).slice(0, 5).map(([type, count]) => 
+                        `<li>${type}: ${count}</li>`
+                    ).join('')
+                }</ul>` : ''}
+            `;
+        })
+        .catch(error => {
+            document.getElementById('stats-container').innerHTML = 
+                '<p class="text-danger">Failed to load statistics</p>';
+        });
+    }
+
+    function loadRecentActivity() {
+        // TODO: Implement recent queries/scripts loading
+    }
+
+    function changeWorkspace(workspaceId) {
+        localStorage.setItem('workspace_id', workspaceId);
+        document.getElementById('current-workspace').textContent = workspaceId;
+        loadStats();
+    }
+</script>
+{% endblock %}
+

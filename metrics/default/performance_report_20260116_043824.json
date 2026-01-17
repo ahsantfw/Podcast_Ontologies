@@ -1,0 +1,76 @@
+{
+  "summary": {
+    "total_operations": 4,
+    "total_duration": 17.883870124816895,
+    "total_items_processed": 1566,
+    "overall_throughput": 87.56493919215562,
+    "by_operation": {
+      "load_transcripts": {
+        "count": 1,
+        "total_duration": 0.03491854667663574,
+        "total_items": 10,
+        "avg_duration": 0.03491854667663574,
+        "avg_throughput": 286.3807618514397,
+        "min_duration": 0.03491854667663574,
+        "max_duration": 0.03491854667663574
+      },
+      "chunk_documents": {
+        "count": 1,
+        "total_duration": 0.20891618728637695,
+        "total_items": 778,
+        "avg_duration": 0.20891618728637695,
+        "avg_throughput": 3723.9814209970123,
+        "min_duration": 0.20891618728637695,
+        "max_duration": 0.20891618728637695
+      },
+      "initialize_schema": {
+        "count": 1,
+        "total_duration": 4.8877480030059814,
+        "total_items": 0,
+        "avg_duration": 4.8877480030059814,
+        "avg_throughput": 0.0,
+        "min_duration": 4.8877480030059814,
+        "max_duration": 4.8877480030059814
+      },
+      "ingest_qdrant_async": {
+        "count": 1,
+        "total_duration": 12.7522873878479,
+        "total_items": 778,
+        "avg_duration": 12.7522873878479,
+        "avg_throughput": 61.008662707945504,
+        "min_duration": 12.7522873878479,
+        "max_duration": 12.7522873878479
+      }
+    }
+  },
+  "operations": [
+    {
+      "name": "load_transcripts",
+      "duration": 0.03491854667663574,
+      "items_processed": 10,
+      "items_per_second": 286.3807618514397,
+      "metadata": {}
+    },
+    {
+      "name": "chunk_documents",
+      "duration": 0.20891618728637695,
+      "items_processed": 778,
+      "items_per_second": 3723.9814209970123,
+      "metadata": {}
+    },
+    {
+      "name": "initialize_schema",
+      "duration": 4.8877480030059814,
+      "items_processed": 0,
+      "items_per_second": 0.0,
+      "metadata": {}
+    },
+    {
+      "name": "ingest_qdrant_async",
+      "duration": 12.7522873878479,
+      "items_processed": 778,
+      "items_per_second": 61.008662707945504,
+      "metadata": {}
+    }
+  ]
+}

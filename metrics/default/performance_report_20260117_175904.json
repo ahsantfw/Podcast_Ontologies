@@ -1,0 +1,98 @@
+{
+  "summary": {
+    "total_operations": 5,
+    "total_duration": 63.94981789588928,
+    "total_items_processed": 226,
+    "overall_throughput": 3.5340210095348428,
+    "by_operation": {
+      "load_transcripts": {
+        "count": 1,
+        "total_duration": 0.004150867462158203,
+        "total_items": 1,
+        "avg_duration": 0.004150867462158203,
+        "avg_throughput": 240.91349798966112,
+        "min_duration": 0.004150867462158203,
+        "max_duration": 0.004150867462158203
+      },
+      "chunk_documents": {
+        "count": 1,
+        "total_duration": 0.02843475341796875,
+        "total_items": 75,
+        "avg_duration": 0.02843475341796875,
+        "avg_throughput": 2637.617386638047,
+        "min_duration": 0.02843475341796875,
+        "max_duration": 0.02843475341796875
+      },
+      "initialize_schema": {
+        "count": 1,
+        "total_duration": 5.76736044883728,
+        "total_items": 0,
+        "avg_duration": 5.76736044883728,
+        "avg_throughput": 0.0,
+        "min_duration": 5.76736044883728,
+        "max_duration": 5.76736044883728
+      },
+      "extract_kg_async": {
+        "count": 1,
+        "total_duration": 55.39113092422485,
+        "total_items": 75,
+        "avg_duration": 55.39113092422485,
+        "avg_throughput": 1.3540073789538638,
+        "min_duration": 55.39113092422485,
+        "max_duration": 55.39113092422485
+      },
+      "ingest_qdrant_async": {
+        "count": 1,
+        "total_duration": 2.7587409019470215,
+        "total_items": 75,
+        "avg_duration": 2.7587409019470215,
+        "avg_throughput": 27.1863153031398,
+        "min_duration": 2.7587409019470215,
+        "max_duration": 2.7587409019470215
+      }
+    }
+  },
+  "operations": [
+    {
+      "name": "load_transcripts",
+      "duration": 0.004150867462158203,
+      "items_processed": 1,
+      "items_per_second": 240.91349798966112,
+      "metadata": {}
+    },
+    {
+      "name": "chunk_documents",
+      "duration": 0.02843475341796875,
+      "items_processed": 75,
+      "items_per_second": 2637.617386638047,
+      "metadata": {}
+    },
+    {
+      "name": "initialize_schema",
+      "duration": 5.76736044883728,
+      "items_processed": 0,
+      "items_per_second": 0.0,
+      "metadata": {}
+    },
+    {
+      "name": "extract_kg_async",
+      "duration": 55.39113092422485,
+      "items_processed": 75,
+      "items_per_second": 1.3540073789538638,
+      "metadata": {
+        "concepts": 54,
+        "relationships": 22,
+        "quotes": 22,
+        "max_concurrent": 10,
+        "batch_size": 10
+      }
+    },
+    {
+      "name": "ingest_qdrant_async",
+      "duration": 2.7587409019470215,
+      "items_processed": 75,
+      "items_per_second": 27.1863153031398,
+      "metadata": {}
+    }
+  ]
+}

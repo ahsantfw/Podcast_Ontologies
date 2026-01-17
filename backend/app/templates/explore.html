@@ -1,0 +1,229 @@
+{% extends "base.html" %}
+
+{% block title %}Explore Graph - Knowledge Graph System{% endblock %}
+
+{% block content %}
+<div class="row">
+    <div class="col-12">
+        <h1><i class="bi bi-diagram-2"></i> Explore Knowledge Graph</h1>
+        <hr>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-4">
+        <!-- Search -->
+        <div class="card mb-3">
+            <div class="card-header">
+                <h5><i class="bi bi-search"></i> Search Concepts</h5>
+            </div>
+            <div class="card-body">
+                <div class="mb-3">
+                    <input 
+                        type="text" 
+                        class="form-control" 
+                        id="search-input" 
+                        placeholder="Search by theme or concept name..."
+                        onkeyup="searchConcepts(this.value)"
+                    >
+                </div>
+                <div class="mb-3">
+                    <label for="type-filter" class="form-label">Filter by Type:</label>
+                    <select class="form-select" id="type-filter" onchange="searchConcepts(document.getElementById('search-input').value)">
+                        <option value="">All Types</option>
+                        <option value="Concept">Concept</option>
+                        <option value="Practice">Practice</option>
+                        <option value="Outcome">Outcome</option>
+                        <option value="CognitiveState">Cognitive State</option>
+                        <option value="Person">Person</option>
+                    </select>
+                </div>
+            </div>
+        </div>
+
+        <!-- Concept List -->
+        <div class="card">
+            <div class="card-header">
+                <h5><i class="bi bi-list-ul"></i> Concepts</h5>
+            </div>
+            <div class="card-body" style="max-height: 600px; overflow-y: auto;">
+                <div id="concepts-list">
+                    <p class="text-muted text-center">Search for concepts...</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-8">
+        <!-- Concept Details -->
+        <div class="card" id="concept-details-card" style="display: none;">
+            <div class="card-header d-flex justify-content-between align-items-center">
+                <h5><i class="bi bi-info-circle"></i> Concept Details</h5>
+                <button class="btn btn-sm btn-primary" onclick="exploreConcept()" id="explore-btn">
+                    <i class="bi bi-diagram-3"></i> Explore Graph
+                </button>
+            </div>
+            <div class="card-body" id="concept-details">
+            </div>
+        </div>
+
+        <!-- Graph Visualization -->
+        <div class="card mt-3" id="graph-viz-card" style="display: none;">
+            <div class="card-header">
+                <h5><i class="bi bi-diagram-3"></i> Graph Visualization</h5>
+            </div>
+            <div class="card-body">
+                <div id="graph-visualization" class="border rounded p-3" style="min-height: 400px; background: #f8f9fa;">
+                    <p class="text-muted text-center">Graph visualization will appear here</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Placeholder -->
+        <div class="card" id="placeholder-card">
+            <div class="card-body text-center text-muted" style="min-height: 400px; display: flex; align-items: center; justify-content: center;">
+                <div>
+                    <i class="bi bi-diagram-2" style="font-size: 3rem;"></i>
+                    <p class="mt-3">Select a concept to view details</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block extra_js %}
+<script>
+    let selectedConceptId = null;
+
+    function searchConcepts(query) {
+        const workspaceId = getWorkspaceId();
+        const typeFilter = document.getElementById('type-filter').value;
+        const conceptsList = document.getElementById('concepts-list');
+
+        if (!query || query.length < 2) {
+            conceptsList.innerHTML = '<p class="text-muted text-center">Type at least 2 characters to search</p>';
+            return;
+        }
+
+        conceptsList.innerHTML = '<div class="text-center"><div class="spinner-border spinner-border-sm"></div></div>';
+
+        let url = `/api/v1/graph/concepts?theme=${encodeURIComponent(query)}&limit=50`;
+        if (typeFilter) {
+            url += `&concept_type=${encodeURIComponent(typeFilter)}`;
+        }
+
+        fetch(url, {
+            headers: {
+                'X-Workspace-Id': workspaceId
+            }
+        })
+        .then(response => response.json())
+        .then(data => {
+            if (data.length === 0) {
+                conceptsList.innerHTML = '<p class="text-muted text-center">No concepts found</p>';
+                return;
+            }
+
+            conceptsList.innerHTML = data.map(concept => `
+                <div class="card mb-2 cursor-pointer" onclick="loadConceptDetails('${concept.id}')" style="cursor: pointer;">
+                    <div class="card-body p-2">
+                        <h6 class="mb-1">${concept.name || concept.id}</h6>
+                        <small class="text-muted">
+                            <span class="badge bg-secondary">${concept.type || 'Unknown'}</span>
+                            ${concept.episode_ids && concept.episode_ids.length > 0 ? 
+                                `<span class="badge bg-info">${concept.episode_ids.length} episodes</span>` : ''}
+                        </small>
+                        ${concept.description ? `<p class="mt-2 mb-0 small">${concept.description.substring(0, 100)}...</p>` : ''}
+                    </div>
+                </div>
+            `).join('');
+        })
+        .catch(error => {
+            conceptsList.innerHTML = `<p class="text-danger">Error: ${error.message}</p>`;
+        });
+    }
+
+    function loadConceptDetails(conceptId) {
+        selectedConceptId = conceptId;
+        const workspaceId = getWorkspaceId();
+        const detailsCard = document.getElementById('concept-details-card');
+        const placeholderCard = document.getElementById('placeholder-card');
+        const detailsDiv = document.getElementById('concept-details');
+
+        placeholderCard.style.display = 'none';
+        detailsCard.style.display = 'block';
+        detailsDiv.innerHTML = '<div class="text-center"><div class="spinner-border"></div></div>';
+
+        fetch(`/api/v1/graph/concepts/${conceptId}`, {
+            headers: {
+                'X-Workspace-Id': workspaceId
+            }
+        })
+        .then(response => response.json())
+        .then(data => {
+            let html = `
+                <h4>${data.name || data.id}</h4>
+                <p><span class="badge bg-primary">${data.type || 'Unknown'}</span></p>
+                ${data.description ? `<p>${data.description}</p>` : ''}
+                
+                ${data.episode_ids && data.episode_ids.length > 0 ? `
+                    <div class="mt-3">
+                        <h6>Appears in Episodes:</h6>
+                        <ul>
+                            ${data.episode_ids.map(ep => `<li>${ep}</li>`).join('')}
+                        </ul>
+                    </div>
+                ` : ''}
+                
+                ${data.relationships && data.relationships.length > 0 ? `
+                    <div class="mt-3">
+                        <h6>Relationships:</h6>
+                        <ul class="list-group">
+                            ${data.relationships.map(rel => `
+                                <li class="list-group-item">
+                                    <strong>${rel.relationship_type}</strong> → 
+                                    <a href="#" onclick="loadConceptDetails('${rel.target_id}'); return false;">
+                                        ${rel.target_name || rel.target_id}
+                                    </a>
+                                    <span class="badge bg-secondary">${rel.target_type || 'Unknown'}</span>
+                                    ${rel.description ? `<br><small class="text-muted">${rel.description}</small>` : ''}
+                                </li>
+                            `).join('')}
+                        </ul>
+                    </div>
+                ` : '<p class="text-muted">No relationships found</p>'}
+            `;
+            detailsDiv.innerHTML = html;
+        })
+        .catch(error => {
+            detailsDiv.innerHTML = `<div class="alert alert-danger">Error: ${error.message}</div>`;
+        });
+    }
+
+    function exploreConcept() {
+        if (!selectedConceptId) {
+            alert('Please select a concept first');
+            return;
+        }
+
+        const graphCard = document.getElementById('graph-viz-card');
+        const graphDiv = document.getElementById('graph-visualization');
+        
+        graphCard.style.display = 'block';
+        graphDiv.innerHTML = '<div class="text-center"><div class="spinner-border"></div><p class="mt-2">Loading graph...</p></div>';
+
+        // TODO: Implement graph visualization
+        // For now, show a message
+        setTimeout(() => {
+            graphDiv.innerHTML = `
+                <p class="text-muted text-center">
+                    Graph visualization coming soon.<br>
+                    Selected concept: ${selectedConceptId}
+                </p>
+            `;
+        }, 1000);
+    }
+</script>
+{% endblock %}
+

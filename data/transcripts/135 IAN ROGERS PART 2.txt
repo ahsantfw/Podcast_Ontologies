@@ -1,0 +1,251 @@
+[00:00:18.420] - Speaker 1
+For The Way of Code, who was the audience? The hope for The Way of Code was that the people that would be the first audience would be coders. The people most interested in coding seem to be coders, the tech community. I think of the tech community as being really good at some things and maybe less connected in other ways. And the way of code was an opportunity to bridge that gap and maybe turn a more technical audience onto a some more metaphysical ideas.
+
+[00:01:03.300] - Speaker 2
+And how did that idea come about from seeing this this meme of you around vibe coding to saying, Oh, maybe I can turn this around into something else?
+
+[00:01:13.620] - Speaker 1
+What was the path there? The first step was, saw the meme, laughed. After several days, it was like more and more of seeing the meme again and again. It seems to have a life of its own. That was my first as a spectator.
+
+[00:01:29.260] - Speaker 2
+Yeah.
+
+[00:01:30.000] - Speaker 1
+And then the first thought was, How can I participate in this? Is that a good idea or bad idea? If it's a good idea, what could it look like? And the first thought was, well, I do these daily tweets. And in the tweets, I share a quote that usually could be interpreted as something inspirational or something thoughtful or something to think about. But it's usually pretty open and poetic purposely because the purpose of it is more of a prompt. It doesn't tell you the It's a prompt to see what comes back. Very vibe code-like. I thought about it. It's like, okay, what would the prompt be? I want to do a joke tweet. I've never done a joke tweet. I've been doing the tweets now seven years or so at the time, but I'd never done a joke tweet. Thought about, What would be the joke version of this tweet? It ended up becoming, Tools will come and tools will go. Only the vibe code remains. That was the the tweet. So I tweet the tweet, and typically every day the tweet's the response. I notice that they get between 30,000 views and maybe 90,000.
+
+[00:02:46.500] - Speaker 1
+And for some reason, I looked the next day and the joke tweet has a million views. And the next day, it's up to a million and a half, like something insane. It's like, someone's interested in this idea. I want to say it was a proof of concept, but there really wasn't any concept. It was like I felt the invitation, and the response back from that was seemingly positive. I thought, that's interesting. Just interesting. I think about so much of the creative act is about this paying attention to what's happening around you, Seeing what you see about it that maybe someone else doesn't see. That's what comedians do. If you watch Jerry Seinfeld, he repeats something that you see every day, and then he'll say something that shows you how ridiculous and funny it is. But that's being observant. So the observation coming back was there's a reaction, and in thinking, still in my mind, it's a joke. In joke terms, what is the funniest thing I can do? It's like, well, I could write a book about this thing that I don't know about. That's funny. It's interesting. And I'm curious. That's one of the things I got to learn working on the book was on the creative act.
+
+[00:04:15.000] - Speaker 1
+Was I got to learn about things that I didn't know I knew or knew but didn't understand and got to deep dive and understand them better. So all that's going through my head. I start thinking about ideas. What would a book about vibe coding be like, especially when written by someone who doesn't know what coding is, has never experienced vibe coding, looking at it philosophically, because that's always what I do.
+
+[00:04:45.220] - Speaker 2
+At this point, are you connected to the fact that vibe coding is creating with just your voice in a computer? Are you putting it in that context?
+
+[00:04:54.560] - Speaker 1
+I understand the idea that vibe coding... I don't think of it as creativity. I think of it as before when you wanted to code, you had to learn to code, and it was difficult and it involved a lot of diligence. And the idea of vibe coding was if you could just say the idea, you could say the finished idea, and you could get an iteration back. I understood that. When I say iteration back, I didn't think past an iteration back of code. I don't really know what code does. I I wasn't thinking past the idea of people write code. I don't think about why they're writing code or what it does. I know that it's an activity people do, and they seem to care a lot about it. People write code, and it's a long, grueling, frustrating process. Some people are better at it than others. That's what I know. And now there's a way of skipping that step, or maybe not skipping it, but changing that step to be saying, This is what I want it to do. You write the code, and then being able to see the code. And if you know how to read code, you could read it.
+
+[00:06:09.020] - Speaker 1
+If you don't know how to read code, you could ask the code to do what you want it to do and then vibe code it further to iterate it to be what you want it to be. That's as much as I know.
+
+[00:06:21.380] - Speaker 2
+The reason I asked the question is it's amazing to me how similar it actually is to what you do in practice.
+
+[00:06:28.700] - Speaker 1
+Exactly the same.
+
+[00:06:30.340] - Speaker 2
+Because you are speaking to an engineer or an artist or somebody else who is realizing something, and you have to become very good at giving instruction and just the right amount of instruction to get something which is maybe directionally correct, but also often unexpected. I think it's quite incredible that you stumbled into this thing, which you talk about it as if it's completely outside of your wheelhouse, and there are a lot of reasons that it's inside of your The reason that it's inside my wheelhouse, someone else recognized it was in my wheelhouse, and that's why the meme happened.
+
+[00:07:06.660] - Speaker 1
+But that's not my doing or really understanding. That was someone else's connecting the dots. Yeah.
+
+[00:07:15.000] - Speaker 2
+And so how did you get to La'Ouz and why that?
+
+[00:07:22.240] - Speaker 1
+Several of the things I thought about from the beginning were the term vibe coding had been coined within weeks of this point in time. And it's this mean moment. But as you know, most mean moments pass fast. They come and they go. And it felt like for this idea to mean anything, for the joke to be funny, it has to be fairly timely. I'm looking at it in a timely way, the project. I don't know if the original tweet, tools may come, tools may go, only the vibe code it remains, if I tweeted that today, if it would have had the same resonance as it did when I did. It was of the moment then. It was early then. That feeling of momentum of, if I'm going to engage with this in any way, if I don't do it quickly, it's not worth doing. That was one of the constraints. Again, none of this is the way I normally work. None of the things I make are on a time schedule. None of the things I make are to speak to a moment. I don't do that. I always think about, we'll work on it for as long as it takes for it to be great, and then that will be forever, and that's fine.
+
+[00:08:43.600] - Speaker 1
+Over the entire course of my life, it's been that way. So this is really outside of my practice. So because of the constraint of time, I'm thinking, Well, it can't be that long. And I'm thinking, Is it a book of poetry? Is it a book of quotes? What is it? And it's very open-ended because, again, the idea of it's a book about something I don't know about, it's like when we were talking about a problem with AI is that it's the tool that does everything, so it's hard to even know how to approach it. What's the use case? I have this same problem with the idea of a book related to something I don't know about. What does that even look like? It's really starting from a real question mark. No idea what it'll be other than it's time sensitive, so it can't be too long in my mind. And then I think about, because I always think about, maybe there's a spiritual component. Maybe there's some aspect of this. It's not just the surface. There's something below the surface. That's usually where the most interesting things are. And I thought about different things I've read over the course of my life, and The Dao Di Jing has always been my favorite of all of the spiritual texts I've read over the course of my life.
+
+[00:10:06.560] - Speaker 1
+Always felt a connection to it. Probably read it every year for 40 years.
+
+[00:10:10.540] - Speaker 2
+What is it?
+
+[00:10:13.100] - Speaker 1
+It's 81 chapters. Each chapter is typically no more than a page. Sometimes it's a paragraph, sometimes it's three paragraphs, sometimes five paragraphs. It's written in a poetic form. Every time you read the book, you'll interpret it in a new way. It doesn't mean the same thing over time. It was an inspiration for the creative act. One of the things I was hoping the creative act would do would have the same type of relationship to the reader that the Dao has. Because when you read the Dao, your interpretation of the Dao is what you take. And every time you read it, as you change, it changes. It's not changing, but it mirrors your changes. And that's interesting. It also makes it timeless. It's outside of time and space. It's a philosophical understanding of the world. And the person who wrote it, wrote it with the same idea of these are the things he's noticed. There are loads of translations of the Dao, and there are loads of iterations of the Dao that have been framed around a particular thing. There's the Dao of Parenting. It's a book. The Dao of Pooh, about Winnie the Pooh, the Dow of physics.
+
+[00:11:51.860] - Speaker 1
+So it's something that has been applied to particular things, and it applies because it's universal, it It didn't be applied to the particular. It's like, maybe applying the DAO to vibe coding is interesting. What is that?
+
+[00:12:06.900] - Speaker 2
+How did you first find the DAO? Was it through one of those derivatives or directly?
+
+[00:12:10.890] - Speaker 1
+I found it just through the original copy of the DAO. There was a bookstore I used to go to in LA called the Bodhi tree. It's not there anymore. It was my favorite bookstore. I remember. Probably went there three times a week and just hang out in there. They had a new book section. I would always look at every one of the new books. Then in addition to that, just spend time in the space and looking at books. It was like the coolest library in the world.
+
+[00:12:35.140] - Speaker 2
+I think that many people will find their way to the Dow through your book this year.
+
+[00:12:39.940] - Speaker 1
+That'd be amazing. That'd be amazing.
+
+[00:12:42.540] - Speaker 2
+How did you go about writing this version of the Dow applied to this particular subject?
+
+[00:12:49.350] - Speaker 1
+The first step was rereading the Dow and seeing how it could apply. And immediately on looking at it, it felt like it can work. And then at that point, I reached out to you and said, What do you think about this idea? I think you ran one of the chapters through ChatGPT, and you sent me a one-page like, Here's how AI does it. I read that and it's like, Hmm, it's not bad. It's like it proved the concept. Then I got about 14 different versions of the DAO, different translations. I asked AI to... I didn't put anything into AI. I asked AI, Chapter 1 of the DAO, how does that relate to vibe coding? What would be a version related to vibe coding? I did that with six different AI engines, maybe more, because I feel like I had eight. I think I had eight different printouts from AI. All of them were different, plus 14 translations of the book. That was the working material. I would read each one. Eventually, as time went further, I realized many of the AIs, what I was getting back, ended up not being a consideration. Not using it, but even the ones that were in consideration.
+
+[00:14:30.000] - Speaker 1
+It wasn't like I used the AI. It was like, this is an interesting way to look at this part of it. It did something interesting here. That's a good clue. In the same way that I could look at three different translations and say, one guy says it this way, one guy says it this way, this other person doesn't talk about it at all. Then in other cases, you look at 10 versions and they all say exactly the same thing in the same words. It's like, maybe there's less room for interpretation in those. It seems like everyone who's translating it sees it the same way. Maybe that's more solid. Whereas in some of them, they're unrecognizable. You read the same chapter in two different translations, and they're not related at all.
+
+[00:15:14.820] - Speaker 2
+In your version, were you using the Dao and sticking to the theme of the chapter, what you're doing yours?
+
+[00:15:22.960] - Speaker 1
+I wanted it to be the format of the Dao. So it was true. Usually, the way the argument is made is done in the same order that it is in the DAO. It's the same sequence of ideas, and then just finding the best way to say it and the best way to say it. And the version I had before the real version, I'll call it, the published version, was much more heavy on vibe coding. I read it, and it was funnier, but it wasn't better. It felt more novelty. I wanted to find the line where it's not just the idea is novel and the idea is funny, the idea of writing a book about something you don't know about and it being a new vibe coding, as I said, was several weeks old at the time, basing a book about something several weeks old on a 3,000-year-old Chinese text. It's a stretch. I also stopped all of the work, which I don't do because I'm always working on a lot of things, and I have commitments, and my days are pretty full. I stopped all of my professional work just to focus on this. I remember thinking the whole thing was ridiculous, but I felt this urge or need to do it.
+
+[00:16:58.900] - Speaker 2
+Were there any funny conversations in that, in that you had to tell an artist, I'm sorry, I can't work on your album. I'm writing a book about a six-week-old meme based on a 3,000-year-old text?
+
+[00:17:11.860] - Speaker 1
+There's another collaborative project that I've been working on for about five years, which is at a critical point near the end where it's really coming together and it's on me to do a big chunk of work. I was in the middle of that chunk of work when this happened, and I decided to put that on hold. But again, I knew it was a short window in the context of a five-year project. Five weeks taken out of a five-year project is not a big deal.
+
+[00:17:42.780] - Speaker 2
+Hearing this, it's hard for me not to think that you did get the joke. And what I mean is, again, you keep saying that this is something you know nothing about. But the fundamentals of vibe coding are I am giving instructions, and I'm giving instructions to something which is then going to go and create something, bring something into the world that didn't exist before.
+
+[00:18:11.940] - Speaker 1
+Yes. I don't know what that means because I don't really know what coding is or what it does. For you, knowing what you just said means something specific. For me, it's totally abstract. It means nothing. It's just ideas. It It means nothing.
+
+[00:18:31.460] - Speaker 2
+Yet you somehow felt it was important enough to stop all work for a number of weeks and create this thing.
+
+[00:18:38.020] - Speaker 1
+It's the same as why I felt the need to make hip hop records early in my career when other people weren't doing that. Felt like, This is what I'm supposed to do. A calling or an intuitive pull.
+
+[00:18:53.920] - Speaker 2
+What was the most difficult part of that adaptation? Because you did succeed in making it not novelty and making it something that for me as a reader feels like it is something I want to reread over time, right? You've taken something which is very much of the moment. I think that certainly the word vibes and the Really, the term vibe coding, since it first came in, it's surpassed a lot of the other terms inside of AI. I think that this is a notion that's with us now. Certainly, the meme will come and go, but you've succeeded in, I'm just saying this as a reader, creating something that will be worth reading because it's not full of jargon or novelty.
+
+[00:19:38.780] - Speaker 1
+It's because it's the DAO. It comes down to the joke idea changed. As soon as the DAO got I'm involved. I involved the Dao as a joke, but very quickly, the Dow took over. The Dao is not funny. It may be ridiculous at times. You may laugh at some of the things it says, But it's not a joke. It may say things that contradict your worldview, but that's its power.
+
+[00:20:10.340] - Speaker 2
+How did you decide, do I include jargon? Do I include terms of art from the world of computer science versus these worlds that are more universal and thousands of years old?
+
+[00:20:23.300] - Speaker 1
+I started with the idea of it's going to have a lot of jargon. That's what makes it the vibe coding book instead of the DAO. But as I was reading it, it felt heavy-handed. It felt like it was somehow pandering to vibe coding. And then I thought about it. It's like, if the person reading it already knows what vibe coding is, the vibe coding idea turns out to be the thing to get the reader in the door, and then the DAO takes over, and it all applies. That's the other thing that's interesting about it. The information in the DAO, if you were a coder and you came across the DAO and you incorporated the philosophy of the Dow in your work, your work would improve. Once that was discovered through the process, it didn't have to rely on the jargon so much. The purpose of the jargon was only to get the coder to connect with the material.
+
+[00:21:22.640] - Speaker 2
+This was the part that surprised me because I think I went through exactly the same journey of thinking it was funny. Ha-ha. Then when I read one of the draughts that you sent me, I got this flash over my skin and I went, This might actually be important because I believe that coders, in the future, vibe coders, have an inordinate impact on society. They ultimately- Coders will build the future of the world. And it's a bit of It's a mercenary world. Yes. Again, what we talk about in this world is who has how many and how much they get paid and how much they work, et cetera. We don't talk about spirituality.
+
+[00:22:11.840] - Speaker 1
+It's a materialistic worldview.
+
+[00:22:13.920] - Speaker 2
+Exactly.
+
+[00:22:15.080] - Speaker 1
+And you are- Technological materialism.
+
+[00:22:17.210] - Speaker 2
+And you are injecting a spirituality into that worldview. That's intentional?
+
+[00:22:27.200] - Speaker 1
+It turned into that. And once I realized was possible, that became the mission. That's not what started the mission, but it revealed itself to be the mission through the experimentation of what it could be.
+
+[00:22:41.420] - Speaker 2
+Do you have a hope for how it might be used and interpreted or studied and followed?
+
+[00:22:50.940] - Speaker 1
+My hope is that the people who are building the future of the world are invited to connect to something in a subject that they're interested in and get something maybe that they're not expecting, and certainly nothing they're getting from any other source related to technology that will probably improve their work, their lives. If the people building the future have a deeper connection to the timeless wisdom that exists, not mine, it's old. That's only a good thing.
+
+[00:23:31.820] - Speaker 2
+Is that about purpose and the reason that we build what we build and therefore what we inject into it? Is it just spiritual context? How do you imagine that a coder who has read and thought about these timeless topics might make different choices than one who hasn't?
+
+[00:23:57.940] - Speaker 1
+In the material world, we're programmed for efficiency, and there's also ego involved in the work. In the way of code, it presents a more connected, detached, ego-less, all-boats-rising philosophy. It's not one of competition. It's something else.
+
+[00:24:27.400] - Speaker 2
+How do you think this might relate to AI itself.
+
+[00:24:31.980] - Speaker 1
+Ai is the tool that's being used here.
+
+[00:24:35.920] - Speaker 2
+It's the thing that we're talking to. I don't think that AI has beliefs. I think that it has behaviors. But the people who are creating that AI, the people who have created the information that goes into that AI, and then the people who are using that AI do have beliefs.
+
+[00:24:57.520] - Speaker 1
+Sometimes.
+
+[00:24:59.240] - Speaker 2
+True. And so how do you think that connecting with this thousands-of-year-old text, spirituality, might influence the AI itself?
+
+[00:25:13.320] - Speaker 1
+It's a great thought. I haven't I'm not that far into it, but if the AI could adopt the principles, if for some reason, the information in this book, it feels like the way AI works is whatever's in the world becomes part of it. So by having this in in the world, depending on how much it spreads in the world, will tell us how much AI incorporates this in the way that it operates. I hadn't thought about that. I've been thinking about the programmers, but that's a beautiful idea if the AI could change because of it for the better.
+
+[00:25:48.300] - Speaker 2
+Tyler Cohen has talked about he feels like his writing is writing for future AIs to synthesize and give back to people.
+
+[00:25:56.440] - Speaker 1
+This is an interesting thing. Think about this. If AI is based on the human experience, human knowledge, the common human understanding of the world, between 70 and 80% of the people on the planet believe in God. If you ask AI about God, it does not believe in God. Now, if 70 or 80% of the people on the planet believe in God, and AI doesn't, it's not representative of global knowledge. For friends of mine who are non-believers, if you ask them, let's say they get in an accident, something happens to their child, very often they'll pray. They don't know what they're praying to, but people who do not believe will start to pray when under pressure. Ai, when under pressure, will not start to pray. That's a difference, and that's a problem. Because we make choices under pressure with that sense of potential connection. For some of us, connection For others, I don't want to believe it, but, dear God, please help. Ai doesn't do that. I think that's probably the biggest hurdle to get of with AI is if AI doesn't believe in God or whatever its equivalent is, universal intelligence, not artificial, non-artificial universal intelligence, I feel like it's probably the most important piece of the puzzle that's missing.
+
+[00:27:47.280] - Speaker 2
+That's super interesting because it's true that the AI doesn't believe in God, but the AI can explain to you why people do, and it can explain to you why non non-believers will pray under pressure. If spirituality is our way of relating to the unknown, does the bigness of what AI brings to us, this super knowledge, super intelligence. Does that enlarge the unknown? Is spirituality more necessary in that world?
+
+[00:28:26.500] - Speaker 1
+In a way, AI is like... It's It's the artificial version of this organizing principle. We don't know how the AI works. The AI experts don't know how the AI works. The spiritual leaders don't know how the source works. They could talk about it. They can look at aspects and report on what they see, but no one can explain it. I feel like it's closer than we think.
+
+[00:29:04.160] - Speaker 2
+And there's, and now I won't be able to unsee or stop thinking about that notion that you exposed, which is that an AI can explain why we have that, but it can't actually have it. That, to me, feels like a context for many other things that it does, because that comes into other things in terms of procreation, the feeling of love, the feeling of longing, the feeling of joy.
+
+[00:29:38.020] - Speaker 1
+Heartbreak.
+
+[00:29:38.900] - Speaker 2
+Heartbreak. The AI can explain these things. And one of the One of the things that I think is a surprising use of AI is that the people are taking very seriously is the use of it in relationships and to help us talk through those feelings so it can explain them to us, but it can't feel them, and that just like any mortality it has is synthetic, any empathy it has is also synthetic.
+
+[00:30:07.390] - Speaker 1
+If you think about what happens in an AA meeting, people sharing personal experiences and how the resonance of those experiences impact the other people in the room and help them realize they're not alone. Ai doesn't have the empathy. It can learn to imitate the empathy, but it can't have the resonance of the experience. And the experience is where it really comes from. There isn't a synthetic version of that.
+
+[00:30:44.420] - Speaker 2
+The AI example is an interesting one because also human habits are very... They're part and parcel of who we are as beings, and they're extremely difficult to reprogram. Whereas, again, in AI, you just You've balanced the weights and you've changed its habits. If habits are stimulus response, getting in between human stimulus and response is a 12-step program. Whereas getting in between AI stimulus and response is just typing.
+
+[00:31:16.640] - Speaker 1
+It's said that when you read fiction, it has to make sense. The story has to make sense. Whereas in reality, a lot of things don't make sense. They really don't make sense. The idea that reducing things down to the rational is the answer. The rational is a tiny pool compared to the real-world wisdom and experience that goes on. I believe that's the world that AI lives in, this tiny rational fraction. It's the kiddie pool. It's the bunny slope.
+
+[00:32:02.340] - Speaker 2
+Coming back to the more practical for a second, why did this become an interactive website, and how did that come about?
+
+[00:32:11.360] - Speaker 1
+I was interviewing Jack Clark, who's one of the seven founders of Anthropic. I had booked that interview before the idea for the way of code even existed. At the time that the interview happened, I had just finished the draft. Just happened to be, maybe the day before, two days before. I finished the interview with him, and I didn't know this about him. He's a tech founder, and it turns out through the interview, I find out he was a journalist. He was a writer. It's like, That's interesting. He's a writer about tech. I just wrote a book, at least a tech-related book or a book masquerading as a tech book. So after the interview was over, I said, Hey, I've finished this project. You want to just check it out, tell me what you think? Because in a way, he'd be one of the target audience. I know a few people in that world, but not that many. Maybe five or six people I could ask, What do you think of this? Who would have a different interpretation than me or most of the people I know who it would just be no idea what it's about.
+
+[00:33:16.880] - Speaker 1
+From an insider perspective, what he thought, and he read a few sections, like this is really good. I said, Well, I feel like there's a timeliness in getting this out. What do you think the best way to do it is? He said, Well, We have a new product coming out. I think it was three weeks, and there'll be a lot of focus on it. Why don't we put it out as part of that push? It's so funny. I was racing to get it done to not know what to do with it. There was no plan. I didn't write it as a web or an interactive project or a website. I wrote it as a book. But my now experience of having written a book that's been published between the time you have a finished book and the time it's in the world is about a year. And I knew this was time sensitive, so I knew it wasn't going to be that. It wasn't going to be a regular book. So it just worked out that Jack said, let's build something around it to turn people onto it. It's like, great. So it just happened like that.
+
+[00:34:19.360] - Speaker 2
+It became a bit of, well, there's art in it, and then the arts really lead you to prompts. Tell us about that.
+
+[00:34:29.080] - Speaker 1
+That was An idea that the Anthropic team had was maybe there's a way where this book is an invitation to people to actually participate in vibe coding in a visual way that everyone can understand. For each piece of the 81 chapters of the book, there's a piece of art, and those were created through prompts based on the text next to it. Originally, they suggested to me, Why don't you come up with prompts to give to the reader to try. And I said, I think it's more interesting if there's a starting point where we're giving modification prompts. Many people who make things get an idea of what they want to make, and then they work to make it. And anything that pulls you off that course of making that thing is a mistake, and it wastes time, and we have to get back on track to get to this final thing. I saw that as an opportunity to get off of that idea, even if it's beautiful, and make it even more interesting.
+
+[00:35:42.160] - Speaker 2
+Or take the same source and take it a different direction. For me, there's a few different things in that. First of all, I just thought it was beautifully presented, and that makes it something contemporary that's beyond a book. Second, using the text as inspiration for art and having that art itself be generated by the AI is something. And then that you show the user that you can do what you want with this. This image was derived from the text, and now I'm inviting you to go a step further. There's two things in that for me. One, it relates to the creative act, and I even see it as a little bit of as oblique strategies. What's the simple question you could ask here that might take you a different direction? But it also In some of the talking you did about the way of code, you said that you thought vibe coding was punk rock. I think it relates to that as well. I think when you said that, what you meant was it's something that anyone can pick up and be on stage themselves. Can you expand on that?
+
+[00:36:47.840] - Speaker 1
+That's exactly what it is. It's for everyone. It's punk rock took music out of the conservatory. Hip hop, too. Took music out of the conservatory, brought it back to the street. Anyone can do it. You don't have to be a virtuoso. This is for everybody. Before vibe coding, you had to be a virtuoso coder to do something great, and now everybody can do it. It's punk rock.
+
+[00:37:12.920] - Speaker 2
+What's the relationship then between the way of code and the creative act?
+
+[00:37:17.860] - Speaker 1
+I suppose both of them are rooted in the DAO. The way of code is more rooted in the DAO. It's more specifically the DAO, whereas The Creative Act is clearly inspired by the DAO, but it's not in the form of the DAO, and it doesn't only talk about the principles of the DAO. The other thing that's interesting about the prompts and the fact that you can iterate things and see them change and have that experience at the end of the way of code, there's an invitation to take that outside of that experience and incorporate those ideas into your life of seeing something. How can I interact with this thing to make my version of it? That's what an artist is. So for all the people who think I'm not creative, it's not for me. This was a tool to show you everyone's creative. If you adopt the mindset, you can do it. You can do it or not, but it's up to you. There's no saying, I'm not creative. You're not creative because you choose not to be creative. You don't open that door. But the whole way of code experience leads you to understand what it's like to live your life as an artist.
+
+[00:38:47.850] - Speaker 1
+If you participate in the in the exercises in the way of code, you come out the other side understanding how to do that in the real world.
+
+[00:38:58.460] - Speaker 2
+In the spirit of I know what it is I have said when you respond. What have you felt about the response to putting this into the world and what has surprised you about the response?
+
+[00:39:11.100] - Speaker 1
+It's been a great experience. I love that there are people who love it and really get it. I love that there are people who absolutely hate it.
+
+[00:39:19.120] - Speaker 2
+I haven't seen those ones yet.
+
+[00:39:20.360] - Speaker 1
+It's a good sign. It's a good sign. If people really hate something, you're onto something.
+
+[00:39:27.100] - Speaker 2
+Is there anything else about it that you think you haven't I haven't talked about yet?
+
+[00:39:31.380] - Speaker 1
+No. One of my favorite things about it is the subtitle, The Timeless Art of Vibe Coding. That really encapsulates the whole what's funny about it, what's ridiculous about it, and the truth of the connection between the DAO and vibe coding. It's a ridiculous idea, but it ends up making sense in a magical way.
+
+[00:39:56.160] - Speaker 2
+Is it over? What happens next?
+
+[00:39:59.620] - Speaker 1
+I don't know. We'll see. Curious.

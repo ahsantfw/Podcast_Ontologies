@@ -1,0 +1,1646 @@
+[00:00:08.490] - Speaker 1
+Tetragrammatin. Tetragrammaton. Tetragrammaton.
+
+[00:00:22.850] - Speaker 2
+If I'm completely honest, I've never of really like the term social media. I'm not sure if I can really articulate why. Social media, I think, is essentially platforms like Instagram, where what you consume is primarily produced by other people like you, as opposed to something that's more professionally produced. That said, that line is blurring over time, right. There's a lot of professionally produced content, not only on Instagram, but on all social media. But the basic idea is that it's what we would call user generated content. So we're not going out and making content ourselves, we're not buying content for the most part, but we're providing a platform that allows people to share and find an audience, which is an interesting role because you're a connector and you understand to a certain degree what people are saying on the platform, but you don't have a point of view in the same way about content the way you would if you were just producing content directly.
+
+[00:01:27.270] - Speaker 1
+Makes perfect sense. It's more of a distribution network.
+
+[00:01:30.690] - Speaker 2
+Yeah, but it's not as neutral as like, a telephone network where you pick up the phone and might call you. But we're not waking up in the morning and trying to decide what we think is important, what everyone should consume and what everyone shouldn't consume. So one of the more difficult questions we're always wrestling with, which is where to be on that spectrum, how much to have an opinion on how to do that responsibly and transparently, which is a sticky, tricky problem.
+
+[00:02:03.720] - Speaker 1
+Why would the phone comparison not be the best version?
+
+[00:02:08.240] - Speaker 2
+Because we do rank content. It's a more complicated network than a phone network in a lot of ways. And so a lot of the decisions we make affect what people see. It's closer to a phone than to, like, a magazine or a newspaper, but it is kind of its own thing.
+
+[00:02:24.060] - Speaker 1
+And I suppose on a phone, it's a one to one, or if it's more than one to one, you're still deciding who's on. It's a closed loop, whereas Instagram's an open loop.
+
+[00:02:36.090] - Speaker 2
+It is. But actually, one of the interesting things I think a lot of people misunderstand is people think of Instagram as a feed of square photos, hypersaturated, high contrast. But it's really changed a lot over the last 510 years. If you just look at what people share and take out all texts. People share way more photos and videos in dms than they do in stories and they share way more photos and videos in stories than they do in feed. So feed is actually the least important of those three surfaces. But because it's where we started, most people associate.
+
+[00:03:08.160] - Speaker 1
+Tell me the difference between those three. What are those three?
+
+[00:03:10.830] - Speaker 2
+So dms are just direct messages. So if I follow you on Instagram and you follow me, we can message. Young people particularly spend most of their time messaging about content, so it's not the same. Know, if you and I were texting about meeting today, we would use imessage, or if we were in Italy, we'd use WhatsApp. But on Instagram, you're usually using it to talk about something that you discovered. Maybe I'm replying to your story, or I'm sharing a video or a comedy clip or something that I found that I thought you would like. So that's actually the thing that people do the most on Instagram, particularly young people.
+
+[00:03:43.990] - Speaker 1
+Dming.
+
+[00:03:44.720] - Speaker 2
+Yeah.
+
+[00:03:45.220] - Speaker 1
+I'm shocked.
+
+[00:03:46.050] - Speaker 2
+Yeah, most people don't think of it that way.
+
+[00:03:47.590] - Speaker 1
+Yeah.
+
+[00:03:47.980] - Speaker 2
+Young people literally spend more time in dms than they do in stories or feed.
+
+[00:03:51.670] - Speaker 1
+And were the DMs from the beginning?
+
+[00:03:53.170] - Speaker 2
+No, we added dms probably almost ten years ago now, and then we added stories a few years after that. So probably the feed was first. Yes.
+
+[00:04:05.420] - Speaker 1
+Describe the feed when you came to the company. What was the feed?
+
+[00:04:08.580] - Speaker 2
+Yeah, so I worked on Facebook, so I worked for meta before I worked for Instagram, and then Instagram was bought by Facebook, now meta. So when Instagram first started and when I first started working with the team a little bit, not directly, it was just literally photos from people you follow that had to be square. There were no videos, there was no messaging, there was no stories, there was none of it. It was just.
+
+[00:04:33.380] - Speaker 1
+There was text.
+
+[00:04:34.390] - Speaker 2
+You could put a caption below the photo. Okay, were there comments, comments and likes? It was a huge deal. When we added video or when we decided not to force square as the aspect ratio, these things felt like sacred cows that we were sacrificing, in a way. But the idea was always, even before I joined the team, the world is going to continue to change. And that if we don't evolve, then the risk we face is just becoming irrelevant. And that's always an interesting dance as well, which is if you evolve too much, you change too much, people get mad. But if you don't evolve, if you can imagine if we didn't have stories or dms, we would be a fraction of the size we are today. So that's always a balance. But you have to kind of have some sympathy. Because the way I think about it is like, you have your desk there. Let's say you spent an hour at that desk every day, half an hour, organizing your photos, talking to some friends, maybe making some notes. That's not all that different than what you might be doing on Instagram. Now, if I came one day and I just rearranged your desk and I didn't tell you why, I didn't give you an option, maybe it's better, maybe it's worse, but you're going to.
+
+[00:05:46.510] - Speaker 2
+Probably.
+
+[00:05:46.940] - Speaker 1
+At first it wouldn't be good.
+
+[00:05:48.240] - Speaker 2
+No. At first you'd be like, what are you doing?
+
+[00:05:50.560] - Speaker 1
+You do, right?
+
+[00:05:51.340] - Speaker 2
+This is my desk. And that's how people feel about the platform, which is, I think, in some ways a good thing, right? Yeah.
+
+[00:05:58.280] - Speaker 1
+People take ownership and feel like it's theirs.
+
+[00:06:00.650] - Speaker 2
+Yeah. But the flip side is that you have to be careful. So that's a balance, too.
+
+[00:06:05.190] - Speaker 1
+Along the way, was there anything that you brought in new that was not well received?
+
+[00:06:09.580] - Speaker 2
+Yeah, many, many things.
+
+[00:06:10.870] - Speaker 1
+What was the feeling? Tell me. The thought behind bringing it in, the reaction and what it felt like.
+
+[00:06:16.340] - Speaker 2
+Yeah, we've been in many. The biggest negative one during my tenure. We were testing a few different changes at once. We were testing a new design for the main feed that was full screen. We were leaning more into what we call recommendations. So helping showing things in feed from accounts you don't yet follow that we think you might like.
+
+[00:06:36.300] - Speaker 1
+And how do you know what someone might like?
+
+[00:06:38.480] - Speaker 2
+Lots of ways. But it's usually less sophisticated than people think if you look at how it fundamentally works. So let's say we know all the photos and videos you've liked on Instagram in the past. We can look at other people who've also liked those photos and videos and then look at other photos and videos that they've liked. That's called collaborative filtering methods like that to try and guess. And an educated guess. But a guess help you discover new things you might love. The benefit being we can increase the amount of reach creators on the platform have. We can help you discover new things. We actually increase the overall usage of Instagram, but it's really controversial because for a lot of people, they feel like my feed is curated. I followed these accounts. I didn't want you to start putting other stuff in there. So we had a couple of changes going on at once and it just blew up. Just totally blew up.
+
+[00:07:31.310] - Speaker 1
+When you release new features, do you release it everywhere at once or do you do test cases?
+
+[00:07:36.030] - Speaker 2
+Tiny tests, lots of different types. So for the new design change, we were showing it to a few percent of people, I think on the order of one or 2% of people were seeing.
+
+[00:07:44.610] - Speaker 1
+And do people opt in or one.
+
+[00:07:46.310] - Speaker 2
+Day it changes, just changes, because if they opt in, then you have what we call a selection bias, so you won't really know how it's going to be used by the average person because people who opt in early are early adopters. Sometimes we'll launch a test to a whole country because it has what we will call network effects. So it won't make sense if you don't do it to the whole country. So when we were testing hiding likes, and it would be weird if you and I were friends and I can't see your likes, but you can see mine. So we did the whole country of Brazil, for instance. So it depends on the thing that we're testing. So anyway, we had two or three things testing at once, and then we had some high profile names get mad, and then the press covered their frustration, and then it just sort of ping ponged. I remember I did a video explaining what we were doing on the platform. I got memed hard. I was wearing a yellow sweatshirt, and so there's a lot of minion memes and banana memes.
+
+[00:08:47.270] - Speaker 1
+And I remember my wife, like, it's so funny.
+
+[00:08:51.710] - Speaker 2
+Yeah, it's just a great story. Yeah. My wife doesn't really tune in too much to all of this. So I remember at the end of the week, she's like, what's going on? And I was like, babe, I sent you a video of the daily show just roasting me, like, two nights ago. And she's like, oh, no, I just haven't watched it yet. I'll watch it later. I was like, don't worry about it. It's fine. So you try to keep a sense of humor and you admit when you.
+
+[00:09:19.270] - Speaker 1
+Never wear yellow sweater again.
+
+[00:09:21.040] - Speaker 2
+No, in a video. I got to wear it. I got to wear it. You got to just double down. I feel like when we launched threads earlier this year, I almost wore the yellow sweater for the launch video because I was like, oh, it'll be nice just to bring it back. Just get memed again. Look, you got to learn from your mistakes. You got to acknowledge them, and then you got to iterate and move forward.
+
+[00:09:43.070] - Speaker 1
+So in that first case, well, there was a bad reaction to the changes. Do you go back or what happens?
+
+[00:09:51.580] - Speaker 2
+So with that one, we actually did a couple of different things. The design wasn't working anyway, so we were never going to actually launch it. So we turned that test off. We slowed down the recommendations work. So I think we were going too hard, too fast, and we were kind of getting ahead of our skis, so to speak. So we kind of made sure we were better at recommending content before we grew that part of the app. We're still leaning into recommendations, we're still leaning into video. A lot of the same things that were contentious at the time. And I don't think Instagram has ever been stronger. So sometimes it's too soon, sometimes it's not executed quite right, and so you got to try to sift through all the noise and find the signal. So most of it, actually, we followed through with, except for one or two things.
+
+[00:10:35.150] - Speaker 1
+Cool. So we talked about feeds, we talked a little bit about dms, which you said, when did that start? About ten years ago.
+
+[00:10:42.320] - Speaker 2
+Yeah.
+
+[00:10:42.780] - Speaker 1
+And then when did stories start? And what is stories?
+
+[00:10:45.400] - Speaker 2
+Stories is just a lighter way to share. So when people share the feed, for better or for worse, it's become very pressurized. People feel like they got to be careful with what they share because it's going to be around forever. It's on your profile. People call it your grid. They're worried it sort of, like, reflects on their identity. So it just becomes higher stakes than we really want it to be. So what stories was, was trying to create a space that was less pressurized. So it's around only for a day. You have to opt into them. Right. So you tap on your story to see your story. I don't just see it in my feed scrolling. If I reply, that's private, so there's no public comment section. It's just in every way, I think, less pressurized. And Snapchat really popularized the format. Cacao and Korea actually, I think, invented it originally before them. People are way more comfortable sharing that way, so they share way more there than they share in feed. So you might share many times a day into your stories or many days a week. You might share one thing a week.
+
+[00:11:47.440] - Speaker 2
+Actually, you share one thing at a time, and then you remove it before you share the next. What's the story behind that?
+
+[00:11:53.350] - Speaker 1
+It started with posting things on Twitter, these quotes. And the way that happened was I put out a book earlier this year and I had gathered all this material, but I didn't have the form for the book yet. I had about a thousand pages of ideas in no order. It was frustrating because I didn't know what it was going to be or if it was ever going to be, because I knew that the material was good. But I didn't have any way to present it where it would make sense. And I was here, actually, in Kauai, and I heard two pieces of information two separate days in the sauna. The first one was a poetry book written by a korean buddhist teacher that sold 3 million copies outside of the US. And I heard that, and I'm thinking it's weird that, first of all, that I don't know the name of this korean buddhist teacher because I'm interested in these things. I'm interested in that world, and for it to have that much impact. And I know that people don't buy those kind of books like I do, but it's a fringe market.
+
+[00:12:58.900] - Speaker 2
+Yeah. 3 million is a huge number.
+
+[00:13:00.320] - Speaker 1
+Huge number. And that's outside of this country. It's like, how does that happen? So that was piece one. And I just stored that. I filed that as like, okay, that's something I don't understand about the world. And then a few weeks later, I heard about a 21 year old poet who had New York Times bestseller poetry book for 70 weeks. It's like, people don't buy poetry books. A 21 year old poet has a bestseller for 70 weeks of poetry. How can it be? Doesn't fit my worldview. Both of those. And the second one made me want to research both because they were both cases of I don't understand the world anymore. The world is not as I understand it. I researched both. The buddhist teacher put quotes up or stories up or ideas up on Instagram and had a huge following on Instagram. And based on that, he put out a book that was a collection of the stuff that he was talking about on Instagram. And it was a huge bestseller. The poet name is Rupi Kapoor. She's an Instagram poet, and she had a huge following on Instagram. And then she put together a book with the poems that she put on Instagram.
+
+[00:14:10.010] - Speaker 1
+Now, I had no idea about any of this. So I hear these two stories. I don't think I was on Instagram yet. I was on Twitter. Although when I say I was on Twitter, I had one tweet. I had the tweet that allowed me to get my first blue check mark twelve years ago. Yeah, I'd never tweeted since. I don't use any social media. So I heard those two stories. I have 1000 pages of ideas, no idea how and when it will ever become a book. And I thought, maybe I'll just start posting an idea based on those two stories. In a way, it was pre promotion for the book, but if the book never came out, it wouldn't matter. It was like a good use of spreading the ideas. So I started spreading the ideas that way. And right from the beginning, I thought, I like the idea of something being. I remember growing up seeing, like, live television and how the idea of an event, and if you missed the event, it was different. It kind of gives it a different kind of value, and it feels like if you don't get it, it's going to be gone, which gives it some preciousness.
+
+[00:15:17.430] - Speaker 1
+And then I did that for, like, three years. And then another friend of mine said, you know, you really should be doing this on Instagram. So it happened that way just really naturally. But I like that idea of it being something that's not permanent, not to make less of it, to make more of it.
+
+[00:15:33.360] - Speaker 2
+Yeah. Because it gives some temporalness.
+
+[00:15:36.430] - Speaker 1
+Yeah. And it's rooted in real life. I mean, that's how the world works. That's how it works.
+
+[00:15:41.540] - Speaker 2
+If I say something, it's gone, usually.
+
+[00:15:44.430] - Speaker 1
+Yeah, that's really how the world works.
+
+[00:15:47.470] - Speaker 2
+I think some of those things, though, are the most exciting and interesting about working on a platform like Instagram is the uses that you don't anticipate. The fact that poetry on Instagram is its own sort of subculture is wild, because Instagram is clearly through and through, designed to be a visual medium. And there's a whole world of poets who have found ways to express their art, form their craft on a visual platform, and it's become its own sort of subculture. And that's rad, you using feed. But actually keeping it temporal in one at a time is not at all how we design the system, but is great. I think those creative hacks are kind of some of the most fun. I remember once, who did I meet who did this? Prince Harry and Harry and Meghan. When they had an account, they used to follow a set of accounts every month that had to do with a cause. Maybe it was climate change or girls education. And then at the end of the month, they would unfollow all of those accounts and then follow another set of accounts about a different cause.
+
+[00:16:55.780] - Speaker 1
+That's interesting.
+
+[00:16:56.680] - Speaker 2
+And one thing people do a lot on Instagram is they go to someone's account and they see who they follow in order to discover new people to follow. So that was another kind of cool, almost abuse of the system, but in.
+
+[00:17:06.980] - Speaker 1
+A positive, in a great way.
+
+[00:17:08.650] - Speaker 2
+It's a hack. A hack, yeah. So I love those because those will often. Sometimes when you find those, you were like, oh, we should probably support that first class. And sometimes it's like, no, that's great. Let's just leave it as it is, actually, way back. Even before I joined Facebook 15 years ago, the reason why Facebook first built support for photos is they found people were changing their profile pick multiple times a day. And this is when Facebook was just for colleges. And the people who worked there, who I know now, but this is before my time, they're like, why do these people just keep changing their profile pick? And it was just because they were trying to share photos and there was no way to actually share photos.
+
+[00:17:46.590] - Speaker 1
+I see.
+
+[00:17:47.270] - Speaker 2
+And so it wasn't a profile pick, it just was whatever they were doing that day. And so they're like, oh, we should probably make it so you can share photos.
+
+[00:17:54.410] - Speaker 1
+So cool.
+
+[00:17:55.430] - Speaker 2
+Which now doesn't even seem. It'd be weird to have a social platform and not be able to share a photo. But when Facebook first started, it was just a profile and text and text. And you would go to people's profiles and you'd be like, what books do they like? What groups are they in? What are their favorite musicians? It was a yearbook. So sometimes the most interesting stuff evolves out of those hacks.
+
+[00:18:15.620] - Speaker 1
+Besides poetry, what are some of the other subcultures?
+
+[00:18:18.070] - Speaker 2
+I wanted us to do even better at this. I really think that one of the most interesting and exciting things about the Internet is it should allow for the success of more niche interests. And I think it has in a lot of ways, but still not quite as much as you would expect. I still feel like we listen to more and more niche music over time, but a lot of us listen to the same top 40 type stuff. Pick a vertical. There's still a lot of concentration at the head, but those niche interests, I think, are always kind of the most fun. There's like a bunch of grammar videos, people who just really get off on grammar type stuff, just making funny videos about m dashes and n dashes. And the differences like that bubbled up on Instagram one day for me, which was kind of wild and fun. I mean, the big ones, you can imagine, is obviously dance videos for fashion and beauty. One of the biggest things is tutorial type, like how to type stuff. We do really well with musicians and athletes as well, but I kind of get more excited about the random little ones.
+
+[00:19:19.280] - Speaker 2
+Recipes, cooking, whole world of these fast paced recipe videos where you'll watch someone make something really quickly and then they'll have the full recipe in the caption so you can actually make it yourself. These cultures, these communities, they start to emerge, and then you try to nurture them and support them. Unthreads is evolving differently, which is our other app right now, which is sort of a Twitter competitor. But, like, NBA commentary is a whole thing. It's a whole big community around women supporting women. So it's kind of fun to see it all evolve.
+
+[00:19:55.320] - Speaker 1
+How has Facebook changed over the 15 years that you've been there?
+
+[00:19:59.400] - Speaker 2
+The company? Yeah, well, when I joined, it was a company. We had an HR department. It wasn't just a couple of kids in the dorm room. We were about 400 people.
+
+[00:20:09.680] - Speaker 1
+How many years old was it at that time? Four. Four years old?
+
+[00:20:13.950] - Speaker 2
+I think so. I think that's right.
+
+[00:20:16.480] - Speaker 1
+Was there any competition at that time?
+
+[00:20:18.380] - Speaker 2
+Lots. Our big thing was Myspace. Myspace was bigger than us. We had like a Myspace t shirt pinned up on the wall. The whole thing is we had to catch up with Myspace.
+
+[00:20:26.970] - Speaker 1
+Interesting.
+
+[00:20:27.540] - Speaker 2
+Twitter was around a couple years in when I joined, and we were really worried about them. We were small, though. I joined as a designer and the design team at the time, I think there were seven or eight of us.
+
+[00:20:39.810] - Speaker 1
+And when you say design team, is it product design?
+
+[00:20:42.920] - Speaker 2
+Yeah, so we would call it product design. I think most of the world would think like a shoe. When you say product design in tech, it just means like, designing the app or at that point, designing the website.
+
+[00:20:54.520] - Speaker 1
+Right.
+
+[00:20:54.720] - Speaker 2
+This is before 2008. That's right. Around the time, like, the iPhone came out, we were focused on dub dub dub, facebook.com.
+
+[00:21:02.030] - Speaker 1
+So you're engineers.
+
+[00:21:03.910] - Speaker 2
+So at that time we were so no longer. But back then, to be a designer and get hired at the company, you had to also be able to program. So I did a lot of terrible programming for a lot of years that I hope no one ever looks up. But, yeah, we were engineers and designers at the time. There's maybe 100 engineers.
+
+[00:21:21.920] - Speaker 1
+So when you say design, you could mean the way it operates.
+
+[00:21:24.540] - Speaker 2
+Yeah, a bit more. How it works. How it works. Interface design. And I was around when we first built groups. Well, actually, when we changed groups so that you could actually share into a group. So what does that even mean? Should you be able to share into a group? Should a group just be a message thread? What does the page look like? How do you create one? What's the privacy model? Do I have to add you? Do you have to discover it? Do I have to invite you? All of these small decisions end up really changing how the thing is used over time. And so we worked on a lot of different things like that in the early years, but yeah, design has always been the craft that I grew up in. I started my career as a designer.
+
+[00:22:00.940] - Speaker 1
+But from the beginning, that was a digital.
+
+[00:22:03.620] - Speaker 2
+At Facebook? Yes. Before Facebook, I ran a design firm. I was a startup for a year, and before that I was at a design firm, and we did print design, exhibition design, traditional design. Yeah, brand work, and we did digital work too. We did websites, but at Facebook, it was always digital. But that's actually a thing I was actually curious about your take on. So it seems like from reading your book and just following you over the years, a big part of what you do is help create an environment that fosters creativity. But the creatives you work with are artists. One of the things that was interesting in reading your book is how different your approach is to my day to day, which is a lot of businessy spreadsheets, emails, regulation, understanding kind of stuff. So that was kind of a really refreshing thing. But the other thing is the creativity in my world, at least at the company, is about design, not about artistic expression. I think the biggest difference between design and artistic expression or art is that there's a bit more focus on the function. What did Eames, Charles and Eames define design as?
+
+[00:23:08.280] - Speaker 2
+It was organizing elements to achieve a particular purpose, or something along those lines. I'm probably botching that quote, but it's about that purpose. You're building a chair to sit on, a piano to play music on, an app to share on. Does that mean that what I need to do, because I have a lot of creatives that work for me, is different in terms of creating space for creativity, or is space for creativity just some basic approaches that are universal, or is it all about the individual?
+
+[00:23:38.180] - Speaker 1
+I think creativity is all about the individual. That said, one interesting technique would be zooming out. Let's say the task was to design a bridge, and you're designing a bridge because people want to get from one side of the river to the other side of the river. What might be interesting, instead of making the task narrow, zoom out and say the goal is to get people from one side of the river to the other. Let's find the most elegant solution for that problem. You don't assume the thing you're making is the thing you're making. You zoom out a step further to what does the thing you're making accomplish. So then the assignment will be the most open version of the assignment, to allow the most interesting solutions to come forth. And sometimes you might be surprised and maybe there's a better solution than a bridge taking all of the limitations off of the ask can open it up to more interesting solutions, more novel solutions, and solutions that have more significance. Another thing you can try is the face off. And this is something that was a technique used with the chili peppers. If we were working on a song and we needed a new part, let's say the verse and the chorus worked really well, but we needed a new bridge written.
+
+[00:25:01.470] - Speaker 1
+John and Flea both write music in the Chili Peppers. So instead of them working together to create the best solution, they worked independently. And in their case, they said, let's do a face off. They would come to the middle of the room, press their faces together, and then both leave to two different rooms, spend 15 or 20 minutes writing, and then both come back. And then they would each present their idea to the band. And something good always came from it. Sometimes one solution might be that one works for the bridge. Flea's idea works for the bridge. But John's idea is great, too. Let's use John's idea for the outro. So the beauty of the face off is if you have a team of people working on building the same thing, instead, take the team apart, give each of the individuals the full assignment, then pool those solutions altogether. All of the individual solutions, and usually the whole room together gets on the same page very quickly. It's like, oh, that idea. Idea B. That was the best idea.
+
+[00:26:05.730] - Speaker 2
+I mean, in our world, it's so fast paced, it's so focused on competition all the time. We're so deadline oriented, outcome oriented. This isn't quite the same, but one of the things that I always find tricky is how to help teams play with that decision, which is when you're trying to achieve a certain outcome or design a certain thing with a purpose at the beginning, it's about exploring the solution space, right? Just trying stuff, seeing what feels good. And there's all sorts of ways to do that. It might be visual, you can build prototypes, make videos, talk to people, but there is this sort of part that really feels more like art than science, which is when do you go from exploring more and more ideas and being more breath oriented, to beginning to narrow and focus on a subset of ideas and refine and iterate? And if you don't have enough time, you might start to focus too soon. And if you have unlimited time, you might just wander off into something less helpful or productive. One of my roles is to make space for people who are honestly on the design side for the designers that work for me, like stronger designers than I ever was, to do work that they're proud of.
+
+[00:27:16.500] - Speaker 2
+And I can do that by either giving them more time or helping to create an environment that is more conducive to that sort of creative expression. Whether it's. Maybe they just need more time just to riff. Maybe they want to talk more. Maybe they need the right team. A lot of what I do is build teams that complement each other and can sort of inspire each other. But that part always feels a little bit like not dog magic, just like.
+
+[00:27:41.290] - Speaker 1
+Do you keep the same teams together or do they change for different projects?
+
+[00:27:44.600] - Speaker 2
+I'd like to keep teams together that have figured out how to collaborate really effectively. This almost sounds like an economist, but you build equity in that team, and when you break that team up, because maybe that project is over or whatever, or that product failed or that idea failed. Some ways it's good, right? You mix new people, new ideas, new inspiration, but you lose something.
+
+[00:28:09.220] - Speaker 1
+It's like a band. You get sort of a psychic connection. When the people can finish each other's sentences, things move a lot quicker.
+
+[00:28:17.620] - Speaker 2
+Yeah, they finish each other's sentences. Because for these teams, it's interesting because their crafts are so different. If you're an engineer and someone else is a designer and someone else is a researcher, someone else is a product manager, that their crafts are different, but they've got that emotional investment. They're like, oh, my designer makes this amazing stuff. It's hard to build, but I pride myself in being able to actually build it, or my engineer is pushing himself or herself further to actually make it work. I'm going to make sure they have everything they need for me because they've stayed up late, pushed it harder, been more resilient, the camaraderie of the team.
+
+[00:28:56.740] - Speaker 1
+Everybody wants to deliver for everyone else.
+
+[00:28:58.730] - Speaker 2
+Yeah, in a really big way. And so I like to try and preserve those teams when they work because other times they don't. I'll often have teams that are either somewhere between dysfunctional or just like functioning just okay. And it doesn't mean anybody's bad. It might be multiple people that I know, love and respect and I think are brilliant combination.
+
+[00:29:23.040] - Speaker 1
+Sometimes it works, sometimes it doesn't. The same, like band again, the best players together don't always make the best band.
+
+[00:29:28.940] - Speaker 2
+Yeah. And it's wild because as a manager, you're like, this is a job. You're smart, you're smart, figure it out. But sometimes you just have to be like, everybody who works for me, my job is just to set them up for success. And if I've put them in a bad arrangement. Ultimately, that's on me, and I need to then figure out how to correct it.
+
+[00:29:49.090] - Speaker 1
+In the team, you named four different crafts. What does each one of those crafts do?
+
+[00:29:54.350] - Speaker 2
+Yeah. So the core nucleus of any product team usually has five crafts. It usually has product design, which we've talked a little bit about. So you're designing the interface not only how it looks, but how it works. You'll have engineers who. There's ten times as many engineers as any other function. They build it, and there's front end engineers and back end engineers. There's all types of engineers.
+
+[00:30:15.670] - Speaker 1
+So is the first one the designer, more conceptual?
+
+[00:30:19.590] - Speaker 2
+Yes.
+
+[00:30:20.050] - Speaker 1
+So it's more conceptual, and then the engineer is more practical.
+
+[00:30:23.180] - Speaker 2
+I'm building it usually, yes, but if you're lucky, you'll get an engineer who has got really strong opinions about what to build, not just how to build it. Understanding how the systems work can help better inform what to build in the first place. You've got a data scientist, which I didn't mention before, but it's another one which is trying to understand what do they do? So the data scientist would look at, okay, well, how many stories do people share? What kind of stories do people share? How many stories do people see? How do they see them? Do you just tap and click through them, or do you tap into one, leave, go to something else, tap into another? We call that hunting and pecking. If you get to a really long one, like, maybe I post 50 things in a day, does that make people eject? Should we design a way to skip helping you understand how things are used today so you can find, does that.
+
+[00:31:15.920] - Speaker 1
+Have a psychological dimension to it?
+
+[00:31:18.950] - Speaker 2
+The psychological part is the fourth function, which is the researcher. There's all sorts of different research methodologies, from ethnography studies to surveys and everything in between. So you might bring people in and have them use stuff. You might just bring people in and talk to them. You might run surveys and ask people questions. You might ask tens of thousands, hundreds of thousands of people questions on the platform, you try to shed light on insights. So what are problems people have? What's working for people? What's not? I mean, fundamentally, what we're trying to do is understand people's needs and then meet those needs. And researchers and data scientists as a pair help us sort of understand people. And then the fifth one is product management, so that you're more of the coordinator. Make sure there's a shared vision for what we're building. You don't have to come up with it yourself, but you have to make sure you get it out of your team, make sure everybody knows what they need to know. So whether it's what we're doing, why we're doing it, how we're evaluating success, what the deadlines are, what the dependencies are, setting milestones, roadmaps, the project management part as well.
+
+[00:32:24.810] - Speaker 2
+I did that for a number of years, too. There's content design and product growth and data engineering. So it's a lot of the bigger we get, the more functions we have, but the smallest five are those first five of a team.
+
+[00:32:39.930] - Speaker 1
+You mentioned earlier that Myspace was the competition.
+
+[00:32:44.770] - Speaker 2
+Yeah, they were big.
+
+[00:32:45.770] - Speaker 1
+Tell me the story of Myspace and Facebook.
+
+[00:32:48.520] - Speaker 2
+Yeah, so Myspace, I think, started before us, and they were bigger than us. When I joined Facebook in 2008, what.
+
+[00:32:55.230] - Speaker 1
+Did they do different than what Facebook did?
+
+[00:32:57.630] - Speaker 2
+A number of things. It was easier to customize. You could kind of make it more your own.
+
+[00:33:03.620] - Speaker 1
+Do you think that was a positive or a negative?
+
+[00:33:05.660] - Speaker 2
+I think it was a positive. I think they also, they leaned into music, which is a little bit more niche, but I think was probably positive. I think they had trouble continuing to evolve forward. They got bought at some point, and that's always hard to maintain your culture and your agility or sort of how nimble you are as a creative team.
+
+[00:33:29.120] - Speaker 1
+Would you say that sale was the beginning of the downfall?
+
+[00:33:32.420] - Speaker 2
+I don't know. I wouldn't be surprised, but it's hard to say without really knowing that many people who worked there, trying to remember so many years ago now, I think they started to innovate less. They were trying to make money, which is nothing wrong with that, but I think it was more of this approach of how do we make money out of this thing than the inverse, which is how do we make this thing so big that it's easy to make money if you're focused on the end user? And how do we create value for them so more people use it? Ways to make money tend to come and I think post acquisition, if I.
+
+[00:34:02.850] - Speaker 1
+Had to, maybe you'd call it like a short sightedness.
+
+[00:34:05.760] - Speaker 2
+Yeah, I think they got focused a little bit too much on the short term back then. Twitter, we were terrified of Twitter. We're like, they're going to add photos and videos. And they were the younger up startup at the time.
+
+[00:34:16.570] - Speaker 1
+Felt very different, though. Okay, let's do this. Describe each of the social networks. What makes each of them them?
+
+[00:34:25.360] - Speaker 2
+Oh, I think it's these small decisions at the very beginning that really end up setting the tone for the. So what makes Twitter Twitter, Twitter is designed for debate. Right. It's designed for back and forth. It's actually way better for conversations than Facebook or Instagram. And I think that's great. Right? Those are healthy things. I think the way they went about it has ended up evolving it into a more negative space. In general, I don't mean that Twitter's all negative. I think there's lots of Twitter. That's great. But in general, I think the tone of the overall community is more negative than Instagram, which is at the opposite end of the spectrum, where we focus on visual expression, immersive photos and videos. So I think we ended up having a bit of a bias, on purpose or not, towards creativity and towards visual expression, which ended up being a bit more positive.
+
+[00:35:24.980] - Speaker 1
+Makes sense if one is focused on debate. Debate is always going to be combative.
+
+[00:35:29.790] - Speaker 2
+Yeah. It's designed for news. News is always going to be more negative because that's just the nature of that industry. We don't even support links. Right. So it's sort of the opposite of supportive of news on Instagram. Facebook was kind of in the middle.
+
+[00:35:44.110] - Speaker 1
+They have news, you guys have poetry.
+
+[00:35:45.780] - Speaker 2
+Yeah, exactly.
+
+[00:35:46.600] - Speaker 1
+That's different.
+
+[00:35:47.370] - Speaker 2
+And to be fair, I want to be clear, we have negative things on Instagram. There is news on Instagram, but the.
+
+[00:35:52.780] - Speaker 1
+Tone, it's a different tone.
+
+[00:35:53.910] - Speaker 2
+It's a different tone. And what's our role? Right. Like, I don't want to do anything to encourage news on Instagram, but I'm not going to do anything to discourage it either. Of course, if someone wants to post news on Instagram, then it is not our role to shut that down in any way, shape or form. But we're never going to build news specific features because I just think it comes with too much scrutiny, negativity, complexity. It's not actually worth.
+
+[00:36:24.820] - Speaker 1
+I love that. I think it's a great choice, especially when it feels like so many big companies see another big company do something and feel like they need to do the same thing. I don't know why that is, but I see that happening all the time.
+
+[00:36:39.710] - Speaker 2
+Yeah, we do that all the time.
+
+[00:36:41.110] - Speaker 1
+It's so od. It's like, play your hand, you do what you're good at, be better at what you're good at. Why do you want to play someone else's game?
+
+[00:36:49.660] - Speaker 2
+Yeah. No, I agree with the spirit of it. But I also want to be honest. We have definitely acted that way many times over the years. We're very competitive by nature. It's a cultural thing. I don't really know how to describe it. So, I mean, we're building up. We have this competitor now for Twitter, and then we're trying to do it differently. There's news on threads. We're not trying to focus on news. We're trying to figure out ways to create a less angry space. So little subtle things like giving people more control over who can reply, how you rank being differently. We're looking at little things like, all right, if I post and someone replies to me and I then like it, is that a signal that it was a more cordial or civil conversation? We're exploring all these types of ideas, trying to figure out ways without having any perfect answers. I want to be clear, to facilitate a friendlier, more supportive space. And we'll see. We'll see if it works. Maybe it will, maybe it won't.
+
+[00:37:49.640] - Speaker 1
+Has Instagram continued to grow? What does the slope look like?
+
+[00:37:53.830] - Speaker 2
+Yeah, no, it's been an amazing couple of years, actually. It varies a lot by country, but overall, we're finishing this last day of 2023 with a really strong year.
+
+[00:38:05.050] - Speaker 1
+Do you measure it based on users? How do you measure success?
+
+[00:38:08.370] - Speaker 2
+We look at how many people use it, how long they use it for, how they feel about it, sort of brand sentiment. Is it worth your time? These types of surveys, like we talked about, and then as a business, we look at revenue. We're growing particularly fast in countries like India and Brazil because they're just enormous countries and more and more coming online. So the growth rates there are pretty wild.
+
+[00:38:35.620] - Speaker 1
+The fact that it's as visual as it is help in terms of global. I would think Twitter is more language dependent.
+
+[00:38:43.680] - Speaker 2
+I wouldn't be surprised if it helps that so much content can be interesting even if you don't speak the language. That's less true for videos than photos, but still much more true than text. But it's wild to see how differently people use it in different parts of the world.
+
+[00:38:59.580] - Speaker 1
+Give me examples of how different countries. What's big in different countries on Instagram?
+
+[00:39:05.100] - Speaker 2
+So sometimes it's by country, sometimes it's by age. So teens and young people use Instagram very differently than adults. But all of Brazil seems to use Instagram like teens do everywhere else. They're way more focused on stories than feed.
+
+[00:39:19.580] - Speaker 1
+Did they come online later or.
+
+[00:39:21.060] - Speaker 2
+No, Brazil, I can't know. So, India? Yes. So I think you have this thing often where people who come on later, who are in their 30s will use phones a bit more like teens do everywhere, because you don't have the same sort of baggage of the tenure you came online at the same year, even though you're different ages. But Brazilians just seem incredibly expressive. I don't really know how to explain it any other way because it's not like we're the only game in town. Like, WhatsApp is enormous in Brazil. And WhatsApp also has their version of stories called status. And Facebook is there, Snapchat is there. But it's been an amazingly expressive community and culture. What are some key differences? In Japan, people are much more thoughtful about whether or not they sign up. But if they do sign up, they're much more likely to stick around. That's a much more intentional decision.
+
+[00:40:14.440] - Speaker 1
+Interesting.
+
+[00:40:15.380] - Speaker 2
+Their networks are much smaller. So we look at this thing like, how many followers do you need to get to a healthy place? And that number is much lower in Japan than it is in us, and it's much lower in the US than it is in Indonesia, for instance. Actually, one thing you see sometimes in Japan are these micro finstas. So, like, three people will create secondary accounts and they'll just follow each other. So they have their own Instagram. That's just the three of them. So imagine, like, you, me, and our friend Andrew all had secret accounts and just followed each other. And so we could just log into Instagram and my whole Instagram would be Rick and Andrew.
+
+[00:40:56.980] - Speaker 1
+So interesting.
+
+[00:40:58.010] - Speaker 2
+And I think that's more about the culture, being careful with what they share, you needing the right ingredients to feel comfortable expressing yourself. It's not that japanese people are any less expressive. They're expressive and creative, but the environment you need to create, to tap into that is different, and it's much more private. So what you try and do is you try to understand a specific group that you care about. Maybe we care about Brazil, maybe we care about the US, care about creators. But then you try to design solutions not with them in mind, but for everyone. We actively avoid, whenever possible, launching things specifically to a specific country. We want to understand a country, build something that works, and then make it available to everyone, because I'm sure there's someone who is similar somewhere else in the world. But that is one of the more interesting things about the job, is not only looking at the data, but traveling around the world, meeting people and understanding how Instagram means something different in different places to different people.
+
+[00:42:00.360] - Speaker 1
+So cool.
+
+[00:42:01.050] - Speaker 2
+Yeah, that's one of the most really interesting.
+
+[00:42:03.240] - Speaker 1
+What's web three?
+
+[00:42:05.960] - Speaker 2
+Web three is a very marketing sounding term, but basically the idea is if the second version of the web was these large centralized companies like meta building these networks, that are largely closed, and where a lot of the important decisions were centralized in a small number of decision makers hands, which you can argue is a lot of how the Internet has worked over the last ten or 20 years, then web three is the idea is a more decentralized approach, and there's lots of ways to support distributing power. So one big part of web three is crypto, and there's the crypto bulls and the crypto bears, and it's a religious thing. But the idea being that a technology where nobody owns the database or the log or the ledger, but everybody owns it, is one where you can do interesting things. So one of the ideas I really want us to do at some point, but we can't do it right now, is allow you to more directly own your audience. So if you build up a set of followers on Instagram, that's great, but there is a concern that people have that ultimately they're now dependent on us as a company.
+
+[00:43:24.960] - Speaker 2
+And if they do something, like if they post something that violates our guidelines and we take it down and they get enough strikes and they eventually get disabled, they lose those relationships with those followers that they've sort of built and earned over the years. Whereas if you, there are ways, using some of these technologies, you don't have to, but there's something interesting about how they're built that I'll explain in a second, that allow you not to have to trust us as an intermediary. So if all of your followers, maybe we'll use a smaller example, like subscribers, like you can actually have people pay you for access to your content on Instagram. If all your subscribers, if that connection was made on chain, then Instagram couldn't delete them even if we wanted to. So even if we deplatform you and kick you off of Instagram, your relationship would exist in a publicly accessible way with all of your subscribers, so that another app or competitor could then support and honor those relationships. And what's interesting isn't like, is it possible to share a list of subscribers? That's possible now without these technologies. But with these technologies, you make it so that we can't not share it.
+
+[00:44:36.350] - Speaker 2
+So it's like literally we can't delete the data even if we wanted to. If a government was like, we're going to shut you down, unless you deleted this data, we wouldn't be able to. The same way WhatsApp can't look at your messages, they just don't have access. What I think is interesting about web three isn't necessarily the technologies behind encryption or crypto, but rather the things that they might enable, which is fundamentally removing the need to trust an intermediary and a bunch of different examples like subscribers. And that's kind of a powerful thing in a world where I think people have less and less faith in institutions.
+
+[00:45:12.560] - Speaker 1
+Makes sense. And we use Myspace as an example. If you built your life on Myspace and Myspace goes away, that's gone.
+
+[00:45:19.320] - Speaker 2
+Yeah. And that's a liability. And people are wising up to that. Like, creators in general are becoming more and more invested in multiple platforms. And I think it's for that same reason. You don't want to have all your eggs in one basket. So you might build up a presence on YouTube and on Instagram. Or on Instagram and on Twitter.
+
+[00:45:37.720] - Speaker 1
+Creator, starting today, how would you organize your flow of information? Where would you keep everything and where would you put it?
+
+[00:45:46.050] - Speaker 2
+It would depend on what I was trying to achieve. This is one of the key things is that I think people need to be intentional about how they use these platforms. Are you trying to just express yourself? Are you trying to sell something? Are you trying to build up interest in what you do so that you can then do something else? Build up a name for yourself or reputation? Are you trying to just advocate for a cause? Right. Depending on what you want to do, how to use Instagram, and which platforms to use, or whether or not even to use Instagram, the answers to those questions will vary. I do think, in general, it's good to be on multiple platforms because that reduces your risk, but that does increase the work. I do think the different people on different platforms are different. So you can just post across platforms, and that's generally a good thing. It'll help you increase your reach. But your following on Twitter is probably a different group of people than you're following on Instagram. And your content might want to be different in order to appeal to them. So you have to be thoughtful about that.
+
+[00:46:51.220] - Speaker 2
+But I do worry people sometimes get too focused just on the numbers. Like, how many people I'm reaching, how many likes am I getting, how many impressions am I getting? Because it's very tempting to just focus on those metrics. But I think that if you do that too much, you can lose sight of why you're doing what you're doing.
+
+[00:47:10.520] - Speaker 1
+In the first place and the quality, the engagement, and who you're speaking to.
+
+[00:47:14.990] - Speaker 2
+Yeah. And so if your numbers are going up but what you're doing isn't aligned with what you want to get out of the platform, it doesn't matter. So you should always go back to what's your intention? And then how do you make sure what you do aligns with your intention and you want. Yes, of course, to create content that people enjoy and find engaging, but not in a way that undermines your integrity or compromises your intention. So you have to find the overlap.
+
+[00:47:42.490] - Speaker 1
+How many people get deplatformed?
+
+[00:47:46.260] - Speaker 2
+A lot in terms of absolute numbers, not a lot in terms of percentages. Percentages, right. Because there's so many people. Unless you do something really problematic, like if you find terrorism on the platform or anything kind of stuff, you come off right away. But for most things, like if you post nudity, if you post something violent, there's a strike system. So we try to make sure that if we're doing things that way, it's appropriate and it's for the most sort of problematic violations we've made it now so that if you do anything and something's taken down, we let you know and you can appeal, because sometimes we make mistakes. But a lot of my dms are people who are really mad about disagreeing with decisions about what was taken down or accounts that were suspended.
+
+[00:48:28.400] - Speaker 1
+And do you take down people or do you take down posts, first posts.
+
+[00:48:33.300] - Speaker 2
+To get your account taken down? It's almost always because you repeatedly violated content and you had like five or ten or 15 things taken down. And then eventually your account gets taken down. But that's not a good vibe. No.
+
+[00:48:49.000] - Speaker 1
+And I'll say also, I always get the feeling that Instagram is a pretty.
+
+[00:48:52.480] - Speaker 2
+Friendly place we're trying to be. There definitely instances when we're not. But that is our intention. That is our intention, yeah.
+
+[00:49:01.730] - Speaker 1
+How is working at Meta or within the meta umbrella different than other companies you've worked at?
+
+[00:49:08.640] - Speaker 2
+Well, Meta was the biggest company I'd ever worked at when I joined 15 years ago, so I had only worked at startups and for myself as a freelance designer or design consultant.
+
+[00:49:20.250] - Speaker 1
+Did you ever work at Google or at.
+
+[00:49:22.760] - Speaker 2
+No. No.
+
+[00:49:23.610] - Speaker 1
+For some reason I thought you worked at YouTube for a period.
+
+[00:49:25.600] - Speaker 2
+No. A lot of friends who did. Big fan of YouTube. They do great. I mean, all these companies are probably pretty similar in the grand scheme of things if you compare it to what it's like to work at one of a tech company versus be a surfer versus be a gardener versus be, I don't know, a trader. But within the tech bubble, there are differences in the cultures. I think Google is a bit more academic, as far as I can tell from the people I know there. So we want to build things the right way. They focus a bit more on how much education you have, what degrees you have, academic prowess, meta and Facebook before it is a bit more of just like a pragmatic approach, like figure out how to get it done and get it done fast. So we were a bit more focused on speed, a bit more interested in trying lots of things, a bit more of like a hacker type culture. And I don't mean hacker like hacking into things you shouldn't have access to. I mean like just building things and being scrappy. Apple is a much more sort of design oriented culture.
+
+[00:50:28.840] - Speaker 2
+It's much more about designing a tool for a person as opposed to a space for a community. What Instagram does is it's much more of a space for a community where Apple builds like the phone or the computer or the piece of software for the video editing software for the editor. They do build some networks, but much more oriented to building a product for a person. So they all have their different cultures and in them, and some designers are more important and some pms are more important, and some engineers are more important. So for us in the industry, they feel like wildly different cultures. But if you spend any time with anybody outside industry, you quickly realize that you're actually operating within a few degrees of difference compared to the real world or the rest of the world.
+
+[00:51:14.620] - Speaker 1
+When you're working on something new, where does the idea to do it come from? Does it come down from meta? Does it come up from the engineers or designers below? Do you come up with them? Where's the to do list come from?
+
+[00:51:27.690] - Speaker 2
+More comes bottoms up than tops down, but there's a bit of both. This is actually very much in our culture is to try to create a space where people can try things, because we know that the leaders aren't going to have all the good ideas. And so how do you create a space for teams to try things in a responsible way? And they can even test things. I learn about things sometimes that Instagram is trying because somebody on Twitter or threads or Instagram posts about the test that they even.
+
+[00:51:57.930] - Speaker 1
+Wow, that's cool.
+
+[00:51:59.030] - Speaker 2
+Yeah, I got tagged in the blood.
+
+[00:52:00.430] - Speaker 1
+It speaks to how big the organization is.
+
+[00:52:02.520] - Speaker 2
+Yeah. And it's good. I mean, it can be uncomfortable at times because sometimes I get tagged and.
+
+[00:52:07.020] - Speaker 1
+Like, what is this?
+
+[00:52:07.720] - Speaker 2
+And it's like, I got to go ask the team and I'll get back to you in a day. But that happens all the time. And then some things are much more tops down. I personally, having been a designer and deeply resented being micromanaged at different parts of my own career. Really try and focus more on making sure me and the team are aligned on what we're trying to do and what success might look like. And I try, and my team will make fun of me because they probably think I'm terrible at this, not to focus nearly as much on how we do it. I think that's where you can unintentionally, really stifle creativity as a manager.
+
+[00:52:49.730] - Speaker 1
+Yeah. Also, there isn't one right way to do it. You'll be surprised when someone comes up with a way better than whatever you thought of. It's exciting.
+
+[00:52:57.820] - Speaker 2
+And also, when they do come up with something and you disagree with it, I like to let them test it anyway because I feel like the both outcomes are reasonably positive. Either you were wrong and they were right, at which point, great. Or you were right, and maybe they'll listen to you a little bit more next time, and that's kind of cool, too.
+
+[00:53:15.780] - Speaker 1
+And either way, it's good to know there's no downside in finding out.
+
+[00:53:19.110] - Speaker 2
+Yeah. So I actively try to be like, here's my take, but you get to decide whether or not you try this or not.
+
+[00:53:29.680] - Speaker 1
+Do you feel like you spend most of your time managing up or managing down?
+
+[00:53:34.560] - Speaker 2
+Probably a little bit more down? It really depends. I have a very, very strange job because the nature of what I do in a given day changes so much. I might spend a whole bunch of time catching up the other most senior people at the company about what we're doing and why in a given week. Another week, I might spend all of my time going deep in a specific area and understanding what's not working and why, and helping them get what they need to unblock it. Another week, I might spend all my time prepping to testify in front of Congress or traveling in a country where we are growing and trying to better understand why we're growing or what's working and what's not. It's in some ways amazing because you get to just exercise all these different parts of your brain, but it's very od in a lot of ways, so it'll really vary a lot. But in general, I like to think of my responsibility as setting up my people for success by creating an environment in which they can succeed, which means having the right people, resources, focus, et cetera, priorities. And then when it comes to managing up being what I like to affectionately call being sort of a glorified shit umbrella, like, just like, let me create the space.
+
+[00:54:54.040] - Speaker 2
+If it works, I'll try to push the credit down. If it doesn't work, I'll take on the accountability. That can be very freeing for people.
+
+[00:55:01.440] - Speaker 1
+Protect the team so they can go do their thing.
+
+[00:55:03.870] - Speaker 2
+Yeah, so I try to do that as best I can.
+
+[00:55:06.850] - Speaker 1
+Are you typically working on things that are going to be released in the next week, year or three years?
+
+[00:55:12.660] - Speaker 2
+So increasingly it's getting further and further out. I think that's one of the interesting things about becoming more senior or working in the same place for longer, where you're operating on longer and longer time frames. Where I felt like five years ago I was almost. The vast majority of my energy was focused on things that were happening in the next month or two. And now that's not the case at all. In some ways it's not a good thing. Sometimes it's like, oh, it's just taking us longer to build stuff, but in other ways it's about operating at a different altitude. Where I feel like right now, for the last couple of months, I've been thinking a lot about 2024 and 2025. Thinking a year to two out with most of my time is not something I would have done even four years ago.
+
+[00:56:01.040] - Speaker 1
+Interesting.
+
+[00:56:01.890] - Speaker 2
+Yeah. There's pros and cons. I think, to it. I worry sometimes we get lost in the abstract, and if you think too far out, in some ways it's really empowering because you can be thinking at a bigger scale, but in some ways you can run the risk of getting lost in the abstract of the philosophical and becoming detached from the work. One of my greatest fears is that I become so detached from the work that I don't really know what I'm talking about anymore.
+
+[00:56:25.940] - Speaker 1
+Yeah, I understand. You mentioned preparing for the Senate. How much of an issue is government intervention?
+
+[00:56:35.820] - Speaker 2
+It's a ton of work. We have just grown to this immense scale pretty much faster. Not just we being instagram and meta, but just the industry in general. Right. The other big ten companies, faster than any industry has gotten this big, I think, in history. And normally what would happen is the regulation and the law and would have had decades to figure out their own point of view and their involvement while something got really big, be it tv or radio or film or whatever technology you want to think of. And in this case, it's just happened so fast that it's much more tenuous. If you had asked me when I joined 15 years ago would I be spending a decent percentage of my time reading and understanding new regulations and figuring out how to comply, I would have told you there's no way, but that's a big part of the job. And so one of the key things there is to figure out how to be responsible and obviously comply with the law. But how do you approach that in a way so that it's not necessarily something that everybody's always focused on? How do you build systems that make that compliance more scalable?
+
+[00:57:51.690] - Speaker 2
+How do you have specific teams that focus on that? Because you might have other teams that you need to focus on evolving the product forward or figuring out what's coming.
+
+[00:57:59.620] - Speaker 1
+Next or how not always starting at square one.
+
+[00:58:01.770] - Speaker 2
+Exactly.
+
+[00:58:02.300] - Speaker 1
+That's great.
+
+[00:58:02.970] - Speaker 2
+So how do you balance that is an increasingly tricky part of the job.
+
+[00:58:08.110] - Speaker 1
+It's really smart, though, that you're focused on finding ways of making that more an aspect of the job instead of taking all the focus when it comes up.
+
+[00:58:17.680] - Speaker 2
+There's not a lot of us, but we even now have some small teams that are specifically just dedicated to dealing with short term fires, so to speak. Something will come up, something will break, or some new law will land that we didn't expect, and it'll have to be a scramble. So we have teams that specialize in those scrambles now because the mindset and the processes to approach something that needs to get fixed in 48 hours is very different than a team over the next two years.
+
+[00:58:48.680] - Speaker 1
+Absolutely. And to separate those, it allows the forward momentum not to get slowed. How important is privacy in the online world?
+
+[00:59:00.010] - Speaker 2
+I think it's very important, but not in the way that a lot of people often think about it. So from what I can tell, most people don't think about privacy explicitly, very often at all. So if you ask them questions about it, they won't give you answers that will suggest that they care. But if you look at how people share, it's very clear that they do care in a more implicit than explicit way. So I think why people share way more in messages than they do broadcasting to all their friends is because it's a more private medium. What I message you is different than what I'm going to say to 150 followers. And so I'm going to be very thoughtful about what I say in a private message thread versus what I say in a story that's going to be gone tomorrow versus what I'm going to say in a feed post that's going to be around forever, theoretically. And so I think if you look at how people have shifted more to stories and even more to DMs, that would suggest that privacy, loosely speaking or broadly speaking, is incredibly important. But if you ask people about their privacy, settings or their data settings, there's a lot of focus on it.
+
+[01:00:11.920] - Speaker 2
+There's a meaningful but small minority that cares a ton. Obviously, regulators care a ton, but the average person doesn't seem to even want to engage in that topic. But if you look at how they actually show up and use their phone and the Internet, they are clearly savvy about where they share and how they share because they share so differently in different places based on how private or public that's.
+
+[01:00:34.590] - Speaker 1
+Do you think it's because people don't understand how public their information might be? Like, you know, when you're sharing something on Instagram, people can see it, but when you sign up for a service, the idea that the information you put in when you sign up for the service, that people can somehow access that, or that you could get on a list of someone to be advertised to, for example.
+
+[01:00:56.900] - Speaker 2
+Yeah, I think part of it's because it's more complicated, but I also think that most people simultaneously don't understand the details of the technology, but do understand the broad shape of it. If I use Instagram, and I mostly talk about baking and share baking and look at baking things, I don't think people are surprised when they see baking ads. But how that works exactly behind the scenes. Is that a pixel tracking system? Is that an interest inference system? Is that data, Instagram's data? Or is that an advertiser's data? That gets too complicated, too quickly for most people to want to engage, but if they feel like their privacy is violated in some way, then yes, then I just think people get quite upset. But I do think fundamentally, and this is a controversial opinion, that we just believe in personalization. I grew up watching tv and seeing ads for cars, and I couldn't afford one, nor was I old enough to drive or ads for tampons, and which made no sense. I get ads on Instagram, and I know people don't always love ads, but sometimes I get really cool little things.
+
+[01:02:06.470] - Speaker 1
+I will tell you, I always get ads for things that I want every single time. And I don't know how it works because it's like, yeah, yeah, no, the.
+
+[01:02:14.900] - Speaker 2
+Ads are, great job, but it's the same basic thing that we're trying to do with the core product, which is understand your interests and then help you explore them. If you look at my explore page, you'll see men's fashion, you'll see a lot of european football. You'll see some basketball, you'll see some watches. You'll see some skiing, some surfing. And those are the things I tend to like to see on Instagram. And so when I get ads, there are things in that space. So, like cool dad sweatpants or stuff that's just. And the more you use it and the more we understand your interests and we try to show you more of what you're interested in, less of what you're not. And that is one of the big debates. Like, is that a bad thing? Is targeted advertising a bad?
+
+[01:02:59.530] - Speaker 1
+Seems good, but I will say, without knowing how it works, it feels spooky.
+
+[01:03:03.760] - Speaker 2
+Yeah, it feels spooky. I mean, I'm constantly being accused of listening to people. People always think that I'm like, I was just talking to my girlfriend about whatever it was, like the red hot chili peppers. And now I'm getting. You're totally listening. And it's like, no, we're not listening. Not only a gross violation of privacy, you would drain your battery. You'd have the little green light at the top.
+
+[01:03:29.030] - Speaker 1
+They told you to say you're not listening. You're not allowed to say you're listening.
+
+[01:03:32.780] - Speaker 2
+Actually, one of the funniest videos I've seen, I saw it on Instagram and on TikTok, was it was like a woman just shot clearly from the phone sitting on a counter. And she was just, the bit was that it was her husband's phone, and she was just saying things near the phone. She was like, diamond rings.
+
+[01:03:55.560] - Speaker 1
+Manicures, pedicures.
+
+[01:03:58.400] - Speaker 2
+That's so funny. Just like, trying to hack the algorithm. And I was like, that's not how it works. I have this fight with people I know and love all the time. No, what happens is it turns out that what you're interested in in terms of who you follow and what you like in common is a pretty good indicator of what you're interested in buying. We do things like lookalikes. So, like, people who are interested in these same interests tend to buy these types of things, and you're interested in those interests, so you might be interested in those types of things. And then the other thing that happens that people don't realize is they actually see the ad a couple of times. They don't really notice it because they're just flying by, but it's there in the back of their head and then they end up talking about it. So all of these things add up. But I know people in my family who just don't believe me, and I will continue to try and make the case.
+
+[01:04:48.810] - Speaker 1
+How different has advertised changed since this ability to target advertising?
+
+[01:04:54.600] - Speaker 2
+A lot. I think one of the most amazing things about targeted advertising, particularly the fact that not just platforms like ours, but Google's as well, allows anybody access to these sophisticated tools, has allowed a lot of smaller businesses to thrive, because traditionally, if you wanted to reach people, you either needed to have a ton of reach and dollars, so you had to be a big brand, or if you wanted more sophisticated tools, you had to have big dollars. And again, big brands, big companies, and what our bread and butter advertising isn't really brand advertising. We have brand advertising, but it's what we call direct response. It's a mattress company, it's a phone case company.
+
+[01:05:36.100] - Speaker 1
+Yeah. I always feel like I'm seeing something I haven't seen before. It's more niche and usually cooler than the thing that you'd see advertised in a shotgun approach.
+
+[01:05:47.360] - Speaker 2
+Yeah. And that shotgun is that brand advertising has a place in the world that's that sort of Coca Cola top of funnel stuff. But our bread and butter has more intention. So you're closer to the moment of actually deciding to purchase something. The closer you are to actually being interested in purchasing something, the better we tend to be at actually helping the advertiser find the right person. And the other common misconception is that we sell people's data. The biggest thing to understand there is that would make no sense because then we would actually undermine our own business. Like, if you're an advertiser, you pay us and then we find people who are interested in you and we show them your ad. If we sold you the data, then you don't need us anymore. You could go to another platform. But I get that it can feel spooky. Like if you do it in a way that lacks integrity or it's like too aggressive, you can startle people and nobody wants to be spooky.
+
+[01:06:39.360] - Speaker 1
+How does the model work? Do you get paid if someone buys something on an ad or. No?
+
+[01:06:43.370] - Speaker 2
+It depends. So you, as an advertiser can decide, do you want to pay per impression or do you want to pay per some sort of outcome? Is it a follow that you're trying to buy or an actual purchase? So there's different ways. And the other thing to understand is the system is it's not like we set a fixed price, it's an auction. And so a bunch of different advertisers might be like, I want to reach men in their Bay area.
+
+[01:07:13.320] - Speaker 1
+Is it as targeted as that Bay Area?
+
+[01:07:15.580] - Speaker 2
+You can do that? Yeah.
+
+[01:07:16.570] - Speaker 1
+Wow.
+
+[01:07:17.160] - Speaker 2
+So that's great, because if you're a music venue, you don't really want to be advertising. To people who live 3000 miles away. But what you're willing to pay, you put in a bid and other people also put in bids and then the highest bid wins. And so the prices end up moving around a lot depending on what advertisers are interested in and also depending on how many advertising slots we have with that particular demographic that people are trying to reach. If we get bigger and more people use Instagram and they see more ads, the prices for advertisers go down because the competition is less fierce per slot. So the system is very dynamic in a way that is in some ways challenging because you're managing a more complicated system, but in some ways much more fair and resilient.
+
+[01:08:12.630] - Speaker 1
+Yeah, it's rooted in the actual value.
+
+[01:08:15.210] - Speaker 2
+Of what you're getting, very demand oriented. It also just means that if some advertisers leave us, it's not as problematic because the next advertiser who is willing to pay a little bit less kind of slides in. Whereas Twitter, for instance, which has been predominantly brand advertising, it's much more difficult this last year for them where a bunch of brand advertisers have left and there isn't an auction system in the same way to sort of backfill that revenue.
+
+[01:08:43.560] - Speaker 1
+Why do you think Twitter set up theirselves as big brand advertisers versus the model that you guys use?
+
+[01:08:52.380] - Speaker 2
+I don't know. I mean, they have a model that's similar to ours. I just think they've been less successful at that type of direct response advertising. I also think brand dollars are really tempting because they're big numbers. Definitely. I don't want to say that we don't care about brand advertising, we certainly do. But I think a combination of us being particularly good at this, Google being particularly good at this, them not executing quite as well over the years as they probably wanted to, and then them probably becoming a little bit more focused on brand advertising than might have been ideal has put them in a more precarious position where their relationship with a few of their top advertisers is incredibly important. And there's a lot of tension there.
+
+[01:09:41.080] - Speaker 1
+How competitive is it to hire the best people?
+
+[01:09:44.170] - Speaker 2
+Super competitive.
+
+[01:09:45.540] - Speaker 1
+Between who are the.
+
+[01:09:47.390] - Speaker 2
+Particularly for specific types of talent? I mean, a lot of it. There's the whole market of startups and then there's the big players and then there's some mid players, but the big players obviously are Microsoft and OpenAI now because machine learning talent is probably the most prized talent. Amazon, Google, Apple meta are the big ones. But then there's other big companies that aren't quite as big, like Netflix, has an amazing machine learning and ranking team. Fundamentally, what they're trying to do is very similar to us. We try to find things you're interested in that are photos and videos. They try to show you longer videos that you're interested in. They look at what you've watched before.
+
+[01:10:30.870] - Speaker 1
+And then they show, I wouldn't have made that connection. That's interesting.
+
+[01:10:34.150] - Speaker 2
+Yeah, they have a very good ranking team, actually. So the big companies compete a ton, all the startups. Also, the appeal is a little bit smaller company, less bureaucracy, and possible bigger payday if your startup blows up and makes it big.
+
+[01:10:51.530] - Speaker 1
+Riskier, but bigger reward in the risk.
+
+[01:10:53.880] - Speaker 2
+Yeah, but the competition for talent has always been fierce.
+
+[01:10:59.420] - Speaker 1
+Are you involved in that at all? Bringing people in?
+
+[01:11:02.030] - Speaker 2
+Yeah, I focus more of my time when it comes to recruiting on senior leaders. I don't have any open senior roles now, so I spend less of my time on that directly. So more of my time there is on keeping those people satisfied and happy, trying to make sure there's a meaningful overlap between their aspirations and what the company needs of them. Because if it's all about what they want and not what the company needs, that's not great or sustainable. If it's all about what the company needs and it's not about what they want, they're going to burn out and leave, because there's plenty of people who are also willing to hire them. So finding that overlap and then just creating an environment where people want to stay and want to work hard and want to build something that they're proud of. But over the years, I've spent a ton of time recruiting.
+
+[01:11:47.180] - Speaker 1
+Are most of the people in your upper, newer hires or people who've been there for a long time?
+
+[01:11:53.630] - Speaker 2
+A lot of the people in my staff have come up in the company. Almost all of them are in the biggest job they've ever had.
+
+[01:12:01.800] - Speaker 1
+But are people who've been at the company for a while?
+
+[01:12:04.070] - Speaker 2
+Yeah, exactly.
+
+[01:12:04.570] - Speaker 1
+Often people you've known for a long time or.
+
+[01:12:06.120] - Speaker 2
+Not necessarily often. Not always.
+
+[01:12:08.790] - Speaker 1
+It's a big enough company where you don't know a lot of people.
+
+[01:12:11.190] - Speaker 2
+Yeah, but I think you tend to build relationships and, I mean, I moved around the company a lot. I was a designer, I was a product manager, I worked on Newsfeed, I worked on what we call friend sharing. I switched to Instagram into a smaller job. I ended up taking over Instagram. And it's always good to try to hire new talent and diverse talent to get new ideas, but you also often will build up. I think if you're doing good work, your relationships in a bit of a following. So there's some people I've hired multiple times. I see, I've moved to different parts of the company and then they've followed, understood, they've left the company entirely, and then a year or two later it didn't work out. And then it's super important when someone leaves to be supportive. Look, the world is big. Not everything. Nobody needs to work at this company, but always make sure that you leave the door open, which is like, hey, if it doesn't work out, just, I want to be one of your first calls.
+
+[01:13:06.610] - Speaker 1
+What's the main reason people would leave? Working at Instagram?
+
+[01:13:10.480] - Speaker 2
+Lots of different reasons. I mean, if you look at the last couple of years, we're a bigger company. So sometimes people just really want to go to, they want to do a startup with a friend, or they just want to go to the opposite end of the spectrum. I want to work with five people in a room, not with 3000 people at a company of tens of thousands. That's one common one. So another one is another big company. We'll poach them, we say often, whether it's a bigger role or more money or some combination. I mean, our stock price took a massive hit about a year ago, and so we lost a lot of people during that sort of lull because a huge part of compensation is in stock, which we think is good because it means you have a vested interest in the company's success, not just in showing up and punching in and punching out.
+
+[01:14:00.890] - Speaker 1
+Was that just a short term dip?
+
+[01:14:02.910] - Speaker 2
+I mean, we went from the mid three hundred s to as low as $80 a share.
+
+[01:14:07.970] - Speaker 1
+Wow.
+
+[01:14:08.480] - Speaker 2
+Over the course of about six.
+
+[01:14:09.660] - Speaker 1
+But everything, this was the time when everything kind of the world did that, right?
+
+[01:14:14.210] - Speaker 2
+But when we come all the way down like that, and then if you want to hop ship to another big company, your new offer is going to be at their stock price, which is a dollar amount to start, and then calculate the number of shares. And so a lot of people could just make a ton more money jumping ship.
+
+[01:14:33.640] - Speaker 1
+Understood.
+
+[01:14:34.300] - Speaker 2
+The flip side is, if you stayed now that things have gone well over the last year, then you ended up getting these grants at much lower values, and then you did really well. You try to focus people on the long term, but compensation is a part of financial compensation is a part of compensation. There's nothing wrong with caring about how much money you make. And so some people, they get offered these big numbers out there, elsewhere, and you kind of have to be like, all right, well, as long as you're confident, you're going to be happy, you got to support them.
+
+[01:15:03.660] - Speaker 1
+Are you the first CEO since the founders?
+
+[01:15:06.260] - Speaker 2
+Yeah. So Mike and Kevin, phenomenal guys. Super creative, super thoughtful. I joined to run product. So the PM function and report to.
+
+[01:15:18.180] - Speaker 1
+Did they hire you?
+
+[01:15:19.540] - Speaker 2
+Yeah. And part of why I joined, even though it was in some ways a much smaller job, I was managing maybe 700 or 1000 people before, and then I went to managing 50 and working for Kevin and with Mikey. But part of it is I wanted to work with those two guys. They have got their own startup now. It's called artifact. They're doing some really interesting work in the new space. They're broadening out further than that, but they're just really insightful. Like, I felt constantly in working with them, like I was learning. So one of the reasons why I wanted to work with them is I wanted to work with them.
+
+[01:15:54.240] - Speaker 1
+Specifically, what is artifact?
+
+[01:15:56.280] - Speaker 2
+Artifact. It started as primarily an AI driven news app. So you let it know what you're interested in and it helps you find news, but then pushes you actually, to those news websites. So it tries to be very publisher friendly. They're expanding beyond news and in a couple of other ways. I don't want to speak out of turn and not do them justice, because I want them to succeed. And they've done a lot of good work over the years. And so I just think you always have to, always have to respect what they do. So that was one of the reasons why I joined Instagram in the first place. But they left.
+
+[01:16:33.820] - Speaker 1
+And why did they leave?
+
+[01:16:35.900] - Speaker 2
+Well, they were at Facebook after Instagram was bought for six and a half years, which is actually a long time for founders. Most founders don't last that long.
+
+[01:16:45.600] - Speaker 1
+That's true.
+
+[01:16:46.720] - Speaker 2
+And I think that basically what happened, just from my point of view, is that Instagram got so big and so successful that we no longer could really have it run almost entirely independently. We had to be thoughtful about how it interacted with the other apps, because it was just so big that they were bumping into each other, so to speak. And so that meant that they went from what was more or less like 100% autonomy to less than 100%. Now, for me, coming from Facebook, this was all gravy, because to me, it was like I went from feeling like I had no autonomy to a lot of autonomy because we had way more space than the Facebook app did. But for them, and I understand this, I'm not saying this with any judgment at all. Going from more or less 100% to even something like 90 or 80 is a big delta. And so I think, without guessing too much, I think that's a big part of what it was. I wish I had more time with them, but I'm grateful for the time I did have. And I really just think they're a phenomenally talented duo, and they're a pair.
+
+[01:17:59.860] - Speaker 2
+I wouldn't be surprised if they spend the rest of their careers working together. And that's just kind of a cool thing to see.
+
+[01:18:05.350] - Speaker 1
+How did Instagram change when they left? And as it got bigger, how did that relationship with Facebook change from autonomous to more part of the company?
+
+[01:18:18.000] - Speaker 2
+We just coordinated more. I mean, the big thing that I had to deal with when they first left was less about the product changing and more about the culture where I'd only been at Instagram for maybe six months, and so I had to earn the trust of the team, and the team kind of looked at me like, do you bleed blue or do you bleed sort of gradient?
+
+[01:18:38.800] - Speaker 1
+You were the new guy.
+
+[01:18:39.860] - Speaker 2
+I was the new guy, and you.
+
+[01:18:40.770] - Speaker 1
+Were the corporate guy.
+
+[01:18:41.890] - Speaker 2
+Yeah. And so I had to break down that us and them mentality. And that's a culture change. And culture changes at large organizations, they don't happen quickly. They take often, usually years.
+
+[01:18:55.270] - Speaker 1
+Sometimes they're impossible.
+
+[01:18:56.770] - Speaker 2
+Yeah. So that was the big actual challenge in terms of the work. It was more about helping each other out more actively. So we have one ad system, and then you say, I want to try to sell cool sweatshirt pants. And then we figure out, do we show those ads on Instagram or Facebook? That system was already heavily integrated. Where we had to do more proactive work was like, okay, on the safety side, there's a bunch of really good work at better using technology to find hate speech on Facebook. How can we extend that technology and leverage it on Instagram as opposed to running our own? So, in the safety and integrity space, a lot of integration work, advertising that one was already more or less one system with things built on top, not to take anything away from the Instagram ad team building. Really beautiful stuff on top. The ones where we had to share way more were safety and integrity ranking in general. So how do we better understand people's interests and surface in terms of the.
+
+[01:19:58.930] - Speaker 1
+Research piece would be the same. It's just a bigger data set. So the bigger the data set, the.
+
+[01:20:03.660] - Speaker 2
+More you know, you should be able to do more.
+
+[01:20:05.210] - Speaker 1
+You get better at it.
+
+[01:20:06.020] - Speaker 2
+You should be able to get better. Yeah. But even without sharing data, just sharing technology sharing approaches to ranking. What are the best ways to understand people's interests? What are the best few ways to ask people what they're interested in? What are the best ways to do more exploration based ranking, which is where you try and not just surface a thing to someone that everyone has seen that you know they'll like, but try things that they might like to better help them discover niche interests. I think one of the things that Instagram benefited from being part of Facebook and now meta the most over the years was honestly just the lessons learned. It's like that didn't work. Maybe we don't try that or that worked. Maybe we try that. And not everything translates one to one, but a lot of it does. So that was how the work evolved. But the bigger thing was that first year or two was really the culture and building trust.
+
+[01:21:00.660] - Speaker 1
+Do you know your counterpart at so.
+
+[01:21:04.290] - Speaker 2
+No, but TikTok is an interesting thing because TikTok is really. I mean, it's an american company with an american app, but it's really owned by a chinese company called Bytedance. And most of the technology, as far as we can tell, the most important stuff is all run actually out of China. So even if would be, I'd be more interested in meeting and understanding the culture of the chinese company, which I think, at the end of the day, makes the most important decisions. I do try to meet people, though, in general. So I've tried to build relationships with senior people in Google and other companies, but I don't have any strong relationships.
+
+[01:21:43.540] - Speaker 1
+Interesting. And do you look at the people at the other companies as counterparts, contemporaries or the competition?
+
+[01:21:51.280] - Speaker 2
+Both. I think you can be both. I have a weird job, though, right? Because I'm not really a CEO. I have a boss.
+
+[01:21:59.470] - Speaker 1
+That's not the board.
+
+[01:22:01.000] - Speaker 2
+I have a team, but I'm part of a bigger company. But Instagram is so big and so important to the company that I'm not just like some random mid level executive either. I'm in a weird sort of tween spot.
+
+[01:22:16.510] - Speaker 1
+No, but it sounds like a good position because you're running a big company without some of the, I would say, baggage that comes with answering to the board. It's like, it feels like that really gets in the way of doing good work.
+
+[01:22:31.870] - Speaker 2
+It could, yeah. I do present to the board sometimes, and that's always a fun thing to do, too. Look, I have an amazing job. I don't want to ever complain about my job. It's a unique opportunity and privilege. I want to make sure I make the most of it while I'm here, but it is one that is. There's not that many people with similar jobs. There's a lot of ceos out there, but this is kind of a different thing. So when I meet people who have similar positions, I'm always kind of interested in how they approach what they do. How do they even define the job?
+
+[01:23:01.560] - Speaker 1
+So would you say having friends at Google, having friends at the other companies, do you look at TikTok as more of a black box? Can you just not know because of where it's run from?
+
+[01:23:11.580] - Speaker 2
+We can learn, but it's harder to learn and you learn more indirectly. So we learn from engineers that we've hired from the years or engineers that have friends with engineers there, that kind of stuff. I have a lot of employees who speak Chinese, and they'll read sort of the TikTok engineering blogs, which are in Chinese, which I can't read because I don't know how to read Mandarin. But for what it's worth, the thing that I love most about meeting people outside the company is meeting people outside of the industry, because one of the most amazing perks of my job is I get to meet all these amazing people and then try to understand their worlds. And I find it fascinating, even if it's an industry I would never want to work in myself. But to better understand how are movies made and financed, or how does the world of fashion actually get run and how do trends get set and who actually makes those decisions, or how is basketball and entertainment blending over the last five or ten years?
+
+[01:24:10.590] - Speaker 1
+So interesting people who are good at whatever the thing is that they do on a high level, it's always interesting, whether you're interested in that subject or not.
+
+[01:24:19.430] - Speaker 2
+I have this amazing perk, which is I can just, because of my title, because I'm not famous, but I have this title, I can just email people and I tend to get a response. And so I try, and I don't do this as often as I should, to just meet interesting people and learn from them.
+
+[01:24:35.990] - Speaker 1
+Great. What do you think the perfect size for a company is?
+
+[01:24:39.350] - Speaker 2
+Oh, there's no perfect size. I do think there are sizes that tend to work better. So I think there's a thing which is like, when you're not just a person, there's like half a dozen of you, when you can all sit at a table and crank, that's the size that tends to kind of work. And then it gets a little awkward until you get to about 40. Maybe it's because you can have, like, four managers who all have four teams or whatever it is. Maybe it's about the sort of layered nature of an organization, but it's more clear, like, whose leadership, what everyone's role is. And then that can kind of work. And then my experience is it gets pretty awkward again until something like 120 or so, and then after that, you start to get to big company stuff. And then the question is, how do you stay? I mean, lean is the wrong word, because even as much as we focus on efficiency over the last twelve months, I don't think you can really call us lean. But how do you stay efficient? How do you not build up whole teams that are of good people doing work?
+
+[01:25:48.160] - Speaker 2
+That's fundamentally not super important. How do you stay focused? How do you stay.
+
+[01:25:54.250] - Speaker 1
+It was a big story when Elon bought Twitter and he ended up letting go of something like 85% of the people there. Yeah, it felt like that had reverberations through the entire tech world.
+
+[01:26:05.650] - Speaker 2
+I think it did. I mean, I think two things happened at the same time. You had economic instability, not just in the stock market prices, but also just in the know. This is more economic, macroeconomic sort of questions there have been in a long time. At the same time as Sark market moves is the same time as Elon just slashes his organization to the bone. And so I definitely think that that has led all of tech to go through a year of really focusing on efficiency in 2023. But the other thing is, almost all the major companies did multiple rounds of layoffs. The number one rule of doing layoffs is cut deep, so you don't have to cut twice. And everybody made the same mistake that every company tends to make the first time they do it. And I think what you're kind of seeing is the industry maturing. The industry.
+
+[01:26:56.200] - Speaker 1
+It's a new industry, yeah, but it's.
+
+[01:26:58.580] - Speaker 2
+An industry that was just explosive growth for the longest time, and it was more efficient just to focus on what to build next than to how to do more with less. Obviously, that can't go on forever, and so it's a Rubicon you cross when you do run of layoffs at an organization. You've fundamentally changed the relationship between leadership and the teams. There is more sort of anxiety or fear. I think it doesn't have to be all bad. I think people can take pride in being sort of lean and mean. But there's a few moments over the course of our history that there's a really stark difference between before and after those. Those thresholds were crossed.
+
+[01:27:41.750] - Speaker 1
+Tell me what those all were that you can remember from your start in the business.
+
+[01:27:45.350] - Speaker 2
+One of them has been going from, like, one app to sort of a bigger company in a family of apps, which culminated eventually with the rename of the company meta. But that really was almost like making official what had already happened internally. But that's a big change. Huge. How to support a bunch of teams that build a bunch of apps. The biggest of which, by the way, is WhatsApp. That we don't talk about a lot in the US, but outside the US.
+
+[01:28:10.590] - Speaker 1
+Is like, outside the US, it seems to be the only way people communicate.
+
+[01:28:14.190] - Speaker 2
+Yeah.
+
+[01:28:14.710] - Speaker 1
+And it's more than. Yes.
+
+[01:28:16.090] - Speaker 2
+Yeah. There's communities, there's status. Last I checked, people share more stories on WhatsApp in the world worldwide than they do on Instagram on a given day.
+
+[01:28:25.230] - Speaker 1
+Wow.
+
+[01:28:25.820] - Speaker 2
+Which people don't even think about here in the US. Yeah.
+
+[01:28:27.840] - Speaker 1
+I don't think of it as a function of what that does.
+
+[01:28:30.610] - Speaker 2
+Yeah. Most people in the US, it's a.
+
+[01:28:32.190] - Speaker 1
+Messaging device, as far as I know.
+
+[01:28:34.270] - Speaker 2
+So how do you support that? How do you share infrastructure, share lessons, but also respect the fact that their identities of the apps are different? WhatsApp is about private communication. Instagram is about creativity. Facebook is about communities or discovery, or just sort of like, you don't know what could happen. Anything cool you could find on a given day. So that was a big shift, and that took years, and then was kind of made official with the rebrand. Another huge one was the 2016 election cycle here in the US. Fundamentally, we made some mistakes, but also, I think the outcome was a huge surprise. And people needed a way to explain that. And we were in a convenient way to explain that. We went from being, for the most part, like a beloved brand and company to a hated one.
+
+[01:29:28.530] - Speaker 1
+I saw a different thing happen in terms of hatred that shifted. I remember Mark Zuckerberg was sort of the world's darling who created this thing that everybody loves. And then I remember it started hearing rumors that he was thinking about running for president.
+
+[01:29:45.580] - Speaker 2
+Oh, yeah. I remember when those.
+
+[01:29:46.760] - Speaker 1
+And as soon as those rumors happened, all the energy changed and he was evil.
+
+[01:29:51.310] - Speaker 2
+Mark, when was that, 2014?
+
+[01:29:53.580] - Speaker 1
+I don't know. I just remember, it's like, this is so weird.
+
+[01:29:56.480] - Speaker 2
+That is a weird. I don't think he was ever going to actually run for president. I do remember that when those rumors were going around, because he was traveling around a lot and people thought he was campaigning internally, the feeling you get when you told someone you worked at Facebook at a dinner party was like night and day before and after 2016.
+
+[01:30:13.380] - Speaker 1
+Tell me the whole Cambridge Analytica story, because that was a big story.
+
+[01:30:16.740] - Speaker 2
+That one was wild, because Cambridge Analytica was obviously a huge moment for us and a massive press cycle and a massive sort of black eye for the company. And fundamentally, I do want to acknowledge we made some mistakes, but at the end of the day, I think it was, in a lot of ways, a bit of a red herring. Basically, you used to be able to make apps on top of Facebook, right? And people made all these quiz apps. You remember all those quiz apps that were going around, or you didn't use Facebook much back in the day anyway, they were like ten questions to tell you, I don't know what Harry Potter House, you're in that kind of stuff. And the way these apps would work is you would make an app, you would build it on top of Facebook, and then you would ask people. So if you use the app, the app would ask, can I get a list of your friends, or can I get your email address? And you would say yes or no. And one of the things you would ask for is a list of friends, so that you could know, maybe you could invite them.
+
+[01:31:10.230] - Speaker 2
+At that point, the developer, the person who made that app, isn't Facebook. They're getting access to some data that you, as the user, are sharing, and Facebook is facilitating that connection, which is only good.
+
+[01:31:22.530] - Speaker 1
+You're allowing communication.
+
+[01:31:24.060] - Speaker 2
+Ironically, when I first joined Facebook, one of the biggest criticisms we had is that we weren't doing enough of this. We were being accused of being a walled guarded, not supporting other developers. But the downside of sharing that data is that data can get misused. So this specific developer for this app basically took that data and was using it in ways that weren't disclosed when they collected that data. With Cambridge Analytica basically trying to sell their ability to understand voters and campaigns in a shady way during the. But when Cambridge Analytica blew up that API, the ability to even request that data had been shut down for years. It was old news in a lot of ways, but because the political environment was so polarized and people were so worked up, it just became a flashpoint for a lot of frustration in practice. If you look at any of the research, since it doesn't look like Cambridge Analytica was an effective consultant or even really mattered, but it was at the heart of the controversies around the election, around Trump, around data, around Facebook, and it just ended up being the perfect storm. It's like a scapegoat in some ways.
+
+[01:32:42.420] - Speaker 2
+Yeah. And to be clear, we probably should never have had that API. So I don't want to absolve ourselves of responsibility. But I think what people don't really understand is, one that thing had gotten shut down years before. It was a developer misusing data. It wasn't like we had some sort of security breach. And it turned out Cambridge Analytica was not remotely effective at what they said they could do anyway. But none of that matters. At the end of the day, what matters is perception. And we have to live with that and accept that and make sure that we're thoughtful about how we operate going forward. But the thing that I've tried to do is less convince people to like us or not like us, and more try to shed some light on the trade offs, because things are almost always complicated in the wake of Cambridge Analytica, we're going to be naturally much, much more conservative and careful with what data you can access. And in some ways, that's good. That's good from a privacy perspective, but in some ways, that's very much at ods.
+
+[01:33:45.470] - Speaker 1
+It's back to the walled garden.
+
+[01:33:46.940] - Speaker 2
+Yeah, and a lot of what we're getting pushed on in terms of regulation from one front is interoperability. You should be able to bring your friends from Facebook to another platform. You should be able to integrate, I don't know, Snapchat and Instagram. That would be good for competition, but it comes at a privacy trade off, and at a risk of people misusing data trade off. So the thing that I try is a little bit less to convince people to be on one side or the other of any specific argument, or to land at one place on the spectrum. There's lots of these big existential questions, like safety versus privacy, or competition versus privacy, and a little bit more just to try to articulate, like, look, these things are complicated and there are trade offs, and it's our responsibility to try and make the best decisions that we can and be transparent about how we make those decisions, but try to help people understand that it's rarely black and white in a way that I think people like to think it is.
+
+[01:34:48.060] - Speaker 1
+Also seems like ultimately, you're running a business, and if the focus is not doing what's best for the business, whatever it is, you're not really being there for your shareholders. Is that not right?
+
+[01:35:01.210] - Speaker 2
+I mean, that's a thing, but I also just don't. Shareholders aside, I think business is a good thing. Look, this is now contentious in this country, but I think having a profitable business allows you to hire good talent, allows you to do more interesting, more meaningful work. Fundamentally, I think we provide a service. It's free and it allows people to find audiences, to express themselves, to connect with their friends, to do all these things. And we do it well because we are for profit business and we can hire some of the best people. But I do think that in a world where the wealth gap seems to be increasing and more and more wealth seems to be concentrated in a small minority, and a lot of the institutions I think that we live with are becoming less effective. People are more and more skeptical of the whole system. And part of that, I think, is just being directed at business. I think there's a lot of people now, particularly young people, who are just skeptical of any business for the simple reason that it is a business. And I think I understand where that's coming from.
+
+[01:36:11.140] - Speaker 2
+I don't agree with that, but I think that's the reality that we live with right now.
+
+[01:36:16.020] - Speaker 1
+Tell me about the house you grew up in.
+
+[01:36:18.580] - Speaker 2
+I grew up in a few different places. I started in New York City on indian restaurant street and then moved to the Upper west side. But most of my childhood that I remember was at a house in Westchester, in the suburbs of New York City.
+
+[01:36:31.720] - Speaker 1
+How far from Manhattan?
+
+[01:36:33.420] - Speaker 2
+About an hour. My dad was commuting out of the city when we lived in the city. And I was going to PSA. To Westchester? To Westchester.
+
+[01:36:39.940] - Speaker 1
+Oh, that's interesting.
+
+[01:36:40.810] - Speaker 2
+Yeah. He worked for the jewish board of Family and Children's Services and administration. So he was in the world of supporting young people with physical, mental, and sort of social issues in some of the institutions or the actual places were up north. And also the public schools in New York is a whole difficult thing. I was going to PS 87. Doctor. Psychotherapist. Psychotherapist, yeah. Phd. Dr. Moseri. Yeah. And so the public schools were better in Westchester.
+
+[01:37:10.560] - Speaker 1
+That's interesting, growing up with a psychotherapist.
+
+[01:37:12.590] - Speaker 2
+Oh, yeah. My dad is a psychotherapist. My mom is an architect.
+
+[01:37:16.450] - Speaker 1
+Awesome.
+
+[01:37:17.020] - Speaker 2
+They're very interesting. She's an Irish Catholic from Pittsburgh. Her brother's names are Owen, Timothy, Brendan, Patrick, Conan and Michael. It's about as irish as you can get.
+
+[01:37:28.270] - Speaker 1
+Yeah.
+
+[01:37:28.730] - Speaker 2
+And my dad is like an israeli jew, born in Cairo. Like they could be more New York City.
+
+[01:37:34.180] - Speaker 1
+Yeah.
+
+[01:37:35.060] - Speaker 2
+I get my emotional intelligence from my dad and my sort of structured problem solving and thinking from my mom. I remember a little house in the suburbs. I remember shoveling snow in the winter. I remember my mom used to love it leaked heat. It just leaked heat. It was this old colonial house and so we used to keep the. We weren't poor. I'm not trying to say we were poor or anything, but we used to keep the house at, like 58 in the winter, just because otherwise he would just go straight out the windows. Yeah. So I remember growing up with big, thick knits and socks in the wintertime, and then my israeli family would come and visit, and they'd be like, what is this?
+
+[01:38:20.780] - Speaker 1
+Sounds romantic.
+
+[01:38:22.020] - Speaker 2
+It was great.
+
+[01:38:22.750] - Speaker 1
+I think it makes you strong, too. The cold's supposed to make you strong.
+
+[01:38:25.330] - Speaker 2
+Yeah, I like it. It was lovely. It was lovely. Where did you grow up?
+
+[01:38:30.350] - Speaker 1
+I grew up in Long Beach. I would commute to Manhattan because my aunt worked at, I mentioned before, my mom's oldest sister, she ran the design department of estate lauder, so I would go and spend time with her in the city, and she was my cultured aunt. My parents were more like children.
+
+[01:38:48.070] - Speaker 2
+She was more like, where in the.
+
+[01:38:50.130] - Speaker 1
+City was the office in the General Motors building? You know, the apple store with the glass box? Yeah, it's that building. It's a white stone building. And I would go there all the time and just hang out in the design department, and I loved it.
+
+[01:39:04.370] - Speaker 2
+I used to love going to the city as a young high school kid for shows because it's really into sca. It's not the best genre of music now as an older man. But I used to remember you had to catch that 01:00 a.m. Train back. I remember missing it and having to walk around the city.
+
+[01:39:22.790] - Speaker 1
+Wow.
+
+[01:39:23.440] - Speaker 2
+And no cell phones, and you got to get that 06:00 a.m.
+
+[01:39:27.780] - Speaker 1
+I was usually on, like, the 11:00 train back to my.
+
+[01:39:32.980] - Speaker 2
+You have that buffer in case you miss it. But some of my best memories were, like, trying to stay awake in diners in midtown before the five or 06:00 a.m. Train came around.
+
+[01:39:43.930] - Speaker 1
+So how'd you end up at NYU?
+
+[01:39:46.060] - Speaker 2
+I mean, I grew up, like we said, in Westchester, and I was going to go to University of Chicago, but my parents split, and I have little siblings, so I didn't want to go too far away.
+
+[01:39:57.980] - Speaker 1
+How did that impact you, your parents splitting?
+
+[01:40:00.470] - Speaker 2
+At the time, I just took on very much the role of it was just probably very inappropriate for me to take on, which was like, mediator. I wanted to, one, protect my little brother and my little sister, and then two, I wanted to make sure that they were being.
+
+[01:40:16.260] - Speaker 1
+So you were the oldest?
+
+[01:40:17.380] - Speaker 2
+I am the oldest. So I kind of got in the middle of it in a way that's probably not good for a 16 or 17 year old to do. But I think that's part of why I went to NYU is I wanted to stay close.
+
+[01:40:28.020] - Speaker 1
+I was accepted the University of Chicago and came very close to going as well.
+
+[01:40:31.620] - Speaker 2
+There you go.
+
+[01:40:32.100] - Speaker 1
+Same story. Yeah.
+
+[01:40:32.910] - Speaker 2
+Literally, the day I was supposed to make it official, I switched. And I couldn't tell you on that day why I did it, but NYU was. You're a bit of a number. It's such a big school that it's not the same sort of personal experience. But I loved it because for me, the city was such a rich resource in a way that a university really could never quite be.
+
+[01:40:55.550] - Speaker 1
+Absolutely.
+
+[01:40:56.700] - Speaker 2
+So what school did you go to at NYU?
+
+[01:40:58.710] - Speaker 1
+Tish School of the Arts. I started as a philosophy major, but then I switched to the school of the arts because I was going to go to law school and didn't matter what my undergraduate degree was in. So I started in philosophy, but all my friends were in film and television. I just thought it would be more fun.
+
+[01:41:12.530] - Speaker 2
+After two years, I started in the college of Arts and Science. I think I was either going to major in philosophy or math, and I think I was taking more math classes. And then I switched into Gallatin, where you make up your own curriculum. One of the things I really took from NYU and Galatin was particularly good at helping kids with this, but I think NYU in general is good at this, was you kind of had to learn to hustle. You could get a lot out of university if you had some hustle. And Galatian specifically, because we took classes at all the other schools, I weaseled my way into a photography class at tish or programming classes at ITP, which was a graduate program.
+
+[01:41:54.960] - Speaker 1
+Awesome.
+
+[01:41:55.600] - Speaker 2
+You figure out, it's like, oh, the department chair is a gallatin alum. Maybe if I meet him, you learn how to work a system. I think a lot of those lessons, which are a bit more life lessons, a little bit less academic, served me really well. I also worked. So I started my design firm while I was at NYU.
+
+[01:42:16.740] - Speaker 1
+Great.
+
+[01:42:17.070] - Speaker 2
+So by the time I started my.
+
+[01:42:18.940] - Speaker 1
+Record company at NYU, too.
+
+[01:42:20.600] - Speaker 2
+Yeah. By the time I was a sophomore or junior, I was working full time and also taking classes.
+
+[01:42:25.680] - Speaker 1
+Awesome.
+
+[01:42:26.760] - Speaker 2
+I don't think I slept much because I definitely spent a lot of time with friends, in addition to having a full time job and a full time. I don't think I slept at all.
+
+[01:42:34.220] - Speaker 1
+No, that happens when you're young. Yeah.
+
+[01:42:36.860] - Speaker 2
+I look back on those days really fondly, though. I had a blast.
+
+[01:42:39.660] - Speaker 1
+Well, clubs closed at four. We would go out to the empire diner and eat and then go home before sunrise.
+
+[01:42:45.880] - Speaker 2
+I had a sweet gig. I was bartending at a steakhouse that's still around on Twelveth street called the strip house. And at the time it was one of the better steaks in my twelveth street. And where between like university and fifth maybe? Or were those next to each other? Right around that area. Right in the NYU university and fifth. And it was a great bartending job because you made bartending money, which was good cash, but you didn't work bar hours because it was a restaurant. So you'd be off at like midnight maybe great. Two, depending on your shift. And then you still got 2 hours before the bars closed, minimum. As a 19 year old kid, I'd walk out with $220 and pocket awesome and go straight to a bar and spend a little bit of it. It also is this amazing contrast. I mean, maybe you had a similar experience, but when a senior in high school in the suburbs, you're the top of the totem pole. Everybody you know is your age or younger. And then there's parents, and parents don't count. It's like Charlie Brown. They speak a different language. And then you go to NYU and you're in the middle of a city, you have access to everything and you don't really know anything.
+
+[01:43:55.390] - Speaker 1
+No. And you're the youngest of everybody.
+
+[01:43:57.880] - Speaker 2
+Everybody. And it was such an amazingly exciting and intoxicating and humbling sort of transition.
+
+[01:44:06.260] - Speaker 1
+Absolutely. I can remember when I first got there, I didn't know who I was because I only knew who I was in the context of my little family. So when I didn't come home to my parents, it was a very different experience of starting to understand who I was.
+
+[01:44:22.180] - Speaker 2
+No, I remember feeling very ungrounded, very detached and confused, but also very excited.
+
+[01:44:30.480] - Speaker 1
+And I mean, it was a dream to be in Manhattan because even when I lived in the suburbs, the dream was to live in Manhattan.
+
+[01:44:37.520] - Speaker 2
+Exactly. Same thing. And you had access to everything. You wanted to go to the knitting factory and see a show. You wanted to go see some of the best standup or anything, one of the jazz clubs or anything. It didn't matter what you had interest in, you could do it. Yeah. No, I wouldn't trade it. Wouldn't trade it for anything. Yeah.
+
+[01:44:56.000] - Speaker 1
+I felt like my education came from living in New York City more than going to NYU.
+
+[01:45:03.040] - Speaker 2
+Yeah, it felt like you were living in New York and going to NYU was your job, not like you were living at NYU and you'd visit New.
+
+[01:45:12.400] - Speaker 1
+York no, it was the other way around.
+
+[01:45:15.440] - Speaker 2
+The primary connection was with the city.
+
+[01:45:17.510] - Speaker 1
+The city. Because that's where all of culture was. Like, you got to experience everything and anything.
+
+[01:45:22.500] - Speaker 2
+And one of the things I missed most leaving New York is I had all these friends by the time I left that used to drag me to things that now I would kill to go do. Little indie films I would never have heard of or dance performances way out in outer Brooklyn or off Broadway plays. I had. One of my best friends was a playwright. You would go to these things and you would be like, oh, I'm tired. And then you would show it up and they would be so inspired, so cool. And you just took it all for granted.
+
+[01:45:50.070] - Speaker 1
+Yeah.
+
+[01:45:50.570] - Speaker 2
+At least I did.
+
+[01:45:51.680] - Speaker 1
+Where did you live first?
+
+[01:45:52.800] - Speaker 2
+I lived over on third and that didn't really work out. So I moved to Ruben, which is on fifth and 10th. And then I did a year down in Chinatown at their big dorm called Lafayette. And then I realized that they really kind of overcharged for their dorms. So then I moved over to Union Square into like a four bedroom with five or six dudes in one bathroom.
+
+[01:46:11.820] - Speaker 1
+How did you find the people to live with?
+
+[01:46:13.700] - Speaker 2
+They were just friends from college mostly, and then their friends. So I lived in Union Square. I lived in Harlem. I lived in Clinton Hill. I lived.
+
+[01:46:22.510] - Speaker 1
+I lived in Weinstein.
+
+[01:46:24.080] - Speaker 2
+Oh, yeah. Oh, man. There was a cafeteria in Weinstein. Yeah, I got off the meal plan pretty quickly. I think. I lived on like, pasta and mozzarella. And if I'm honest, cigarettes, as I used to smoke.
+
+[01:46:41.890] - Speaker 1
+When did you start smoking?
+
+[01:46:43.660] - Speaker 2
+When I worked at that bar. I used to leave work having never had a cigarette in high school, with a craving for cigarettes because people were smoking there. Yeah, this is before smoking had been bad.
+
+[01:46:55.750] - Speaker 1
+Secondhand smoke law.
+
+[01:46:56.990] - Speaker 2
+So I'd leave with a craving and go to another bar and then have a cigarette. I smoked for years.
+
+[01:47:02.790] - Speaker 1
+Did you ever smoke at work?
+
+[01:47:04.150] - Speaker 2
+Yeah, when I first joined Facebook. We used to sneak out to the fire?
+
+[01:47:06.850] - Speaker 1
+No, I mean at the bar. Do you still smoke?
+
+[01:47:11.200] - Speaker 2
+No.
+
+[01:47:11.530] - Speaker 1
+When did you stop?
+
+[01:47:12.730] - Speaker 2
+15 years ago. Maybe more. More.
+
+[01:47:14.790] - Speaker 1
+Was it difficult?
+
+[01:47:16.140] - Speaker 2
+No. So I had it lucky. So my wife decided that we needed to get into shape. This is forever ago. 1617 years ago, maybe. And so she signed us up for this boot camp where at seven in the morning we'd go out and work out with these other random people with a trainer. And they would, like, have us run up and down hills.
+
+[01:47:36.690] - Speaker 1
+It was actually from the Bay Area.
+
+[01:47:37.970] - Speaker 2
+Yeah, in San Francisco it was great because you would hang out with people you would never normally hang out with, like a barber and a bus driver and people who are way outside of tech. It was such a hard workout that I wouldn't want a cigarette that whole day. And I would do that four or five days a week. And so I just was smoking less and less, and then it started to taste different. Great. So, thank God. Thanks to her, I quit. But I do, if I'm honest, miss it. I did love it.
+
+[01:48:06.670] - Speaker 1
+How did you meet your wife?
+
+[01:48:07.920] - Speaker 2
+San Francisco. We moved out in five, each of us, and we had my friend from high school went to college with her friend from high school. I used to cook a lot, and she was working at Williams Sonoma, so I asked her if she would take me to one of the stores and pretend to be my girlfriend so I could buy some. Some pants on discount. I think I still have those allclads.
+
+[01:48:29.500] - Speaker 1
+William Sonoma was a great store, so.
+
+[01:48:31.520] - Speaker 2
+She actually worked there. And then she got a job at Facebook in 2007.
+
+[01:48:36.320] - Speaker 1
+Before you?
+
+[01:48:37.110] - Speaker 2
+Before me.
+
+[01:48:38.720] - Speaker 1
+What was her job?
+
+[01:48:39.940] - Speaker 2
+By the time she left, she was, like, in partnerships, but when she started, she was, like, the lowest level entry operations. Like, people forgot their passwords and she'd respond to their email request. But she got me my job. I applied every month for a year, and she kept on hounding the recruiting to me. Like, my boyfriend is really. He's good at what he does. And they're like, yeah, sure, whatever. But it took about a year of her helping, and then I got an interview in July of eight. She started in February of seven, so I got an interview in June of eight, and I started in July 8.
+
+[01:49:15.610] - Speaker 1
+So cool.
+
+[01:49:16.410] - Speaker 2
+Yeah, no, I would totally, absolutely not be sitting here with you.
+
+[01:49:20.030] - Speaker 1
+Was it weird both working at the same place, or was it good or positives and negatives? Tell me.
+
+[01:49:25.170] - Speaker 2
+She was all business at work. She wouldn't even account. I'd walk around the hallway like, hey, babe, and she wouldn't even look up. My wife's not messing around.
+
+[01:49:32.360] - Speaker 1
+And does she still work at Facebook?
+
+[01:49:33.760] - Speaker 2
+No, she left nine years ago. She ran a food startup for five years, and then she worked in design. Interior design for another. Since then, she's done a lot of design.
+
+[01:49:46.910] - Speaker 1
+Like you tech design?
+
+[01:49:48.220] - Speaker 2
+No, interior design.
+
+[01:49:50.010] - Speaker 1
+She's like, your mom was an architect and your wife's an interior designer. It's all in the family.
+
+[01:49:55.610] - Speaker 2
+It's all in the family. I owe a lot to both of those women. To both of those women. But never would have worked at Facebook and never would have gotten this job at Instagram. Without Monica.
+
+[01:50:04.770] - Speaker 1
+Are your parents still alive?
+
+[01:50:05.960] - Speaker 2
+Yeah, my pop lives in Tel Aviv.
+
+[01:50:10.180] - Speaker 1
+And yafo, how long has he lived there?
+
+[01:50:12.560] - Speaker 2
+So he was from Israel originally, or from Cairo and then Israel. And then he was living in New York forever. And then the pandemic hit and New York really wasn't taking it seriously. Do you remember those first couple weeks where California kind of locked down and New York was like, yeah, it's cool. And I called him and he was visiting Tel Aviv at the time because his sister had passed a couple months before and he was spending some time with his brother and his family. And I was like, pops, it's going to get bad in New York. They're not taking it seriously. And Israel was really organized at the time. I was like, you might want to just stick around a little bit longer. Postpone your flight back. And then I called him a week or two later and he's like, yeah, okay. So I bought a car and I got a two year lease on an apartment. I was like, wait, I didn't mean like move.
+
+[01:50:55.680] - Speaker 1
+If you were to ask him a year before that, do you feel like New York or Israel is home? What would he have answered?
+
+[01:51:04.040] - Speaker 2
+New York. But I think he always thought he would eventually go back. I just think the pandemic moved it up by five or ten years. And my mom lives in Palm Springs now.
+
+[01:51:17.670] - Speaker 1
+And does she like it?
+
+[01:51:19.010] - Speaker 2
+She seems like it. She's new. She's only been there for a couple of months.
+
+[01:51:21.610] - Speaker 1
+And your relationship with them is similar to how it's always been?
+
+[01:51:25.180] - Speaker 2
+Yeah, I don't see them as often as I'd like. It's just three kids and travel. It's tough. It's been pretty consistent for a long time now. I'm closest, though, to my brother and my sister. I got really lucky with siblings. My siblings are much more interesting and cooler than I am and I just love hanging out with them. If either of them were like, can I stay with you for a month? They'd be like, yes. And I think that's.
+
+[01:51:51.100] - Speaker 1
+Do you still have that feeling of like older sibling parent?
+
+[01:51:55.470] - Speaker 2
+Yeah. Pseudo parent vibes? Yeah, I try to have it less. I don't think they like that, particularly my sister, because we were eleven years apart.
+
+[01:52:04.400] - Speaker 1
+That's a long time.
+
+[01:52:05.300] - Speaker 2
+It's a long time. But it's been really nice now for us to be more like friends and less like a parent child relationship.
+
+[01:52:12.520] - Speaker 1
+Plus she can keep you up with what's going on on the.
+
+[01:52:15.550] - Speaker 2
+Yeah, yeah. She's much hipper than I am. I mean, Berlin's a pretty hip town.
+
+[01:52:19.310] - Speaker 1
+When did she move to Berlin?
+
+[01:52:20.800] - Speaker 2
+Five years ago.
+
+[01:52:21.770] - Speaker 1
+And she loves it.
+
+[01:52:22.670] - Speaker 2
+Loves it. Speaks German, has a dog, a boyfriend, an apartment, a job, a visa. It's crazy. It is, I think, such an impressive thing to do, to move to another country with a different language and really kind of embrace it and learn it. It's just a very cool thing I wish I had done at some point. So I have a lot of respect for her.
+
+[01:52:43.990] - Speaker 1
+The world is such an amazing place. And growing up, first of all, growing up anywhere in the United States, there's this myopic feeling of this is the only place in the world. And then if you come from New York, there's nothing outside of, you know, there's California, if you're willing to go a ways away, but there's nothing in between.
+
+[01:53:01.540] - Speaker 2
+It's nuts.
+
+[01:53:02.670] - Speaker 1
+And we're missing such a big picture. And I've been loving spending time in different parts of the world. It's amazing.
+
+[01:53:08.910] - Speaker 2
+I feel like it's the same way we spent a year living in London, like I said. And a big part of it is I wanted my kids to spend some time somewhere else. Our ability to move around such a big world is insane, and we take it for granted. And so I just try to take advantage of it, like living in London for a year. One of the best perks was you could go to so many other places. You could get to Paris for breakfast on the train.
+
+[01:53:33.680] - Speaker 1
+And it's nice. The train is great.
+
+[01:53:35.780] - Speaker 2
+The train is the best way to travel, if you can, in Europe. But we went everywhere. We spent time in Scotland, and we spent a lot of time in, you know, just try to take advantage of it as best we could. How did you end up spending time in Italy?
+
+[01:53:49.850] - Speaker 1
+I went originally. A friend invited me on a trip on a boat, and I went with him. And I started doing those on a regular basis when I got invited and really liked it. And that was like the Amalfi coast and experiencing that, the beautiful place. And then my wife said, I think you'd really like Tuscany. And I said, I don't know. I like the ocean. And then we went to Tuscany, and I fell in love, and we ended up getting a place and spending so amazing, a lot of our time there.
+
+[01:54:16.630] - Speaker 2
+We spent some time on the coast of Tuscany last summer with some friends who are italian. And this little town, nobody spoke any English except for our friends, and it was just a blast.
+
+[01:54:28.640] - Speaker 1
+It's such a good feeling. The food's great, the architecture is unbelievable. The people are so nice.
+
+[01:54:35.860] - Speaker 2
+The parenting is totally different.
+
+[01:54:37.800] - Speaker 1
+Yeah.
+
+[01:54:38.100] - Speaker 2
+You go to the beach and the kids just go, and I'll see you at noon for lunch.
+
+[01:54:42.880] - Speaker 1
+It's more like when we were kids, it's much more.
+
+[01:54:45.750] - Speaker 2
+Yeah, it's like, just let them make some mistakes and learn. I just thought it was so healthy, it was so good. They would make fun of us because we would take our kids home at like six to getting them showered and fed so they could be asleep by seven. And all these Italians were like, what's wrong with you? Hang out, relax. That'd be fine.
+
+[01:55:04.380] - Speaker 1
+Is the future decentralized?
+
+[01:55:08.860] - Speaker 2
+It is going to be more. My take is that it'll be more decentralized than it is now. I think, like any hard question, the answer is not usually simple. But I really do think that in a world where people have less and less trust in major institutions, there's going to be demand for systems that are more decentralized in nature. But it's not going to be a binary outcome. But I'm trying to lean into it. Threads. Our new app is built on this technology, this protocol called Activity Pub, which essentially allows you to interoperate. So we're just starting to support this now. You can follow people on threads, on apps like Macedon, so you don't even have to have threads to see the content. And then eventually, you'll be able to follow accounts from servers like Macedon on threads. And even so, in other words, you.
+
+[01:56:02.510] - Speaker 1
+Can use one app and see stuff from different apps.
+
+[01:56:06.390] - Speaker 2
+Yes.
+
+[01:56:07.030] - Speaker 1
+Like Metacritic for apps.
+
+[01:56:08.710] - Speaker 2
+Yeah. And so right now, we just took our first baby step towards this. So you can actually follow my threads account and a couple of other people in the team's account from other apps, like Mastodon.
+
+[01:56:21.550] - Speaker 1
+Why wouldn't every app want to be part of that?
+
+[01:56:23.640] - Speaker 2
+I think there's pros and cons. It's definitely more complicated to build. You have to build things in a different way, because when we start importing content, we have to run all of our safety systems on content that isn't on our servers. There's technical challenges with that. There's compliance and legal challenges with that. There's risk. Right. Like, if you can follow all the best accounts, threads accounts, without ever downloading threads, why would you ever download threads? That might be bad for the business.
+
+[01:56:52.270] - Speaker 1
+I see.
+
+[01:56:52.990] - Speaker 2
+But I do think it's where the world is going, and I do think there's benefits. You'll be able to follow account that's not on threads, from threads, you'll be able to reach more people even using threads and reach people who would never use threads or use an app built by a company like meta. So for me, with threads as a new app, it was an opportunity to try something new and lean into where I think the world is going. And so it's taking much longer than I wanted to support this. I think it'll be the better part of a year before we've got meaningful data flowing in both directions from now. But we made this big first step this month, so it's exciting to see.
+
+[01:57:36.080] - Speaker 1
+What's your personal relationship to social media? What do you use?
+
+[01:57:39.950] - Speaker 2
+I use Instagram the most, but it's more for work, really. So I try to use it to understand it and feel the pain that creators feel when they don't get what they want using it. I use WhatsApp a ton. I actually probably use WhatsApp more than Instagram, even, because it's how I talk to my content or for communication, mostly messaging. My dad lives in a country that mostly use WhatsApp. My sister lives in a country that mostly uses WhatsApp. All my friends from living in the UK in a year use WhatsApp. All my family in Israel uses WhatsApp. So I just have a ton of my life on that. I used Twitter a lot for a long time, because one of the things I really thought was important is that we engage with our critics and journalists live on Twitter. And so I thought, why not meet them where they are? So, particularly when I was working on newsfeed back in the day, I spent a lot of time on Twitter just trying to engage in the conversation. I tried to use everything. I use YouTube a lot. I used to use TikTok a lot more than I do now.
+
+[01:58:39.290] - Speaker 1
+What's the difference between TikTok and Instagram?
+
+[01:58:42.640] - Speaker 2
+Well, it's less so over time. So TikTok started almost entirely focused on short form video, and we've started entirely focused on photos.
+
+[01:58:51.580] - Speaker 1
+I see.
+
+[01:58:52.100] - Speaker 2
+And over time, we've now leaned much more into long form video. And now TikTok has stories and they have photos and they have messages, so they're overlapping more. I think TikTok is better at helping you explore your interests, so we're closing that gap. But they've always been very good at what we call exploration based ranking, like we talked about earlier. And they have historically been better at just being reliably, really entertaining. And I think Instagram has been better at connecting you with people you know and your friends, and connecting with your friends over content or about content. But we certainly compete head to head on a lot. We're both fundamentally like a team that works for another company or bigger company, them with ByteDance and us with meta. So there's a lot of similarities, and I think we learn from each other in practice. We're much bigger and smaller in different parts of the world and with different.
+
+[01:59:48.250] - Speaker 1
+What about age of users? Is that different?
+
+[01:59:51.310] - Speaker 2
+They are the strongest with young people. They have a lot of usage with teens. That's the bread and butter, for sure.
+
+[01:59:58.160] - Speaker 1
+Would you say Instagram is slightly older?
+
+[02:00:01.740] - Speaker 2
+Well, I think we have less usage with teens than they do, but a lot of usage with teens. We have more usage with adults. So I think we're bigger worldwide. We've got more users, but they've got this incredibly strong position with young people, which is important because young people, they're trendsetters, they're early adopters.
+
+[02:00:22.900] - Speaker 1
+It can go either way, though, because they can either be the trendsetter for the moment and then move on.
+
+[02:00:28.130] - Speaker 2
+Yes.
+
+[02:00:28.610] - Speaker 1
+Or they can grow with the product, depending on what it is.
+
+[02:00:32.110] - Speaker 2
+They move quickly, but when new things happen, they tend to do them first before the rest of the world does. Now everyone messages a lot more that started with teens. That kind of thing is very common.
+
+[02:00:43.740] - Speaker 1
+Do you think a new platform can come out today and be successful, or is that done?
+
+[02:00:50.160] - Speaker 2
+I think it's possible. I think it's hard. The median number of new apps installed by someone in the states, I think in a month is zero. I would have said the same thing before TikTok got big. And I would have said the same thing before Snapchat got big.
+
+[02:01:03.090] - Speaker 1
+Yeah.
+
+[02:01:03.490] - Speaker 2
+I think it was a long shot for threads to get big. You asked me a year ago, are we going to have an app with 100 million users?
+
+[02:01:11.050] - Speaker 1
+You have 100 million users on threads?
+
+[02:01:13.130] - Speaker 2
+Yeah.
+
+[02:01:13.450] - Speaker 1
+That's awesome. I had no idea.
+
+[02:01:15.110] - Speaker 2
+Didn't even exist. Is this an idea? Last December.
+
+[02:01:17.340] - Speaker 1
+Amazing.
+
+[02:01:18.010] - Speaker 2
+So it's possible, but it's the exception, not the rule.
+
+[02:01:21.280] - Speaker 1
+Tell me from your perspective, looking at it from the outside, the story of Snapchat.
+
+[02:01:24.980] - Speaker 2
+Snapchat's great. Evan, who runs it, is. I think he's brilliant. They really popularized the stories format. They are actually predominantly a messaging app in a way that people don't realize. There's a lot of stories on Snapchat.
+
+[02:01:39.110] - Speaker 1
+I didn't know that at all.
+
+[02:01:40.130] - Speaker 2
+But teens use it to message images a ton to each other. They were kind of interesting in that they were hard to use, but maybe in a good way because teens never want to be on platforms that their parents are on. So it kind of was this kind of nice balance where teens could figure it out. But other people were like, I don't know what this is for. They had some trouble in the early years getting their Android app to a good place. Growing in markets outside of the US, or iPhone dominant markets. But they've made a lot of progress since then. I think they have a half a million users now. I don't know Evan at all. So remember there's that Sony leak a long time ago. A bunch of his emails with Sony were in. That Sony email leak doesn't matter. He was just really thoughtful and brilliant and insightful. So I don't know him. So I don't know this firsthand at all, but from what I can tell, he's super sharp.
+
+[02:02:28.280] - Speaker 1
+There used to be the other photo. There was Tumblr. There is Pinterest, Pinterest, Flickr. I remember there was a moment when Tumblr was really good.
+
+[02:02:38.800] - Speaker 2
+Yeah, I'm trying to remember what happened to them. It was kind of interesting because they were kind of embracing this sort of blogger view of the world where everyone could have their own space, make it their own, and then you could have this aggregation. I think the biggest issue with them is probably that they struggled to navigate the shift to mobile. Like we talked about these big changes at the company. Another big one I didn't mention I probably should have, was we went from being predominantly a website to predominantly an app on your phone.
+
+[02:03:07.370] - Speaker 1
+That's huge.
+
+[02:03:08.070] - Speaker 2
+And we had to learn how to program in different languages. Design at a different scale. It's a different thing to design something that's in your pocket than to design something that's on your laptop. I think they struggle with that transition. There's always the smaller players that come up and do interesting things, and sometimes they pop and go away, and sometimes they stick around. But, like, over the last year, lapse has been a big deal. Be real. Has been a big deal. There have been other apps as well.
+
+[02:03:32.430] - Speaker 1
+I don't know those.
+
+[02:03:33.540] - Speaker 2
+Be real. You get a notification at a random part of the day and you had two minutes to post a photo of what you were up to right then and there.
+
+[02:03:42.740] - Speaker 1
+How is human taste different than an algorithm?
+
+[02:03:45.920] - Speaker 2
+Oh, I think they're completely different. An algorithm is just a way of trying to accomplish an outcome right. So whether it is to recommend a movie you want to watch on Netflix or the right brand of deodorant you want to buy on Amazon or on Instagram, a photo or a video you might find interesting, it's just a proxy it's an educated guess. Basically, the way it works is for Instagram. We look at all the things you've done before on Instagram, and then we come up with a prediction for how likely you are to like this photo, how like you are to share it with a friend, how like you are to comment on it. And then we add those things up and we create a score. And then we order things by that score. But human taste is the real thing, right? It's what are you actually interested in? Well, taste is even more than just what you're interested in. It's like, what are the criteria by which you decide what's good and what's not? An algorithm doesn't have taste. It doesn't mean that it's neutral. It's not. You're deciding what you're optimizing for, even if it's strictly in chronological order.
+
+[02:04:52.030] - Speaker 2
+That's still technically an algorithm. And what you're optimizing for in that case is recency. I'm just going to show you the most recent thing, not the thing that I think you're the most interested in, but it's an approximation of something, right? You can rank for what I think you're going to find entertaining. You can rank for what I think you're going to send to a friend. You can rank for what I think you're going to watch for a long time. You have to make a decision about what the outcome is that you're optimizing for. But at the end of the day, taste is not only what you like, it's your ability to decipher what you like from what you don't. I think that's infinitely more complicated.
+
+[02:05:31.480] - Speaker 1
+Is AI and algorithms the same thing?
+
+[02:05:35.750] - Speaker 2
+They overlap. So a lot of the algorithms that we use now to try and understand your interests are built on top of AI. But an algorithm could be as simple as a set of rules you always follow. Like, every time I see someone with a hat, I wave hello. That's technically an algorithm.
+
+[02:05:55.030] - Speaker 1
+Tell me the story of likes and getting rid of likes.
+
+[02:05:58.100] - Speaker 2
+Oh, yeah, this one's contentious. So, likes. We first built likes, I think, in 2007 or 2008, right around the time I joined. So, Leo, a friend of mine, now lives in London. He was the designer on that project. The idea was just to give you some lightweight feedback. People like feedback. The more feedback you tend to get on social media, the more you tend to share. And the idea of a like was just to give you the lightest weight possible.
+
+[02:06:23.830] - Speaker 1
+Feedback.
+
+[02:06:24.270] - Speaker 2
+All you have to do is tap this button and let someone know you liked it. That's the basic idea. Now it's evolved. And I think the idea behind hiding likes was to make, to depressurize the experience. So you'd focus a little bit less on your like count and a little bit more on the content, less like.
+
+[02:06:42.600] - Speaker 1
+A game, because remember, there was a period of time where people talked about trying to gamify things because it made people engage.
+
+[02:06:49.560] - Speaker 2
+Yeah. And our hope was that it would measurably improve your well being there. Was that grand an aspiration in practice, it didn't do that. The way we try to understand someone's well being is you ask them questions that correlate with well being based on academic research. And in just in practice, the data didn't back up the sort of hypothesis, and it also was very polarizing. Some people really liked it and some people really didn't. So we decided to make it an option as opposed to just the default. And it wasn't getting rid of likes, it was making the counts private. So you could see how many people liked your thing, but you wouldn't see how many people liked other people's things. I was very excited about it and I had hoped it would work and it didn't pan out. And when we test things like that, we have to talk about them, because it's such a big change, it's going to get covered anyway. So we might as well explain our intentions. But as a result, we ended up unintentionally building up a lot of excitement about it. And then when it didn't work out, some people were frustrated.
+
+[02:07:53.840] - Speaker 1
+If you build something new and give people an option, you said before, it's impossible to get a read on whether it works in general. But is there a benefit in letting people choose and seeing what happens?
+
+[02:08:06.920] - Speaker 2
+There are benefits and there are costs. I mean, the benefit, I think, is that not everyone's different. And so the same reason why we do ranking and we believe in personalization is like the best version of Instagram for you is different than the best version for me. The cost is the more options you have, the more complicated the experience gets, the harder it is to understand the experience as a user, the harder it is for us to understand and maintain the experience as a platform. So it's a balance, I think, in general, I believe in providing controls, but I think they should be simple, powerful and easy to understand.
+
+[02:08:43.480] - Speaker 1
+I wonder if there's another category besides follow. It's almost more than a follow, like a trusted source.
+
+[02:08:52.980] - Speaker 2
+Oh, yeah, that could be interesting. We have one called favorite. The name isn't quite.
+
+[02:08:58.790] - Speaker 1
+Favorite is different, though.
+
+[02:09:00.150] - Speaker 2
+Yeah, the name isn't quite what it is. It's actually not really a trusted source either. But a trusted source would be interesting. Are you interested in that more for you want it to affect what you see or what your friends see more?
+
+[02:09:13.340] - Speaker 1
+What I see. If I'm interested in a lot of different things, but I could pick trusted sources where I know I'm not going to miss anything from these people. I might use a service more if it was less of a grab bag.
+
+[02:09:25.990] - Speaker 2
+Yeah, that's what favorite is trying to do. It allows you to basically pin their stuff to the top. So I've marked only three or four people as favorites. You can mark a lot more if you want. And whenever they post, they show up at the top with a little star. So I know that's the other key thing about controls, is you have to close the loop. You have to show that it's working. If you say, I want to see less about baking, and we show you less about baking, when it's working, you don't know. And when it doesn't work, you're like, this thing is broken. Whereas if you say, I always want to see my wife's stuff at the top, every time you see it, if there's a little marker that that's happening, then you can build trust.
+
+[02:10:03.820] - Speaker 1
+What's the best project you're ever a part of that never took off so many projects.
+
+[02:10:09.540] - Speaker 2
+I don't know if it's the best, but my first project as a PM was on a project where we made software for a phone. We actually built a phone with HTC, an actual phone, a Facebook phone called a Facebook home. And it was a spectacular failure.
+
+[02:10:23.480] - Speaker 1
+Was it a physical device or was it an operating system?
+
+[02:10:26.660] - Speaker 2
+It was built on top of Android, but it was a physical device with a specific version of Android that we had made.
+
+[02:10:31.910] - Speaker 1
+Wow.
+
+[02:10:32.920] - Speaker 2
+And I learned more in that year than probably in any other year of my career. It was my first year as a PM. I learned about hardware. I learned about marketing. I learned about Pmmanship. I learned about working with policy and legal. I learned about working on a company priority. I learned about working with a small but mean super senior team. I don't think I slept much.
+
+[02:10:58.100] - Speaker 1
+And what was good about the phone and why didn't it work?
+
+[02:11:01.910] - Speaker 2
+There are a few things that were good about it. The idea was that your phone should be, instead of organized around apps, it should be organized around people. It's more human way to think about the world. I think that was an aspiration that turned out to be less effective in practice, but a nice idea. I think a lot of it was pretty well designed, actually. A lot of those design ideas we have now folded into the actual experiences over time, like how you can chat on Android across apps, works that way now. Some of the full screen design works that way now on Instagram. So a lot of good design ideas came in there, but it's not a great. I'm not trying to say it was a great idea or a great project. At the end of the day, people get to decide whether or not something is useful or not, and they decided it wasn't that useful, but it was just a great experience, even though it was humbling.
+
+[02:11:49.260] - Speaker 1
+Sounds great.
+
+[02:11:50.450] - Speaker 2
+And it was my first project as a PM, which was really trial by fire.
+
+[02:11:56.500] - Speaker 1
+How would you say the world is different since social media?
+
+[02:12:01.690] - Speaker 2
+To me, I really think of social media as fundamentally just an extension of the Internet. And what the Internet allows, and social media particularly allows, is for anyone with a compelling idea to find an audience. It used to be that no matter what you made, if you wanted to really reach people, you needed to work through some sort of intermediary. If you were a journalist, you had to work for a local newspaper who owned the trucks and the truck routes. If you were a musician, you had to get on one of the 40 radio stations. If you were making a sitcom, there was only a handful of network gatekeepers. Yeah. What the Internet allows for, and social media amplifies is the ability for anybody to reach anybody, because it reduces the cost of distributing the thing to essentially zero. And it makes it so that you can discover anything or anyone. You consume a lot of content, it seems the podcasts you consume, the news you read, probably comes from all over the world that would not be possible 50 years ago. And so I think that has all these crazy downstream consequences, and some of them are good and some of them are bad, but you're essentially connecting everybody.
+
+[02:13:23.520] - Speaker 2
+And it means that there's way more opportunity for more creatives to succeed, there's way more opportunity for more niche interests to find an audience. There's way more opportunity for small businesses to compete, but there's also more opportunity for bad actors to achieve harm. Our responsibility as platforms is to maximize the good and minimize the bad, and be transparent about how. But at the end of the day, I feel a little bit more like we are almost an inevitable byproduct of the Internet as opposed to anything else.
+
+[02:14:00.760] - Speaker 1
+This is great.
+
+[02:14:01.900] - Speaker 2
+This is fun, this is great. Vibes. You got a great spot. Thank you for talking to me.

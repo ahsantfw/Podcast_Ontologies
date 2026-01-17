@@ -1,0 +1,863 @@
+[00:00:08.020] - Speaker 1
+Tétragrammator.
+
+[00:00:08.700] - Speaker 2
+Tétragrammator.
+
+[00:00:12.450] - Speaker 1
+Tétragrammator. Tétragrammator. Tétragrammator. I've always been a very competitive guy, and in high school, I did debate team, which is the most predictable thing ever, if you know me. And I taught camp for aspiring debaters. And of course, at night, there were poker games among the camp instructors, and we'd drink beer and play poker. And I just had a neck for it. I mean, I'm pretty good mathematically, pretty competitive, and pick up on games pretty quickly. And at the end of camp, we actually drove out to the Indian Casino in Mount Pleasant, Michigan. I thought I was pretty good at poker. You go to not one of the most pleasant casino environments in the world and got my ass kicked. I lost 300 bucks, went to the ATM, took out 200 more bucks and lost that, borrowed 200 bucks to my friend, and I was so deeply embarrassed by all of it that I thought I'd never play poker again. But a few years later, I was at a job I didn't like very much, and a friend was starting a poker game, and I decided to practice online, and practice turned into playing for real money before long, and it took off from there.
+
+[00:01:28.390] - Speaker 2
+Have you ever played any games that don't involve betting? Sure.
+
+[00:01:31.000] - Speaker 1
+I mean, I'll play Scrabble or Monopoly or Ticket to Ride or something. But poker is a game that inherently involves betting. The core of poker is about bluffing. Without bluffing, then poker is a broken and boring game. So I think poker has to be played for money. It's the nature of the game where people have to put something, at least a little bit of pride at risk or at least something tangible at risk.
+
+[00:01:58.240] - Speaker 2
+Bluffing has always been part of the game from in the beginning?
+
+[00:02:00.660] - Speaker 1
+Yeah, the origins of poker are somewhat ambiguous. It's very American in some ways. It's a mix of a Persian game and an English game and a French game, basically. And it originated on the Mississippi Riverboats in the, I guess, late 1800s. But yeah, bluffing is the distinct element of poker. And the basic reason why is that if I bet a large amount and I want you to call that bet, if I'm never bluffing, then you have no reason to call. So you have to introduce an element of unpredictable into the Describe the river. I call the river an ecosystem of people and ideas, of like-minded people and ideas. I mean, the term actually originates partly from poker. Poker was developed on Mississippi River boats. The river is the last of five cards dealt in poker, so it's an important and consequential card. Apparently, in the old days, if a dealer was accused of cheating, he'd be thrown into the river if the card was thought to be dubious in some respects. But yeah, it's a to community of people who may not realize it, but have a lot in common. It's basically the intersection of people who are very analytical, so the money ball types with being very competitive, which isn't necessarily a natural combination.
+
+[00:03:14.020] - Speaker 1
+If you think of someone who's very mathematical and analytical, sometimes they might be very cautious. You think of an actuary or someone like that, very almost neurotic, sometimes risk averse. However, if you both have that analytical gift, and you're insanely competitive, then you might be in the river. And that's a skill set that leads to often extreme outcomes. If we're in a world of eight billion people, the people that achieve phenomenal things are people who are outliers, and these people have the outlier skill set, basically. But they can also destroy themselves or harm other people. They're high variants, I guess you'd say.
+
+[00:03:57.890] - Speaker 2
+Out of all of the gamblers in the world, how many of them are in the river?
+
+[00:04:02.660] - Speaker 1
+If you gamble for a living, then almost by definition, I think you're in the river. It's a very odd activity to choose in some ways, poker. Poker is a combination of a mathematical game and a people game, and it's almost 50/50, I think. If you have that skill set to both analyze data and read people, that's probably a very powerful skill set, and you could do a lot of things. And although you can obviously win money playing poker, you could probably also make more money doing something else, going into investing. So it's very self-selected. One of the people I spoke with thinks there's almost something a little bit existential about it, where you are putting fate in proverbial God's hands a little bit, I think. And so it's an unusual and very self-selected discipline. And therefore, if you select into it, you'll tend to meet other people that are like-minded. Like nothing I've ever met. If someone I know is a poker player, there's like an 80% chance that I'll get along with them. Maybe not become best friends, but will understand how they think about the world.
+
+[00:05:06.030] - Speaker 2
+If you were to go to any casino in Las Vegas, what percentage of the people that you'd see there would be professional gamblers?
+
+[00:05:13.370] - Speaker 1
+Maybe one or two %. One or two %? Yeah, in the poker room, maybe more than that, maybe 25 % in the poker room. Outside of the poker room, almost nobody. There are, believe it or not, some professional slots players, I call them advantage players, because sometimes there are jackpots or bonus situations where you can actually be plus EV, meaning have positive expected value by playing slots. It requires a lot of inside knowledge and a lot of very specialized training about when these conditions occur, which they almost never do. But you can spot them. I mean, you can spot people because they're more erect in their seats, right? They're more focused than the typical slots player who's leaning back and just punching the button and having a drink. The amount of body language you see in a casino is fascinating.
+
+[00:06:05.500] - Speaker 2
+Tell me about body language in general. In a game, what do you learn through body language?
+
+[00:06:10.330] - Speaker 1
+A lot of it is whether people seem to be stressed or not. It's hard to avoid having a stress response. In fact, it's probably unhealthy not to have a stress response, but to not let that translate into your physical body is hard. Also to fake stress is not impossible, but fairly hard. The challenge is that the stress reaction is different for every different player. Some players, when they're bluffing, naturally have a stress response. Some players, when they have a good hand, they're like, I have pocket aces, which is the best hand in poker, and I'm excited about it. And then they get stressed when they have a good hand. So with any player, you have to correlate the physical reaction with their behavior, and that can take several different hands. So So even the best players in the world who are very skilled at picking up on physical reads would tell you that it's an advantage on the margin. But at the same time, the term sixth sense is overused. But literally, if you do something for thousands of thousands of hours, I guess I'm not going to say I'm like Malcolm Gladwell here a little bit, but you begin to develop some intuition for something.
+
+[00:07:21.660] - Speaker 1
+I can't even put it into words. I can't even explain why. But something about the way this person is behaving strikes me as unusual. And so So you pick up on these intangible things that are not always right. And I can remember some embarrassing decisions where I had a spidey sense and it was wrong. But more often than you'd think, it really is like developing an antenna that you didn't know existed before.
+
+[00:07:47.930] - Speaker 2
+What is expected value?
+
+[00:07:50.480] - Speaker 1
+Expected value is the average outcome you'd get if you ran a simulation of the world hundreds or thousands of times. So there are cases where it It makes a lot of sense as a paradigm and cases where it doesn't. So poker is a classic example where it does make sense. There are 52 cards. Some of those cards might be more favorable for you than others. And so if you deal each one of those 52 cards, on average, how well does the hand play out for you? Or another example I like to give is if you drive to work every day, let's say there's one route that's faster, but there's a drawbridge. So sometimes every now and then you become quite late if the drawbridge hits. Something it makes sense to think in expected value terms. When you face a decision just once, that's a lot more debatable. Who you get married to or whether you quit a job or where you move. Big life choices. I think people, you're not simulated playing out your life, unfortunately, or fortunately, maybe thousands of times. But for repeated situations where you get to the long run, then that's where expected value is, I think, the right concept for decision making.
+
+[00:08:58.630] - Speaker 2
+If you were to sit down at a game, let's say you don't know the people at the table. How often is that the case?
+
+[00:09:04.620] - Speaker 1
+In a tournament, typically, yeah, typically it's strangers. I mean, if you play enough, it's not that large a scene, so you might know people by reputation. But yeah.
+
+[00:09:12.200] - Speaker 2
+For the most part, you don't know the people.
+
+[00:09:14.220] - Speaker 1
+Exactly. Yeah. Okay.
+
+[00:09:15.850] - Speaker 2
+You sit down. Is the first hand dealt immediately?
+
+[00:09:18.560] - Speaker 1
+You sit down and you're dealt in very fast. Yeah, there's not a lot of buildup. That's one thing I like about poker is you're in the mix right away.
+
+[00:09:24.910] - Speaker 2
+Okay. And do you put your chips on the table?
+
+[00:09:28.050] - Speaker 1
+Chips on the table and the cards. You should never pick up your cards and look at them that way. You should always keep the cards on the table and tilt up your hands and peek at them. Yeah.
+
+[00:09:36.580] - Speaker 2
+Do you have any more chips in your pocket or never? Never.
+
+[00:09:39.940] - Speaker 1
+Because there is a long history of cheating, unsurprisingly in poker. So therefore, everything needs to be literally above board and as transparent as possible.
+
+[00:09:49.380] - Speaker 2
+Well, is it cheating to have chips in your pocket?
+
+[00:09:51.680] - Speaker 1
+If you were to put them in play in a way where they weren't visible in between hands or something, then that would be considered bad etiquette. In a tournament, And there's a strict number of chips you can have. And so if you ever had chips on your person that weren't in play, you'd be disqualified. In a cash game, it's a little bit more ambiguous. You could say, I lost a bunch of money in that hand, therefore, we're going to add on more chips. But you want to verbally announced that to the table.
+
+[00:10:17.500] - Speaker 2
+In Las Vegas, let's say you're losing, could you throw some cash on the table and buy more chips?
+
+[00:10:24.090] - Speaker 1
+In a cash game, you can. In a tournament, when you bust out, then you're broke, essentially. You can sometimes where you enter a tournament or enter a different tournament. But yeah, in a cash game, then you get another life, basically. Okay. But yeah, the question you asked before, the first thing you do when you sit down at the table is count everybody's chips, because that's the basic math of the game. If I have a large amount of chips relative to the betting size versus a smaller amount, it profoundly changes the strategy. After that, you're probably making some basic demographic stereotypes, if we're being fully honest, that in general, for example, older players tend to be more conservative than younger players. You want to get a sense for whether somebody is a professional or an amateur. And believe me, there are good amateurs and bad professionals, but some guy with a backpack who is skilled at handling his or her chips, seems to know people in the poker room. I mean, they're usually a professional. I think often, stereotypes around race Race and gender, although book players make them, are not very reliable. It's like professional versus amateur and old versus young.
+
+[00:11:36.410] - Speaker 2
+And even the old versus young stereotype, do you find that to be mostly true?
+
+[00:11:40.540] - Speaker 1
+It's becoming less true, I think, in part because there are now very powerful computer tools that allow anybody who's reasonably intelligent to study and become quite good. You often see some 70-year-old guy, and you're like, This guy must be some retired investment bank maker who's probably pretty bad at poker. And some of these guys, or sometimes older women, but more often guys, know how to exploit their image and play pretty well. And the beautiful thing about poker is that if you exploit stereotypes, you win money. If someone thinks that I'm a conservative player and I'm aggressive, that actually makes money. If they think I'm aggressive and I'm conservative, that makes money, too. So if people incorrectly stereotype you, including women players or black players or whatever else, then you can actually literally take advantage of that. I wish the rest of life were like that, and it's not.
+
+[00:12:33.130] - Speaker 2
+If you wanted to change your image in any way, give me an example of what you could do to give you an advantage.
+
+[00:12:39.340] - Speaker 1
+I mean, there can be extremely subtle things. So right now, I'm from Michigan. I'm wearing a Detroit Tiger where it's at, right? If I go to Las Vegas and instead wear a Las Vegas Golden Nights hat, they are the local hockey team there, that will create a different image because then it looks like I'm some local middle-aged guy just going to the casino for fun versus someone who's coming in from the outside. So it makes you very aware of the semantic clues that you send through everything from how you speak. I mean, it's a cliché, but poker is a game of information. Some players like to talk about strategy at the table to demonstrate how smart they are, or they might have a very verbal thought process, but people are listening to that and watching that. Skilled players will ask innocuous-seeming Some questions, just at the very least, level set that amateur versus pro question. Things like, Oh, you're out here for the World Series, or you play a lot. Things like that you can make some pretty reliable inferences from. Some players will deliberately make what they might call image plays. So maybe if I bluff, then I'll show you the bluff.
+
+[00:13:49.760] - Speaker 1
+I'll show you the cards that I bluff with if you fold. I think in general, being reserved with how much information you give off is a better approach. Look, there are some bookers that are very skilled at manipulating their table image, but in general, being polite, but saying less, doing less, sitting back and watching and being observant. Look, part of the reason I don't think I like poker, Rick, is because I spend a lot of time verbalizing things, talking and writing and things like that, and I like that, but I like sometimes being able to sit back and watch instead.
+
+[00:14:23.250] - Speaker 2
+So now you're sitting at the table, the cards have been dealt, the first-hand happens. What are the next things you notice?
+
+[00:14:29.600] - Speaker 1
+If I'm paying attention, because one of the things about poker is that a lot of time there's inaction, there's not very much you're doing. And so focus is much harder to achieve than you'd think. I will wait to look at my cards until everybody before me has acted because I want to get that intuitive sense for whether people have a relatively strong or weak hand, how people put chips in the pot. I mean, the hands are something we speak a lot with our hands, and people don't think about that very much. So how you pick up your chips and to move your chips forward into the pot can reveal a lot. A pulse can reveal a lot. Eyes can reveal something, although people are a little bit more self-conscious about what their eyes say. So if I'm truly on my A game, which is not that often, I'm just watching people very carefully until it's my turn to decide, and then I'll decide on my action relatively quickly. Even though I'm a mathematical guy, I believe in this quick slicing processing when it comes to poker in particular. If you've played thousands and thousands of hands and you learn how much to trust your intuition versus your sense of the underlying math.
+
+[00:15:41.610] - Speaker 1
+And I found that the better I'm playing, the more I trust my intuition. If I'm tired, I just flew in to Vegas that night and I have to play for some reason, then I try to be very math-driven. But if I'm on my A game, then I act very intuitively and make bolder plays that deviate more from the theoretically correct line based on my intangible sense of how people are playing.
+
+[00:16:05.220] - Speaker 2
+How much do you have to be paying attention to really know the odds at any given moment?
+
+[00:16:10.500] - Speaker 1
+In terms of things like what's the chance of making your flush or your straight, that's pretty straightforward. But the underlying math of poker is based on game theory. And game theory is what results when any two people or more than two people are trying to optimize their strategy, where everyone's trying to play their hand in a literal I guess in this case, as best as they can. So there are computer programs that have a solution for poker, but the solution is very complicated. It's literally like a 13 by 13 matrix. And a lot of times you're supposed to literally randomize what you do because unpredictable is so important in poker. You're supposed to play the same hand in different ways based on random reasons. So the math gets you to a certain place, and you can literally train and drill with computer programs now, and I'll do that, and you might get the right answer 80% of the time. And sometimes if you're playing, like I said, if I arrive at a tournament and I'm tired, or unfortunately, I'm playing against very good opponents, and I'll try to just pretend that I'm playing against a computer and minimize my losses.
+
+[00:17:19.420] - Speaker 1
+Against weaker opponents, then you make a lot more money by trying to exploit them. If it's against some guy who bluffs way too much, then throw the math out the window. At some point, you have information that's much more pertinent than the math. Also, people get nervous at a big tournament, deeper into events. I feel like I had enough life experience where it's a cliché, but being cool under pressure is hugely important in poker. Literally some hands, you have thousands of times more on the line than you might at your beer league, $1, $2 game on a Tuesday night or something. So being used to dealing with high pressure situations and how that changes your stress response and how that changes your body response, because it's not normal. It's not even if you're experienced, it's not normal to be bluffing in a pot for $50,000. Even if you've gotten used to making big decisions, That's going to trigger an innate intuitive stress response in you, and being used to navigating that is rare and important.
+
+[00:18:26.820] - Speaker 2
+If you become good at bluffing at poker, Is that a skill set that will likely work its way into your life outside of poker?
+
+[00:18:35.380] - Speaker 1
+That's a great question, Rick. I don't consider bluffing to be lying or anything like that. I think it's like when you're playing poker, what you're representing is a range of possibilities and not any one possibility. You're in a little bit of a multiverse or something. Again, being cool under pressure and being able to make judgments under uncertainty is, I think, a very valuable life skill. Because we're in a competitive world with 8 billion people, and if you wait for things to be certain or all the information to be in, then someone else is going to have, seize the opportunity sooner than you have. So therefore, decision making under conditions of uncertainty is very valuable. I mean, some poker players can be cynical. They can be overly, I guess, utilitarian in different ways. I'm not somebody who tries to calculate out every life decision with a spreadsheet or something like that. If people want to do that, that's fine. That's a different way of living than I am. But handling stress and decision making under uncertainty is something that I think everybody would benefit from.
+
+[00:19:39.490] - Speaker 2
+If the goal is to randomize your play, what would be the difference in technically randomizing it versus just doing what you want to do?
+
+[00:19:49.110] - Speaker 1
+So humans are very bad at randomizing unless they're intentionally randomizing. So literally, people use things like the orientation of the chip in front of them. They'll pretend it's like a clock face. And maybe if the clock is at 12, then they'll bluff. And if the clock is at one, then they'll fold or something like that. So you have to intentionally randomize, although sometimes it brings out your reveal cold preference. My partner will get annoyed with me because sometimes if we have a decision that's an unimportant decision, should we get Thai food for dinner or Italian food? I'll be like, Let's just flip the coin, and he'll get very annoyed by that. Although what happens sometimes is that it will reveal your true preference, right? That you'll flip the coin, it'll come up Thai food. I really actually am in the mood for pasta instead. And so you'll deviate from that. So sometimes in the thought process, one thing that's important about poker, too, is you can always make a better decision, even if it's inconsistent with your previous decision. There are four streets in poker, we call them, four decision points. So before the flop, flop, turn, river, don't need to know those terms.
+
+[00:20:56.890] - Speaker 1
+You might have said beforehand that I'm going to match I'm maximally bluff on this hand. I'm going to bet every street, bet all the chips until I have no more chips and try to get my opponent to fold. If you pick something up that your opponent's not in a mood to fold, then aborting that decision is often worthwhile. Even if that's admitting that you made a bad decision before, you still have to make the best decision you can for the rest of the hand and not deal with this sunk cost fallacy of, I can't be inconsistent. You have to be willing to put your tail between your legs and give give up or change your decision making sometimes. But yeah, randomization. And again, this is one of the things I do more if I'm tired. If I'm tired when I'm playing, then I'll say, I don't trust my intuition as much. I don't trust my reads as much. I think they might come from an emotional place, and emotions have a role in poker. So I'm just going to randomize here. I think this guy is bluffing half the time and not bluffing half the time.
+
+[00:21:55.370] - Speaker 1
+So I'll look at the tournament clock, and maybe if it's an even number, I'll call the bluff are called what might be a bluff. If it's an odd number, I'll fold. And in the game theory optimal computer solution to poker, you actually are literally supposed to randomize your actions a lot of the time.
+
+[00:22:10.980] - Speaker 2
+Can you explain game theory to me?
+
+[00:22:13.160] - Speaker 1
+Game theory is what results when people are behaving strategically and in a way that maximizes their expected value. We talked about expected value before where I'm trying to figure out I have to fly to Chicago later today, for example. What's the most often way to get there? Do you want to take the train or do you want to take an Uber or whatever else? It's some rough game theory calculation. Now, what happens when everybody in New York is trying to get to Newark Airport? That's a case where game theory applies. You can see, for example, in traffic patterns. If you're going to the airport, it probably turns out that all these different routes are roughly equally good or bad because people are strategic and they're optimizing against one another in competitive situations. What I like about game theory is that it gives other people credit for being intelligent and being able to make adaptations. One idea that I talk to some people in the book is called strategic empathy. So it means that put yourself in your opponent's shoes and think how they behave in a given situation. A lot of people in the politics world, I think, lack this trait.
+
+[00:23:19.110] - Speaker 1
+They tend to assume that the world is static, but instead, people, I think, are reasonably capable and intelligent about things where they have skin in the game, invest investment, repeated experience. So game theory says, if everyone is playing strategically and not just me, then what's the best course of action I can take? And often the best course of action is a more defensive action. It's how do I not get exploited or manipulated by other players. But that's why I like it. I think if you can learn how to play against an optimal opponent who is smart and intelligent and playing their best, then it's actually pretty easy to play against a suboptimal opponent, right? If you played on the biggest stages in the world, so to speak, then playing in some smaller town is probably pretty easy, but the reverse is harder.
+
+[00:24:08.220] - Speaker 2
+If you're playing against someone and you realize that they're really good, how do you know they're really good at poker? Does it just mean they won? Or can somebody be really great at poker and be losing?
+
+[00:24:17.850] - Speaker 1
+There is a lot of randomness and variance in poker. So literally, you could have a good poker player who lost over a period of 10 years, which is why it's insane. I ran some simulations for the book, and in tournament poker, a winning player in the long run, a theoretically winning player, will have a losing year almost half the time. Because a lot of the price pool is concentrated in these upside cases where you win a million dollars in a tournament or win 500K or 2 million. That might happen once every 10 years or something. Look, what makes them a good player is that they're unpredictable. A lot of players know that when you play aggressively, that you a combination of good hands and bluffs, right? But you also need a combination of hands when you play passively or conservatively, right? I mean, the most common action in poker is just to check, meaning to say, I passed my turn, and now it's your turn to act, and then I'll react to that. A lot of players, when they check, always have mediocre hands, and therefore, they're very predictable. A player who can have a strong hand, sometimes as part of the range that they check or play passively, is much tougher to play against.
+
+[00:25:28.870] - Speaker 1
+They're doing a lot better of being unpredictable and randomizing and a player like that, then I'll gain more respect for.
+
+[00:25:36.040] - Speaker 2
+So in game theory, if everyone who's playing is working strategically for the best end for themselves, when you say strategically, does that mean that they know what's the best path for themselves?
+
+[00:25:49.310] - Speaker 1
+Under game theory, you assume people have perfect knowledge of the situation.
+
+[00:25:54.970] - Speaker 2
+But so that seems like it doesn't exist in the world.
+
+[00:25:57.610] - Speaker 1
+I think when people have a lot of practice with something, Then, like I said, there are these computer programs that have been around for five or 10 years that literally have a solution to poker. But some of the best old-school players, like the late Doyal Brunson or Eric Seydel, they learned it through trial and error and survival of the fittest, where you're like, this just seems to work most of the time, and I can't quite explain why. So game theory is important when it comes to conflict, in terms of nuclear conflict and things like at, right? Somehow the world has gone, I guess, 80 years now having nuclear weapons and not having one detonated in wartime. Personally, I'm still pretty nervous about nuclear weapons to have the capacity to destroy the world. But the game theory dictates that you should not launch a first strike because you'll get nuked back. And relative to a lot of academic theories, it's held up relatively well in practice.
+
+[00:26:54.060] - Speaker 2
+If you're not tired, and if you're playing well, you'll follow your intuition. Describe your intuition, what you think it is, how does it work, how do you get the signals?
+
+[00:27:06.410] - Speaker 1
+It comes mostly from pattern matching and recognizing people. It can come from a deep place, recess in your brain. I made a deep run in the main event of the World Series of Poker one year ago now in 2023. And in an important hand, I saw an opponent of mine bet a big amount and then gradually went into a a turtle shell. He put his hands on the back of his head and was buried a little bit in the table. And he'd been very confident before and then became very quiet and seemed to want to escape the situation. And I realized that two days earlier, I'd had a conversation over lunch with a friend who had played a very big hand in a televised game who had an opponent do almost the exact same thing. That was an unusually clear case of pattern recognition, where I recognize this exact combination of behavior, boldness, then coupled with turtle shell from a player who was not a professional, was an amateur. That's important, right? Because a professional can fake that behavior. But from an amateur, it's more likely to be authentic. And so sometimes it's something you can quantify.
+
+[00:28:16.290] - Speaker 1
+Sometimes it's not. Again, you're looking for things like, is someone anxious, activated, nervous? That's hard to fake. What that means is different from player to player. If I am tired, then I'm thinking more in terms of the pure math. But it's something, again, just from processing thousands and thousands of poker hands, there's some intuitive part of your brain that can pick up on these things.
+
+[00:28:42.140] - Speaker 2
+You're talking about your opponent being the person You're not considering the cards. You don't think maybe he's got a flush.
+
+[00:28:50.340] - Speaker 1
+No, you are for sure considering... Yeah, look, 80% of the time, your decision is based on the underlying math of your hand. You have a very strong hand, so you You make a big bet, or you have a very weak hand, so you fold. So yeah, we're purely talking about the 20% of reasonably close decisions. And if you know the math, you know what a close decision is and what's not. Because sometimes you'll face a situation where you're like, Oh, my gosh, my opponent feels intuitively so strong to me. But maybe it's a situation where she has very few chips and you're getting such good odds, 10 to 1 or 8 to 1, that you are locked into calling. You have to take that extra half beat and pause and think about the underlying math of the situation. Think about, if I'm folding to her here, am I ever calling with any hands at all? We're talking about the 20% of the time when you have a close decision, but the close decisions are where the skill comes in. In football, if you go for it on fourth down, when you're losing the game, you have no other chance except to throw a hey, I'll marry, then that's an easy decision, right?
+
+[00:29:59.460] - Speaker 1
+It's a There are special situations in which your skill tends to matter more.
+
+[00:30:03.210] - Speaker 2
+Can you raise more chips than a person has?
+
+[00:30:05.890] - Speaker 1
+No, this is a myth, right? And there's a lot of poker movies from the past where someone has to go call their investors and round up chips. Poker is played for table steak. If you have 5,000 chips and I have 3,000 chips, then we play for where the lesser amount of those two is. So we'll be playing for table steak, which in that case would be 3,000 chips.
+
+[00:30:26.480] - Speaker 2
+What's the state of online gambling?
+
+[00:30:28.750] - Speaker 1
+I think It's pretty bad and pretty sad. One of the problems with having these computer programs, we can go in 15 seconds and have a game theory optimal solution to poker, is that it's very hard to prevent a cheating online. Some of the sites will give you tests where if you play too perfectly, they'll decide that you cheat. Some sites will have you hooked up to a video monitor. But I would be cautious about playing poker online. It's too easy to cheat. Also, I I think poker is partly a people game, and it's a lot more, I think, a lot more fun to play against people where you're getting their vibe and being able to read them. So yeah, I think online poker is probably going to be pretty broken more often than not. And even some of the best poker posts I've talked to says, Yeah, I make a very marginal profit online. It's fun. I'll do it sometimes, but I'll treat it as training where I know I'm probably losing expected value. I'm doing it for entertainment for practice. But the issues with being able to bring up another browser window and have an optimal solution is pretty hard to overcome.
+
+[00:31:39.350] - Speaker 2
+Tell me about luck.
+
+[00:31:40.390] - Speaker 1
+I suppose I don't believe in luck exactly, at least in the sense of some people being naturally lucky or unlucky. But I think luck plays a very important role in life. Not to get too morbid, but a few weeks ago, we had one of the two presidential candidates who to pause, to look down at a slide of, I guess, immigration statistics, and therefore just had his ear clipped instead of being perhaps killed or assassinated. That's something that you would have to say comes down to luck or serendipity or whatever else. Certainly in poker, you're very aware that the turn of a playing card, a tiny little playing card, piece of paper, basically, can have profound effects on your future well-being. I think people greatly underrate the role of luck in life.
+
+[00:32:33.290] - Speaker 2
+When you're waiting for a card to come, do you wish for a certain card?
+
+[00:32:38.530] - Speaker 1
+I have learned over time that probably having a little bit of an optimism bias is okay in poker, because otherwise you can be self-sabotaging and self-defeating. One thing I've learned, for example, is that you never want to book a flight home until you're out of the tournament, because subconsciously, you find ways to end the stressful situation and say, Oh, I've done well enough. Wouldn't it be nice to go and get a steak dinner with my friend, and then I'll take a little flight home and have a nice little sparkling water on the plane and whatever else? You don't want to do that. You want to force yourself to be present because poker is actually dull a lot of the time. So having a bias and saying, I believe that I can win this tournament, I believe I can go deep in this tournament, I think that's better than the for sure. It doesn't work to say, Oh, I wish I was dealt like pocket aces. It doesn't actually manifest that very often. But an attitude where you see yourself as deserving of good outcomes, I think is helpful.
+
+[00:33:50.200] - Speaker 2
+If you have a hand where if you draw an ace, let's say, that would much better your hand, and you're aware, and your last card is coming, do you ever have an internal conversation of, I hope it's an ace or no?
+
+[00:34:02.820] - Speaker 1
+In the sense, Rick, that you want to be prepared for any eventuality. If there are 52 more cards that can come, then some implicit part of your brain is planning for all of that. But yeah, you want to think about that in advance. It's a good chance, right? Because there's no clock per se in poker, but if you pause for a long time to react, then that can give away information. Or if you make a facial expression when you get a good card or a bad card, then that can give away information. So you want to be meticulously planned, but also able to react in the moment. I mean, sometimes one thing you can do, if there's an important card coming, is actually to watch your opponent first. Watch how she reacts, and then look at your card. When she's looking at her cards. That's a better way to avoid giving off information, and you might learn something about her.
+
+[00:34:55.320] - Speaker 2
+What is effective altruism, and why do people who practice it end up in jail?
+
+[00:35:00.500] - Speaker 1
+Effective altruism is a good brand name, a clever branding exercise made by two Oxford professors, which originally described finding more effective ways to give to charity. That's what the effective altruism meant originally. But let's say you give to some charity, the American Red Cross or the March of Dimes or whatever else, right? Are they actually using that to help people? And is it cost-effective or or not. That was the original impetus for it. And it was discovered, for example, that in developing countries, cheap interventions, like building anti-mosquito bed nets, they're called, can save lives for a few thousand dollars at a time. That was the original branding of it. What happened is that once people were like, Oh, we can quantify the utility of anything. It's like the expected value terms from poker applied to everything in life. Then I think some folks got a little carried away. One reason why people in effective altruism are very interested in artificial intelligence, for example, is because it's seen as a very high-stakes problem. If you talk to Sam Altman, the CEO of OpenAI, he literally believes that AI could cure global poverty or could destroy the world if the computers are unaligned and act malignantly toward us.
+
+[00:36:24.610] - Speaker 1
+So it's a very high stakes problem. But look, I'm a mathematical guy. I've literally built statistical models. I think there is sometimes hubris in thinking you can quantify everything. I mean, estimation under uncertainties of very valuable skills I've talked about. But you also sometimes have people who are hubristic and good with numbers but misapply them, don't have the right life experience. I think sometimes people can be a little bit gullible as part of that pattern sometimes. I mean, one thing I like about poker is that the bottom line is a bottom line, right? That you have a financial incentive to make better decisions. And of course, that can be corrupting in lots of ways, especially if there's any type creative process. But it does prevent against a little bit of gullability. To a poker player, someone like Sam Bankman-Fried is somebody that we are probably more skeptical of. We've seen a lot of smart young assholes, basically, and they talk a big game, and Some of them are very good, but some of them just have been on a winning streak and are not that skilled at the end of the day. Having some degree of skepticism, I think, can be valuable, and effective altruism or EA sometimes lacks that.
+
+[00:37:41.940] - Speaker 1
+With that said, I think they have, I think, done a lot of good in areas like charity, for example. I think they're smart people who are trying to make the world better, and I respect that and admire that. It's a young movement. There's not very much happening philosophically in the world anymore. This is like a breathing, living philosophy that's had a lot of influence on people from Bill Gates to Warren Buffett to Elon Musk. People donating billions of dollars are now donating it in a smarter way that literally saved lives. So I have a lot of respect for that. But people can get very carried away with theoretical models that are not much better than scratches on the back of an envelope.
+
+[00:38:24.320] - Speaker 2
+How is it different playing in a televised game versus a non-televised game?
+
+[00:38:28.910] - Speaker 1
+So there are a couple of differences. One is that you can actually get feedback. If it's a 15-minute delay, then your friend can text you and said, Oh, that hand where you thought your opponent was bluffing. Actually, he wasn't bluffing or vice versa. There was a somewhat scandal at the World Shows of Poker just this past month where a player was getting advice from a guy using a laptop in between hands. May or not be technically against the rules, but that's a situation where you're seeing the hands on TV, and therefore, you have extra information, but also it increases the pressure factor. So for me, I'm happy whenever I get on a TV table, not because I like being on TV. I don't like watching myself on TV, but because I have, for better or worse, been on TV a lot for news programs, for media, for podcasts. And therefore, I have practiced performing under pressure, whereas someone else might lose their shit. Go on tilt is a term that we use in poker, and they're embarrassed to be playing poorly on television. So any circumstance that ups the pressure, again, it's not that I perform better under pressure, it's that I think I have less of a down slope than maybe other people who have less experience do.
+
+[00:39:46.250] - Speaker 1
+I never used to believe in all this shit about being in the zone. If you're performing or something as an athlete, Michael Jordan, we talk about being in the zone, but now I do. And talking to people who have studied the physiology of these systems, your body has millions of years of evolutionary training to respond to stress. I mean, humans are very good at picking up on situations that even like subtle signals where there is risk to be had and finding that balance between on the on hand, being very cool under pressure, but on the other hand, your body provides you with a lot of feedback. When we're under stress, we actually become more intuitive, not less intuitive. It becomes harder to the conscious long form processing, and we're getting extra information. Our blood flow increases, our heart rate increases. Anything that increases the pressure, just having had enough life experience at this point of being in pressure situations, then I think that's a comparative advantage for me.
+
+[00:40:45.570] - Speaker 2
+How important is math in the picture of poker? Can you be a great poker player without being great at math?
+
+[00:40:52.560] - Speaker 1
+The short answer is no. The longer answer is maybe you can learn it through rote trial and error or through rote intuition. If you play thousands of hands, you might unintentionally get there. But yeah, like I said before, the 20% of decisions that are based on people, reading factors, and intuition, that separates out the good players from the great players. I mean, it's like a lot of other things in life where the world, maybe sadly, has become too efficient to permit someone who is a flawed but gifted savant, but not gifted mathematically to succeed, which is sad, I think, in a lot of ways. But the algorithms have come for everything, including poker. And at this point, you're probably giving away too much with basic strategy if you're not reasonably good at math.
+
+[00:41:44.300] - Speaker 2
+How would you describe the personality type of the gamblers you've met?
+
+[00:41:48.300] - Speaker 1
+So they're really different types of gamblers. Someone who plays poker, though, to focus on them. They have a rebellious anti-authority streak because it's one of the only professions where Where you truly set your own schedule, where you literally have no boss. Poker players, I think, underestimate how important it is that you have regulated gambling, so there's less cheating than there would be in the fact that it's actually a hard thing to do is to deal a poker game, for example. But there are people that don't quite fit in to the norm to mainstream society. Are they countercultural? I think maybe in some ways, but not in others. But there are people who march to their own They march their own drummer. They have an anti-authoritarian streak.
+
+[00:42:34.850] - Speaker 2
+Have you ever experienced cheating in a game?
+
+[00:42:37.400] - Speaker 1
+In home games, I've seen people fairly blatantly cheat, but no, to my knowledge, I'm sure I have been cheated, but I'm selecting games where there's a high degree of trust. I'll play in some private cash games in New York, but when a friend of a friend invites you to a game, especially if they think of you as a skilled player, why is this friend of a friend inviting you to a game if they think you're a winning player? Maybe because in that environment, then you're not a winning player or because you're being cheated potentially. I think a smart, canny gambler knows that what seems too good to be true usually is.
+
+[00:43:20.190] - Speaker 2
+Tell me about superstition in gambling.
+
+[00:43:23.330] - Speaker 1
+I think people are uncomfortable with luck and uncertainty. People are trying to manifest luck through superstition, through always betting a certain way or always behaving a certain way. I mean, the one thing that can be good superstition-wise is if you have a routine for how you look at your cards, right? You look at your cards when it's your turn to act, then maybe before the three cards called the flop are dealt, you look again. So to have consistent patterns in how you behave is useful, but not for superstition reasons, just to avoid giving away information about the contents of your hand.
+
+[00:43:59.680] - Speaker 2
+You never wear your lucky socks to a particular game because you won last time you wore them?
+
+[00:44:04.500] - Speaker 1
+I mean, I might, but my friend Maria Khanova is another poker player/journalist. I have a podcast with her. At one point, I mentioned having a lucky hat that I wore, and she practically hit me. She's not a violent person, but she was so mad at me for even feigning in the direction of superstition that she was upset with me.
+
+[00:44:21.810] - Speaker 2
+Tell me about the lucky hat.
+
+[00:44:22.910] - Speaker 1
+It was a Yamuyuri Giants hat, which is a Japanese baseball team. I unfortunately lost the lucky hat at some point. That's tragic. For sure. Although I've had some good poker sessions since then. It was a very beat-up-looking hat. But yeah, look, I don't believe in that because one thing you learn in poker is that sometimes your body does things that your mind is almost not wanting to do. All of a sudden, you call and put your chips in when you don't want to, or you throw your hand away when you don't want to. That's actually usually bad. When you have this bifurcation between your mind your body versus being more holistic and saying, I am making a conscious decision because I'm picking something up on some intuitive level. And so anything that can put you in a better mindset, like I said before, having an open time horizon so you don't feel like you're rushed or have to get home. I mean, in this past World series of poker, we're in a political year, I cover politics, and there was a lot of news about politics as I was playing poker. I'm sure that was bad for my poker game.
+
+[00:45:29.950] - Speaker 1
+Game, right? Because what you basically want to do is avoid extraneous distractions, which is hard to do. I mean, most poker players, including me, are on their phone a lot in between hands. But when you're in a really high stake situation, all of a sudden, you don't need to look at your phone in between hands because every decision is so important that all of a sudden, you pick up on things out of nowhere. You pick up on how your opponent is breathing. Are you simulating in your head? What if this unusual card comes? How will I react then? Or this situation, A, B, C, E, F, X, Y, Z. So you learn about the importance of focus because most of the time you're not that focused. Most of the time, it's boring. You're looking at your phone, you're on Twitter, whatever else. And then in these rare moments, you see how much more capacity you have when you are fully present and immersed in the moment.
+
+[00:46:19.210] - Speaker 2
+If you replace the lucky hat with the same hat, but a new one, do you think it would still hold the same luck?
+
+[00:46:27.770] - Speaker 1
+No, I think it would be very bad karma, right? Like a fake lucky hat. I just rather have an entirely new hat, I think. Attachment to something which in poker is harmful, generally speaking, that if you lose a big pot, but you still have chips in front of you, so now you have $5,000 instead of $10,000, you're never going to get the $10,000 back. You have to play the best you can based on the $5,000 and roll with the punches. And by the way, the reverse is maybe even more important. When you go from having 10,000 chips to having $20,000 chips, but you still have a long way to go in the tournament, you still have to play aggressively, optimally. It's easy to get complacent and lazy when you've been on a winning streak and you still have to be proverbially hungry and play your best.
+
+[00:47:17.220] - Speaker 2
+Are you always aware of how many chips you have or no?
+
+[00:47:19.960] - Speaker 1
+I'm always aware of how many chips that I have, for sure. That's the most rudimentary and basic mathematical fact of poker. Looking at your your opponent's chips. I mean, in a good situation, in a tournament, then people will stack their chips neatly. But in a cash game, you're playing, you're at the Aria in Las Vegas, and it's 2:00 in the morning, and there are drinks on the table and people eating burgers and things like that and lots of things going on, right? And six different colors of chips in play and stacked in messy situations. And yeah, literally counting people's chips is actually an important skill in a situation like that because it's not always optimally designed to make information transparent.
+
+[00:48:08.730] - Speaker 2
+Have you brought your open time horizon technique into your life in other ways?
+
+[00:48:15.150] - Speaker 1
+One thing poker teaches you is that some decisions are much more important than others. So with big career decisions, I tend to take my time making those decisions. Whereas where should we go out to dinner types of decisions, right? People People can get obsessed because the decision is close, it doesn't mean it's important. Again, like I said, I'm going to the airport later. It's probably close, whether I take the train or an Uber. You shouldn't spend very much time focusing on that. So understanding what a priority is in life and which things it's worth being more meticulous about. When I'm writing a book, I mean, the book is 550 pages. You have to be more organized and meticulous about that when it's a long repeated situation.
+
+[00:49:04.610] - Speaker 2
+Does decision fatigue apply to poker?
+
+[00:49:09.010] - Speaker 1
+Decision fatigue applies to poker and a lot of things in life. One thing I worry about, in fact, is that we're in a world where we have more choices than ever before. If you're someone who has a lot of agency as a term I use. Agency means being able to be in charge of your own decision-making process and being able to make good transparent choices. If you're a person with high agency now, then I feel like more and more the world is your oyster. But if you're under duress of any kind, and most people are, they're having bad day, they have physical ailments, they have mental ailments, they're under stress, their choices are constrained, then I worry that we have this paradox of choice where our choices are manipulated by algorithms or by other people, where we're operating under duress and making suboptimal choices where we don't have a long enough time horizon. We're trying to satisfy our current need instead of what will make us happier five days from now, five months from now, five years from now. And so, yeah, I mean, look, one of the most important things I learned from the book, talking to people who are successful at risk-taking, is that they have a longer time horizon.
+
+[00:50:21.360] - Speaker 1
+I know I've used that term. It's like a little bit of a buzzword, but I just mean they're like... I think nearly always, if you are focused more on the medium to long term, Most people are impatient. In the United States, we're especially impatient, I think. And there's so much instant gratification that we can derive from using our phones or from whatever. Playing the long game is, I think, one of the biggest advantage you can have in life.
+
+[00:50:48.230] - Speaker 2
+What are some of the things that you've learned in poker that have worked their way into your life?
+
+[00:50:55.130] - Speaker 1
+Not being worried about looking silly because nothing is ever 100% in poker. You can think you pick up the biggest tell ever on your opponent and that she's bluffing or he's bluffing, and then he has a full house, and you're totally embarrassed by that. But not being afraid to look foolish about trusting your process more. And again, about patience, because you might get, if you're playing live poker, you might face one really important decision every hour or so. So being prepared prepared for that when it's a lot of monotony and a lot of boredom, being prepared to take advantage of opportunity when it strikes, I think is a good life lesson.
+
+[00:51:37.220] - Speaker 2
+What are some of the techniques that you've learned or practiced to calm your sofa poker?
+
+[00:51:44.400] - Speaker 1
+I mean, Things like having more sleep can help, although Las Vegas is often a pretty hard environment to sleep. If everything goes optimally, then having a little bit of cardio in the morning, I think actually helps a fair bit. Just to get your blood pumping and your mind flowing a little bit. Having as much of the day blocked off as possible. Poker players are very good at contingent planning. They'll say, I'll get dinner with you contingent on us both surviving the tournament, but if not, then no hard feelings. I'm not going to worry about it too much. But especially for me, because I am a pretty busy guy, half the reason I play poker is because you're able to clear out your schedule and say, I'm just going to focus on this that I enjoy for the day. And there might be other things, too. If you go hiking or something where it's a physical activity, where you're not tempted to be on your phone all the time. That's half the reason that I like poker is just the focus I'm able to place on it.
+
+[00:52:45.790] - Speaker 2
+What's the relationship between gambling and science?
+
+[00:52:48.700] - Speaker 1
+Gambling plays an important role in the development of probability theory. Like, Blaze Pascal, you might know Pascal's wager, was actually develop probability theory based on trying to solve a gambling game for a friend. Game theory, I mean, von Neumann, who was instrumental in helping the Manhattan Project to be developed, and maybe one of the bigger geniuses of all time, developed game theory from studying poker. Some signal processing algorithms that ushered in the information age. People who built those also built algorithms to bet on college football, things like that. There's always been a certain type of nerd who's always been motivated by not just gambling for gambling's sake, but trying to beat the system somehow. That's always been the dream of a certain type of geek, basically, is, can I use math to money ball my way into making money somehow and having this cool life as a gambler living on the edge of the system, so to speak. That's always been. And by the way, I mean, what a venture capitalist do in Silicon Valley is not entirely divorced from gambling, I don't think. They understand expected value that if you make a bunch of long-shot bets and you aggregate all of them into a fund or something, then the math says that sooner or later, one of them will pay off.
+
+[00:54:09.700] - Speaker 1
+It's expected value. The gambling risk-taking component for better or worse, I think is becoming more and more rewarded in society. Certainly Silicon Valley and Wall Street, and even the G gambling industry in Las Vegas, it's still growing every year. That for better or worse, seems to be rewarded in our capitalist economy.
+
+[00:54:31.250] - Speaker 2
+Do you remember when Moneyball came out? Was that a new story to you when you read the book?
+
+[00:54:35.830] - Speaker 1
+It was not new to me. I mean, I had been in the Moneyball revolution, I guess, as one of the people who was using stats to try to understand baseball a lot better. Yeah, and I'm aware that in some ways, my story, founding 538, applying statistics to politics was the same version of Moneyball. I think actually in politics, people are more data averse than they are in sports for example. But no, that was always my world, Moneyball, for sure. So it always felt very familiar.
+
+[00:55:04.920] - Speaker 2
+Tell me the story of 538. Up until then, you're a poker player professionally. Is that correct?
+
+[00:55:11.420] - Speaker 1
+So I graduated from college in 2000 took a job as a consultant, was pretty unhappy at that job, and quit that job because I had started... I picked up poker, and all of a sudden, I would stay up until, sometimes all night, right? Then you catch a cab to work at 9:00 in the morning, and I make far more money playing poker than I would at work. This is the so-called poker boom, where there were a lot of new players, and new players at poker are usually bad. There's a steep skill curve, learning curve. So when you have a lot of new blood in poker, then that's an opportunity. After three years of that, the US Congress passed a law to basically outlaw internet poker. I became much more curious about politics for that reason. I wanted to see the bastard who passed the law, voted out of office, basically. This is 2006. I'm living in Chicago. Half a year later, a guy named Barack Obama begins to run for President. I'm not ashamed to admit that at 30 years old, living in Chicago, a guy from my school, University of Chicago, who seems very different than a typical presidential candidate, runs for President Meanwhile, we're in this post Moneyball world.
+
+[00:56:16.980] - Speaker 1
+There's a lot of... It's a good time to be really interested in data and really interested in politics. And that's how I founded 538, which I worked at from 2008 until 2023, when I sold eventually to the Walt Disney Company, a giant Corporation, but now I'm back being independent again.
+
+[00:56:35.080] - Speaker 2
+How did it start specifically in the beginning? And then why did you leave in 2023?
+
+[00:56:40.070] - Speaker 1
+It started because I... Most things that I do, it's because I want to build a better product, and the product I want doesn't exist somewhere else. I wanted to know, for example, this is spring 2008, whether Hillary Clinton or Barack Obama had a better chance of defeating John McCain. It's a very long, prolonged primary they had, and there were no good models of this. I decided to teach myself and build one myself. The reason I left 538 is because I didn't really have a lot of choice. We sold 538 or I sold 538 to ESPN, and then it was transferred to ABC News, which are both part of the Walt Disney Company. And one problem with the Walt Disney Company is that it's this giant big glacier moving very slowly. And so you have almost no agency over your part of the business. If you have a pandemic and the theme park industry gets hit hard, or if TV streaming, the economics of that change a lot, or televised sports and ESPN, where the movie business changes and is radicalized in different ways, that has 10,000 times more effect on Disney's bottom line than whatever 538 is doing.
+
+[00:57:49.020] - Speaker 1
+So we faced a lot of headwinds. They laid off three quarters of the staff one morning. My contract was up six months after that, and I knew at that point, I don't think it would have offered another renewal, but I knew at that point that I was going to leave. And it's been one of those things where I think I've been very lucky. I'm one of those people I've learned that I much prefer independence. I much prefer not having to be too many people's boss. I much prefer owning my own product and having incentives to work harder. That's a case where I think I've had a good turn of fortune. Something that seemed at the time like it was a loss of an option has actually been very freeing in a lot of ways.
+
+[00:58:30.480] - Speaker 2
+Was it completely independent until you sold it to ESPN?
+
+[00:58:34.370] - Speaker 1
+There was a period where it was licensed to the New York Times for three years. So we licensed it to the New York Times for three years and then sold to Disney/ABC News/ESPN for 10 years.
+
+[00:58:44.580] - Speaker 2
+So licensed means you made your content and they distributed it. Is that correct?
+
+[00:58:49.750] - Speaker 1
+Yeah. So basically, I blogged for the New York Times instead of for myself, but also got to work with their terrific graphics team and their editors. Now and then, they even put me print. So that was fine, right? Even though the Times is a very complicated institution that I have mixed feelings about, that was, I think, a pretty happy time. And then from the moment I felt like where I sold to the Walt Disney Company always felt a little bit cursed to me. I don't know why, right? Also, I think the perception, there's something about being scrappy and independent, even if people know that have a pretty good lifestyle. And there's something about that that is authentic and sympathetic, and it just suits my temperament a lot more, I think.
+
+[00:59:38.900] - Speaker 2
+You talked about you had a job, you were playing poker all night. Were you playing poker because it was fun or was it something else?
+
+[00:59:47.330] - Speaker 1
+Back then, it felt like an ATM because there were so many inexperienced players. There was something called the Poker Boom that began roughly 2003 for a couple of reasons. One was the availability of poker on the internet. This is before there were algorithms to help you cheat on the internet. Partly because there was a guy named Chris Moneymaker, so out of central casting, the name Moneymaker, who won the World Series of Poker main event in 2003. And he had been like an accountant at Deloitte & Touche, I think, in Nashville, Tennessee. Very much an every man guy, I think in his late 20s, medium-bodied, very relatable guy. He defeats all these pros and wins the World Series of Poker for a couple of million bucks. He's on TV constantly, and he inspired a lot of people to say, Hey, look, I have a boring cubicle job. I want to be the next Chris Moneymaker. And of course, most players were not as lucky as Chris Moneymaker or as skilled as Chris Moneymaker. He's a pretty good player. Therefore, there was lots of dumb money in the game. But like any opportunity in gambling or investing, I mean, dumb money only lasts for so long.
+
+[01:00:55.190] - Speaker 1
+It persisted for about two or three years, and then the game dried up. But yeah, I mean, for a period of time, you could click buttons and have an expected value of earning 100 bucks an hour or 200 bucks an hour. That's pretty appealing if you're in your late 20s, early 30s, and basically playing a video game for money.
+
+[01:01:16.570] - Speaker 2
+In your experience, does dumb money dry up in politics?
+
+[01:01:20.940] - Speaker 1
+That might be the one exception. I mean, I think politics almost selects for people who are in certain ways irrational, I suppose. Although I would say, we're recording this about a week after Democrats decided to nudge their President out of a re-election bid for their vice President instead, which was It's really, I think, a smart, calculated decision that Kamala Harris so far is polling better than Joe Biden was. I don't know if she's a favorite against Trump, but she increases their odds. That was an admirably probabilistic decision, I think, that they made, which isn't always true in politics as much.
+
+[01:02:02.180] - Speaker 2
+What's the impact of AI on gambling?
+
+[01:02:05.250] - Speaker 1
+In terms of poker, you now have much more fast computer solutions, so that increases the potential for cheating, but also increases the potential to train yourself really effectively, to be able to actually go and use a computer program and practice in a laboratory environment where you can play against a perfect opponent. It's pretty valuable when you're sitting at a real table against a very good opponent In some ways, actually, levels the playing field a little bit, I think, in poker. In other walks of life, the scary thing about AI is partly that we don't exactly know why it works so well. If you talk to the smartest engineers in Silicon Valley, they think it's a miracle that ChatGPT or other large language models are this magic box where you can ask it a question, and it will give you sometimes a really good answer, sometimes a less good answer, but it's magic, passes the Turing test almost. People don't understand quite how just doing all this matrix algebra worked so well. And so it's a high risk, high reward thing. We might be in a climate in the short term where people overrate the capabilities of AI.
+
+[01:03:17.980] - Speaker 1
+We have this great leap forward. It's less clear to me that we're going to have continuous leaps forward. I think in some ways it produces a greater premium in some ways on human creativity. I think if you look at AI art, for a while, I would use AI-generated images on my newsletter. You have to have a photo that you caption, it gets more signups, whatever else, right? But they fall in the uncanny valley a little bit, where there's not the intentionality behind a creative act that a human has, and that cheapens it and debases it a little bit. If I go to Canal Street in New York, where there are knockoff artists, and buy a replica of the Mona Lisa, that's not the same thing. It's technically a more better version of the Mona Lisa with more vibrant colors or something like that. I think it will force us to confront what makes us human in different ways, but I hope it increases the value of human distinctiveness and uniqueness. I'm not sure it will, but that's what I hope people think about more.
+
+[01:04:28.690] - Speaker 2
+Considering we don't know how AI works and how much faith is being put into it, how much do we know about how anything in the world works? Is AI a great example of how little we know?
+
+[01:04:42.730] - Speaker 1
+No, I think AI is unique in that respect. We understand how nuclear weapons work, and we know that they're very dangerous, but we know exactly the physics of it to the point where... I mean, it was crazy in a way, the Manhattan Project, where a bunch of physicists do a lot of theoretical math, and they detonate a plutonium bomb that, if it had gone wrong, could literally have ignited the Earth's atmosphere on fire. So that was very precise math. With AI, it's just, let's have some relatively simple algorithms and just apply a shitload of computer power to the use and just keep it running for months at a time and see what happens. And all of a sudden, it's able to answer any question that you ask of it. I mean, this is very unusual for a technology. It's why there's a pretty strong consensus that we should proceed cautiously and carefully. Again, I don't think there's any guarantees with AI. It may be that language is more mathematical than we thought, that language involves bluffing and strategy and ambiguity. It's a game that we're playing the way we choose to speak, for example. It may just be that language is more like chess or poker than we thought.
+
+[01:05:54.860] - Speaker 1
+But having some respect for the fact that this magic box worked. I mean, talk to engineers at OpenAI, they call it a big bag of numbers, right? Almost mystically. We have to adjust our expectations for that and understand that if there's another big leap forward, we don't know what we're going to get necessarily.
+
+[01:06:13.030] - Speaker 2
+As someone who uses language both in speaking and writing, how close can you get to your inner experience through words?
+
+[01:06:21.330] - Speaker 1
+I think speaking and writing are actually quite different. Spoken English and written English are not two different languages exactly, but it might be two different dialects, at least. I learned this when I had to recently narrate my audiobook, where some things come through a lot better if you're verbalizing something. You can give somebody an inflection or an accent And some things are worse, like the beautifully written paragraph with lots of parentheticals and M-dashes and things like that may not translate as well in linear spoken speech. But look, I think writing is One of the hardest things that people do, like almost nothing else, I found that I write a lot better when I'm well-slept and when I am able to block out other stresses. And literally, I might write five times better under optimal conditions and suboptimal ones, which is not true for... I don't think I play poker five times better on a good day than a bad day. I'm a very verbal thinker. Apparently, there are some people that don't have as much of an inner monolog. I think one thing we learn from ChatGPT and large language models is that there are probably implicit ideas that we verbalize internally, but the words are an approximation.
+
+[01:07:44.730] - Speaker 1
+If you have the thing where you can't quite put your finger on something, then that's because we have an imperfect representation of our image of the world through words. We store data in weird ways. Sometimes we'll You'll know that of this friend of mine, she's a female and she has a five-layer name that begins with S, right? But you'll confuse a Sarah for a Susan or something like that for a Sally. I hope that one reason that we go slowly with AI is both to avoid the downside risk, but also because I think it says something profound about cognition and particularly linguistic cognition.
+
+[01:08:25.270] - Speaker 2
+What's decoupling in poker?
+
+[01:08:27.620] - Speaker 1
+Decoupling is the ability to block in a lockout context. The example I give in the book is that, so Chick-fil-A is obviously a chicken sandwich restaurant in the US. The founder of Chick-fil-A is conservative politics, has been anti-gay marriage at different times. So decoupling is be able to separate out two things that are not intrinsically related to one another. To say, I don't like Chick-fil-A's politics, but they make a really good chicken sandwich. So you have a politics example that I'm somewhere on the center left. I thought Joe Biden did mostly a good job in his first term. I also thought that he was way too old to run for President for a second term. So let's decoupling. So we'll be able to say, let's uncorrelate these things and remove all the context that we have. And that's important. It's important to be able to analysis. The term analysis comes like the prefix anal, right? It means to cleave things apart is literally what it means. To separate things and disaggregate things and not have this morass where everything's about, oh, context and whatever else. It's like being able to see things for the underlying component structure, the underlying pieces that make them up.
+
+[01:09:42.110] - Speaker 2
+And what is consensus thinking?
+
+[01:09:44.630] - Speaker 1
+Consensus thinking is not quite unanimity, but it's a process that results from people having a conversation with one another and having, ideally, the wisdom of crowds. It's a fine balance to strike, like a lot of things. In general, things like markets are a consensus mechanism where markets are... Everyone has their financial incentive to be correct. Markets are wise most of the time, but when they're wrong, they can be really wrong because of groupthink and because of conformity and everything else. Where do you strike that balance between conformity and disconformity between contrarianism and being just a jerk? I think the average person is probably too conformist. I think Silicon Valley gets pretty despite having lots of flaws just by saying, let's not trust conventional wisdom. Let's invest in these weird, eccentric founders who might be jerks, but there's a one in X chance that they'll build a new company, Facebook or Google, that's worth 10,000 times our investment. But consensus, ideally, should be like a conversational process. The consensus that emerged in the Democratic Party to replace Biden or encourage him to step aside, That was a good example of a consensus that emerged through conversation because it wasn't when at first.
+
+[01:11:04.840] - Speaker 1
+Then as people evaluated more information and thought things through collectively and have this dialog, then it emerged.
+
+[01:11:12.560] - Speaker 2
+How does it work in poker?
+
+[01:11:14.700] - Speaker 1
+In poker, there probably isn't a consensus as much. Again, poker is very unique in that you are playing purely by yourself. You can be a lone wolf. Most things aren't like that. I think poker players get spoiled sometimes and thinking how much can apply that to other walks of life. There can be a consensus about how the community plays a certain hand. It may be that in a certain situation where a certain type of card is dealt, that the average player bluffs too often or bluffs too little, So you're trying to train your implicit algorithm based on what's my image of how the average poker player would work? Then you might upgrade that to say, Okay, here is a 55-year-old guy with a baseball cap and a backpack or 32-year-old Chinese-American woman or whatever else. You try to adjust and adapt to that based on your stereotype of how that person plays. But in poker, we don't need to worry about consensus, which is one of the nice things about it.
+
+[01:12:13.700] - Speaker 2
+Tell me about the shared knowledge in poker. You would think that if you had a system, it would be better not to share that information than to share that information. Yet there are quite a few teachings on poker.
+
+[01:12:26.850] - Speaker 1
+Yeah, I think people have trouble. This is one is the one way you can take advantage of them, I suppose, in poker. People have trouble keeping ideas to themselves, which, of course, is good in creative processes like art. But in poker, this is also how journalism works, by the way, that people are really bad at keeping secrets. So as a journalist, people will share things that's probably not in their narrow best interest to share. And poker is similar. If you're skilled at your craft and you've devoted a lot of time, thousands of hours to studying a certain craft, and you think you have insights, yeah, you can make money by running a training site and getting clicks on YouTube or whatever else. But people have this, I think, compulsion to share information that's, I think, deeply ingrained in our psyche on some level.
+
+[01:13:14.150] - Speaker 2
+Tell me about the psychology of bluffing.
+
+[01:13:16.800] - Speaker 1
+When you're playing a poker hand, you're always representing in poker a combination of strong hands and bluffs. It's always a multiverse that you're presenting to people. With that said, When to pull the trigger on a bluff can depend on the state of mind that you think your opponent is in. But you have to also avoid being too risk averse yourself. One reason why some players literally randomize their action is to ensure that they bluff a proper percentage of the time. It can be easy in a moment to be too risk averse, but we know as poker players, if you are an old guy who sits down at a table or a young guy and you don't play a hand for two hours, and then all of a sudden you go all in. We probably know that you have aces or kings, one of the strongest hands, and you say... Half the time, the guys will show their hands, say, I had aces that time. We're like, Well, we know, right? We know from your betting patterns because you never bluff. It is literally the way poker works is that bluffing is what makes the game.
+
+[01:14:21.300] - Speaker 1
+So if you're not bluffing ever, then you're not playing poker properly.
+
+[01:14:25.480] - Speaker 2
+So if you're playing poker against a computer, does the computer bluff?
+
+[01:14:29.970] - Speaker 1
+Yes. In fact, computers bluff at random based on the contents of their hand and not based on their image of you or whatever. But yeah, computers bluff their faces off. They bluff way more than humans used to bluff. And so by studying computer solutions, people have learned it's important. Again, poker is a game of bluffing, but also a game of information. So you want to conceal information, and that means being unpredictable in poker, and computers play very unpredictable and are therefore hard to play So would you say bluffing has increased in the game of poker since computers have been playing it? Oh, for sure. Yeah. People were not bluffing enough, and now they're approaching the proper ratio of bluffs. But still, 90% of players don't bluff enough. To encounter an over bluffer is a rare treat. But even then, even someone who bluffs too much, number one, mathematically, they are getting dealt strong hands sometimes. So even if you too much, you will have a good hands, too. Number two, they force you to make decisions for a lot of money routinely. That's much less pleasant than somebody who is predictable and passive and conservative.
+
+[01:15:43.010] - Speaker 2
+If you were going to play a game of constantly bluffing versus constantly checking and playing safe, which would lead to a better outcome more often?
+
+[01:15:55.080] - Speaker 1
+The bluffing, for sure, especially in poker tournaments where you have to take risk. If you play the World Series of Poker this year had 10,000 participants, and the tournament last for two weeks. You have to take risks at several points in those tournament and put your life on the line, so to speak, by definition, to emerge in first place out of 10,000 people. And aggression and unpredictable ability is a much better failure mode in poker. Sometimes you may be making what's called a value bet, which It means, I think that I have a slightly stronger hand than you, Rick, so I'm going to wager more money to try to extract a little bit more value out of you. It's an aggressive play. Now and then, what you'll find is that you actually have a slightly worse hand than you, but the person will fold the better hand because they are intimidated by you. So therefore, you got the right outcome for the wrong reason. But when you take aggressive actions and you're active, you're making your own look a little bit. And you can make the right play for the wrong reasons, and you still benefit from that.
+
+[01:17:03.380] - Speaker 1
+Whereas if you're passive and letting other people dictate the action, then you can't really make your own luck as much.
+
+[01:17:09.000] - Speaker 2
+Why would you ever not bluff?
+
+[01:17:11.070] - Speaker 1
+A, because you know your opponent has a strong hand. B, because your image is poor and you expect to get cold.
+
+[01:17:17.560] - Speaker 2
+Tell me about the idea of your image being poor.
+
+[01:17:20.040] - Speaker 1
+People tend to overreact to small sample sizes in poker and much of life, as much as it's useful to train on limited information. So yeah, if you've shown a bluff within the past 15 minutes, people may assume, at least amateur players, a professional would not make this mistake, right? But an amateur might assume that, Oh, this player bluffs too often, or sometimes there's reverse psychology that, Oh, this guy just bluffed, therefore he would never bluff again. Sussing out that type of psychology, reverse psychology, reverse reverse psychology is one of those intuitive things you do from thousands of hours playing poker. But yeah, people, and it's based on all these semantic clues, the combination of you showed a bluff in the previous hand and you're dressed with a backward baseball cap, and you're drinking a Corona and things like that. People develop semantic portraits of people based on that.
+
+[01:18:19.490] - Speaker 2
+How many different games of poker are there?
+
+[01:18:21.760] - Speaker 1
+There are dozens of forms of poker, but there are two forms that are far more popular than any other forms, which are Texas Holdem and then Omaha. Texas Holdem is two cards. Omaha is four cards. It's a lot more complex in that way. But those are games that involve the optimal combination of luck and skill, where good players win often enough to incentivize a class of professional players, but also the bad players have plenty of good days where the cards hit them right and they can go home with more money in their pocket.
+
+[01:18:56.080] - Speaker 2
+When you say two cards, how do you get a flush with two cards? I don't understand.
+
+[01:19:00.340] - Speaker 1
+In Texas Hold'em, each player has two private cards that are just their cards. I see. Then there are five shared cards or community cards. You're making the best five-card poker ham with your two personal cards and the five shared cards.
+
+[01:19:14.120] - Speaker 2
+And in Omaha, how does that work?
+
+[01:19:16.550] - Speaker 1
+A little more complicated. So now you have four personal cards and five shared cards, community cards. You have to use exactly two of your personal cards and exactly three of the shared cards to make a hand. So you can easily, if you're tired, Omaha, there are many different hand combinations you could have. You have to be careful. But basically, you get nine cards instead of seven cards to make a five-card hand, which therefore means that it's much easier to make a good hand. In Texas Holdem, making three of a kind is a very strong hand. In Omaha, three of a kind will usually lose.
+
+[01:19:53.040] - Speaker 2
+When did Texas Holdem become the game?
+
+[01:19:56.140] - Speaker 1
+Gradually in the 1980s and 1990s, or maybe later than that, though. Texas Holdem lends itself very well to tournament poker. It makes for good TV where you can be forced to put in all of your chips on any hand. That makes for good television, makes for a lot of drama. With the poker boom years, I guess I should place this in the early '80s, early 2000s, Texas Holdem was a very good game for TV and involves this risk-reward ratio that's very appealing and dramatic for people.
+
+[01:20:29.570] - Speaker 2
+It was a story in the book about rock, paper, scissors and the use of a randomizer, and something about the odds didn't make sense in the story.
+
+[01:20:38.270] - Speaker 1
+So humans are so predictable. So rock, paper, scissors, the optimal strategy is just to pick a play, a throw, what's called at random. And then you'll win a third of the time, tie a third of the time, and lose a third of the time. When human beings try to play rock, paper, scissors against a computer, the computer wins about 50% more than it's supposed to because humans are so bad at randomizing their behavior that it's very predictable how humans behave when they're trying to actually be random. This is how fraud is detected. If you look at some foreign country and where elections are rigged, Iraq under Saddam Hussein or something, and people will try to come up with a bunch of fake numbers to represent different precincts or districts or whatever else, they're actually very bad at that. They'll have Too many numbers ending in nines and sevens and things like that, and too few ending in zeros. And so we leave a paper trail whenever we try to randomize unless we're actually literally behaving at random.
+
+[01:21:42.350] - Speaker 2
+Tell me about the banter at a poker table.
+
+[01:21:45.110] - Speaker 1
+There's a lot of talk about certain subjects, a lot of talk about poker itself, which sounds obvious, right? But I've never been involved in a hobby where people talk about the craft out loud, maybe more than poker itself. That's interesting. There's talk about crypto Cryptocurrency is a big subject in poker. There's usually talk about politics, which I try to avoid but can't always. More and more, there's talk about health and fitness. I think for a long time, poker players have this stereotype of being schlubby, smoking, drinking, eating donuts, and people have learned that physical fitness matters a lot in poker. There's fairly often talk about psychedelic drugs, which might not seem like a big overlap, but these are people who are on the margins of society But also pretty smart that tends to overlap with interest in these different types of topics. And so poker is predominantly male, about 95% male. There are some terrific female poker players, including my podcast co-host, Maria Konakova. But I think poker appeals to men in part because you can ramp up and ramp down the level of conversation that you want. It's socially acceptable to go to a poker table and be very talkative as long as you're obnoxious, or to be more quiet and just observe and participate more passively.
+
+[01:23:05.200] - Speaker 2
+Would you say that the banter is usually just chatter, or might it have some psychological purpose?
+
+[01:23:12.950] - Speaker 1
+The professional players very well might have a psychological purpose in mind. Just being friendly and opening up to people, people will reveal all types of things that it's not in their interest to reveal. Which, by the way, if you're playing a low-stakes game, just go ahead and be friendly. It's not going to make that much difference. But just being chatty can help a lot. Maria Ho is another very good poker player, and she has this unique ability to be fully engaged in conversation while she's concentrating. Most people, including me, can't necessarily do that in a high-stake situation. So it's just another way to disarm her opponent and get information out of them. Sometimes I'll ask a question that's like, I'm literally meant to break somebody's shell and put someone at ease or break their concentration flow. I'm deciding whether to call a bluff or not. I'll say, Are you French, for example? French poker players have reputation for being wild and bluffy. The actual content of the question is irrelevant. Maybe they know the guy is French. I'm just trying to see whether he's at ease with a disruption in their environment and the contents of the question don't matter very much.
+
+[01:24:32.850] - Speaker 1
+So, yeah, you develop a lot of little curveballs like that to try to learn things from people.
+
+[01:24:37.860] - Speaker 2
+What are some of the obvious distractions that might happen at a table?
+
+[01:24:43.330] - Speaker 1
+I mean, one problem is that you're playing poker in casinos most of the time, and casinos are extremely noisy environments. They're like slot machine, jackpots and alarms. There's the nightclub where you have scantily-clad women going by and whatever else. Lots of sound and noise and light and fury. And so learning how to block out those distractions is important. It's considered bad etiquette to intentionally distract your opponent. Poker players, we are tradesmen or tradeswomen in a way as poker players. So etiquette matters, I think, in poker. But yeah, if you're in a casino environment, the first place I went after the pandemic for the book was a giant casino Casino, the Hard Rock Seminal Casino in Hollywood, Florida. A casino in Florida is every bit of the glorious shit show that you would expect. And so you get pretty used to being focused on this mathematical and human decision you're making despite the distractions around you.
+
+[01:25:44.990] - Speaker 2
+Do you ever choose a move that goes against the odds just because of an intuition or a feeling?
+
+[01:25:52.030] - Speaker 1
+Absolutely. And the better you know the odds, though, the more you know how much of a deviation it is. If If the math says that I have to fold this hand 100% of the time, unless you have a physical tail on your opponent, then you should probably still fold, right? If the math says that 80% of the time you should fold, but 20% of the time you should call because your opponent might be bluffing too much, then you might use your intuition to say, This is one of the times I'm going to take my 20%, right? Something I feel intangibly or tangibly about the situation feels like, I'm going to pick this play that's rare, but not totally outside the boundaries of the math of the game.
+
+[01:26:33.060] - Speaker 2
+Are there ever any examples where it's totally outside, where 100% of the time you're supposed to fold, but for some reason you have a feeling, I want to play this hand?
+
+[01:26:41.930] - Speaker 1
+Maybe three times out of a year playing poker, I'll just feel so strongly about something that I'll make a play I know would be grotesquely wrong in a computer simulation as opposed to being on the margin.
+
+[01:26:54.820] - Speaker 2
+Give me an example of what could get into you that would allow that behavior.
+
+[01:26:59.530] - Speaker 1
+I I remember one hand where I paused for a while and trying to decide if an opponent was bluffing, and he was literally almost turning green. He was so nervous. A case like that, that was enough information revealed where I was pretty confident about the play.
+
+[01:27:16.880] - Speaker 2
+Is the amount of time that you wait before you play give away too much information?
+
+[01:27:23.360] - Speaker 1
+It can. I tend to play pretty quickly. I find that if you do trust your intuition, then you can sometimes talk yourself into an action which isn't good. One thing in particular, I'll sometimes have an intuition to fold, and then we'll talk myself into thinking that My opponent might be bluffing, I have to call instead. When I have that intuition, usually the first instinct was right. You're rationalizing instead the fact that like, Oh, because it's boring to fold. You don't You don't get the thrill of seeing what cards your opponent has. You've given up on the chance to win the pot and to make money. And so folding is intuitively not very satisfying. And so if you think through a problem, then you can sometimes rationalize too much. I've tried to slow down a little bit when I play, just taking a few seconds to pause and consider your action, I think, can be a good habit. But I play pretty fast, an unusually fast player for someone who's seen as being pretty mathematical.
+
+[01:28:35.110] - Speaker 2
+Is there ever a time when it takes you time to make a decision as opposed to being able to play fast?
+
+[01:28:42.840] - Speaker 1
+Sometimes more information is revealed. If you're playing against an amateur player, then quitting them in the hot seat for a couple of seconds or a couple of minutes, rather, and seeing how they react can be valuable. Sometimes you can explicitly do math. You can say, Let me literally to quantify what are all the hands that they might have and what is the size of the bet relative to the pot, and do I literally have the odds to call? Those are the two circumstances, basically. But you're trying to do a lot of your subconscious processing before you make a decision because you are giving away information. If you take two minutes to make a decision, first of all, they can call the supervisor and say, You're taking too long. Now it's time to go make a decision. Now we you have to fold. So there is eventually a clock, literally, it will be called on you. I think I like playing poker a little bit more in flow, and that can mean more rapid, and you use your longer decisions for times when you think your opponent might reveal more information.
+
+[01:29:45.340] - Speaker 2
+How quickly from the time that you first look at your cards, do you know what you're going to do?
+
+[01:29:49.350] - Speaker 1
+So for me, I try to wait until it's my turn to act and see what my opponents have done and then decide, which is maybe unusual. I think some players are trying to anticipate from the first instance what they'll do next. But like I said, I like to play in flow a little bit more. It's interesting because if you like a computer, I mean, these computers now can give you very powerful, mathematically accurate solutions, but they take several minutes till they come up with an answer, or at least they used to. Now with AI, they can make shortcuts that are faster. But formally solving a poker hand with an algorithm can take minutes, hours even to get a very precise solution, and yet human beings process this stuff in seconds before giving away information. So the math is actually very complex, and probably some part of your brain is doing some matrix algebra across with pattern recognition somewhere. And just like when you have a feeling where you can't recall something, you forgot, Oh, I made plans on Thursday, and I forget who I made plans with. And then the answer pops into your head five minutes later.
+
+[01:30:59.750] - Speaker 1
+There's some element of that, I think, in poker, where some part of your RAM, your CPU is solving a hand, and then you discover it later on. But like I said, I mean, live poker, I also believe in the power of intuition.
+
+[01:31:13.480] - Speaker 2
+Walk me through an entire in your hand? How does the cards get dealt?
+
+[01:31:17.340] - Speaker 1
+So at first, in Texas Holden, which is a game I play overwhelmingly more than any other game, each player is dealt to private cards, and they act clockwise. So there's a dealer, the player to the left of the dealer acts first. By the way, position is very powerful in poker. It's a game of information. If you act last in poker, it's not a first-mover advantage, it's a last-mover advantage actually in poker. See what everyone else does, and then you get to decide how to act. So there's a round of betting. You can always have three decisions. You can call, fold, or raise.
+
+[01:31:50.540] - Speaker 2
+At this point, you've only seen your whole cards. You don't see the cards that everyone has?
+
+[01:31:55.980] - Speaker 1
+That's right. And maybe a third of the time, the hand is actually over before or there are any face-up cards. Somebody raises, I have Ace King in good hand like that. Everybody else folds, or I raise, you re-raise, and I fold. So maybe a third of the time, you never actually see any cards face-up. It's purely based on the clues people are giving with their betting and sometimes also verbal or physical patterns. And there's never a card seen face up until at that point.
+
+[01:32:23.620] - Speaker 2
+So the first thing that happens is two cards are dealt, and then people bet based on those two private cards.
+
+[01:32:30.120] - Speaker 1
+Right. I mean, the first time I played Texas Holden, my thought was like a miracle. How can you have a game of poker where this whole most important round of betting, actually, the pre-flop, it's called Betting Round, is probably the most important jumping off point for a poker game. And You have people making decisions for thousands of dollars where there's never any public information revealed except through their betting patterns and their other physical patterns.
+
+[01:32:53.310] - Speaker 2
+Based on the two cards that you get, you pretty much know automatically what you always do?
+
+[01:33:00.220] - Speaker 1
+Usually not. One irony of what computers have taught us in poker is that most hands involve what are called mixed strategies, which means that if you have a hand, let's say 10, of diamonds, which is a hand that can make flushes and straits, but doesn't have any aces or kings. It's a speculative hand that can sometimes luck into making a very good hand. And somebody raises before you have a chance to act. A computer will say, Sometimes you're supposed to call, sometimes you're supposed to fold, and sometimes you're supposed to re-raise because unpredictable is so important. You might think of computers as being very deterministic and definitive, but they actually say that you have to actually behave literally at random sometimes.
+
+[01:33:49.130] - Speaker 2
+Is that the same as saying there's no right answer?
+
+[01:33:51.970] - Speaker 1
+Yes. It is saying, literally, it's saying that you're indifferent, which in game theory terms means that the three answers have the same expected value. There's some life lesson in this. People tear their hair out about these really close decisions when sometimes you're just indifferent. Just do whatever you feel like, right? Or flip a coin and decide at random. Most decisions in an efficient poker economy or an efficient economy are probably pretty close.
+
+[01:34:22.010] - Speaker 2
+Why would we assume if it's a random choice, that making choice A every time is the wrong thing to So this is where it gets a little complicated.
+
+[01:34:34.150] - Speaker 1
+Let's say there's a certain hand where half the time I'm supposed to bluff and half the time I'm supposed to give up and fold. So on the one hand, any one instance, it's 50/50. However, if every time I face that decision, I always bluff or always fold, then I become too predictable, which is why it's important to literally randomize or at least be self-aware enough of what are my overall tendencies or frequencies poker players call them in terms of, am I airing too far in one direction or another?
+
+[01:35:03.980] - Speaker 2
+Okay, so the two cards have been dealt. You bet the first time. What happens next?
+
+[01:35:09.220] - Speaker 1
+So now, maybe the most exciting moment in poker is three community cards called the flop are dealt.
+
+[01:35:16.140] - Speaker 2
+All three at once. One, two, three?
+
+[01:35:17.860] - Speaker 1
+It's all it's called the flop. You flop down this big board of cards, basically. And so, yeah, you go from having zero information about shared cards to three cards now. And so this radically some hands go up or down in value, and you have another betting round.
+
+[01:35:34.450] - Speaker 2
+So the betting doesn't happen after each flop card, only after all three are turned over.
+
+[01:35:41.420] - Speaker 1
+Only after all three.
+
+[01:35:42.680] - Speaker 2
+I see.
+
+[01:35:43.300] - Speaker 1
+You go very quickly from having very little information to having quite a lot of information. And unsurprisingly, this can cause radical turns of fortune where you thought you had a great hand, but now all of a sudden, your opponent might have a flush or a straight, and it's a reorientation of the When does the betting end? So there are four betting rounds. So before the flop, after the flop, when three cards are dealt, then the turn card is the fourth community card that's dealt. And the turn is all about leverage. If you had a small advantage before, now is when you turn the pressure up and make a larger bet, there is still some element of chance. There's one more card to be dealt, the river that we'll talk about in a moment. But the turn is all about pressure and leverage. It's a pivotal street is, I think, the right word for it.
+
+[01:36:35.450] - Speaker 2
+Okay, so the fourth card gets turned, you bet again, and then?
+
+[01:36:41.450] - Speaker 1
+Then the river, which is the name of my world in the book, but the river is the fifth and final card in Texas hold them. And then poker transforms from a game of randomness to a game that's actually fully determined. All the cards have literally been dealt. There's no more random element in the game. And so now it's the mano a mano or person versus person confrontation, tests of wills and insights. And are you bluffing or do you actually have the hand that you're representing?
+
+[01:37:09.910] - Speaker 2
+And if you don't call or raise, you don't get to find out what the other person has. Is that correct?
+
+[01:37:19.980] - Speaker 1
+You don't. And that curiosity gap, if you fold, then you don't. Although, along with the theme of people giving away information for free, some people can't resist showing you a bluff or can't resist even being a friendly human being and saying, Oh, you made a good fold. It might be to encourage you to make other folds in the future. It might be just because they're friendly. So they'll sometimes voluntarily show you the cards. But the curiosity gap, if you call, people are required to show you their hand or required to say, I was bluffing and throw their hand away, so at least you get the satisfying outcome. That curiosity gap probably causes people to call more often than they should.
+
+[01:38:01.090] - Speaker 2
+Do you find yourself in that position or no?
+
+[01:38:03.480] - Speaker 1
+I'm sure I do. I mean, yeah, a lot of players probably call too much, and I'm probably one of those lot of players that calls too much. I'm trying to fix that. But the desire to gain more information and learn what your opponent had can be hard to turn off. I remember one hand where my opponent was giving away very strong physical tells. He was slowing down way too much and being much too deliberate, which is often a sign of having a very strong hand. I had a hand on a computer I would have to call with. At a gut level, I knew that he wasn't bluffing. I still called because I was so proud of my read. I almost wanted to confirm how good my intuitions were, and they were right, and it was knocked out of the tournament as a result. So it was like an $1,100 indulgence, mistake, basically. It was a $1,100 tournament, just to satisfy my curiosity.
+
+[01:39:04.300] - Speaker 2
+Typically, how many people are in a game?
+
+[01:39:06.280] - Speaker 1
+Typically, anywhere from 8 to 10. There are also shorthanded forms of poker. You can play heads up, which is two players or six max. In general, the fewer players, the better, I think. If you have 10 players, there's very literally a lot of waiting around and doing nothing. If you're setting up your own game in your backyard, then probably no more than eight players, maybe closer to six is better. If you invite 12 friends over to play poker, have two games of six and not one game of twelve. It's very slow and very boring.
+
+[01:39:41.680] - Speaker 2
+Tell me about your emotional state after a session of winning versus after a session of losing.
+
+[01:39:49.410] - Speaker 1
+When you win, you can be very jazzed up for a period of time. It can be a feeling that's euphoric, but also you're experiencing a physical response. Gambling for high stakes will and should give you a physical response. One of the people I talk about in the book is a guy named John Coates, who was a derivatives trader at, I don't know where, Deutsche Bank, I think, and had been an academic, went into Wall Street, and thought, these traders that I work with are total freaks. They're making these gigantic bets, and they're crazy and nutty and started trying to study the physiology of traders on a Wall Street trading desk. And he found that the people who had a higher stress response actually were better traders, believe it or not. Now, they were able to channel that into thinking very efficiently under stress, into learning how to get the feedback their physical body was giving them and combine that with the math. It's, again, very poker-like. I think a lot of these things are about 80% mathematical routine and 20% intuition under times of stress and uncertainty. If you're playing a high-stakes game, then you'll be jazzed up.
+
+[01:41:06.800] - Speaker 1
+You may need some time to decompress. Poker also, if you play the World Series of Poker, then you might play for 12 hours a day. It's actually like it's physically demanding. One reason why these days most poker champions are younger players is because it actually involves physical stammer. That's why actually some poker players eat healthily these days. If you lose, then just go on and do the next thing in your life, whatever makes you happy, treat yourself to like a nice dinner. To some extent, dwelling on and revisiting hands can be helpful to some extent. I mean, sometimes you'll go and say, Okay, I made this big bluff and it didn't work. Now you can go look up the answer in a computer and say, Okay, at least did I mathematically make the right play? And you comfort yourself through that. But in general, what's past is past, and resilience is important, especially if you're in a hand, where if you lose half your chips, half your stack, amateur players sometimes go on tilt and lose their shit and lose their entire stack. A guy who has a big chip lead in a major poker tournament, And he's having the time of his life, and then he loses a bad beat or something.
+
+[01:42:18.730] - Speaker 1
+I mean, that player can be very vulnerable to going on tilt. So steadying yourself, maybe you give yourself 30 seconds or something, but you have to get back in the saddle very quickly when you have an unfortunate or losing hand. And that's, I think, a pretty valuable life lesson.
+
+[01:42:37.510] - Speaker 2
+How much does winning come down to the cards you're dealt and how much does it come down to you reading the other players?
+
+[01:42:45.590] - Speaker 1
+In the short run, the cards matter more. I'd probably give the 80/20 ratio again. I mean, part of what makes poker appealing is that I'm not very good at basketball to begin with, right? But if I go and play in the World Series of Poker, I can be sitting down with Phil Ivy or Daniela Gráinne or Maria Ho or the best players in the world, literally, are playing the same tournament as I do. If I go play pickup basketball, I'll never get to play against LeBron James or Stephen Curry. Now, in pickup basketball, there's a 100.000% chance that I will lose a pickup game to LeBron James. In poker, even a mediocre amateur player would beat the player in the world 20% of the time or 25% of the time. And a player like me who's pretty good, almost professional level, but certainly not Phil Ivie or someone, I might win a third of the time. That's what makes poker democratic and participatory is the ability for any one player, through the luck of the draw, to be any other player in a given poker session.
+
+[01:43:55.890] - Speaker 2
+What's the Nash Equilibrium?
+
+[01:43:57.840] - Speaker 1
+The Nash Equilibrium is named the Princeton Professor, John Nash, who was Russell Crowe in a beautiful mind, which is a game theory solution, which explains what is a solution that results if everybody is playing their hand optimally. One canonical example For example, it's called the prisoner's dilemma, where if you and I, Rick, are both jailed and charged with a crime, and we can cooperate and get a shorter sentence or snitch on the other person, and if I snitch on you and you don't snitch on me, then you're screwed, or otherwise, you can screw me over and vice versa. The Nash equilibrium in that solution says you're supposed to actually snitch on the other person and not cooperate. Or the Nash equilibrium in nuclear deterrence theory says that, fortunately, we shouldn't pull the trigger and fire a nuclear weapon at Russia because then they'll strike back at us and everyone will be dead. It's a game theory optimal solution that results when we're each playing our hand individually and not cooperatively. The cooperative part is important. Oftentimes, if we do cooperate, we get a better outcome, which is why trust is important and why ethics are important, actually.
+
+[01:45:14.090] - Speaker 1
+Ironically, when it's every man for himself, everyone winds up worse off sometimes.
+
+[01:45:21.790] - Speaker 2
+What is a cold deck?
+
+[01:45:23.420] - Speaker 1
+A cold deck is a situation where you suspect you're being cheated. I mean, canonically, it happens when you're winning a bunch at Blackjack or something like that, and the casino decides they want to win their money back, so they'll put it in a deck that's been rigged in their favor. This does not happen very often in big American corporate casinos. It's a very highly regulated industry. In public poker games or casino games, you probably should not worry greatly about being cheated. In private games, maybe you shouldn't. Being cold decked is one term for when you're being exploited.
+
+[01:46:04.720] - Speaker 2
+What's the last time we know of a casino cheating?
+
+[01:46:08.630] - Speaker 1
+Look, I'm sure it's happened in individual instances. What it often is, is a casino employee collaborating with a player to cheat. There was a scandal at the Bellagio some years back. The last mob scandal in Vegas, I think the Stardust, had some profit skimming scandals that lasted until about the 1980s. But for better or worse, like everything else, commercial gambling has become very corporatized. There are literally people that work for Haras or Caesars or MGM that hire aerospace engineers to develop algorithms to tell you how to gamble more on slots. They know how to manipulate the payout probability so that you win just often enough to keep you coming back. It's a metaphor for capitalism and some of the more predatory forms, I guess, of capitalism.
+
+[01:47:02.820] - Speaker 2
+Tell me about the anxiety over a dealer switch.
+
+[01:47:06.960] - Speaker 1
+This is, I think, mostly an unhelpful superstition where people will sometimes try to change their luck by asking for a new dealer. But the reason why, actually, in both poker and casino games like Blackjack, the dealer will be switched up every half hour, if not more often. And this is a device to prevent collusion and cheating. Lots of the procedures that you see in poker game are meant to prevent cheating, and you might ask why they exist. So for example, why are poker cards... So cards are either red or black. You have black clubs and spades and red diamonds and hearts. Why not have four colors instead? It might seem more intuitive to have four colors. The reason why is that if a player is cheating and trying to see the cards as they come off a dealer's in his hand, then having two colors instead of four is harder to detect. And also red and black are actually both dark colors that look fairly similar under dim light. And so therefore, everything that's a way to prevent cheating or unintentional revealing of information.
+
+[01:48:18.700] - Speaker 2
+There's a story in the book where you talk about a test with four decks and unconscious stress being recorded.
+
+[01:48:26.980] - Speaker 1
+Yeah, it's called the Iowa Gambling Task, where they would simulate. They did, I think, originally with actual decks of cards and now with computers, where people have to pick from four decks of cards, and some decks are unlucky and have lots of bad outcomes, and some are slow and steady. Then after maybe picking up five or six cards from each deck, you begin to detect the pattern. It's not that subtle. But what the experiment found is that people begin to develop an intuitive dislike of the unlucky decks before they actually consciously process that. If they're playing on the computer, you can see their mouse cursor scrolling over toward the more benign decks and not the unlucky decks. You can see what they're doing with their eyes and things like that. Because, again, we have millions of years of evolution where it's a fight or flight response, fast twitch, quick reflex, under conditions of stress, we have to react quickly. And so our intuitions and our body is actually actually teach us something.
+
+[01:49:31.290] - Speaker 2
+I understand what you're saying. If we don't have intellectually enough information to make the right choice, how could we intuitively make the right choice before we have the information we need?
+
+[01:49:42.950] - Speaker 1
+Because we exist in three dimensions. The most important evolutionary condition for human beings, we're not a particularly strong species, was movement. The ability to move around to find food or to get away from stress or from predators or to find mates or things like that or change houses when the seasons change. So that physical system actually still provides us with a lot of information. That's the reason, by the way, Rick, that I'm a little skeptical about how far AI systems can go when they don't have physical bodies and don't have physical inputs that they're accumulating from the world. So yeah, it's just saying not everything. And poker is on the side of things where deliberate, Daniel Kahneman called it system two processing where it's deliberate, slow thought. That is very valuable, and that is a lot of it. But look, a poker player should use all the information that she has, and that includes information that she picks up through her body as well as deliberate thought from her mind.
+
+[01:50:47.030] - Speaker 2
+What are some of the most counterintuitive things you've learned from the time you originally started playing poker till now?
+
+[01:50:54.570] - Speaker 1
+I think at first, the notion that bluffing is not just optional but mandatory I mean, I think that takes a long time to learn. One poker trait that's also a good life lesson is what I call raise or fold. There are three basic actions in poker. You can raise and up the stakes, you can call and maintain the status quo, or you can fold and opt out of the rest of the hand. If you play an amateur poker game, I will sometimes deal like a backyard game in Brooklyn with people who have never played poker before. Their mistake is they call, take the middle ground way too often instead of the more decisive actions of raising or folding. I think this teaches us a lot about life, where we are too willing to muddle through in a situation where we'll be fine, especially if you become accomplished and privileged, then you can muddle through and not make changes. But sometimes the middle ground is the worst ground. I think, for example, to bring in a slightly politicized example, but during COVID, instead of taking bolder strategies and saying, Okay, let's really nip this thing in the bud, or let's acknowledge that people have to have some type of life balance here.
+
+[01:52:06.470] - Speaker 1
+This is going to persist for a long time. We went back and forth and tried to have it both ways and wound up both having a lot of loss of life and a loss of freedom and economic well-being and other types of well-being. There's a lot of value sometimes of being willing to fold or to quit and to take a bold course of action that I think people are too reluctant to apply sometimes.
+
+[01:52:28.570] - Speaker 2
+What is poker face?
+
+[01:52:31.030] - Speaker 1
+Poker face is your ability to maintain a neutral expression and not reveal information in the face of stress or in the face of having information that you don't want to reveal. It's something that poker players begin to do instinctively. If you are playing one of these amateur games, I play in some amateur tournament against New York finance guys, and they have the worst poker faces in the world. What most people do intuitively is act the opposite of what their hand is, and that becomes very predictable. So they'll scratch their chin if they have a really strong hand, thinking they're being tricky and trying to trick you. But of course, if you have any intuition for human behavior at all, You'll detect that they're doing the opposite. They're lying to you, right? And so therefore, you can give off intentional fake tells, meaning fake information that people might mistake for real information, but you generally don't want to do that. Have Have a routine, apply the same process every time, look at your cards in the same way, put your chips into the pot in the same way, and avoid giving away information because your opponents are smarter than you assume, and you're usually only hurting yourself.
+
+[01:53:45.510] - Speaker 2
+What do you talk about in the book when you refer to white magic?
+
+[01:53:48.460] - Speaker 1
+White magic is a term self-applied by a player named Phil Helmuth. A legendary player, he's 117. World Series of Poker bracelets their call, which you get for winning an event. A very egotistical player. I find Phil slightly charming. Some people find him fairly annoying. But white magic is his ability to pick up on intangible reads of people based on his intuition and his experience. He's very, very, very chatty and talkative. And some people would say, if you're listening to this, Phil, I'm sorry. Some people would say annoying as well. So he's trying to provoke people into breaking their poker face and revealing information. And some people can't control themselves and often do that. And so he is a player who relies very heavily on intuition. He is criticized for not being as mathematically advanced as other players, but in certain environments, especially against amateur players, he has an uncanny ability to read them and to unsettle them.
+
+[01:54:54.490] - Speaker 2
+Have you experimented with meditation at all to improve your poker game?
+
+[01:54:57.900] - Speaker 1
+I haven't, and I think I probably should. The closest I come is that if you're going for a run or a walk, I think that can help a lot. I think you get breaks every 2 hours in a poker tournament. You'll have a 15-minute break, right? Some people like to go and chat with their friends when that happens. I hate doing that. I like to walk around and contemplate a little bit myself instead. But I'm sure meditation would be very helpful. I mean, removing extraneous distractions. I mean, you learn playing poker that stresses that way on you. If you're in an argument with a friend or a partner or a parent or something, that has a way of budding you in the ass. If you're hungry or tired or restless, that has a way of catching up with you sooner or later. If you secretly don't want to be there, if you're bored and the back of your brain is like, You know what? I don't have very many chips anyway. I would have a higher expected value by going and having a sushi dinner and a nice glass of sake or something. Your subconscious will find a way to guarantee that you lose.
+
+[01:56:19.820] - Speaker 1
+And so, yeah, I think the idea of avoiding attachments would be very valuable, but no, I do not meditate myself.
+
+[01:56:26.340] - Speaker 2
+You mentioned a book from the early 2000s on luck. And you said that you disagreed with how the book defined luck, and it defined luck as some optimism, and you see it in a different way.
+
+[01:56:39.160] - Speaker 1
+So I think the author of that book calls a lot of things luck that are really being opportunistic. The economist term is having optionality. You want to have a lot of choices. If you walk down a hallway where there are more doors, one of those doors might be open and you might have an opportunity to take advantage of that when you when you wouldn't later on. Being in an environment where there's a lot of stimulus or stimulation. I think, Rick, maybe in your book, I was reading the other day, and you talk about this as part of the creative process a little bit, where you never quite know where inspiration comes from, but it can be from taking a walk or from a conversation. To have optionality, to have serendipity in your life, I think you can quote, unquote, make your own luck a little bit.
+
+[01:57:33.690] - Speaker 2
+What is beginner's luck, and is it real?
+
+[01:57:36.440] - Speaker 1
+It's real in the sense that luck exists, right? You can have a situation where you happen to have a good turn of fate or turn of fortune There is something to be said for the notion of sometimes somebody who doesn't know what they're doing actually is more unpredictable because they'll make a play, they don't know what the right play is, and therefore they can wind up unintentionally playing like a very good player because a good player in poker knows how to randomize and how to be unpredictable. So there's something to be said for that. But in general, poker has a steep learning curve. It's a technical game. It's a game that benefits from experience. And so why the game survives is a mystery to me because you generally get your butt kicked when you're an amateur, an experienced poker player. By definition, actually, the players who survive are probably players who do have beginner's luck and get lucky in this period where they're probably nine times out of 10 supposed to lose money, and they pull the lottery ball out or they get the one time out of 10 and start playing pretty well from the start.
+
+[01:58:46.240] - Speaker 1
+And then before they know it, they're actually good, and then start to become a winning player. But yeah, beginner's luck is luck, but it's very helpful to have and put you on the right trajectory.
+
+[01:58:55.720] - Speaker 2
+Is poker the most popular of all gambling games?
+
+[01:58:58.560] - Speaker 1
+No. Poker makes up about 1% of Las Vegas casino revenues. The most popular casino gambling game, unfortunately, is slot machines, which are also the worst game for the player. Of every $100 that you put in a slot machine, Then Vegas takes about nine bucks or 10 bucks out of that $100. Whereas in Blackjack, they take about $1 out of every $100 that you bet, the expected value of that bet. If you learn nothing else from the casino chapter in the book, don't play slots. Slots are a bad game for the player, and they're also engineered to manipulate your failures or probabilistic reasoning. They're engineered to maximally make you keep betting until you lose all the money you brought with you.
+
+[01:59:46.010] - Speaker 2
+Have you ever lived in Las Vegas?
+
+[01:59:48.460] - Speaker 1
+I haven't. I like Las Vegas quite a bit. It's a unique town where I think people are authentic. The details themselves are like a fascinating cross-section of America. When you get off the strip, you have a lot of working-class people. It's very ethnically mixed. There's actually very good food in Vegas. The weather is awful for about three months out of the year in July, August, but actually Very pleasant, low humidity for the rest of the year. I like the American West in general, and I like Las Vegas, but my partner likes water, likes beaches, likes things like art and culture that you have some of in Las Vegas, but it's an acquired taste, I think.
+
+[02:00:33.830] - Speaker 2
+Tell me about the place that you gamble in Las Vegas.
+
+[02:00:37.640] - Speaker 1
+So all over, the World Series of Poker is held at the Paris Casino, which has a replica Eiffel tower. I mean, a lot of Vegas is very tongue and cheek. It's objectively ridiculous to be in a replica half-sized Eiffel Tower or to have fake volcanoes exploding, or they have this giant sphere now. It's actually quite impressive architecturally. So you get very used to just being in your zone and walking through the lobby where there are ridiculous things happening, and you see all the bachelorette parties and all the tropes, and it forces you to be very focused.
+
+[02:01:12.990] - Speaker 2
+Do you know anything about horse racing?
+
+[02:01:14.840] - Speaker 1
+Very little. I went to Aqueduct Race track to do a photoshoot the other day. But apart from that, I've been to a racetrack twice, I think, in my life.
+
+[02:01:25.370] - Speaker 2
+And what about other types of sports betting?
+
+[02:01:27.820] - Speaker 1
+So I do some sports betting. I'm a big NBA fan in particular. For the book, I undertook an experiment where I bet what wound up being a total of about $2 million on the NBA one season. This is not $2 million at once. It's making $1,000, $1,000 bet, so it adds up to being quite a bit. Yeah, I'm a sports fan and I'm competitive, so I find sports betting fascinating. The big thing I learned in writing the book that I didn't know beforehand is that if the casinos, the betting sites, DraftKings, for example, if they think you're a winning player, then they'll ban you or limit you to betting only a few dollars at a time. So it's a little bit of a... I mean, rigged is a little bit too strong of a term. I don't want to get sued or anything like that. But they only want losing players, betting with them. And so if they're taking your action, you should ask why that is. Why are they taking this bet? If you expect to win, well, probably you're fooling yourself in some capacity.
+
+[02:02:30.620] - Speaker 2
+What are the other things that people bet on?
+
+[02:02:32.330] - Speaker 1
+Well, people increasingly bet on politics through things called prediction markets. I should say, full disclosure, I consult with a prediction market site called Polymarket, so I have equity in that company. When Joe Biden had his difficult debate in June, instantly within 15 minutes, traders at prediction markets began betting that Biden would then drop out of the race, which it took almost a month, but later on he did. So Yeah, and look, the stock market is a form of gambling. I mean, obviously, cryptocurrency is a form of gambling. Yeah, people bet on lots of things. It's just that we only call certain things gambling. And just because it's not in a casino doesn't mean that you're not undertaking the same process. Although, of course, investing in the stock market has a positive expected value. You make money 8% per year over the long run, which is pretty good. And so, yeah, play the stock market. If you If you have the gambling urge, then pick some companies and invest in them, and that's better than playing slots, for sure.
+
+[02:03:36.490] - Speaker 2
+Is most online gaming done by offshore companies?
+
+[02:03:41.600] - Speaker 1
+Most of it. So in poker, there are a few states now. I think Nevada, Michigan, Pennsylvania, New Jersey, where they have legal poker. But yeah, most of it is very much in a gray market. And historically, those sites have had histories of folding up overnight, of of having cheating scandals, of not being very well regulated. Yeah, a lot of gambling types are libertarian and don't believe in the heavy hand of the government. I'm semi libertarian myself. But you actually want regulation of gambling or you'll get cheated. I mean, for many, many years, poker was known as a cheater's game. It's only been in the past 30 or 40 years, maybe even short of that, where most of the time you can be in a safe, regulated environment where people win your money fair and square. But yeah, regulation and gambling are simpatico, and you should want anal retentive regulators. I talked to like, Nevada Gaming Board, right? And they're basically like, literally ex-cops a lot of the time. They know every statute and every law. You want people who like that or who are really strict because a little bit of cheating turns into a lot of cheating really fast.
+
+[02:04:59.110] - Speaker 1
+And your edges are small in poker. So even a little bit of cheating can make you into a losing player.
+
+[02:05:05.600] - Speaker 2
+What is middling?
+
+[02:05:07.030] - Speaker 1
+Middling in sports betting is the act of betting on both sides of a game where you're guaranteed to win either way because you take advantage of different point spreads. It's a form of arbitrage to use the Wall Street term. So if I bet on the Kansas City Chiefs at minus three, which means that you subtract three points from their score, they're the favorite. At one site, and then I bet on the 49ers at plus five, meaning they're a five-point underdog at another site. Well, if the Chiefs win by four points exactly, then I win both bets. I've hit the middle. Otherwise, I just break even, so I get my money back, basically. So, yeah, it used to be that 20 years ago, the market was so inefficient that you could sometimes just look up different casinos and have a guaranteed profit through arbitrage alone. Those days are are pretty much over now. If there's free money lying on the ground, then somebody will pick it up. And so now you have to work much harder to have an advantage in sports betting.
+
+[02:06:10.820] - Speaker 2
+How are the sports lines determined by the people who make them?
+
+[02:06:16.760] - Speaker 1
+So initially, it's basically like a series of nerds sitting in a boiler room somewhere, and it'll be the NFL schedule will come out for the next week, or they'll know the schedule, I suppose. And they'll probably look at some a computer model and then have a conversation, say, should we make it packers by three and a half or four or whatever else? Those initial lines are actually not very good because it's just like one or two smart guys having a conversation and giving a first estimate. The reason why betting lines are tough to beat is because people reveal their hand and you have skilled betters betting into those lines. So if I say that line should be four points and not three, I'm going to bet $10,000 dollars now on the packers. Well, the casino knows that, and it will then adjust their lines accordingly. So it's not that hard to beat some random college graduate. It's really hard to beat the consensus of all the sharp sports betters in the world who reveal through their preferences who they think is going to win. Beating the wisdom of crowds is quite difficult most of the time.
+
+[02:07:26.540] - Speaker 2
+So it's basically crowdsourced?
+
+[02:07:28.490] - Speaker 1
+Absolutely, yeah. That's interesting. And that's one reason why... So I talked about how some sportsbooks like DravKings will not take action from smart or the term in gambling is a sharp better, a sharp better is a winning player. But some old-school bookmakers believe in crowdsourcing. They'll let me bet, say, $1,000 on an NBA game, knowing I have some theoretical edge on that bet, because by game time, they're taking $50 million in bets from amateurs who are drunkenly walking through the casino or going into the game and want to bet a thousand bucks in the Celtics because it's going to be fun or whatever. And so they are basically paying you an expected value for the information. But yeah, crowdsourcing is the key to bookmaking.
+
+[02:08:15.220] - Speaker 2
+How has the fact that you're a known statistician on television impacted your poker life out in the world?
+
+[02:08:22.870] - Speaker 1
+Poker players are very observant. So being aware that... And I won't necessarily say... I mean, the smarter poker players will not reveal how much they know about you. But being aware that people will have preconceptions about you. When I started playing a lot more live poker for the book, I think people assumed, Oh, he's a statistician. Therefore, he must be very cautious and precise, and therefore, he probably doesn't bluff enough. So for a period of time, I could get away with bluffing constantly and people wouldn't catch on. But poker players are observant. Once I began to play more, they played against you before or they know your reputation. So So now I try not to exploit that image as much. And being aware that I know who you are, you're another player. We never had a conversation, right? But I might know who that player is. They know who I am. We've never had a conversation in our lives. And they'll say, Nice hand, Nate, and I'll say, Oh, nice hand, Steve, or whatever. And it turns out that we knew each other the whole time, knew a lot about one another, and just didn't want to say anything about that to pretend to bluff as though we were naive about who the opponent was.
+
+[02:09:29.820] - Speaker 2
+How often do you play?
+
+[02:09:30.950] - Speaker 1
+Once every couple of months in terms of going to a tournament. I mean, it's been less this year with the book coming out and an election year. I mean, the one downside to poker is that it's a very time-consuming hobby. A poker tournament can last at a minimum, usually several days. So you have to block your schedule out. I mean, it's the opposite of a meditation retreat in terms of the degree of call that provides you. It's a stressful experience, but it's nice to actually block parts of calendar out and said, This is time for me. Of course, when you go to poker tournaments, like a lot of my friends are poker players, you're a little bit like part of a traveling circus. It feels like you see the same friends in Vegas and Florida. I played a tournament in Paris earlier this year, which was wonderful in a strange way. But yeah, I love playing poker, but there's an opportunity cost in terms of it's probably not the most economical use of my time.
+
+[02:10:29.100] - Speaker 2
+So even though you You have left 538, you're still continuing on your political interest in statistics.
+
+[02:10:36.270] - Speaker 1
+Yeah. I had some notion of escaping from politics, but I got caught up in it. Again, I suppose. I'm also trying to build... I have a newsletter called Silver Bulletin. I'm trying to build an audience for that. I mean, look, one thing I found is that working for this giant corporation where I don't really own my own work product. I was spending a lot of time doing things I didn't want to do. It was owned by ABC News, which is a proud network, but the average ABC news viewer is 70 years old or something. About half the problems I had, my frustration with covering politics, was actually about the venue in which I was doing it. Now that I'm back on my own, I found I've been reinvigorated in a lot of ways. But look, it's a calculated risk. I was out on a limb early in the election by saying I thought that Joe Biden was too old, and this was really hurting him in the polling and his chances of defeating Trump. It turned out that that was right, and he actually exited the race. Being able to speak to a smaller audience, but a more self-selected audience, I think is valuable.
+
+[02:11:48.720] - Speaker 1
+I felt very reinvigorated by it. But I'm looking forward to November sixth, the day after the election, or maybe November 10th. It'll probably take a few days to count the votes when I can put politics aside, aside again. But for the time being, I'm very all in on gambling on myself, so to speak, I guess, and maximizing for this election.
+
+[02:12:08.520] - Speaker 2
+What are the strangest things you've seen people bet on?
+
+[02:12:11.640] - Speaker 1
+People will make what are called prop bets on almost anything. One player I know named Dan Smith made a bet with a much more athletic poker player in a tennis match, except Dan got to use a tennis racket and the opponent had to use a frying pan instead to play tennis and still beat Dan, it turned out. One famous prop bet from back in the day is a poker player bet another player $100,000 to get a male player to get breast implants and keep them for a year. And the player turned out to like the breast implants and kept them permanently, it turned out. The term degenerate or degen, it's usually shortened to, is actually a term that's used with some affection in the poker community. From playing It's called credit card brulet. You go out to dinner with six players, you get some nice sushi or something, you have a $2,000 bill. Well, instead of dividing the bill, you'll have the waiter or waitress pick one credit card at random and stick somebody with the whole bill. That's the poker player credo or code is to insert variance and landerness and luck and gambling into everything that we do.
+
+[02:13:23.580] - Speaker 2
+Does ideology ever bump up against statistical thinking?
+
+[02:13:27.850] - Speaker 1
+For sure. First of all, nobody is objective. We all have our biases created by our experience. And the smarter people are, including people who are smart statistically, can be very creative about lying to themselves, can be very creative about confirmation bias. So it's very difficult to actually achieve some approximation of objectivity. Actually, one reason why betting on things is worthwhile and good is because it forces you to have skin in the game and bear consequences for your biases, basically. So more than once, I've had somebody who I think is making a forecast of the election or something else that I think is coming from a place that reflects their partisanship or ideology. And I'll say, Okay, are you actually willing to... Let's bet. Let's bet a substantial amount, actually, on this, because I'm actually trying to provide accurate information. And I think you may think you are, but I think you're not. And every time they don't actually They take the bet. That can be a little bit of a tell, potentially.
+
+[02:14:32.920] - Speaker 2
+Related to that, you talked about the research in some scientific journals coming under attack for findings not being repeatable or falsifying data. How could a gambler improve the trustworthiness of science.
+
+[02:14:46.460] - Speaker 1
+So one of these things that these prediction markets do is they can actually say, Here is this famous academic paper. We're going to conduct a replication of it, try to redo the experiment. And you can predict how likely it is that the experiment will actually replicate. But also, look, one thing I found is that gamblers, traders, investors have to make decisions quickly. And that's a valuable skill, is making decisions based on limited, incomplete information. Look, I think academia is usually too slow for the fast-moving world that we're in. If you think that AI is one of the most important technology with the power to potentially cause destruction since nuclear weapons, well, the Manhattan Project was developed by the federal government and by other governments and by academics that they hired. Ai is being developed by private companies, which on the one hand might make it more dangerous. I mean, the profit motive is valuable in some ways, more predictable in some ways, but they may not push the stop button if they needed to, if it could make them money. But on the other hand, academics Academia is just too slow. I call this community the village.
+
+[02:16:03.740] - Speaker 1
+The contrast to the river in my book is called the village. Academia, the media. Journalism, I have more sympathy for because journalism is the first draft of history. But we need things that are more fast moving.
+
+[02:16:17.060] - Speaker 2
+Have you ever considered taking astrology into account when making bets?
+
+[02:16:21.180] - Speaker 1
+I don't, and I wouldn't, although I had a friend who half trollishly or jokingly gave me a tarot card reading the other day. Just a simple one where it's past, present, and future. And the past carb was the devil. The present carb was the wheel of fortune, and the future carb was some carb representing serenity. So the narrative I told myself is that I think a lot of people who are gamblers or gambling-adjacent are in some ways very much ruled by their demons, pulled by their, not addictions, but their compulsions, I say. So the way I read that is that you were pulled by your demons. You have a lucky year this year. Maybe the newsletter goes really well, the book goes really well, things fall into place and you get lucky. And then I'm 46, right? In the roughly second half of my life, then I'll find serenity, which I don't think I have right now. So hopefully that piece of astrology is Christian, I hope.
+
+[02:17:33.040] - Speaker 2
+Technogrammator.
+
+[02:17:37.590] - Speaker 1
+Technogrammator. Technogrammator. Technogrammator. Technogrammator.

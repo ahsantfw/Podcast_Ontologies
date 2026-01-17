@@ -1,0 +1,1997 @@
+[00:00:08.570] - Speaker 1
+Tetragrammatin.
+
+[00:00:12.930] - Speaker 2
+Tetragrammaton.
+
+[00:00:17.730] - Speaker 1
+Tetragrammatin.
+
+[00:00:23.010] - Speaker 2
+Remember what the purpose of part one and part two really were? Rick wanted to have his friend Andrew sit down and understand Jack's perspective. And it was really a talk between three silly monkeys that could speak. It was meant as a friendly discussion. It wasn't meant as really a teaching session. It was really just guy sitting down and talking shop a little bit.
+
+[00:00:50.000] - Speaker 3
+And it's two scientists getting together.
+
+[00:00:52.800] - Speaker 2
+But Rick also knows.
+
+[00:00:54.550] - Speaker 3
+Rick's like, what are you talking about?
+
+[00:00:56.130] - Speaker 1
+I don't know much.
+
+[00:00:57.250] - Speaker 2
+No, but I mean, you know about.
+
+[00:00:58.230] - Speaker 1
+My stuff as much as I can. You know, a lot of it's over my head. I follow.
+
+[00:01:03.410] - Speaker 2
+You get out in the sun all the time.
+
+[00:01:05.030] - Speaker 1
+I follow the methods, but I don't always understand why it's good.
+
+[00:01:09.260] - Speaker 2
+But that's why I like you. Why? Because you know how I use cliches? The cliche know, with circadian biology, it's simple. I don't have to teach lions and know quantum mechanics. That's actually how Rick came to me. And he's always maintained that issue. Uberman could not take that. He had to understand a little bit deeper. And the real problem is, to understand me deeper, you do need to have a little bit of knowledge of where these ideas come from. They're not my ideas. These are ideas from other people that have published them in the literature. The problem is nobody reads this, know? It's like in Rick's world, in know. I often think about this when I think about part one and part two. You actually have to be Rick Rubin Young. Just hear the guys that are making music in the NYU room and he's going, I've never heard anything like this before. This is so different. It's crazy and this and that. But you know what? I need to do something with this for you to want to come down right now and sit with me and say, jack, I got questions about this.
+
+[00:02:24.720] - Speaker 2
+That the other thing. Can we talk about that? That's what I think part one and part two is really, I want to.
+
+[00:02:30.780] - Speaker 1
+Say one other thing about what you just said about they're not your ideas. They're old ideas, or they're little known old ideas. Your genius to me is that not only do you do the research and find these little known old ideas, but the way you put them all together. Even the people who wrote those books don't have the vision you have. No, your strength is stringing the dots together.
+
+[00:02:53.220] - Speaker 2
+Right? It's the Da Vinci code. When you see all the pieces and parts come together. And my job right now, like with you, Bill, is to make you understand that innovation. Like, how do all the pieces fit? Like, I'm thinking about when I say that it's the tool know, I know how we fall apart because I know where all the pieces fit. And I think you, as a science journalist, you know bits and pieces of a lot of this, but it's the parts that you don't know and how they fit in. Like the other day, when you asked me the question about cholesterol and sunlight and how I explained it to you, I thought that that was, which we.
+
+[00:03:35.600] - Speaker 3
+Can go over again today.
+
+[00:03:37.210] - Speaker 2
+But it was a pretty cool way that I think about it, because you know how other people think about it. You've done projects with other people who think about it differently than I do. But I want you to understand the way I come to almost everything to get the framework that Rick just said. It's always about thermodynamics. I'm always the first, 2nd, third, and fourth law. That's where Jack Cruz usually begins, and then the symphony starts.
+
+[00:04:04.260] - Speaker 1
+When you get a new piece of information, do you always think, how does this relate to thermodynamics?
+
+[00:04:08.490] - Speaker 2
+Always.
+
+[00:04:10.290] - Speaker 1
+That's always the measuring stick.
+
+[00:04:12.430] - Speaker 2
+Well, the reason why is because that's how nature works. Everything doesn't matter. I don't care what it is, whether it's Bill's airplane, know, Bill's bank account.
+
+[00:04:24.610] - Speaker 3
+Entropy.
+
+[00:04:25.530] - Speaker 2
+Yeah, that's what it's about. I mean, he said it. That's the word. And the crazy thing is, we talked a little bit the last couple of days about bitcoin. Just a very little. Guess what? Even in bitcoin, entropy is a huge topic, and people don't realize that at the core of most things in our life, it really is about thermodynamics. And I look at entropy. The word is probably a metaphor for someone like Rick. He's like, well, tell me what entropy is. It's randomness. It's things decay into chaos. Chaos is randomness. And people don't realize. When you try to explain entropy to a layperson, I always tell them, think about your refrigerator. We cool things down in the refrigerator, but the way we do that burn the energy. If you put your hand behind the fan in the back of the fridge, that entropy is getting turned back into the kitchen. So that's kind of how life is on earth. We're the refrigerator, and we are doing something very special in our tissues.
+
+[00:05:26.970] - Speaker 3
+We're creating order.
+
+[00:05:28.330] - Speaker 2
+Correct. The way Rick understands is the source code creates order from chaos. And that is how, when Rick says to me, I don't understand something, I try to distill it. And then he yeses me, and I'm like, okay, he's got it. Now, when I throw other things, like when you ask me another question, this is almost like an equalizer, you give me another variable, then guess what I'm doing. I'm throwing that into the Da Vinci code. And then I want to give you a cogent answer so that not only do you understand what I'm saying, but I want you to understand that in my framework, this decentralized framework that I have, there's almost nothing you can't throw at me that I can't make some sense out of it.
+
+[00:06:09.210] - Speaker 1
+I know it. I've seen it happen where I'll ask you a question about something you've never thought about before, and you can answer it clearly because you see the way the machine works, correct? Once you see the way the machine works, you know how all the parts work because you know how the machine works, correct. So it's a fascinating thing to see, you know, how parts of the body work that you've never thought about before and that you never learned about necessarily. Well, that's interesting.
+
+[00:06:35.140] - Speaker 2
+The big thing is, it's funny. I guess the universe is actually doing some magics on me. Now. Last night before I went to bed, I was on clubhouse talking to somebody. I heard that there was a big shooting in Maine, and people were asking me about what the general surgeon would do for these type of injuries, because apparently one of the guys in clubhouse had a friend that was shot. And I explained to them, like, how to take care of a kidney injury, how to take care of a liver injury, how to do this. And somebody finally said to me, like, dude, you're a brain surgeon. How you know this, though? I said, it's not that hard. And it goes to the point that I'm trying to make to both of you, that when you have a centralized framework, that's your davinci code, you can't do this. When you have a decentralized framework, it becomes much easier. And do I believe that everybody who is centralized can do this? Why? Yes, because if I did it, anybody can do it.
+
+[00:07:29.410] - Speaker 1
+And you started centralized.
+
+[00:07:31.000] - Speaker 2
+Absolutely.
+
+[00:07:31.440] - Speaker 1
+You're a product of the centralized.
+
+[00:07:33.490] - Speaker 2
+I was the worst centralized person in the world because I was arrogant, ignorant.
+
+[00:07:39.800] - Speaker 3
+I mean, I defined, let's explain what centralized means in your definition. So you kind of have two aspects to it, right? Centralized is number one. Sort of central control, funding, dominant paradigm, nih.
+
+[00:07:55.310] - Speaker 2
+One single thing. In other words, the IRS controls tax collection, that's centralized. The EPA controls the environment. The president controls the executive branch. Now, nothing in biology is centralized. Everything has coupled system. The minimum is two. So, for example, the question that you started this off with, Jack, let's talk about circadian biology. Why is it decentralized? Light and dark. Perfect circle. Okay?
+
+[00:08:28.520] - Speaker 3
+Right.
+
+[00:08:28.840] - Speaker 2
+So many people, when they talk to me, they want to focus on the light part, like what we're doing now, sitting in the sun. But they don't realize that what happened at nighttime just as important. No, it's very important. In fact, many people. This is the side that's broken. So, for example, the lady that I told you that I saw last night, her problem was this side, okay?
+
+[00:08:51.450] - Speaker 3
+The dark side.
+
+[00:08:52.380] - Speaker 2
+Right? So patients can come to you. And the first thing I'm thinking about, okay, which side of the circle do we need to focus in on the.
+
+[00:08:59.390] - Speaker 3
+Light or the dark?
+
+[00:09:00.250] - Speaker 2
+Right.
+
+[00:09:00.830] - Speaker 3
+Night or daytime?
+
+[00:09:01.830] - Speaker 2
+Right. And then the real complex one is when they have multiple issues, then they can be both. And then that's what makes them the most difficult, because you have to figure out, it's almost like buying a Ferrari and getting it from Ferrari, and it's in 500 boxes, and you're like, yeah, I just bought a Ferrari, but I can't drive it. That's actually the thing about medicine that gets me the most excited, because I feel like I'm a mechanic of nature and I have to look at the disparate pieces to understand how the whole works. Because everything in life is not reductionist. Like the centralized mindset looks at things like they look at biochemistry and say, oh, because this enzyme is out. That's the reason why this happens.
+
+[00:09:46.010] - Speaker 3
+They look at molecules.
+
+[00:09:46.980] - Speaker 2
+It's reduction.
+
+[00:09:48.250] - Speaker 3
+You have a deficiency in this molecule. So put in that molecule to help fix the problem.
+
+[00:09:52.910] - Speaker 2
+That's not how biology works.
+
+[00:09:54.110] - Speaker 3
+Right.
+
+[00:09:54.350] - Speaker 1
+So it's actually, we could say that's the problem with almost everything that's wrong.
+
+[00:10:00.400] - Speaker 2
+Correct.
+
+[00:10:00.860] - Speaker 1
+Is looking at it myopically. Yeah, myopically. It's like you think if this is the issue and you make the issue small and fix that issue, you're not fixing the whole issue.
+
+[00:10:13.200] - Speaker 2
+Let's just think about. It's the man with the elephant. You got 18 guys that are Hindus feeling all one part of the elephant thinking they understand what the hell the elephant is and they don't. They have an ambient awareness of what an elephant is because of the part that they understand. Because you have to realize PhDs know a lot about one thing and not a lot about others. They don't understand how the things fed. See, the thing is, if you don't know the cornerstones, then you're apt to make mistakes. Like when you're, say, down the pike, down the subway station. And the thing is, I don't think it's a bad thing to point stuff like this out to those people, because when they see it for themselves, then they start to go, how many things do I think I know that maybe that kind of mistake is built into the system? Rick actually was the beautiful person that said, this is why I don't believe science. He goes, because there's no light controls in any of this. And then what did I just finish saying? We have melanopsin everywhere in our brain. You tell me one study that is light controlled, and you know what the answer is?
+
+[00:11:25.790] - Speaker 2
+Zero. So Rick's opinion of what he said on the surface sounds crazy, but it's not, because guess what? Quantum mechanics says everything is based on probability, and that is the science of nature. So it's more probable than not if you have melanopsin in your central nervous system, that, guess what? This is the cause of more things in chronic diseases. And then you sit back and go, as Rick said, what are the implications of.
+
+[00:12:01.270] - Speaker 3
+So, okay, so here's where I jump in. I need to know something that probably nobody on your flight tonight is going to know, and that is what is melanopsin. They're not even going to know what it is. So maybe we can back up and talk about the second part of your decentralized framework, which is the light and the dark, and maybe walk us through that model. Right. It's the morning. You're getting sunlight.
+
+[00:12:26.590] - Speaker 1
+What happens when we get the sunlight?
+
+[00:12:28.120] - Speaker 3
+Chasmic, neutral?
+
+[00:12:28.920] - Speaker 2
+How does it work, the clock that's in your eye? Remember, centralized doctors believe the eye is.
+
+[00:12:34.950] - Speaker 3
+A camera, not a clock, just like on your iPhone.
+
+[00:12:37.870] - Speaker 2
+Turns out it's more of a clock than a camera. That because our experience is more about sight than timing, we don't get that feeling in nature. And that actually is built into us by design. Now, the clock is an optical lattice clock. What does it do? It uses light to tell time. That's fundamentally what it does.
+
+[00:13:00.520] - Speaker 3
+It operates even in blind people?
+
+[00:13:02.680] - Speaker 2
+Absolutely.
+
+[00:13:03.850] - Speaker 1
+Even in blind people. That's amazing.
+
+[00:13:05.720] - Speaker 2
+Yeah, it does. Well, there are some blind people where the clock runs free, meaning that it doesn't work. Thankfully, they're rare. And guess what? They get chronic neolithic diseases sooner. And they die sooner than people does. Called 24.
+
+[00:13:22.900] - Speaker 1
+Is it only the eyes or does the skin play a role as well?
+
+[00:13:25.650] - Speaker 2
+Skin plays a role, but the dominant clock, the center clock, is the single most important thing. Now, what makes the clock so important? There is two pathways in the retina that go direct. No synapses between the environment and not, I should say, inside. That's the supercosmatic nucleus that's in your brain. Right. This is the first one. The leptin melanocortin pathway goes to directly with no synapses. It's the giant fiber optic.
+
+[00:13:58.320] - Speaker 3
+What does it mean?
+
+[00:13:58.830] - Speaker 2
+It's got no synapses, meaning that there's no brakes. Think about it. I'm doing New York City. Get on the subway. Every station is a stop, this one straight through.
+
+[00:14:09.760] - Speaker 3
+Understood?
+
+[00:14:10.910] - Speaker 1
+Understood.
+
+[00:14:11.720] - Speaker 2
+So the first stop that it makes for the clock is the SCN, which is the iclock, the interesting one, the one that Andrew, I think, is kind of interested in now, and I think you are too. It goes directly to the Habeniola nucleus. Habeniola nucleus is grand central Station, okay.
+
+[00:14:29.100] - Speaker 3
+And that's related to mental issues.
+
+[00:14:32.100] - Speaker 2
+Correct. To the two lobes in your brain that make you different than your clade. Your clade is primates. We are silly talking primates. Okay? So this is the reason why when you see a monkey and you look at their face, their face is flat, they don't have the two big bumps that we have over here, because this is where our new real estate is, the frontal lobes. This is probably what makes us more human than anything else. So when you see this organization, you go, wow, nature is trying to tell us something that it doesn't make any synapses for light until it gets to these two important grand central stations, stops. So the first question you should ask yourself as a decentralized person, why is that? And it turns out that's where all the information channels go. So now the mindset I want you to get is fiber optic cables. The fiber optic cables are sending the light show to different places, and then the light show is distributed and further refined. In other words, the information is now being parsed. Okay, what is the number one thing that's doing the parsing? There is no number one thing.
+
+[00:15:49.470] - Speaker 2
+Remember, that would be a centralized idea. Light, melanin and water are the big players. But then the non visual photoreceptors, that would be like the traffic lights in the tunnel, thinking about it in a subway. In other words, when the light passes, that changes green to red or to caution, okay, like yellow. And then if the light happens to stop there because, say, there's a melanin waste station. The melanin absorbs all that and then does something different. Why? Because that's what the physiologic requirements of that particular fiber optic circuit is. Okay.
+
+[00:16:30.370] - Speaker 3
+Okay.
+
+[00:16:30.940] - Speaker 2
+Now, the way the brain was built from octopus, because that's what Andrew likes to study. And this is the most important, probably idea that I can give you in this analogy, is Andrew loves octopus because when you go see them in a tank, they're creating a light show on the water. It looks as cool as shit, especially if you turn the lights out. But the funny thing is, if you came into surgery with me and I opened up ahead and you guys were there and didn't pass out, you notice that there's no light show, right? So what is the idea there? Well, octopus, or cephalopods, went from. They came into being 500 million years ago. We are now two to 4 million years. So in 500 million year time frame, evolution has built a much more complex system inside the fiber optic cables to retain the light. Now, what are some of the key features that I want you to pay attention to when you listen to part one and part two? I mentioned to Andrew, I was also stunned about this, that everyone knows when an octopus or a cephalpod is attacked, they emit ink.
+
+[00:17:42.300] - Speaker 2
+I don't think that he knew that the ink was filled with 70% melanin. And I said, do you realize that's why it's dark? Correct.
+
+[00:17:49.210] - Speaker 3
+I didn't know that either.
+
+[00:17:50.220] - Speaker 2
+Right. But guess what?
+
+[00:17:51.270] - Speaker 1
+I didn't know that.
+
+[00:17:52.200] - Speaker 2
+The thing is, what is the animal doing? The animal is using melanin in a unique, novel way that was important 500 million years ago. How do we use it? Oh, no, we internalized it, and now we keep it inside for a reason. Next question. You ask yourself why.
+
+[00:18:09.370] - Speaker 3
+I have a question. I think of melanin as something that appears on my skin when I get a tan. What the hell is it doing inside my body?
+
+[00:18:16.290] - Speaker 2
+I just answered the question for you and you didn't realize.
+
+[00:18:19.060] - Speaker 1
+Say it again.
+
+[00:18:20.270] - Speaker 2
+The octopus emit the light. You don't. The melanin is keeping the light inside the system.
+
+[00:18:25.430] - Speaker 3
+I'm not sure I understand that.
+
+[00:18:27.090] - Speaker 2
+Well, you do.
+
+[00:18:28.200] - Speaker 3
+Keeping light inside.
+
+[00:18:29.400] - Speaker 2
+Well, Rick's car, his color of his car is dark. If he puts the cell phone on top of it, does it get hotter or colder? Compared to a white car, anything dark absorbs light. Sure. There's your answer. And melanin happens to absorb every frequency. Remember the frequency that we operate with one octave of the electromagnetic spectrum. There's 73 octaves. But we, for some reason, tied to the story we're laying out here, we just. Like that one.
+
+[00:19:00.850] - Speaker 1
+I have a feeling by talking about melanin on the skin, it's a distraction because that's not the.
+
+[00:19:06.990] - Speaker 2
+You mean for me.
+
+[00:19:07.900] - Speaker 1
+No, for everybody. It's like when we think of melanin as being on the skin.
+
+[00:19:13.320] - Speaker 2
+I agree with this.
+
+[00:19:14.450] - Speaker 1
+It's so rudimentary, but it's the only.
+
+[00:19:17.460] - Speaker 3
+Experience of melanin most.
+
+[00:19:19.620] - Speaker 1
+That's where we hear about it.
+
+[00:19:20.930] - Speaker 2
+Right.
+
+[00:19:21.300] - Speaker 1
+What Jack is saying is the body is filled with melanin.
+
+[00:19:24.570] - Speaker 2
+Correct.
+
+[00:19:25.040] - Speaker 1
+The skin is showing us something that's going on inside the body, everywhere. Is that correct?
+
+[00:19:29.980] - Speaker 2
+Right. And you got it. And the simplest thing is think about our clade again. Bill's struggling with this, and I guess other people will struggle with it, but I want you to think about our nearest relative, the chimpanzee. Most of their melanin is on the outside, in their skin and their hair. Most of ours is exactly opposite. What's one of the distinguishing features of us? We don't have hair all over our body. We do. We're mammals, but not like a chimp. But yet our DNA is like, literally, we have the same amount of genes. In fact, we have almost all the same genes.
+
+[00:20:05.330] - Speaker 3
+In fact, 99%.
+
+[00:20:06.870] - Speaker 2
+Exactly.
+
+[00:20:07.430] - Speaker 3
+Point something.
+
+[00:20:07.960] - Speaker 2
+I mean, people are stunned that even our distant cousins, the gorillas, they got just about everything we got. But you look at them, and they are radically different than us. So you need to realize from this basic observation of sight, what makes us human isn't the genes. It's got to be something in terms of the way we're organized inside.
+
+[00:20:34.010] - Speaker 3
+Wow. Okay.
+
+[00:20:35.070] - Speaker 2
+And that is the story of Mellon. That is the story that I brought Rick. And I brought you and I told Rick, I said, rick, what? I'm going to tell you this is the greatest story ever, because it's the story of us. And let me tell you something. Every branch of science has always been interested in us. I mean, even the famous Richard Feynman took a year off to come out here in California and learn biology, and he walked away as a brilliant guy and said, this is too hard. I mean, think about that.
+
+[00:21:09.500] - Speaker 3
+It's wet, it's messy, complicated.
+
+[00:21:12.080] - Speaker 2
+Doesn't make sense, but it's the greatest puzzle in the world.
+
+[00:21:16.810] - Speaker 3
+I agree.
+
+[00:21:17.760] - Speaker 1
+So, the light that comes in through our eyes is seen by a lot of what's going on inside of our body.
+
+[00:21:28.010] - Speaker 2
+Is that correct? Oh, yes. That light coming through your eye, it.
+
+[00:21:31.330] - Speaker 1
+Doesn'T end in our brain.
+
+[00:21:32.570] - Speaker 2
+Oh, no. Look, remember the other part of part one and part two? This is where you got to know a little science. Brain and skin. And remember the retinous part of the brain, they come from the same tissue when you form neuroectoderm. So these things are connected. So that's the reason why when you said to me, everybody gets sidetracked by melanin and skin, realize that your skin is a solar panel for your brain. That's the reason why they come from the same part of the embryo. See, that's part of the decentralized magics that I want you to understand because that's not what the centralized guys tell you. Because if you had this basic rudimentary understanding that I'm giving to you guys now, you immediately, as person of the public, should go, then why the hell would we ever want to put sunscreen, clothes, or listen to anything a dermatologist has to say if this is our accessory solar panel to our eyes? And then I back it up by saying, tell me what other wild animal comes out of its mother and looks like any three of us right now? And then the second order question, what's the nonlinear collateral effects, photonically, of making those decisions?
+
+[00:22:48.390] - Speaker 2
+See, and therein lies where I like to be. See, for me, this basic stuff, we.
+
+[00:22:55.190] - Speaker 1
+Want to understand the basic stuff.
+
+[00:22:57.130] - Speaker 3
+Sunlight 101.
+
+[00:22:58.430] - Speaker 2
+Sunlight 101.
+
+[00:23:03.160] - Speaker 1
+Of all of the melanin that we have in our body, what percentage is in our skin?
+
+[00:23:08.280] - Speaker 2
+Skin is the largest organ in your body, so I'd say most of it is probably in your skin. But the interesting part is the melanin that's inside of you. There's a lot in there, but it's concentrated in certain areas. It's not in other areas. And where it's located tells you about the tissue physiology.
+
+[00:23:31.180] - Speaker 1
+Where is it located?
+
+[00:23:32.600] - Speaker 2
+Well, let's give you the simple low hanging fruit one, because I think everybody knows this one. Sorry about.
+
+[00:23:37.620] - Speaker 1
+Nobody knows any of this.
+
+[00:23:38.890] - Speaker 2
+Yes, they do. They know about Parkinson's disease. Okay, so, Parkinson's disease, you shake, you get expressionless face, you can have movement disorders, you can even have cognitive function depending on where it goes. The reason why the symptoms vary is because it depends where the melanin is destroyed. But if you talk to any doctor, any patient, or any family member that has a family member with it, they generally know that it's a problem in the brain stem called the substantia niagara. Now, why does it have that name? Substantia, meaning this is substantial. It means it's important, Niagara, because it's.
+
+[00:24:19.350] - Speaker 3
+Black, full of melanin.
+
+[00:24:20.840] - Speaker 2
+You got it. And it's got a special kind of melanin because there's different kinds. And neuromelanin is the darkest substance in the world. It is so mysterious, we don't even know the true atomic latice structure of the melanin that's in the substantial Niagara. Wow. So I want you to think about that. We're pretty smart as a species. We've been doing science for 5000 years and something that is in a key waste station, a place that I would call probably grand central station, we don't know the basics of that relay station yet we act like we do in the centralized world. So the point that I want to make to you, many neurons have melanin. The one fact about melanin that I did not get to discuss with you, that I really always wanted to, is the fact that our five senses, the sense that you're a master of, is this one I want you to know, between the sense organ and the brain there is always a sheet of melanin. Think about that. For in the ear, the ear has got the biggest one.
+
+[00:25:38.760] - Speaker 3
+The biggest one.
+
+[00:25:39.340] - Speaker 1
+All of them.
+
+[00:25:40.330] - Speaker 2
+Every sense organ, even smell. Remember, smell is one of our oldest things evolutionary. Like if you do evolutionary biology study, it's called the paleocortex. It's very, very old. There's melanosomes in the olfactory nerve, even in humans. Every mammal on this planet has it, but it turns out like one of the mammals. You guys like dogs? They got a lot more than we do. That's why they smell better.
+
+[00:26:06.230] - Speaker 3
+100 times better.
+
+[00:26:07.480] - Speaker 2
+Absolutely.
+
+[00:26:08.290] - Speaker 1
+But it's because of the melanin.
+
+[00:26:09.760] - Speaker 2
+Correct. Which, guess what? The melanin allows the transduction of energy so that more thermodynamic energy can be placed in that tissue.
+
+[00:26:20.520] - Speaker 3
+Because it's a semiconductor.
+
+[00:26:22.680] - Speaker 2
+Everything is a semiconductor.
+
+[00:26:24.400] - Speaker 1
+Let's talk about this with smell because this is interesting, because up till now we've been talking about it as light. So are you saying.
+
+[00:26:31.580] - Speaker 2
+Yes, I am. I know exactly what you're going to say. We use light to smell, we use light to smell.
+
+[00:26:36.800] - Speaker 1
+We use light for everything.
+
+[00:26:38.190] - Speaker 2
+We use light to hear.
+
+[00:26:39.760] - Speaker 1
+We use light for everything.
+
+[00:26:41.490] - Speaker 2
+You are a being of light.
+
+[00:26:43.860] - Speaker 1
+Yes.
+
+[00:26:44.550] - Speaker 2
+A sonic being of light.
+
+[00:26:46.310] - Speaker 1
+This is great.
+
+[00:26:46.880] - Speaker 3
+Yeah.
+
+[00:26:49.040] - Speaker 1
+Would you say we are solar powered? Is that what.
+
+[00:26:54.230] - Speaker 2
+That's 100% accurate.
+
+[00:26:56.660] - Speaker 1
+And the solar power is driving every.
+
+[00:27:01.890] - Speaker 2
+Functions just like it drives all the functions and everything else in nature. Nothing exists on this planet without the sun but somehow centralized science has been given the pass to that very basic issue. And the story that I brought to Rick and Huberman was the story of the KT event. The KT event is when all of a sudden a big environmental extraterrestrial issue gave us a brownout.
+
+[00:27:33.760] - Speaker 3
+Meaning an asteroid.
+
+[00:27:35.420] - Speaker 2
+Correct. And what happened, it affected everything of the basic wiring that we're talking about right now. It caused such a huge shift in the clade of mammals that everything began to change. Morphology change size and shape change. The animals that could survive then, could then do some other things. Because the thermodynamic givens in the environment change not only that, the predators that kept the little rodents under the ground were gone. So then the mammals could come out so that their melanin could do their exterior. Melanin could do something different. In other words, they were less like an octopus and more like us.
+
+[00:28:20.300] - Speaker 3
+So it killed all the dinosaurs in a cataclysm, sent up this huge layer of earth debris into the.
+
+[00:28:32.000] - Speaker 2
+So it's light pollution. It was dirt that caused light pollution.
+
+[00:28:35.370] - Speaker 1
+It was like a dust bowl. Darkness.
+
+[00:28:37.950] - Speaker 2
+It's like La right now.
+
+[00:28:41.460] - Speaker 1
+More than this, we're looking.
+
+[00:28:44.100] - Speaker 2
+You're asking me to make this simple. For someone to get. So since we're.
+
+[00:28:48.620] - Speaker 1
+Do we know how long it was dark for?
+
+[00:28:50.460] - Speaker 3
+Hundred to a thousand years. That's what, few decades to a few centuries?
+
+[00:28:54.110] - Speaker 2
+I don't believe that, though.
+
+[00:28:56.920] - Speaker 1
+It doesn't seem possible.
+
+[00:28:58.030] - Speaker 2
+It's not possible, but there's a layer.
+
+[00:28:59.780] - Speaker 1
+Because then there wouldn't be life.
+
+[00:29:01.100] - Speaker 3
+There's a geological layer around the world.
+
+[00:29:03.450] - Speaker 2
+Yeah, it's called the KT layer.
+
+[00:29:05.200] - Speaker 3
+We all know that, skinny.
+
+[00:29:06.790] - Speaker 2
+It's black, but we don't know how long it took. And the bottom line is what Rick said, there's no chance that it was a real long time. How did I try to tease that out? In the part one and part two, that's when I gave you the idea that I got. When I thought about it, that's when I went and got an african american patient with Vitiligo. And I said, and you talked about that this migration of melanin can happen. Because guess what? As Rick said, I'm not a skin doctor. I don't mess with, you know, in my centralized training when I was a total asshole. So I got her and I said, let me see how this goes. And guess what happened? In a couple weeks I was able to get pigmentation. So what did I know right away? Melanin reacts to UV light immediately.
+
+[00:29:48.050] - Speaker 1
+I have a friend who just started having Vitalego on his hands. Never had it before. No one in his family's ever had it.
+
+[00:29:58.860] - Speaker 2
+So what'd you tell him? That you got to do some research? No, the defects in his environment.
+
+[00:30:04.720] - Speaker 1
+Well, he's a film editor, so his hands are on a computer all day.
+
+[00:30:10.050] - Speaker 2
+Hello.
+
+[00:30:10.850] - Speaker 1
+With blue light shining on his.
+
+[00:30:14.240] - Speaker 3
+To that.
+
+[00:30:14.740] - Speaker 2
+Rick, you're a decentralized. Look, you keep saying you're not a scientist, dude. You know this. And you know what I'm telling you. This is the thing that probably will frustrate you. The more I teach to pupil, the more I want you to realize you become the teacher. I want you to tell your friends, don't be afraid. Tell them. Say, look, the defect isn't in.
+
+[00:30:35.960] - Speaker 1
+I'm going to connect them with you.
+
+[00:30:37.080] - Speaker 2
+But the defect isn't in you. The defect is in the environment. See, that also is a decentralized mindset from realizing that everything is a coupled system. And, see, the idea in centralized medicine is that, no, the defect is in your genes. See that? They go right to 1953, to Watson and Crick.
+
+[00:30:55.360] - Speaker 3
+Yeah, the genes and molecules dominate the paradigm for sure.
+
+[00:30:59.990] - Speaker 2
+But we already established, didn't we, that it didn't because gorillas, chimpanzees and us have exactly the same amount of genes and they don't look anything like each other, do they?
+
+[00:31:08.900] - Speaker 1
+And they don't have the same problems, do they?
+
+[00:31:10.790] - Speaker 2
+No, they don't. But I want to stop here because this is really important for Bill to get. He glossed over this like Wayne Gretzky over the ICE. You have a duty to me to say, yeah, why is it that I didn't pick up on that little nuance? And that is what I'm trying to tell you about the decentralized mindset. You have to be a curious observer of nature, and you will miss so much when you don't watch it. Like, I can sit out here in Rick's backyard and listen to the stuff on the PCH, watch the birds come through, see the helicopters come by, and I'm going to tell you every single day that I do this, whether I'm in El Salvador, Louisiana, or here or in Portugal, I'm picking up some other nuance of nature that I actually ignored and didn't realize it happened to me last night. I'll share it with you. I think I said it. I thought it was remarkable that in a matter of 24 hours I met three people who are physically fit in the fitness business in LA. All have pancreatic cancer. I finally brought it out to somebody and I said, it's kind of funny, I've been back in trauma.
+
+[00:32:29.110] - Speaker 2
+Call gained probably 30 to 40 pounds back to pay my legal bills. I'm 60 years old, I don't take any medicines. But you look at my facade and you look at your facade and you got 9000, 100 million people following you and you're making millions of dollars on the Internet. No, I'm not talking about you. I'm talking about the people that. But because your facade looks the way the propaganda wants it to look, I'm like, this is a centralized problem. People in the centralized world need to say, yeah, why is it that all of a sudden now, the last 50 years that people can look like rock stars are falling apart on the inside? The answer is what? The question you asked me before, because the organization of the melanin on the inside is the problem.
+
+[00:33:18.990] - Speaker 3
+So you're talking about awareness of your environment, basically big picture, and being more aligned with finding the correct environment.
+
+[00:33:29.160] - Speaker 1
+Also add something to that, which is because you've been taught something, to not assume that that's either correct or the whole story.
+
+[00:33:37.750] - Speaker 2
+See, that is huge. See, I was just going to say I know where he lives. He told me, but I know he's been in other places. Just think about what you said to parse this out to why I have a problem when people say this to me. Does a tree pay attention to its environment in the autumn? Isn't that why we get colors on the tree? Does the tree move? No, but guess what? It's paying attention to what's going around it better than we are. Why? Because it's stuck in the ground and its canopy is in the sun. It doesn't pay attention to anything but nature.
+
+[00:34:13.500] - Speaker 3
+Right?
+
+[00:34:13.910] - Speaker 2
+But you are the animal on this planet living, sentinent being that moves across the tectonic plates, that moves across the canopy and can do shit that a tree can't do. But guess what? The tree changes. Do mammals coats change? Do their cell membranes change in the environment? Just because you can't see it, Bill, doesn't mean it's not so. That is the point that I'm trying to make to you about the people that are out there that have this idea. Well, if the facade's bad, that you're a train wreck. And I'm going to tell you, you told me two days ago that Neil Barzalai is one of your heroes and you really respect him. I do too. And part of the interesting thing is that his supercentinary work in Einstein in New York, one of the things that he's found that, I think, is absolutely remarkable. It goes against everything that the longevity experts tell you. These guys are short, generally short. Little guys that have high leptin levels and they're dumpy. Nobody looks like Michelangelo's David, right?
+
+[00:35:17.700] - Speaker 3
+He's done surveys. He studies ashkenazi jewish centenarians.
+
+[00:35:22.660] - Speaker 2
+And they break all the narratives of decentralized.
+
+[00:35:26.410] - Speaker 3
+They don't really exercise.
+
+[00:35:27.790] - Speaker 1
+We see that all over the world, though. We see Italians growing over 100 who smoke all day.
+
+[00:35:32.390] - Speaker 2
+Rick, think about what you just said. If we see it all over the world today, like a tree sees the changes, why do we believe that looking like Michelangelo's Adonis is exactly what our species should be striving for? Hard stop. That's all I'm saying. That statement that I just made is absolutely congruent with nature. It's not incongruent. And I think the people that really need to be questioned are the other ones that tell me I'm wrong, but they're never questioned. Why? Because that's a want, need and desire that humans seek. Therein lies the difference. Why? Because the Greeks, the Romans made statues that are in the Louver that we go see.
+
+[00:36:13.930] - Speaker 3
+Or in Florence.
+
+[00:36:15.120] - Speaker 2
+Or in Florence. The guy that I saw that started me on this path, Michelangelo's David. The nuance that I'm trying to explain to you is be an observer of nature. And if you want to get the Da Vinci picture in your head, I think it's an absolute requirement to be curious, observant, but never stop asking questions like curiosity is the key fuel to understand the difference between centralized and decentralized. When people ask know, you said something to me on this trip that I really appreciated. You said, the thing I respect about you, Jack, is that you don't sell anybody anything.
+
+[00:37:00.900] - Speaker 3
+You're not trying to sell me a supplement.
+
+[00:37:02.570] - Speaker 2
+No. What I'm trying to sell you is on a new way to think. Because I know that when you begin to think in a decentralized fashion, Bill is going to come to me and say, you're not crazy. We are. And now I understand why you're so frustrated, because this really is this blatantly obvious. It's not that difficult to go out in the sun every day and live the way we're supposed to live like the lions and the hippas. The problem is we've created a world that makes that inconvenient. And then we've layered on this big layer of mayonnaise, of propaganda, and it's a huge problem. I mean, this is the problem that I have to face, and I fight against it. I mean, Rick knows. He said something in the podcast the other time he goes, he stopped, everybody jumped up and said, I know why Jack is the way he is. I just thought about it and I'm like, I like what he said, but I don't think that's the whole essence of it. I think what I just told you is the other soft white underbelly that really, really gets me angry.
+
+[00:38:17.710] - Speaker 1
+Let's go back to the light coming in through the eyes. There's the direct pathway. What happens next?
+
+[00:38:24.420] - Speaker 2
+Well, then the light show gets distributed.
+
+[00:38:27.370] - Speaker 3
+Why is frequency relevant in that equation?
+
+[00:38:30.280] - Speaker 2
+I'm just going to say that that's how the system is built. So before I can answer that question to you, certain frequencies aren't supposed to be in a certain spot. And what's that design in the system? Believe it or not, that's actually where the RNA and DNA come in, because it's designed to put it in certain places. For example, the question I'm trying to pose to you, why isn't the substantial Niagara right behind the eye? Why is it in the midbrain? I don't know the answer to that, but my belief is through morphology, over 600 million years, that's actually how nature found it to be the most thermodynamically favorable position for it to be in. That answer, I know, is axiomatically when in the first two podcasts, when I asked Rick the question and Andrew the question, does nature ever make mistakes? It gets to the core of what we're talking about, right question. When you ask me, Jack, why is Melanin where it is? Because nature said it is. And the first person I think of when I say shit like this is I think of Feynman when he would teach people at Cal Berkeley, he goes, nature is absurd.
+
+[00:39:37.150] - Speaker 2
+Do not question her, just accept her. Yes. And really, sometimes I give people answers like this and I think it does frustrate them. But when I tell you what I just told you, I embrace. I don't need to know that. Sometimes some things that we think we need to know, they're just superfluous. And this is one of those things. I just know where the substantial Niger is in humans, and I know what it's connected to and I know where it goes, and then I know exactly what it's important for and what key frequencies are there and what it does, and then that's where we have the next discussions. Okay, after the array, then why does this happen? Well, because the array postmelanin in substantial Niagara goes to the motor tracts. That is the prefrontal cortex. That's part of the territory in the two lobes that make us special, that controls our motor ability, and we are losing control when we lose melanin in the substantial Niagara, that has huge implications, because guess what? Can you get a version of Parkinson's when you'll never get diagnosed where there's no movement? But guess what? You are no longer an extreme athlete.
+
+[00:40:55.590] - Speaker 2
+You can't perform. I'm going to be honest with you. That's exactly what happens in the NFL.
+
+[00:41:01.090] - Speaker 3
+Really?
+
+[00:41:01.750] - Speaker 2
+Absolutely.
+
+[00:41:02.370] - Speaker 3
+That's damage to that.
+
+[00:41:04.210] - Speaker 2
+They get a concussion if it affects that track. This is the reason why. Like, I'll give you an example, and I know probably neither one of you great football fans, there's a really great linebacker.
+
+[00:41:15.010] - Speaker 1
+I'm not fly.
+
+[00:41:16.460] - Speaker 3
+Eagles fly.
+
+[00:41:17.250] - Speaker 2
+All right, then you'll appreciate this. This is a great linebacker for the Indianapolis coast. His name is Darius Leonard. He's a small guy, fast, phenomenal, came into the league, did great, but he's gotten a lot of injuries the last two years. He had some pretty bad concussions over the last two or three years. He's gotten back on the field this year. He doesn't look like the same player. And the reason why, he's slow to react. So let's think about this for a minute. If we took him out of the game and the Indianapolis Colts took a look at know the best way possible, say, that we have in Cedars Sinai, you would never find any deficits. Do you know why? Because you don't have any resolution power in centralized medicine to find out how many neurons in the substantial Niger have been popped. In other words, they no longer work. The fiber optic cables are not functional. But how do we know? As a decentralized physician, this is going on because when Darius Leonard is placed in the Colts defense, he does not react as fast. In other words, there's a time delay. Now, I want you to listen to this because this is very important.
+
+[00:42:28.290] - Speaker 2
+Do you remember when I told you the light coming through the eye?
+
+[00:42:30.930] - Speaker 3
+Right.
+
+[00:42:31.230] - Speaker 2
+Remember we talked about the optical lattice clock? It controls time. Do you know whose principle that works on general and special relativity of Einstein? In other words, time is relative. So Melanin allows us to keep proper time so that the motor function happens and it's coordinated with the rest of.
+
+[00:42:52.900] - Speaker 3
+The band in the head by slowing down the signal so that the gaps are.
+
+[00:42:58.600] - Speaker 2
+Now, I have a question for you, Rick. If you understood what I just said, if Metallica came in and Hatfield was off, say, half a second. How would Metallica sound?
+
+[00:43:11.130] - Speaker 1
+Not so good.
+
+[00:43:12.120] - Speaker 2
+That is.
+
+[00:43:14.090] - Speaker 3
+You know, it's interesting. I've got a couple interesting thoughts. I'm interested in aging, and it's really interesting to me how aging shows up in athletes because they're in this crucible of performance, shows up much earlier, right. In their 30s.
+
+[00:43:31.150] - Speaker 2
+Yeah.
+
+[00:43:31.410] - Speaker 3
+You notice the difference between they don't renovate their melanin, 40 year old Tom Brady and 30 year old Tom Brady. So I think potentially we could learn a lot by studying those subtle changes that happen due to injury or just due to aging.
+
+[00:43:47.090] - Speaker 2
+But you can, as an NFL player, because, guess what? You're paid to be on the field and perform. And the problem is, they're the modern day gladiators. They're trading time for money. And the thing is, they don't realize what they're doing, but a lot of them do, because all you have to do is look at, like, junior SEO, who killed himself, or Dave Dewerson, who killed. Know, the NFL doesn't like to have this stuff out, but what we're talking about here, so you understand how this is going. Like, I remember when Tua, the quarterback for the Dolphins last year on national TV, gets popped and he stands up and you could tell that he was concussed. Like, you could be a UPS worker in Idaho and know this is going on, but somehow the Dolphins doctors didn't and put him back in. Well, you know what the issue with that was? It was performance. We got to win this game, and he gives us our best chance because our backup quarterback sucks. So let's not lie to people. But guess what? I look at that situation with the Miami dolphins, like, centralized medicine, because that's exactly what goes on in the clinic every day.
+
+[00:44:51.550] - Speaker 2
+We need to understand that. We need to be solar powered beings of light. And if you're going to participate in high risk things like performance athletics, you need to be more solar powered than not. In other words, the reason why Rick has found the benefit that he's found as he's aged, just like me. I told him, you need more sunlight. You need more grounding.
+
+[00:45:18.010] - Speaker 3
+Are you fully circadian? Like you go down when the sun goes?
+
+[00:45:21.800] - Speaker 2
+Absolutely. I know he does.
+
+[00:45:23.290] - Speaker 1
+Absolutely. But you got to remember, if I watch anything, I'll be wearing red glasses. All that light in my house is red.
+
+[00:45:31.930] - Speaker 3
+Wow.
+
+[00:45:32.520] - Speaker 1
+There is no white blue light anywhere in my home.
+
+[00:45:36.970] - Speaker 2
+I'm here for a different reason. You guys know why I'm here. I broke just about every one of my rules to do this. But why did I do it? Because I know that what could come out of what we're doing could affect millions of people. Guess what? I don't have that reach. In my clinic, when I fix somebody with Parkinson's disease and refer them to, say, a functional neurosurgeon, to get a DBS stimulator put in, you know, the treatment. This is the most ironic part of this whole story.
+
+[00:46:07.330] - Speaker 3
+It's electric.
+
+[00:46:08.120] - Speaker 2
+It is. It's an electrode that goes in the substantial Niger that replaces the sunlight they don't have.
+
+[00:46:13.300] - Speaker 3
+Yeah.
+
+[00:46:13.930] - Speaker 2
+Isn't that psychotic?
+
+[00:46:15.760] - Speaker 1
+Considering the sun's outside?
+
+[00:46:17.430] - Speaker 2
+Well, look at us right now. And then when you tell somebody, family who know this. Oh. All you need to do is go to El Salvador and sit outside with your feet in the beach. They look at you like. It can't be that simple.
+
+[00:46:30.280] - Speaker 3
+I mean, Parkinson's develops over a long time. That's why old people.
+
+[00:46:34.020] - Speaker 2
+That's not true. Okay, so you just made the mistake of forgetting Doug Wallace's axiom.
+
+[00:46:40.170] - Speaker 3
+I have a close family member.
+
+[00:46:41.330] - Speaker 2
+Plasma raises fast in that part.
+
+[00:46:44.240] - Speaker 3
+Okay.
+
+[00:46:44.700] - Speaker 2
+You can get like that.
+
+[00:46:45.650] - Speaker 3
+That's true. You can get it at an earlier age. I was going to say, I have a close family member who's been diagnosed with Parkinson's. And this person spent decades working in New York City.
+
+[00:47:00.230] - Speaker 2
+What kind of job?
+
+[00:47:01.100] - Speaker 3
+Working late. Lawyer.
+
+[00:47:02.590] - Speaker 2
+Okay.
+
+[00:47:03.380] - Speaker 3
+Corporate?
+
+[00:47:04.290] - Speaker 2
+Midtown?
+
+[00:47:05.130] - Speaker 3
+Wall street.
+
+[00:47:05.810] - Speaker 2
+Okay. Gotcha.
+
+[00:47:06.480] - Speaker 3
+Yeah.
+
+[00:47:06.780] - Speaker 1
+And, you know, long hours in a blue light space.
+
+[00:47:09.220] - Speaker 2
+Well, not only that, but in the city never sleeps.
+
+[00:47:12.010] - Speaker 3
+Very blue light. They would go on vacation in Greece every summer for like a, you know, listening to you and doing the reading I've done, I start to wonder, could that environment have kind of set the stage, overwhelmed him eventually? So, fast forwarding to now, every day, he goes out with his partner and they go out and walk in the sun for 20 minutes.
+
+[00:47:37.890] - Speaker 2
+Right, but he's first thing in the morning, though, right?
+
+[00:47:39.810] - Speaker 3
+No, I think he's in Chicago. Outside Chicago.
+
+[00:47:45.530] - Speaker 2
+Fry and pan to the fire. See, that's the problem.
+
+[00:47:48.610] - Speaker 3
+Well, I mean, the sun shines.
+
+[00:47:51.810] - Speaker 1
+Better than same everywhere. Tell us about the sun.
+
+[00:47:54.520] - Speaker 2
+Well, before we get there.
+
+[00:47:56.170] - Speaker 1
+Okay, I do want to know.
+
+[00:47:57.800] - Speaker 2
+We got to finish this, because it goes back to an initial question we asked, and I'll explain this to you. The sun, the latitude of Chicago and New York is the same. But remember, the population density is there, the way electromagnetism works, because, remember, light is.
+
+[00:48:12.760] - Speaker 3
+Now we're getting into electromagnetism.
+
+[00:48:14.550] - Speaker 2
+We have.
+
+[00:48:15.130] - Speaker 3
+We've been there.
+
+[00:48:15.840] - Speaker 2
+Okay, see, that's not a fair statement from you. You know that sunlight is part of the spectrum. One part, sure. I'm going to tell you there's a difference between New York and Chicago. It's a major difference. And it's not just the latitude difference, it's also the light that gets through it. The population density where you live affects how much light you can absorb because of how many electrons you have. But here's the most interesting final touches on the Parkinson's story. So, remember how we talked about the light coming through the okay. Getting distributed going to the substantial Niagara part of the podcast part one and two. I mentioned to you, Bruman, and we skated over it like Wayne Gretzky. Do you know that people with Parkinson's disease have higher incidence of melanoma? Do you know that people with Parkinson's disease have higher incidences of hypothyroidism? So I want Rick Rubin to hard stop and go. Jack, explain this to me like I'm a third grader. I already told you the answer. Remember? It's a fiber optic track filled with semiconductors. The first train stop past the supercosmatic nucleus is the pituitary. So this is the reason why when the light show is disrupted at the SCN, then the inputs before the substantial Niagara are also affected.
+
+[00:49:36.560] - Speaker 2
+This is the reason why the incidence of hypothalamic disease is higher. The number one one, which is thyroid. So that's the reason why hypothyroidism is a big feature of Parkinson's. If you know anything about thyroid function, t three controls neuron function and motor function. Well, guess what? Now you begin to know why their expressions change, why their cognition changes. In other words, it's not always about the light and dark cycle. Now we're in the collateral effects, the cascade. You got it? Yeah. Now, the melanoma part you already know, and I've established for you, that the substantial Niagara has lost a neuromelanin there. Well, why do they get melanoma? Well, if you don't have it there, Rick, from what I told you in part one and part two, what do you think? Their skin looks like? They got so. And what do they do? He just beautifully put the icing on this story. He's a corporate lawyer in New York in blue light. What did I tell you? Gives you melanoma. Boom. So, your friend, your story, the simple podcast, I just explained to you something that is well documented in the literature, that if you walked into a neurologist office, I almost guarantee you 90% of them do not know that melanoma and hypothyroidism are features early on of Parkinson's.
+
+[00:51:01.000] - Speaker 3
+Interesting. I did not know that. But to put the cherry on it.
+
+[00:51:04.710] - Speaker 2
+Now, wait. Now the doctor and yellow, but you.
+
+[00:51:07.200] - Speaker 1
+Go to see the doctor, the expert, to know this. And if they don't know this, there's no way they could see the big picture. So because they're looking at a small picture.
+
+[00:51:18.080] - Speaker 2
+Myopic reductionist.
+
+[00:51:19.890] - Speaker 1
+Yeah. Whatever they tell you, they're only dealing.
+
+[00:51:23.290] - Speaker 3
+With a small circle of fact, in.
+
+[00:51:25.480] - Speaker 1
+Other words, of the situation. It's not a holistic approach.
+
+[00:51:29.530] - Speaker 2
+I don't like that word. It's the exact analogy that you guys used earlier about the elephant. Centralized medicine is touching the tail. Okay, feels like an elephant because I felt a lot of tails. But it turns out there's a whole other story here. And the reason I'm stopping you on this, you guys think I'm going to go off on a tangent. No, I'm still on the same thing. We've been talking about light through the eye, all of these ideas. We're using one disease to explain how all these other things go. Because when you want to see this da Vinci code thing, I'm explaining to you right now, when a patient comes into me who has Parkinson's, you know the first thing I'm doing, I'm looking at their skin, I'm looking at their thyroid function. I'm looking at all these other things that other neurologists and neurosurgeons never look at. And then they wonder why, when they put the palatotomy into their brain, why this person isn't getting better. Because you only fixed the suspanion Niagara. You didn't fix the other problems. Got it? That is the essence of what this podcast is about.
+
+[00:52:31.550] - Speaker 1
+Why don't you like the word holistic?
+
+[00:52:33.570] - Speaker 2
+Because it has a negative connotation through propaganda. So when centralized scientists hear the word holistic, immediately they think pseudoscience.
+
+[00:52:43.800] - Speaker 1
+I see.
+
+[00:52:44.420] - Speaker 2
+They think woo woo. And let me just tell you something. I mean, Rick, you're my friend. You know a lot about me, dude. I'm as far away from pseudoscience and woo woo as one can get. I believe the people in centralized science are the guys of the shamans. They're the ones dealing in this. What I just told you today, this is a life changing beginning of this podcast for somebody who's got Parkinson's disease. I hope your friend, your family member, goes out and listens to this and then realizes what Jack's saying, going from New York to Chicago. He's never going to replace the melanin on his skin to suck it back in. That's the problem.
+
+[00:53:27.310] - Speaker 3
+I'm going to call this person and say, maybe you should move to Florida.
+
+[00:53:30.350] - Speaker 2
+But I don't think you should do that at all. I think what you need to do is have Rick get this podcast unedited to your friend right away.
+
+[00:53:39.040] - Speaker 1
+You can do that.
+
+[00:53:39.650] - Speaker 2
+You shouldn't tell him anything. You know why you're the wrong guy? Because you're the skeptic. But you know what you did? I'm a semi skeptic, but you brought me his problem. And I actually performed exactly what Rick said in the beginning of this podcast. He said, you just put all the pieces together right then and there. And then I made a comment to you that offended, like going from New York to Chicago is going from the fry and pan to the fire. What I said was absolutely accurate. And guess what? Was it in part one and part two? Yeah. You know where it was when Rick said, you know, jack, it's funny. When I go from Costa Rica to LA, I'll lose my tan. Hard stop.
+
+[00:54:17.330] - Speaker 3
+On the plane.
+
+[00:54:18.360] - Speaker 2
+Hard stop. Guess what? Does that not play into this, like, again, we're da Vinci code now. We're trying to put the pieces together. I'm trying to show you how I think.
+
+[00:54:31.190] - Speaker 3
+So you were an inside guy for decades.
+
+[00:54:34.610] - Speaker 2
+Yes.
+
+[00:54:34.940] - Speaker 3
+Lived inside. You were like an underground mammal with sunglasses.
+
+[00:54:38.770] - Speaker 2
+Yes.
+
+[00:54:39.100] - Speaker 3
+And now you spend, I'm going to say, a substantial amount of time outside. And you can kind of do that. You don't have to be at the equator to do that.
+
+[00:54:48.160] - Speaker 2
+But also think about what else he does that we talked about. He actually pays attention to the dark.
+
+[00:54:53.470] - Speaker 1
+Yeah, I pay attention to the light and the dark.
+
+[00:54:55.780] - Speaker 2
+Both. Yes. I think that you need to realize that's a big deal. And the other cliff that I think you're at right now, that you're getting ready to fall off, is you're making the assumption. Do not think about Rick the way your friend is. When your friend has a substantial mitochondrial problem due to this melon loss. They are now on the deck of the Titanic. They need to do something like, they shouldn't sit down and have a discussion with Bill. They need to jump in the goddamn boat and save their life. In fact, you know what the big mistake bill, is? In centralized medicine, people don't realize that time is the most valuable asset that they have. And people piss through it like it's going out of style. And the problem is when they get told that they're close to not having the time that they want, then they don't realize that they're fully capable of doing things to get it back. But guess what? Those things are just like the Titanic. Do you get in a boat or do you listen to the music? And I'm going to tell you, the paradigm that disturbs me doesn't put that variable into their decision making process.
+
+[00:56:09.130] - Speaker 2
+And patients never get that. The only time it really happens is if somebody comes into my office, like with a know, glioblastoma or pancreatic cancer or somebody gets shot in the head. Then guess what? It's so blatantly obvious people don't have a problem with that. But when somebody comes in who's, say, an NFL player and says, jack, I just don't feel right. I can't think this and that. And then you think about what I told you about Darius Leonard. You realize that before they walked in the door, just from me knowing what they did and having an understanding. Okay, now sit down with me and tell me other things. Tell me other parts of your story.
+
+[00:56:50.280] - Speaker 3
+What are you doing to it?
+
+[00:56:51.490] - Speaker 2
+Right? No, but you're adding variables that, guess what, that I'm putting into this framework, this thermodynamic framework, to make sense of it. Then what do I do? Sometimes I do test on you to see if I'm right or wrong. I'm not doing the test to actually help you. I'm actually doing it to see if your hunch is. No, not only my hunch, but I'm eliminating. It could be this, let's do this to get this out the mix. What's the essence there? Why am I doing that? Some people who are centralized that will listen to this and say, well, that's a waste of money. No, it's not, because that's via negativity. You're removing the superfluous. I don't have to focus a lot of your money on, say, okay, this potentially could be, I don't know, tartar dyskinesia. It's not tardive dyskinesia. This is a movement disorder. And that becomes important. See, in centralized medicine, they take a.
+
+[00:57:44.720] - Speaker 3
+Shotgun approach and the time course is different. So back to the Titanic. The Titanic was warned that there are icebergs in the area that could have avoided the whole problem by changing course.
+
+[00:57:56.500] - Speaker 2
+Correct?
+
+[00:57:56.860] - Speaker 3
+A little bit.
+
+[00:57:57.560] - Speaker 2
+Correct.
+
+[00:57:58.090] - Speaker 3
+But they didn't.
+
+[00:57:59.130] - Speaker 2
+And so the people that survived jumped in the boat. The people that didn't listen to the music.
+
+[00:58:05.610] - Speaker 3
+I think one of the flaws in what you call centralized medicine is that they wait until the iceberg is right there dead ahead. And they don't think about it earlier, hitting the iceberg earlier.
+
+[00:58:20.730] - Speaker 2
+Don't you think that's how the, that's.
+
+[00:58:21.830] - Speaker 3
+How the system is set up for sure?
+
+[00:58:23.150] - Speaker 2
+Because we spend more customers.
+
+[00:58:25.070] - Speaker 3
+Yeah, we spend about cures, treating cancer than preventing it.
+
+[00:58:27.970] - Speaker 1
+Right.
+
+[00:58:28.190] - Speaker 2
+For sure.
+
+[00:58:28.530] - Speaker 3
+It's all about customers or detecting it.
+
+[00:58:30.460] - Speaker 2
+You have to realize, you know the other part that we haven't talked about here? What's the patient's duty in this system? Don't you think it's the patient's duty? The thing is, I'm thinking about what you said to me about your partner, your friend, the lawyer. What's their duty? Their duty is also when I sit down with them and tell them, look, you're part of the problem. The way you thought about this issue. I'd like Rick to talk about this. Why? Because he's actually lived this when he's 400 pounds, he's a vegan, he's got the sunglasses on something. Had a trip in Rick for him to say, I'm sick and tired of being sick and tired. What did it? The question you have to ask people when they come through, at least I do. Do you realize that you have your undone Kruger effect? That you haven't been wilded, you haven't been doing anything that you should do? And then here's the key. Why should I give anybody 100% when they only give me ten? See, that's how a doctor burns out. And people don't realize that when acuity of sickness goes up because the system's bad or people's thinking are bad, the doctor is getting sick.
+
+[00:59:45.670] - Speaker 2
+Now, don't think that I don't think about this.
+
+[00:59:49.370] - Speaker 1
+Is lifestyle the key to everything? Would you say?
+
+[00:59:52.300] - Speaker 2
+Not everything. But I'm going to tell you, it's a huge factor. The mitochondriac mindset, the decentralized mindset is always look in the environment for the defect before you look for the defect in you. The cool thing about the defect in patients, I think the cool part is part one and part two. Told you how I think. I'm always looking for where the melanin problem is. Why? Because the melanin problem always tells me where thermodynamic loss is. Is it light, is it water, is it darkness? Has the tissue itself started to break down and see? I can figure that out. Okay, let me get an MRI. I can see white matter changes. You and I talked about that the last time we were here. But after the podcast, I said to you, bring me this, bring me that, let me see. And you're like, wow, you can really do that. You can do it. And I think I told Rick this story. I had a farm member that I saw probably six, seven weeks before I came out to see Rick in March. And he went to see the Raiders doctor and the Rams doctor out here.
+
+[01:00:53.660] - Speaker 2
+He's a wealthy guy from California, Southern California, and he was having horrible pain in his hip. And he kept telling the doctor this. He went to see both of these doctors, and they both told him, look, when your pain gets enough, let's just do hip replacement. That's it. That's what he got told. So he knew enough because he's one of my members. Can you tell me about, would red light help this? And they looked at him, no, red light won't help this and that. But guess what? The million dollar athletes in the Rams and Raiders get that, but this guy doesn't get it, even though he's also a million dollar player. Hard stop. So he comes back to see me, we do his farm visit, and he tells me everything, just like you're telling me about your friend. And I'm looking at the whole thing. I said, but you got this, that, and the other thing. He wanted me to do an MRI of his hip. I said, will you just humor me for a minute? Can I do an MRI of your brain? And he goes, yeah. So I do one, and guess what I find right close to where the caudate nucleus is.
+
+[01:01:54.370] - Speaker 2
+It's one of the outflows of the substantial Niagara.
+
+[01:01:57.550] - Speaker 3
+Okay.
+
+[01:01:58.400] - Speaker 2
+White matter lesion changes right there. Those go right to the motor cortex, to his hip. Now, I'm going to give you.
+
+[01:02:07.190] - Speaker 3
+So his hip issue originated in the brain.
+
+[01:02:09.020] - Speaker 2
+Brain. But guess what? Two experts that are hired by the NFL, you heard what they told him. So what I tell him, I said, get on a plane, go to El Salvador, which he did. He went there for three months. Three weeks ago, I got a phone call from him. My hip pain's gone. He goes, I can't believe it.
+
+[01:02:30.480] - Speaker 3
+The experts were orthopedic. Yeah, of course, right?
+
+[01:02:34.430] - Speaker 2
+I'm not a hip doctor. What am I? I'm the guy that knows how the body plan works. That's decentralization. Remember, I'm a neurosurgeon.
+
+[01:02:43.800] - Speaker 3
+The centralized part of, say, holistic.
+
+[01:02:45.870] - Speaker 2
+But, well, you say, look, in this podcast, you guys can say whatever you want. I'm trying to tell you that when I do podcasts or you interact with me, if you use terms that I don't like, expect me to bite you like a great white chart. Why? Because I think that we're not going to get the changes that we need. If I get lumped in with people who are pseudoscientists.
+
+[01:03:08.470] - Speaker 3
+It's a trigger word. It's like a third rail kind of thing.
+
+[01:03:12.010] - Speaker 2
+No, I think it's inaccurate. See? Put all the metaphors on you want, Bill. It's inaccurate. And what am I passionate about? The truth. That's all I care about. And the truth is an approximation of what we know to be true today.
+
+[01:03:28.530] - Speaker 1
+So there is no real truths because it changes evolving.
+
+[01:03:32.670] - Speaker 2
+And guess what? How do I know that's true? Because octopus changed into humans. I think you need to think about what I'm saying. It's the way you think. It is totally the way you think. And you don't realize that light coming through the eye and the skin creates the way you think. And it's the truth. And it is so hard for people to accept. Because I think people think, oh, no. The way we think is tied to our mother, our father, or this or that. No, the way Rick thought when he was 400 pounds with sunglasses on is totally different than the Rick Rubin that's sitting at this table right now. I know that. He's told me that. But you know what the problem is? It's so hard, because you see the world through your own eyes, and you don't realize that your eyes change. And when your eyes change, your thinking changes. And that's why I always say when you change the environment, you can change your thoughts.
+
+[01:04:28.070] - Speaker 3
+I was just reading this morning a review that talked about how skin is a neuroendocrine organ that responds to the sun. Going back to what you were talking about, skin and brain are connected. But neuroectoderm, these molecules, essentially, they're molecules of emotion, right?
+
+[01:04:44.720] - Speaker 2
+No.
+
+[01:04:45.120] - Speaker 3
+Created.
+
+[01:04:45.600] - Speaker 2
+They're actually entangled.
+
+[01:04:47.410] - Speaker 3
+See, here's the beta enderphin.
+
+[01:04:49.190] - Speaker 1
+No.
+
+[01:04:49.580] - Speaker 3
+That affects your emotions.
+
+[01:04:50.830] - Speaker 2
+It's vitamin A and vitamin D. And.
+
+[01:04:52.350] - Speaker 3
+Vitamin D. Guess what?
+
+[01:04:53.740] - Speaker 2
+Vitamin A is made in the brain. Vitamin D is there. Guess what? Vitamin A and vitamin D actually interact together. That's the reason why one can't be toxic in one or the other when those are totally controlled by circadian biology. Do you know how you do on the yokum? Take vitamin d tablets or eat too much cod liver oil? That's how you screw the whole system up. People don't realize your body already comes with an owner's manual. You need to understand the owner's manual. Before you go tinkering with it, when you start tinkering with it, guess what? You'll never figure it out because everybody in the world sees it. Oh, well, if you have a vitamin D of 30, you need to take 20,000 iU a day with vitamin K two, and that's it. And then all of a sudden, you come back in three months and nothing's changed. Why? Because the photonics in the system hasn't changed. No one told you that going from New York to Chicago was the stupidest thing you could ever do. But guess what? There is the wisdom, okay? The anger in me is because this isn't that hard to get.
+
+[01:05:59.500] - Speaker 2
+Because of what you just said. You did a simple little Google search and found out that Jack's right. The skin and the brain are connected. And they're connected in ways that the endocrinologist doesn't even realize. Connected in ways that the internal medicine.
+
+[01:06:13.760] - Speaker 1
+Doctor doesn't realize and that the skin doctor doesn't realize totally.
+
+[01:06:17.500] - Speaker 2
+That one is completely clueless. But guess what? The reason that they're clueless is not because they're bad people. No. It's because the propaganda that was uploaded by the flexion report into medical school keeps it that way. So that you keep running to the pharmacy, so that you keep putting sunscreen on, so that you keep having the propaganda in the system that makes you a patient, you know? Who has to break that? You. And guess how you break that. I just got finished telling you how you think. That's why you come to me. That is really why you come to me. Because I will teach you how to think and the way you think right now, you're becoming a much better journalist by sitting out here in the sun with me. He is way better at his job now than he's ever been. He knows that. He's been doing things. He's got famous when he was a shell of himself. But that tells you how much innate talent is inside of him. Now he looks to optimize it, and he says, look, if Pearl jam or Metallica don't like that, I'm not available after 630. That's their problem.
+
+[01:07:30.350] - Speaker 2
+I'm doing my thing. Because if I'm not good enough for myself, who am I good for? Can I be good for my clients? Rick has that ability and belief, and so do I.
+
+[01:07:43.060] - Speaker 3
+You feel better at 50 whatever than you did at 30 whatever or 20 whatever.
+
+[01:07:49.510] - Speaker 1
+Yes.
+
+[01:07:50.770] - Speaker 2
+And guess what? He's got a fake hard valve and an award and this and that and guess what he's telling you. That may be artificial, but everything around me is now tied to the source code. In other words, there's a lesson here. You can have a bad thing happen to you, and it doesn't mean your life's over. Doesn't mean that if you get an amputation or say you get a meningioma and it gets removed, it doesn't mean that you still can't improve the tissue redox everywhere around it and still win, still be. I don't want to say as good as you could have been, but you will be the best version of you at the present moment. Why? Because the theory of relativity, everything is relative. And if everything in you is better than it was when you came out, and this flips back on itself, too. If a mother and father have a bad sperm and egg, can a baby be born with a retinoblastoma? Is it the baby's fault? No, the baby doesn't choose. Who decides to have sex after being an attorney and, I don't know, working as a Google patent attorney or being infertile and then going to somebody to take Clomid, and then all of a sudden, the kid is born with autism or retinoblastoma.
+
+[01:09:07.290] - Speaker 2
+I mean, you picked a disease, right? But guess what? That's the interesting part of this. It's not just the post mitotic form where these ideas flip. No, this explains why we get some of the diseases that have exploded out of nowhere. I mean, people don't realize the first paper in autism showed up in 1940. Autism is a neolithic disease, meaning it's come out of the blue. So is Alzheimer's. The first paper in Alzheimer's, 1911. But we act like, well, everybody's had this. No, they haven't. Right.
+
+[01:09:41.450] - Speaker 3
+And diabetes was unknown or rare.
+
+[01:09:44.270] - Speaker 2
+Well, diabetes.
+
+[01:09:45.490] - Speaker 3
+Until sugar appeared, and then it was a disease of the aristocracy.
+
+[01:09:48.800] - Speaker 2
+I'm going to reject Bill Gifford big time right there.
+
+[01:09:52.170] - Speaker 3
+Why?
+
+[01:09:52.600] - Speaker 2
+I wrote a blog a long time ago that tells you that diabetes is an evolutionary adaptation. It's not a disease.
+
+[01:09:58.670] - Speaker 3
+Explain that.
+
+[01:09:59.810] - Speaker 2
+Well, it turns out that when humans left the east african rift, and they're highly melanated, went all the way up to the top. There's a huge advantage when you use your melanin to make glucose acts as antifreeze in your blood so that you can tolerate high latitude living. That's the reason why people in Finland have the highest rate of type one diabetes. Who did I discuss this with yesterday? Is a lady who Rick knows, who had me on her podcast, who guess what? Magically got type one diabetes after she took a Moderna shot. And she was like, I don't know how this happened. And I'm sitting there on our podcast, and of course I didn't tell her anything. I'm telling you guys, I'm going, I know I wrote a blog. It's all there. Because guess what? When she got the shot, it lowered her redox. What else did she get? A neuroendocrine tumor in her pancreas. I'm like, hello. Do you not think these are related? And yet, you look at her facade, and she looks beautiful, but she's not beautiful on the inside. She's missing Melanin here, there, and everywhere else. Why? Because she likes LA.
+
+[01:11:03.040] - Speaker 2
+She likes being in the business she's in. See, it's that thing again. Wants, needs, and desires over. Are you a lion or a hippo that lives in your environment? And, no, it's not good enough for you to say, okay, let's talk about the gen X. No, I need to know your haplotype. I need to know your Fitzpatrick skin color. I need to know your relationship with nature. Those are the key things. And then I want to know about your mother. Why? Because you get your engines from your mother.
+
+[01:11:29.520] - Speaker 3
+Mitochondrial DNA.
+
+[01:11:30.770] - Speaker 2
+You got it.
+
+[01:11:31.880] - Speaker 3
+Which we haven't talked about yet.
+
+[01:11:33.530] - Speaker 2
+That, to me, is huge. Why? Because that's where the light show begins.
+
+[01:11:36.980] - Speaker 3
+Let's talk about that.
+
+[01:11:38.910] - Speaker 2
+Through metabolism, you make light. I didn't discover that. You know who did? Fritz pop. And Fritz pop built machines, took every living creature out there that you know, insects, flowers, plants, human cells. And he found that they emit extreme low frequency UV light.
+
+[01:11:57.330] - Speaker 3
+What were his machines called?
+
+[01:11:58.370] - Speaker 2
+They had a photo multipliers.
+
+[01:11:59.570] - Speaker 3
+Photo multipliers? Yeah.
+
+[01:12:01.140] - Speaker 2
+Guess what? When I told Andrew, Andrew didn't know that every living thing emits extreme low frequency UV light.
+
+[01:12:08.280] - Speaker 3
+Neither did I.
+
+[01:12:09.160] - Speaker 2
+Hard stop. Well, if we emit that, why is the sun toxic? So you have to ask yourself, is the sun really toxic, or is the source of the UV light somewhere else? You may not believe it, but it turns out it's actually true. And you need to understand that that pathway, that rabbit hole you jump down, is important. I told Rick and I told Andrew. Probably the single most important thing, in my opinion, if I was to do an eminem of part one and part two, because I said it. But I don't think people who listen to it. The onion skin experiment of Gerwich in 1923, when he cut the onion in half and put the glass and the quartz between it, you get no mitosis in the other side. If you put glass, if you put quartz in between it, by definition, that one experiment told you everything you need to know about biology, that UV light stimulates mitosis. You cannot grow, you cannot evolve without mitosis. So yesterday, Bill made me really happy. He sent me a paper and he goes, son of a bitch. He goes, it's right there. You said it in part one and part two, but I didn't believe it.
+
+[01:13:26.110] - Speaker 2
+If Jack tells you something, I promise you I didn't pull it out of my ass, okay? I'm telling you, the answer is there. But you know how I found the answer, Bill? Because I asked the question. I said, wait a minute, if pop found this in the 60s, is this from the sun or is it from inside? And guess what? The answer was yes. On both sides. Both.
+
+[01:13:48.870] - Speaker 1
+It's both.
+
+[01:13:50.230] - Speaker 2
+And then I said, okay, well, I need to learn a little bit more about this. And that is kind of where I started to understand leptin a lot more. Why? I said, this is a semiconductor Nus that has these unusual properties. It absorbs all frequencies of light, like everything, even stuff that doesn't come from terrestrial sunlight. And I'm going, why in the hell would we put it inside of us? Are we making light that's stronger than the sun? And then I got the answer myself. I started looking at the absorption and emission spectra of the most important proteins in our body, and I started to see 200 to 400 nanometer light. I'm going, we don't get 200 nanometer light, but yet tryptophan absorbs that. Tryptophan makes up melatonin. And I'm going, yeah, these are the decentralized questions that change your thinking just.
+
+[01:14:40.390] - Speaker 3
+To sort of connect some dots. You started this by, you're dealing with a weight issue, and you were trying to 360 pounds, and the prescription of eating less or eating differently and moving more?
+
+[01:14:54.220] - Speaker 2
+No, I ate more, actually, when I lost the weight.
+
+[01:14:56.730] - Speaker 3
+Okay.
+
+[01:14:56.990] - Speaker 2
+But I ate oysters.
+
+[01:14:58.590] - Speaker 3
+Okay.
+
+[01:14:59.250] - Speaker 2
+I ate things loaded with electrons, okay? Which is why Rick put oysters in front of you the other day.
+
+[01:15:04.750] - Speaker 3
+And those were delicious, by the way.
+
+[01:15:07.250] - Speaker 2
+Rick knows.
+
+[01:15:08.300] - Speaker 3
+But basically you found this connection between light, sunlight and electrons, melanin.
+
+[01:15:13.510] - Speaker 2
+Well, no, it was electrons.
+
+[01:15:14.680] - Speaker 3
+First leptin, sunlight, electrons, leptin.
+
+[01:15:18.050] - Speaker 2
+These are all the pieces that started out with the beginning of this podcast, where the light comes through the eye, goes through the leptin melanocortin pathway. Now we're getting to the core issue. Okay, what does Leptin do? What does Melanin do in this type of system? These were the questions that came up when I started to see the organization of the eye, the retina and the brain very differently than I was taught in neurosurgery. I will tell you.
+
+[01:15:47.810] - Speaker 3
+That's the key.
+
+[01:15:48.480] - Speaker 2
+Right. And the interesting part is I was taught some things in neurosurgery by. I always talk about this guy because I think without him, I don't make this quantum leap. Nicholas Bazan, he's an ophthalmology researcher from Argentina who took eyeballs out of cows and shined light through them, and he found out that it wasn't true. What was in the ophthalmology books that actually UV light does get through the eye. And as soon as I heard that, I was going, okay, then that makes sense. That's why melanin is an RPE. I never understood why God or evolution put fucking retin, I mean, melanin, behind something. If no UV light got in there, it just made no sense to me at all. And then when I got to read his papers, but he got to be my teacher. The teacher taught me, look, just because it's not in the book doesn't mean it's not true. And I'm like, that's a new one. No one's ever told me that before.
+
+[01:16:44.750] - Speaker 1
+Certainly not in medical school.
+
+[01:16:46.240] - Speaker 2
+No, but this was in medical school.
+
+[01:16:48.100] - Speaker 1
+I know, that's what I'm saying. It's unusual. You got lucky.
+
+[01:16:50.420] - Speaker 2
+Well, I think the reason why. I'm not going to say I got lucky. Remember the story I told Bill the other day about Peter Settler and cholesterol? That he came in the room and said, I am paid to teach you this, but I don't believe any of it. There's guys still like that in medicine. In fact, I'm one of those guys now. And I think part of the reason I'm like that is because of Bazan and because of sello. There's others. It was cool to sit down with you guys and kind of tell you how the mammalian clade came to be who they are today. That 65 million year dance, that was cool. But, like, after I left you guys, I wrote a Patreon blog that actually took the story all the way back to the cambrian explosion and went all the way because I wanted everybody to see, really, how this goes. Because I personally believe when you see that 600 million year journey, then you begin to say, okay, now my journey from zero to 60. Now I see this a different way. I'm not the same person that I was at zero.
+
+[01:17:53.660] - Speaker 2
+Because of the choices that I made in my environment, or the choices my family made, or the choices my profession forced upon me and I allowed it to happen. That's a totally different way of looking at your health. And certainly I think that the most myopic way of doing it is getting blood drawn and looking at your blood and think that you're going to know anything. That's like the biggest myopic reductionist mistake that most people make, because that's the dominant paradigm.
+
+[01:18:22.630] - Speaker 3
+Sure.
+
+[01:18:22.980] - Speaker 2
+That's out there today. Why? Because it's easy to do. Just because it is easy to do doesn't mean it's the right thing to focus on. I mean, that's part of the reason why him and I, I always say we're brothers from another mother, because he did the same thing in his profession, and I did. And he always jokes that he's not a scientist, but I think he is.
+
+[01:18:41.670] - Speaker 3
+He does brain surgery with music, right?
+
+[01:18:44.070] - Speaker 2
+And I do brain surgery without a.
+
+[01:18:45.460] - Speaker 1
+Scalpel, in the dark all night long, with no windows for 30 years straight.
+
+[01:18:52.050] - Speaker 2
+That's exactly what my world was like, dude. People don't get it. They don't get.
+
+[01:18:57.870] - Speaker 1
+I might drive home as the sun was rising, and then to go to sleep, to black out blinds and go to sleep.
+
+[01:19:04.750] - Speaker 2
+That's actually, I think, how you learn how important some of this stuff is that we're talking. I. I fundamentally believe, by going to.
+
+[01:19:13.410] - Speaker 3
+An extreme the other way.
+
+[01:19:14.350] - Speaker 2
+The guy that's here with me, Dan, he's like a know. He wants to hug. He's a spiritual guy. And I'm the guy. I'm the Mike Tyson. I punch you in the mouth. And I believe, fundamentally, being a neurosurgeon all this time, people don't respond well to Goombaya. They respond much better when you tell them the truth and tell them exactly what to do and cut out all the bullshit. One of the guys that trained me at Oshner, the guy that truly made me the surgeon I am, I'm talking about the hands where the baseball and the football came in. When they saw me use my hands, they're like, wow, you're good. You're really good. I said, yeah, but it was easy, because I was a dentist, I used know everything I've ever done with my hands, I've always been good with. But Vooris, he taught me surgical judgment is the single most important thing for a surgeon. And he said to me, I'll never forget this. He had a reputation of being a real asshole, but he was spectacular surgeon. He said, jack, do you know why other surgeons have to be nice? Because they're bad.
+
+[01:20:23.350] - Speaker 2
+He goes, when you're good, he goes, you're good. Just be good. Be so good for that patient that they seek you out. And it made a huge impact on me because what did I do the next two years I was with him. Boris is the one that brought Oshra into the operating room. Boris is the one that told me, go ahead, you want to stir the hornets? And I stopped. Go. He let me do it. And when he saw that I wasn't afraid, he goes, come on, I'm going to teach you how to do this surgery. I'm going to teach you how to think like a good neurosurgeon. Because neurosurgeons that are good have to think six steps ahead before you make this maneuver. You're playing 4D chess before you do the action. That is the key to being a good surgeon.
+
+[01:21:10.290] - Speaker 1
+Tell me about the sun in the different parts of the world.
+
+[01:21:13.430] - Speaker 2
+Okay, so let's start at the beginning. The beginning is, I'm going to say, the beginning of us two to 4 million years ago. You're allowed to pick whichever number you like. East african rick. Primates evolve into humans. Homo sapiens are around. They stay there for a pretty long time, probably two, two and a half, 3 million years. They don't decide to leave until late. Why did they decide to stay? Has a lot to do with what's very unique about the equator or equatorial zones, meaning plus ten, negative ten. It's light stability. One of the most important parts of circadian biology that doesn't get enough press, in my view, is light stability. Rick, you'll understand this really well, he may not get it. When you're in Costa Rica, don't you find it amazing that the sun rises at six and sets at six, and then when we get to December 31, it's 630 and 630, in other words, you hardly lose anything. But when you go to Utah, you lose 4 hours of sunlight. So when you have thermodynamic idea that I'm trying to set in place here in part three, do you think you're better or worse if you have 4 hours of less sunlight?
+
+[01:22:31.160] - Speaker 1
+Worse.
+
+[01:22:31.880] - Speaker 2
+There you go. And see, it's not that hard to get.
+
+[01:22:34.480] - Speaker 1
+I have a question before you continue. If you could go somewhere where in the summertime you got four extra hours instead of the six or 630, would that be beneficial?
+
+[01:22:47.490] - Speaker 2
+Rick, you already answered your own question. This is not fair. What am I trying to do? I just told you that I had legal battles that cost me a lot of money. People are trying to take my license, know, through COVID because I won't comply with anybody. I'm trying to reverse all the things that I had to do to get to this point to be with you and Bill today.
+
+[01:23:07.800] - Speaker 1
+So any benefit to being in more sun, more hours of the day is a good choice.
+
+[01:23:12.350] - Speaker 2
+Well, for me. Remember, I'm talking about my problem. Yes, I told you I have no medical problems outside of probably an extra 40 to 50 pounds that I didn't have before this process started. That will go. Why? Because now I'm on the opposite side of that. So did I already start the program to do what I just told you? The answer is yes. And you happen to know that I've ramped it up because I just went from Destin in New Orleans to the 13th latitude. So why am I telling you this? Not to tell you my personal laundry, but I don't really care because it's important for people to see. But it's also important for guys like you and Mr. Dorsey. I told you that Malibu is not good. I don't even like Europe. I don't like Hawaii. But I like 60 year old Rick Rubin, where he is right now down at the 9th latitude. Oh, I like that. Rick Rubin. The fact is that you have gotten that message and you understand it. I don't bother you about it. We have never really talked about it. Why? Because you're the lion and Hipaa that gets it.
+
+[01:24:18.260] - Speaker 2
+The people I got to focus in on is Bill. When I fought with Bill yesterday a little bit about Salt Lake City, but I want him to understand why that is not a good choice when you have a thermodynamic mitochondrial disease.
+
+[01:24:33.030] - Speaker 3
+I'm looking at you and listening to your story and the pieces. You're in a state of stress, and that's pushed you to a place where.
+
+[01:24:41.350] - Speaker 2
+It'S not pushing me vulnerable. I knew I needed to go there. No, I had to go back and do trauma.
+
+[01:24:45.840] - Speaker 1
+Treating himself? Yeah, he's treating himself.
+
+[01:24:48.310] - Speaker 2
+Yeah. I'm using the same things that you guys are trying to put on face audio to try to reverse what I caused. I know that I caused this.
+
+[01:24:58.580] - Speaker 3
+You're doing surgery. You're back in.
+
+[01:25:00.240] - Speaker 2
+Yeah, doing trauma surgery. Okay. Up 24/7 for seven days.
+
+[01:25:04.260] - Speaker 3
+So you're back in that last week that I did.
+
+[01:25:05.890] - Speaker 2
+You're back in that most miserable bastard you could ever imagine. They kept me awake for four straight days. I was ready to kill them.
+
+[01:25:12.040] - Speaker 3
+No sleep, bad light, all the things that were killing you to begin with.
+
+[01:25:15.780] - Speaker 2
+Horrible.
+
+[01:25:16.280] - Speaker 3
+Interesting.
+
+[01:25:17.040] - Speaker 2
+Horrible. Sounds horrible. Oh, it is.
+
+[01:25:19.440] - Speaker 3
+It's probably confirming, right?
+
+[01:25:21.720] - Speaker 2
+Well, if I don't do that, I never get to Rick and Uberman. I never get to what we're doing today. I never get to what we may do. What's my real goal? My real goal is to change the centralized medicine. That's my real goal. And I don't believe that anybody's changing it from inside. I think the change is going to come from outside. I think it's kind of like what Buckmissner Fuller said. He goes, instead of trying to improve something, he goes, just blow it up and start over. I think that idea is probably very accurate, but it's also very inconvenient. I mean, can you imagine, like, Rick Rubin telling Eddie Vatter, yeah, that song sucks. You just need to start over. I know Rick's not going to say that. Even if he thinks, you know, he may say this, that, and the other thing, and then get Eddie to go, this really does know. It's no different than when I sit down with a patient, say, okay, you got a GBM. You want to live four or five years because the book says you can, okay, this is what you need to do. And then they look at you like, you want me to leave New York City.
+
+[01:26:26.410] - Speaker 2
+Do you know who you know? Do you know what I do? Do you think I care who you are? Do you think I care what you do?
+
+[01:26:33.950] - Speaker 1
+Because you're nature, correct?
+
+[01:26:37.630] - Speaker 2
+You, that wild animal that's no longer wild, and nature is telling you you got a big goomba in your head because you're paying the biologic toll of making bad decisions. Well, that's not my. Not. I can't move know. I'm a know movie producer in Los Angeles. What do you mean you want me to move to El Salvador? Who do you think keeps the lights on here? Dude? I hear that every day, Bill. And I look at the person and what am I supposed to do? They're allowed to lie to themselves. You know who they're not allowed to lie to? Me. You are paying me to tell you the truth. Now, you may not like what I say. You may not even like how I say it.
+
+[01:27:24.990] - Speaker 1
+For sure they don't like how you say it, right?
+
+[01:27:27.260] - Speaker 2
+But that's also okay. You know why? Because the lesson comes from evolution. That's why you have extinction events. Nature doesn't sit down with you and have a discussion because you like your job. It doesn't like. It tells the wildebeest you got to cross the Nile river. And by the way, there's 30 foot crocodiles in there. And guess what the wildebeests do? They do it because they know they must. Because that's where the grass is. And without the grass, everybody dies. So guess what? A few die for everyone. That is a decentralized story in nature. But guess what? That's not how humans think. Humans think everybody gets a trophy. We need to save everybody. No, we don't. People who give 10% shouldn't get your 100%. But the thing is, when you decide to have a baby, when you decide to have a wife, then you're sacrificing part of yourself for them. That's a different ballgame. It's a totally different ballgame. I find when we talk about this, I can't tell you how important this is, especially in my world. Maybe not in yours. Maybe this is the difference between being a journalist and being a doctor.
+
+[01:28:44.890] - Speaker 3
+Well, you're like an all or nothing guy, it seems like.
+
+[01:28:47.270] - Speaker 2
+No, nature's all or nothing is this part.
+
+[01:28:50.540] - Speaker 3
+Nature is infinite.
+
+[01:28:51.520] - Speaker 2
+This isn't about Jack Cruz. This is about the science that Jack Cruz believes. Nature drives all of biology. Your opinions, your emotions do not matter. Your intent does not matter.
+
+[01:29:11.100] - Speaker 1
+Neither does yours. None of us. We are following the light source code. That's it.
+
+[01:29:18.420] - Speaker 2
+That's it. And guess what?
+
+[01:29:20.320] - Speaker 1
+Has nothing to do with us.
+
+[01:29:21.700] - Speaker 2
+No.
+
+[01:29:22.230] - Speaker 1
+We can follow it, or we can fall off.
+
+[01:29:25.170] - Speaker 2
+We're a result of the choices that we make. Choices are the hinges of destiny.
+
+[01:29:29.830] - Speaker 3
+How are they inwit alive?
+
+[01:29:32.870] - Speaker 2
+Very simple. They live. When? Before we ruined their environment.
+
+[01:29:37.870] - Speaker 3
+True.
+
+[01:29:38.340] - Speaker 2
+They were able to live perfectly fine. Why? They were completely connected to the environment. They ate walruses right out of the ground with blood all over them. They stayed out. How did they get their vitamin D? They ate the whole animal, including the eyes, where the vitamin D was. They're able to persist at that level. They cold part one and part two. What did we talk to you brim about? What's the fastest way to make endogenous light stronger than the sun being the cold? What did the innocence did.
+
+[01:30:05.730] - Speaker 3
+You got your mitochondria cranking away and.
+
+[01:30:08.260] - Speaker 2
+Creating massive heat through metabolism. You're making light. You're making light.
+
+[01:30:12.050] - Speaker 3
+And you're burning a shit ton of.
+
+[01:30:13.120] - Speaker 2
+Calories more stronger than the light here in the 34th latitude. That's how your design work. Look, nature has a plan. I try to use this analogy, Bill, in a podcast I just did recently, and hopefully you'll like this. Here, think about the boreal forest, the boreal forest ends at the 60th latitude, in the north. We don't have one in the south because Antarctica is on the bottom. Right, but remember, the boreal forest stops. Do you know why it stops? Because photosynthetic yield collapses above that. So what did I just say?
+
+[01:30:43.390] - Speaker 3
+Trees, no light. Yeah.
+
+[01:30:44.880] - Speaker 2
+No trees, no photosynthesis. In other words, there is a kill switch for nature, our kill switch.
+
+[01:30:52.490] - Speaker 3
+Nature takes different forms and it's less robust.
+
+[01:30:59.170] - Speaker 2
+I would tell you. Up at the poles, there's nothing.
+
+[01:31:01.780] - Speaker 1
+Well, you were at the park before.
+
+[01:31:03.140] - Speaker 3
+That's why people don't leave.
+
+[01:31:05.010] - Speaker 1
+Where we were all at the rift.
+
+[01:31:07.970] - Speaker 2
+Yeah.
+
+[01:31:08.500] - Speaker 1
+And then what happened?
+
+[01:31:09.670] - Speaker 2
+We left the rift 70,000 years ago.
+
+[01:31:11.580] - Speaker 1
+Why did we leave?
+
+[01:31:12.570] - Speaker 2
+No one knows. My belief, it's probably tied to food. I think food changed because the planet changed.
+
+[01:31:18.540] - Speaker 3
+Climate change.
+
+[01:31:19.540] - Speaker 2
+The east african rift, I don't think it was climate change. I actually think it was tectonic plate shift. But when we innovated from the monkeys. East african rift, there's three tectonic plates that are connected to this landmass. As the tectonic plate shifted, that shifted magnetism. What was a consequence of these maneuvers? India crashed into the bottom of Asia, pushed up the himalayan mountains. Himalaya mountains. Went to 29,000ft, blocked all the hydrology cycle. This eventually, over time, created the Sahara desert. The ocean went away. How do we know that? We drill holes down in the Sahara desert and there's freaking seawater there. We drill holes, we find seashells. So we know. So my belief, because the desert is there right now, that humans two to 4 million years ago were affected by this. And what do they do? We believe they left Africa by waterways. What's the best evidence? The reason why there's no true missing links is because if you know anything about human bones, put them in saltwater, they dissolve. So that's the reason why we haven't found Sasquatch, so to speak. So when you understand this, where did the story change? Like, how do you get to the mitochondriac story, the decentralized story?
+
+[01:32:32.800] - Speaker 2
+It's where Doug Wallace comes in. People who live in east african rift, at that time, two to 4 million years ago, they're what we call tightly coupled. They're l zero, l one, l two, l three. They also have dark skin, meaning the.
+
+[01:32:45.040] - Speaker 3
+Proteins in their mitochondria.
+
+[01:32:46.920] - Speaker 2
+Yeah, but I mean, it's the coupling rate. What does it mean? You eat less because you don't need to. Make. Right. They're more efficient, they don't need to make heat. So when we started to leave the east African and radiate all over the planet, we went to higher latitudes. The sun's not as strong. It's colder, right. What did nature do? We got to change the mitochondria. So what did it do? It started to innovate. Different coupling system. What does that mean? It releases free heat so that we can live in those environments colder. Now, some of the other primates that innovated from the chimps, guys that, you know, Neanderthals. Neanderthals are a form of us, homo neanderthalis. They seem to have died out at the 51st latitude. This gets back to the boreal forest story. Why they had bigger eyes than us and 125 grams more brain. So what does that tell you?
+
+[01:33:37.730] - Speaker 1
+Needed more energy.
+
+[01:33:38.790] - Speaker 2
+You got it. And when you get above the 51st latitude, that's the same story of zabreal forest slim pickens. You got it. So why is that important to understand? In this story? Every time Jack talks, I know that the photosynthetic quantum yield of that plant behind you is 39% the photosynthetic quantum yield of your atpas nanotork engine, 100% in the mitochondria. Right? So guess what that means. When you're a human, you are wholly dependent on that. Which makes the guys that talk about skin cancer why you need to absolutely not listen to them.
+
+[01:34:14.450] - Speaker 3
+Skin cancer related to sun exposure?
+
+[01:34:16.440] - Speaker 2
+Yeah. That's ridiculous.
+
+[01:34:17.330] - Speaker 3
+Let's talk about that.
+
+[01:34:18.450] - Speaker 2
+Well, let's finish this story. So once we get up there, the Neanderthals find that it's a thermodynamic constraint to live in cold weather. So what did they do? They start living in caves, they wear animal skins, they start covering their skin. So what was the effect of that from part one and part two? That's actually the first time that actually melanin got destroyed into dopamine and the homo species started to become more creative. Most people think creativity is an evolutionary adaptation. That's positive. I'm here to tell you it came because we got dumbed down, because melanin broke down. And people forget that when you have hypoxia, what happens to melanin? Hypoxia is low oxygen tension. That means melanin turns into dopamine, noradrenaline and adrenaline. What's the difference between Neanderthals and us? Our frontal lobes are filled with those three neurotransmitters. Neanderthals are no longer on the planet. They could not go higher, they couldn't go to Scandinavia. So when homo sapiens went even higher, the story that I told you guys before about evolutionary friends or foe, diabetes became an adaptation to live at the highest latitudes. What was the constraint on our brain? What happened?
+
+[01:35:47.280] - Speaker 2
+We kept losing brain tissue. No one knows where the brain tissue went. But the two big things we know about Neanderthals and us, smaller eyes and smaller brains, that eye clock is a big deal. If your eyes are shrinking, you're starting to go, wait a minute. This means that light had to be changing tremendously. We don't see any artwork at all, any dopamine creation, until they go inside in a cave with fire. What's the first artificial light for our species? Fire. That ruins melatonin. Believe it or not, it does. Really?
+
+[01:36:24.640] - Speaker 1
+I didn't know.
+
+[01:36:25.130] - Speaker 2
+Yes, it does, and it's a problem. It's the first time that we began to cognitively devolve. But remember, and this is all common sense. Suffolk, you've been to the museum of natural like I do. You don't ever see cave paintings outside the cave, right? You don't. It's the first time. And when you and me are kids in New York, we thought that this happened just like 10,000 years ago. It turns out we now know that the first cave paintings were in the and with all time, 65,000 years ago. So this marries to Doug Wallace's idea about the out of Africa hypothesis at 70,000 years ago. Okay, so as we go higher, what did Homo do? We start uncoupling through the proteins in the mitochondria make more heat. What is the consequence of that? We have to eat more to persist. So when you live at higher latitudes, since you have to be unofficient, you have to eat more. So can you imagine what would happen if, say, those northern Europeans migrate to a place where the environment changed? Would they be more or less likely to get fat? That's Jack Cruz. I just described to you my leptin melanocortin problem through this out of Africa thing.
+
+[01:37:45.640] - Speaker 2
+That's how I figured out the leptin prescription. So the interesting thing, that's where my train stopped. My train stop was bad at the leptin receptor in the hypothalamus. But that's not where the substantial Niger is. Like, I don't have Parkinson's, I don't have hypothyroidism. My problem is that one problem.
+
+[01:38:04.410] - Speaker 3
+So you were in a setting basically optimized for scarcity, where you had to eat as much as possible?
+
+[01:38:10.030] - Speaker 2
+Yeah, but I will tell you, in my opinion. I came into the world with this. Why? Because I think this was in my maternal line for a while. That's what I think. And if I don't pay attention to light cycles, I don't eat that much. I mean, you can ask Dan. He's been with me. I eat breakfast, and that's pretty much it. I am pretty efficient. And if you talk to any woman that's ever slept with me, they'll tell you I am a radiator. Like, I radiate heat.
+
+[01:38:35.420] - Speaker 3
+You're one of those hot sleepers.
+
+[01:38:36.870] - Speaker 2
+Well, I need it cold like, I need it really cold. I like it 60 to 62, 63 degrees, and I sleep buck ass naked. But remember, that's a consequence of my thermodynamics. I know that about me. And I've learned that I sleep hot, too. Right? So you and I, that's why I said there's a lot of things that we have in common, but I want you to understand the reason why they're in common. We're not genetically related, but guess what? We are mammals that are uncoupled that need to do these things. Now, remember the guys that are one degree north in Nairobi? These guys have purple skin. They are so thermally efficient that they can go run endurance races and then take a flight over to Boston and kick everybody's ass. Or they can be like Usain bolt and run on the volcanoes at the 20th latitude, eating chicken nuggets and kick everybody's ass.
+
+[01:39:30.410] - Speaker 3
+Their mitochondrial efficiency is much higher, totally different.
+
+[01:39:33.260] - Speaker 2
+If you really want to know the truth, mitochondrial biology is actually cheating.
+
+[01:39:39.830] - Speaker 3
+So it's doping.
+
+[01:39:40.720] - Speaker 2
+It's like blood doping, but you don't get penalized for it because that's actually how nature works. But I don't think people realize that the same story that's in the boreal forest is in us. And I used in the Neanderthals to show that the thing that was an implication of our first two talks. I think this stunned a lot of people when I wrote a whole blog on Patreon about dopamine. Why? Because you know that when I came out the last time I had read your book, I wrote all my notes in the book, and I knew that you would be stunned at why. I think some of the people that you do work with are really, really creative because they're actively destroying their melanin. This creates dopamine, and they are really creative, but their creativity stops. They get past the critical dopamine level, and it's the same story that I told you guys in the beginning about the substantial Niagara, isn't it? You don't have the disease until. Okay, I've lost. And the same story is present in creativity.
+
+[01:40:44.830] - Speaker 3
+I don't understand how destroying melanin creates dopamine.
+
+[01:40:49.710] - Speaker 2
+Then all you need to do is open up a textbook, because that's something.
+
+[01:40:53.780] - Speaker 1
+Explain it.
+
+[01:40:54.350] - Speaker 3
+Explain it.
+
+[01:40:55.460] - Speaker 2
+That's how it forms. When you take melanin, it breaks down to dopamine, it breaks down to ldopA. Like these are biochemical dopamine, like it's bad.
+
+[01:41:04.720] - Speaker 3
+Like that sounds good.
+
+[01:41:05.780] - Speaker 2
+No. Well, you look at it as good as the connotation. What am I trying to tell you? I'm trying to give you the evolutionary perspective. It wasn't good, but we used it positively. In other words, dopamine is something that.
+
+[01:41:21.370] - Speaker 3
+Helps make us human.
+
+[01:41:23.350] - Speaker 1
+Well, again, helps make us human now.
+
+[01:41:26.220] - Speaker 2
+Now, yeah, right. But it didn't back then. It actually changed the primate clade is what I'm trying to tell you. And the effect is still seeing us now. Why? Because when we lose dopamine, that's where depression comes from, that's where mood disorders come from, but that's also where Parkinson's comes from. The point that I'm trying to make to you, you need to understand the slide. Because guess what? Everything's good. Everything's good. Everything's good till everything's bad. That's a neolithic disease.
+
+[01:41:54.370] - Speaker 3
+Okay.
+
+[01:41:54.900] - Speaker 2
+Understand now?
+
+[01:41:56.690] - Speaker 3
+Yeah.
+
+[01:41:57.410] - Speaker 2
+Okay, good.
+
+[01:41:58.870] - Speaker 3
+So we're talking about where people migrated to. So when I do 23 andme, and probably the same for you, I get 99.2% northern European. So my people are all up there with the short winter days, low angle sunlight. I'm pretty pale, normally. Light eyes, I get sunburned.
+
+[01:42:24.970] - Speaker 2
+Light eyes.
+
+[01:42:25.700] - Speaker 3
+Light eyes, yes.
+
+[01:42:26.720] - Speaker 2
+No melanin in your eyes, blonde hair. So you're designed to absorb as much light as you possibly can inside. Not on the outside.
+
+[01:42:35.920] - Speaker 3
+Through the eye.
+
+[01:42:37.790] - Speaker 2
+Through the eyes and the skin too? No, through the skin. But he doesn't have as much melanin on the skin. Think about what he just said. If you are at Reykjavik, do you need as much melanin on your skin? No, you need all the melanin on your skin when you live in Nairobi.
+
+[01:42:51.870] - Speaker 1
+Because it's doing a different function.
+
+[01:42:53.820] - Speaker 2
+Well, not only protect, but absorb. You need to absorb it and use it. Remember what I told you about nature? It's a thermodynamic game. Nature doesn't waste energy.
+
+[01:43:03.390] - Speaker 1
+It's the most efficient way to do it.
+
+[01:43:05.280] - Speaker 2
+Exactly. See, it comes back to the original decentralized idea in this podcast, part three. Don't ever forget, thermodynamic efficiency is the key to all decentralized systems. Once you get that axiomatically tattooed into your frontal lobes, most of these things that we're talking about, you'll be able to figure them out without me sitting in your living room or without listening to me do a podcast. But now when you do listen to me on a podcast, you're going to say, I know why Jack's saying that. Now. I get where he's coming from, and I won't have to explain it to you like you're a third grader, because you're like, this is all about efficiency, like nature. The reason there's no boreal forest, nature says there can't be. The reason why we don't have pineapples and coconuts in Boston is because it's impossible. But we know today it is possible. And when you eat them, you're paying.
+
+[01:43:58.330] - Speaker 1
+A toll for it because it's impossible.
+
+[01:44:01.490] - Speaker 2
+Correct. Remember what I told you about quantum mechanics? There is no cause and effect. Everything is based on probability, as hard as that is for people to swallow, what I just told you is true. But if something doesn't grow in that environment and you eat it, you are creating chaos at some level in your body. You may not believe it, neither may your doctor, neither may any of your friends, but it's true.
+
+[01:44:25.300] - Speaker 1
+And not because you're saying so, but because nature is saying so.
+
+[01:44:28.440] - Speaker 2
+Right? Like I said, some of the advice that you get from a dermatologist, this is how bad it is. It'd be equivalent to them saying, I think you should buy 100 acres in the Yukon territory and grow coconut trees. Remember how many times I've said, growing.
+
+[01:44:45.310] - Speaker 3
+A coconut and eating a coconut?
+
+[01:44:46.930] - Speaker 2
+No, but I'm trying to make the leaf for you. You keep tripping over these things growing and eating are linked.
+
+[01:44:55.010] - Speaker 1
+It's the same.
+
+[01:44:56.200] - Speaker 2
+The whole food web is tied to Photoshop.
+
+[01:44:59.090] - Speaker 1
+It's all the same.
+
+[01:45:00.240] - Speaker 2
+This is the same thing. But I don't even think when you ask me the questions. You realize decentralization propaganda is deep in you.
+
+[01:45:08.920] - Speaker 1
+It's in, deep in everyone. That's why you don't be mad.
+
+[01:45:12.350] - Speaker 2
+I'm not mad. I'm just like, look, everyone see this? Everyone.
+
+[01:45:16.950] - Speaker 1
+Nobody sees it. Nobody sees it. It's just obvious to you. Nobody sees it.
+
+[01:45:23.430] - Speaker 2
+Like, for example, see that over there, Bill? Here's the perfect example. Eminem grapefruit tree. Yeah, Eminem gave that tree to Rick. Look at the size of those grapefruits, they're not ready. They're not ripe. But you know what? Rick now knows. Eminem gave me that tree. Since the grapefruits grow, I can actually eat that at the 34th latitude because guess what? The tree hasn't died. That is the story of food. And guess what?
+
+[01:45:48.560] - Speaker 1
+We are the tree.
+
+[01:45:49.730] - Speaker 2
+The basic story of food. It's an electromagnetic barcode of what is possible at the latitude and the environment you live in. If it is possible, then you can eat it. If it is impossible, you should not eat it.
+
+[01:46:03.990] - Speaker 3
+So Eskimos shouldn't eat a salad?
+
+[01:46:05.880] - Speaker 2
+No. How the fuck are they going to eat a salad? Where does a salad come from? Colorado.
+
+[01:46:11.390] - Speaker 3
+The miracle of modern global food transport. We're getting very farm to table here.
+
+[01:46:17.540] - Speaker 2
+Well, to me, it's just believing us just because you can do something. I mean, I'll never forget 2011. I'm the keynote speaker at the Paleo FX conference. And Emily Dean's a Harvard psychiatrist. I got into her with her huge about this issue. She's like, well, I eat banas every day. I'm like, tell me where the banana tree grows in Boston. I said, you got a Harvard education, and this is in front of a group of people. This is like the first time people got to see the difference between me and the paleo guys. And I'm like, you don't even realize the mistake you're making. And you're a highly educated, Harvard trained person, and you think I'm the one that's batshit crazy. I told her, I said, mark my words, with time, you're going to be shown to be the one that's batshit crazy. And don't you think didn't take five, six years. Nobel Prize comes out for circadian biology. There's now papers out there saying, yeah, if you feed mice and rats things that are outside their circadian mechanism, they.
+
+[01:47:16.510] - Speaker 3
+Get fat, they get sick outside of their circadian cycle.
+
+[01:47:19.600] - Speaker 2
+Yeah, if you feed a mouse something that doesn't grow at the latitude, they get fat. Even if it's considered a health food by the paradigm. Do you know what that's?
+
+[01:47:32.090] - Speaker 1
+Health food is only a health food where it grows.
+
+[01:47:34.790] - Speaker 2
+This is it. This is the story of food. It's got to be coupled to the light and dark cycle. It's a circadian story. Food is not proteins, lipids, and carbohydrates. Food is an electromagnetic barcode of where the sun is in relation to the earth and the moon. And that's not how we think about it. But that's exactly.
+
+[01:47:56.040] - Speaker 1
+Steiner might have talked about that.
+
+[01:47:57.850] - Speaker 2
+He was the closest. But I will tell you. Just think about this. We're talking about decentralization and mitochondria. Think about what a mitochondria does. There's no protein, lipid and carbohydrate transporter for mitochondria. It's electron chain transport and use protons. Okay, so tell me how Jack Cruz is wrong. Even the textbooks say I'm right.
+
+[01:48:17.150] - Speaker 3
+If it all boils down to electrons, does it matter where they come from?
+
+[01:48:21.230] - Speaker 2
+Yeah. Are all electrons created equal?
+
+[01:48:23.400] - Speaker 3
+I'm going to still eat my bananas.
+
+[01:48:24.840] - Speaker 2
+But are all electrons created equal?
+
+[01:48:26.790] - Speaker 3
+I don't know.
+
+[01:48:27.390] - Speaker 2
+Richard Feynman says they are. But are they? Quantum biology says it's not true. Why? Because electrons get excited by light. So let me ask you a question. The electrons in bananas, are they more highly powered or not than, say, electrons? And. Interesting, huh? Turns out that electrons are different when they're in different forms of matter. So guess what? What's the most electron dense thing on the planet? Turns out it's not something that actually grows here. It's an oyster. So out there in the ocean, you know why the ocean is filled with water? What is water? A sea of electrons. So do you understand now why, Jack?
+
+[01:49:11.070] - Speaker 1
+Beyond location, in other words.
+
+[01:49:13.980] - Speaker 2
+No. It still has a circadian biology too.
+
+[01:49:16.880] - Speaker 1
+It does.
+
+[01:49:17.310] - Speaker 2
+It does.
+
+[01:49:17.710] - Speaker 1
+So if you live in a place where oysters don't grow.
+
+[01:49:21.040] - Speaker 2
+Yeah. You probably need to stay away.
+
+[01:49:22.480] - Speaker 1
+Is that true?
+
+[01:49:23.220] - Speaker 2
+Yeah. But you know what?
+
+[01:49:23.990] - Speaker 3
+There's other things there, like conch, like shellfish grows everywhere.
+
+[01:49:27.890] - Speaker 2
+It kind of does, but not in the modern world. Like if you go up to Boston, they killed the fishery. The perfect here, it's a dead. Southern California is terrible. Used to be like, you go down to Paradise Cove, you see all the pictures of the fish they used to pull out and there's nobody fishing out there now. Now they just have these algae things coming up out of the ground. But that's consequence of know we did that. Now if you go down to Mexico, there's fish everywhere because they didn't do what they did in southern California. But that's neither here nor there. The bottom line is food is also a light and dark story. Food is a. And you know, you're allowed to eat something that's out of the system, but you need to realize that you're paying a toll for it. So what does that mean? Since Bill lives in Salt Lake City and likes bananas, that means that bill needs to do probably CT or be in the sun a lot more. So Bill should not have this on.
+
+[01:50:27.940] - Speaker 3
+Have the sleeves and the long sleeve shirt.
+
+[01:50:29.890] - Speaker 2
+Yeah, I would say do that or just get more of it, because then you can offset the chaos.
+
+[01:50:34.870] - Speaker 3
+Here's what I do do, since I've been acquainted with the gospel of Jack Cruz. Every day, at some point mid morning, between sometime between like ten and noon, I'll go down out of my office and stand out in the yard, or sit out in the yard, take my shirt off and just kind of, that's good. With a hat over my bald spot, I will say, and just kind of meditate and absorb the sun and just soak it up, I tell you. Great, feel great.
+
+[01:51:03.400] - Speaker 2
+I want Bill to do, I want Bill to learn about solar callus. I want Bill to learn how to turn on the solar callus in his body. Solar callus, because it links to what we just talked about.
+
+[01:51:15.220] - Speaker 3
+I got a callus on my ass from riding the bike a lot. So tell me about the solar callus.
+
+[01:51:19.490] - Speaker 2
+Solar callus, the way I like to describe it, especially when people come in, either guys or ladies, I use the Louis Vuitton store. You go into Louis Vuitton store with your wife, she looks at the shoes and she goes, oh, baby, these hurt my feet. And then Rick turns around and said, baby, you get those shoes wearing five times around the house and you'll be fine. We know how to break shoes in, but we don't know how to break our skin in. So when you're a white boy like me, actually, all three of us, we all have skin. That's Fitzpatrick, one or two from high latitude. What you need to know is the program's still in you. You can still make melanin, but you have to turn palmsy on. So how do you do it?
+
+[01:51:55.250] - Speaker 3
+Palmsy?
+
+[01:51:56.450] - Speaker 2
+Pro opio melanocortin. That's also from part one and part two. That's the basis of melanin story. That's there for Alpha msh. So the key there is, first thing you want to do to build it up, eat a lot of shellfish. Why? Because the chitin, the exoskeleton in, that has a lot of chromophores that help the skin. Okay.
+
+[01:52:20.410] - Speaker 1
+Is it in anything else or only in shellfish?
+
+[01:52:22.480] - Speaker 2
+Oh, no, it's in other things, like, for example, tomatoes.
+
+[01:52:25.090] - Speaker 1
+Okay.
+
+[01:52:25.690] - Speaker 2
+You'll also find it in some fruits. I'm trying to think of a good one. Macadamia nuts.
+
+[01:52:31.810] - Speaker 3
+Macadamia.
+
+[01:52:32.520] - Speaker 2
+You should like that because I know they sponsor your podcast, and I like.
+
+[01:52:34.930] - Speaker 1
+Macadamia nuts as a nut I do.
+
+[01:52:36.690] - Speaker 2
+Too, because they have high DHA. The other one, I would tell you. The second step is then I want you to think about the circadian biology of the sun in the morning. This red is really powerful. There's no UV, so you get a lot of red light. Red light preconditions the skin to make more UV. In other words, it helps everything in your skin. The fiber blasts the collagen, the water, it energizes it. Then as soon as the UV comes out, the palm sea that's buried in your skin turns on, and you begin to make melanin. So melanin biology becomes upregulated because of those three things that happen. You're putting substrates in the body, which are basically proteins that allow you to assimilate light, and meaning they have an absorption factor. Then you're using red light to get all the collagen ready, and then when the uva starts, that's the stimulus to turn on alpha msh. Then slowly, if you do this over four to six weeks, you will create your own melanin, your skin. That's the story. The idea that I got with the african american lady with vitiligo, that's exactly what I did on her to actually stimulate it, and I wanted to know how fast it can happen.
+
+[01:53:46.550] - Speaker 2
+It happens quick. And then the flip side of that story is what Rick brought in part one and part two, when he told us about when I go from low latitude to high latitude, I lose it pretty fast, too. So what's the story there that links to how long was photosynthesis really blocked? Not as long as we think.
+
+[01:54:03.760] - Speaker 3
+Yeah.
+
+[01:54:04.350] - Speaker 2
+And that's where that idea could have survived that, really? Not without the sun, because we know that the sun is the basis of the entire food web.
+
+[01:54:13.390] - Speaker 1
+I have a friend who I knew back in my old life who saw me, and he said, I didn't know you could get tan based on how white your skin always was. I didn't know it was possible for you to have any tans.
+
+[01:54:30.510] - Speaker 2
+And you know why I'm glad you just said that? Because, Bill, that's the teaching case. Does a high latitude northern European who's got Fitzpatrick type one skin. Has Rick proven what I just told you with blue eyes? Has Rick just proven as the hippo and lion, he knows how to do it now, not only that, he also is so in tune. He's like, Jack, when I fly home, I usually know that I lose it. And guess what? I don't have to talk to Rick anymore. He knows I don't have to tell him again.
+
+[01:55:06.530] - Speaker 3
+It's interesting, like going back in the literature, you find these studies where people did experiment using light as a medical treatment for, like, rickets, obviously for vitamin d deficiency. But then also there was one that I think you had linked to or you'd sent me or something using light in the context of a mental institution, parkside mental hospital, to treat people's mental disorders.
+
+[01:55:32.300] - Speaker 2
+Remember I told you that the direct tracked through the leptin melanocortin was to the habitual or nucleus? And I told you that way station basically was the gateway to the frontal lobes? That's the reason why that connection being direct tells you a lot. All mental illness. I don't care what one it is. That's where the defect in melanin is. It starts at the Habeniola nucleus and then it goes all the way.
+
+[01:55:54.540] - Speaker 1
+They're also using very powerful magnets for mental illness now.
+
+[01:55:58.860] - Speaker 2
+Transcranial magnetic stimulation. I just actually talked to you, Dan, about that. You know who else we use it in is? I use it in some of my NFL clients. Like the guy told you about Darius Leonard. He's the perfect candidate to have that. I actually think that's something that every NFL NHL team should be employing after someone has a concussion. Like, literally, they should take you out of the game and they should put a transcranial magnet right over the top. And they can do that based on the neurologic exam? Assuming the neurologist or the neurosurgeon is good.
+
+[01:56:31.050] - Speaker 3
+We've barely touched on the magnetism side of the story, the electricity side of the story. Oh, I think we touched Robert O. Becker.
+
+[01:56:39.670] - Speaker 2
+I think we touched on it, though. It was just a skiff, but we touched on it when we talked about Parkinson's.
+
+[01:56:46.490] - Speaker 1
+If you have any questions about it, ask.
+
+[01:56:48.620] - Speaker 3
+Yeah. So we know the brain has got a lot of electrical stuff going on.
+
+[01:56:54.260] - Speaker 2
+It's got a lot of magnetic stuff, too.
+
+[01:56:55.670] - Speaker 3
+A lot of magnetic stuff.
+
+[01:56:56.740] - Speaker 2
+We just don't talk about it.
+
+[01:56:57.750] - Speaker 3
+We just don't talk about it because.
+
+[01:56:59.190] - Speaker 2
+You know why centralized science isn't interesting?
+
+[01:57:01.730] - Speaker 3
+Why did I know you were going to say that?
+
+[01:57:03.300] - Speaker 2
+They're not.
+
+[01:57:04.020] - Speaker 3
+The brain is chemical. Right? It's biochemical. That's the model.
+
+[01:57:07.000] - Speaker 2
+It's chemical biochemical, but that comes after the electromagnetic. So why do we want to talk about train station B when we haven't even figured out a? Because without A, b never works.
+
+[01:57:19.450] - Speaker 1
+The electromagnet system is the primary. It's the source code system. It's the source code more than that.
+
+[01:57:28.240] - Speaker 2
+No, that's it. It's that simple. What is light called, Rick? It's called an electromagnetic wave. What does that mean? The waveform? The electric field goes one way, the magnetic field in the light wave goes 90 degrees. It's called orthogonal. So for the camera, that's what it means. So you have an electric field. That's the one that most people. Right. Most people focus on. That's what we do. Egs, emgs or ekgs. That's looking for electrical deflections. But the magnetic side is also present when we use machines that almost no hospitals have outside of places like where Andrew works at Stanford. They're called meg machines, magneto encephalographic machines. We put that machine over your head, we can measure the magnetic field coming out of your chest. 22ft.
+
+[01:58:24.600] - Speaker 1
+Wow.
+
+[01:58:25.180] - Speaker 2
+22Ft, yeah. And out of the head, it's usually between six and 10ft.
+
+[01:58:30.010] - Speaker 1
+22Ft out of the chest?
+
+[01:58:31.480] - Speaker 2
+Yes. That's the reason why we like to have sex chest to chest. Because you're entangled.
+
+[01:58:35.560] - Speaker 1
+22Ft.
+
+[01:58:36.620] - Speaker 2
+You're entangled that way. And believe it or not, there's certain parts of your body that have more magnetic flux. I told you this. In men, the glands, penis, in women, the clitoris, all humans, the tongue. Which is the reason why we like oral sex. This is the reason why sex is even an electromagnetic story. But what's the fundamental issue with magnetism? Magnetism is just another force of nature. There's a lot of people that will tell you that it's its own separate issue, but it's fundamentally related to electromagnetism, which is a photon. So every light ray that comes in has both electric and magnetic power. And guess what your body does? It harvestes both sides. Centralized medicine only focuses on that part of the elephant. Uncle Jack. Both sides. So what is the thing that captures most of the magnetic flux from the sun? Come on. Water. Water is a magnetic dipole, Rick, when you open up that textbook that you don't like to look at, when you look at mitochondria, what's the end part of mitochondrial respiration? You create CO2, right? We breathe it out and we create water. Deuterium depleted water. Do you know that deuterium depleted water has a different magnetic moment than water that comes out of your tap?
+
+[02:00:17.490] - Speaker 2
+Do you think that might have something to do with why mitochondria make that type of water? Because it absorbs more of the magnetic fields from sunlight. Do you understand now why people that have mitochondrial diseases might be interested in understanding how deuterium depleted water works.
+
+[02:00:37.310] - Speaker 1
+That's why car batteries used to have water in them.
+
+[02:00:39.960] - Speaker 2
+Correct.
+
+[02:00:40.890] - Speaker 1
+It held the charge.
+
+[02:00:42.350] - Speaker 2
+You got it held the charge. See? I told you. You're a scientist, man.
+
+[02:00:47.310] - Speaker 3
+Okay, so they create this water. Deuterium depleted water, to help maintain the charge differential.
+
+[02:00:54.070] - Speaker 2
+No. It absorbs the charge. What? Water is an electromagnetic capacitor.
+
+[02:00:57.910] - Speaker 1
+Would you say it's like a battery?
+
+[02:00:59.010] - Speaker 2
+It's absolutely a battery.
+
+[02:01:00.280] - Speaker 1
+That's what a capacitor in us is. A battery.
+
+[02:01:03.030] - Speaker 2
+It absorbs it. But guess what else is a battery? What's the best battery in us? Melanin. And guess what? Melanin is always next to water, and they work together altogether. This is. Remember how we talked?
+
+[02:01:15.960] - Speaker 1
+They're doing different things, though.
+
+[02:01:17.500] - Speaker 2
+Yes, they are. But they're doing some things the same. But something's different. But they are working together for the same common cause to improve the thermodynamic efficiency of the system. Okay? That's what band members do in a band, too. They are trying to be as thermodynamically coupled as they can at that moment to create something from chaos.
+
+[02:01:42.810] - Speaker 1
+So, in some ways, if we were to focus on melanin, we miss the story, because it's the melanin and the water together.
+
+[02:01:50.390] - Speaker 2
+Correct.
+
+[02:01:51.490] - Speaker 1
+And they work together.
+
+[02:01:53.110] - Speaker 2
+Correct.
+
+[02:01:53.990] - Speaker 3
+And light and magnetism together.
+
+[02:01:56.200] - Speaker 2
+Correct.
+
+[02:01:57.040] - Speaker 1
+And the same sunlight comes in and it goes into both of them, where they're collecting different aspects of that information.
+
+[02:02:06.550] - Speaker 2
+But they're harvesting the energy and they transform it. Remember, energy can't be created or destroyed. That's thermodynamics 101. It's the first law.
+
+[02:02:17.790] - Speaker 3
+It only changed, but it can be.
+
+[02:02:19.370] - Speaker 2
+Changed, and that's exactly what we're expert in doing.
+
+[02:02:22.380] - Speaker 1
+So, you were saying before that Parkinson's is an example of a melanin problem. What's an example of a water problem?
+
+[02:02:31.150] - Speaker 2
+Most autoimmune conditions, like, let's talk about the most common one. Multiple sclerosis. How do you know that I'm right? You do an MRI, right? You see an MRIs with me. See all these white matter plaques all over the brain? What are those? Those are aqua four pouring gates that are broken. They don't allow the water in. Most people don't even know this. Most neurosurgeons don't even know this. Every time an action potential, meaning an electric signal goes down, a nerve water is released. How do you like that? And where does the water release come from? Mitochondrial function. So, if your mitochondria ain't good, will you release water? You don't release water. You think that may have an effect on the biophotons that are created in the system? Of course everything's related.
+
+[02:03:14.400] - Speaker 3
+Then in know you learn about mitochondria and water is just like this byproduct. I know, and it's so funny, all these things are byproducts, they're not really because it's efficient.
+
+[02:03:25.710] - Speaker 1
+Everything has a function, right? There is no waste.
+
+[02:03:28.280] - Speaker 2
+There is no waste. That's the essence of decentralization, there's no waste. And the funny thing is, Albert St. Georgie, he was really the father of decentralized thinking. He's insightful. Yeah, he was. And he said, he goes, we are studying biochemistry completely wrong. He goes, we take out the water and we just look at the box cars and think that we understand everything. But remember he was so wise that when he did take the box cars out, he looked at the box cars and he goes, you know, these box cars all have an electronic substructure. This tells me they're probably semiconductors. This is before anybody's making semiconductors in Silicon Valley. This guy says this from just looking at what he found in the box cars. That's brilliance, that is absolute brilliance. But guess what, when I repeat it now, I'm an idiot, I don't know what I'm talking know, there's no semiconductors in us. I mean, Jack said that, I heard what he said in humor in one and two. He said hemoglobin was one, he said collagen was one and chlorophyll is one.
+
+[02:04:32.070] - Speaker 3
+Robert O. Becker proved it, orthopedic surgeon from the read his amazing book the Body Electric and he found that bone was a semiconductor and he found it. He found out that people with difficult fractures could heal better if you put a small current right through the bone. It's true, it would start making new bone and knitting together these fractures that were right pretty bad.
+
+[02:04:59.230] - Speaker 2
+It's a great take home that you got. There's only one problem with your take home. Use one word that was wrong. Heal. Did they heal? Did you read it carefully? No, they regenerate.
+
+[02:05:10.490] - Speaker 3
+Seem to regenerate, I'm using. No, is that semantic?
+
+[02:05:16.230] - Speaker 2
+No, this one is a real difference. Why? It's one of the few tissues in humans that completely regenerates.
+
+[02:05:23.210] - Speaker 3
+So what we call the healing process of bone is bone regenerating.
+
+[02:05:26.430] - Speaker 2
+When we cut our skin and it heals, that's healing, that's wound healing. Bone has the capability to regenerate whole. There is no scar in a bone. Once you break it there's a scar in your skin that is a very important, decentralized thing to remember. What does that tell you? That each zip code, each tissue in the body has different potentials, different electromagnetic potentials. And it also tells you that what Bill was trying to highlight, that Becker is the one that found that our bone is a light emitting diode. It actually emits. It's got a ptype and an ntype semiconductor. There's no question about it. And the semiconductor in bone is collagen. Collagen is the number one protein in our body. So when someone who's centralized tells you that we're not solid state, you should immediately walk out of the clinic. Because you know that person's an idiot. You can stay if you want. But you may wind up like my patient. That gets told to just have a hip replacement. Because there's no chance that the hip can regenerate. See, I brought you right back here. You guys think I'm being funny, but you don't realize I gave you the real world example of what happens if you listen to an idiot.
+
+[02:06:43.330] - Speaker 2
+You're going to get a hip replacement. And what am I going to do? I'm going to teach you Becker's work, how it works at the beach in El Salvador. And guess what? I'm going to save you that nasty scar on your hip. And you're going to be able to go and ride your bike and get a bigger calloused ass than you can imagine. You'll be happy. You'll just be happy. We are amazing creatures. Totally amazing creatures.
+
+[02:07:10.320] - Speaker 3
+Agree.
+
+[02:07:10.710] - Speaker 2
+We just have to get out of our own way.
+
+[02:07:12.970] - Speaker 1
+In the centralized medical world, the perception is that the doctor cures the patient. In the real world, the doctor never cures the patient. The patient is cured through nature. Always.
+
+[02:07:31.950] - Speaker 2
+Job is to get the patient to nature.
+
+[02:07:34.550] - Speaker 1
+That's it.
+
+[02:07:35.280] - Speaker 3
+Hypocrites said that.
+
+[02:07:36.520] - Speaker 2
+And then be patient and watch nature do its magic. Yes.
+
+[02:07:41.220] - Speaker 1
+And it set the stage to allow nature to heal the person.
+
+[02:07:46.200] - Speaker 2
+There's things that the decentralized clinician can do, though, to help facilitate nature's job. Right. It's kind of like, I would say, putting nutrients in the ground for the grapefruit tree.
+
+[02:07:57.690] - Speaker 1
+All medicine works that way. It's just not acknowledged.
+
+[02:08:01.260] - Speaker 3
+Hippoprates knew that. He said nature is the healer of sickness.
+
+[02:08:05.130] - Speaker 2
+He did. Bill's right.
+
+[02:08:06.650] - Speaker 3
+They didn't have drugs.
+
+[02:08:07.590] - Speaker 2
+He did say it. But the thing is, it was obscured in the discussion. When I tried to convince you both that propaganda is the opiate of the truth. That's the truth. I mean, what basically did Kellogg, Rockefeller, Flexner all do in unison? They basically just got people out of nature. They did everything possible to do that. Then they started giving them chemicals that affected the main systems in the body. Like anything that lowers oxygen tension. Highly destructive for our system. We are designed to use oxygen as a thermal electron acceptor. So that's a real problem.
+
+[02:08:49.690] - Speaker 1
+How do you feel about things like hyperbaric oxygen?
+
+[02:08:52.950] - Speaker 2
+It depends. For certain people it's good. Like, I have a friend who's got cystic fibrosis who looks like Michelangelo. It's the worst thing in the world for him. It's a great way to kill him. And think about what I just said. He can't breathe. And you're saying, well, Jack, hyperbaric oxygen gives you oxygen through the tissue that should be better. It turns out oxygen through the tissue has to be quantized. What does that mean? Has to be tied to the light cycle. So what's the better answer for someone with cystic fibrosis? Go buy a Christmas tree farm in Mississippi and go outside it. And that's exactly what he does. He was told he was going to be dead at six years old. He just turned 40. Why? Because UV light creates higher venous o, two on the side. Not the arterial side, the venous side. That's when it's going back to the heart. So what does that do? It actually reduces thermodynamic load on the cardiovascular system. So counterintuitive for people to understand. But you know which doctors understand the best? When I tell them this anesthesiologist, because what they do is they'll take postop patients, put them outside and put a pulse ox on them, and they'll go, holy shit.
+
+[02:10:02.270] - Speaker 2
+And then I tell them, do you realize why people who have neurodegeneration don't do well when we operate on them? We put them in the freaking PICU because they're under all the blue light and the nurses are waking them. I said, you put those people outside, they'll wake up way better. And this is so counterintuitive for them because they don't really understand the wiring diagram of a mitochondria. But when they see it for themselves and they have a pulse ox on and they look at it, something they know and they can't explain, is like, jack's right. I don't know how he's right, but I know he's right. Ultimately, a lot of them are kind of like you. They're not scientists either. They're just following algorithm. But when they see that I'm right, they're like, okay, now they're like, I want the PIcu to have windows that open. And I just start laughing. I'm like, and guess what? The hospitals are all made. They don't open. Do you see what I'm saying? Even the design of the system, you can't open the windows. Think about that for a minute.
+
+[02:11:01.580] - Speaker 1
+Because what's outside is bad, right? And remember, protect yourself from what's outside.
+
+[02:11:06.440] - Speaker 2
+And the food that we're going to give you is made in a lab. The most unhealthy food on the planet is found in a hospital. It's by design. All of these ideas. Hopefully you begin to understand some of the madness that's in my head. It's not that mad when you actually strip it apart. It's actually pretty simple to get. I just want you to know, you just need to think about it. When you think about it, you go, this doesn't sound like it's a real problem. Not only that, it doesn't really cost me anything. The only thing it may cost you is some time to unlearn. To relearn. That it will take. And I appreciate guys like Bill where he took 65%, right? That's what he told us in the beginning. And he goes back and starts looking, and he goes, wow, that's true. That's true. When he starts seeing, there's a lot more truths than not truths, then he's got to go back and say, okay, what are the collateral effects of this? Like, it's the Eddie Chang moment. Eddie said 50% of what's published is bullshit. What did I say? 95% to 100%.
+
+[02:12:20.280] - Speaker 2
+And you laughed because you agreed with me. You're like, yeah, I don't believe any of it. And you're closer to right than even Eddie. And I know Eddie's a brilliant guy, but when we say that in part one and part know your know, his friends are like, oh, these guys are whackadoodles.
+
+[02:12:36.890] - Speaker 3
+Well, William Oxler said the same thing.
+
+[02:12:38.800] - Speaker 2
+Right, of course.
+
+[02:12:39.630] - Speaker 3
+But half of what we're going to.
+
+[02:12:40.860] - Speaker 2
+Teach most people today alive don't know.
+
+[02:12:42.530] - Speaker 3
+That half of what we're going to teach you is not true. And we actually don't know which half.
+
+[02:12:48.770] - Speaker 2
+I don't know how that's any different.
+
+[02:12:50.260] - Speaker 3
+I see it as an evolving quest for the truth that we'll never arrive at. You have to look. Do you agree with that?
+
+[02:12:58.710] - Speaker 1
+I don't think we know anything.
+
+[02:13:00.360] - Speaker 2
+I'd be honest. I don't think we're evolving the right way at all in centralized medicine. I think we're, in fact, going exactly away from the truth.
+
+[02:13:08.730] - Speaker 3
+So there's so many more studies you can go on pubmed, and there's a shit ton of studies saying basically similar to what you're saying about how important light is to various parts of the brain. A lot of that stuff's been confirmed. There's, like, nature papers. So that's not as crazy as it sounded like 25 years ago.
+
+[02:13:27.170] - Speaker 2
+All right, so then tell me, what is the most craziest thing? I said this yesterday. I said it to you two days ago. I'm going to say it again because.
+
+[02:13:34.150] - Speaker 1
+I think this is not crazy yet. If you were to go to a dermatologist, it's crazy.
+
+[02:13:38.420] - Speaker 3
+They would tell you, still crazy.
+
+[02:13:39.650] - Speaker 1
+You have to wear a hat and you have to cover your, you have to cover yourself and protect yourself 24/7 from the evil sun.
+
+[02:13:46.100] - Speaker 2
+So guess what? See, this is why I have problems with people. They'll say this, but they don't realize what the reality is in the clinic. That's not what patients are getting told. Oh, I know. And the issue is patients need to know that the stuff that I'm teaching you, this is not bs. There's deep science behind what I'm saying. The problem is, it's your job. It's not the doctor's job. It's your job to see if I'm right. It's your job to go look things up and just realize, even when you get the papers that bill's talking about, there's still no light controls. This tells you how powerful the effect really is because it's that strong. It still shines through.
+
+[02:14:25.860] - Speaker 3
+That's something that most people don't even think about. You don't even think about the light in the lab as being a factor. It's like, so you're different.
+
+[02:14:35.480] - Speaker 2
+No, I'm not, because I'm a neurosurgeon. I do spine surgery on people. What's the number?
+
+[02:14:39.640] - Speaker 3
+Do it outside.
+
+[02:14:40.660] - Speaker 2
+No, they won't let me. What's the number one light we use in surgery? X ray. You think doing x rays on people are any, like, for example, we used to do open surgeries, we'd cut you open, put pedicle screws in your back, but we'd only have to take one or two x rays. Today, people like Medtronic and J. J. Have convinced neurosurgeons that making small little holes to put the stuff in, but x ray them constantly. Oh, this is a minimally invasive surgery. It's maximally invasive because you're using the strongest parts of electromagnetic spectrum. And do you not think that those tissues have changed? Hello? You know why you don't think about it? Because you don't measure it.
+
+[02:15:23.890] - Speaker 3
+Measuring it. They're not seeing it.
+
+[02:15:25.090] - Speaker 1
+Never heard that one before. Yeah, that's a mind blower.
+
+[02:15:28.170] - Speaker 2
+Invite me back and we'll do more. How about you come to El Salvador and we'll do it on my roof?
+
+[02:15:32.170] - Speaker 1
+That will likely happen.
+
+[02:15:33.320] - Speaker 2
+All right.

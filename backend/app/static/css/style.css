@@ -1,0 +1,74 @@
+/* Custom styles for Knowledge Graph System */
+
+body {
+    background-color: #f8f9fa;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+.card {
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    margin-bottom: 1.5rem;
+}
+
+.card-header {
+    background-color: #343a40;
+    color: white;
+    font-weight: 600;
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
+
+.cursor-pointer:hover {
+    background-color: #f8f9fa;
+}
+
+.progress {
+    height: 30px;
+}
+
+.answer-text {
+    line-height: 1.6;
+}
+
+.answer-text p {
+    margin-bottom: 1rem;
+}
+
+#conversation-history {
+    max-height: 600px;
+    overflow-y: auto;
+}
+
+#concepts-list .card:hover {
+    background-color: #f8f9fa;
+    transform: translateX(5px);
+    transition: all 0.2s;
+}
+
+#graph-visualization {
+    min-height: 400px;
+}
+
+/* Scrollbar styling */
+::-webkit-scrollbar {
+    width: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
+

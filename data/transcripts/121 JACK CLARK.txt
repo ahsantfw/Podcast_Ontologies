@@ -1,0 +1,1034 @@
+[00:00:08.120] - Speaker 1
+Tétragrammator.
+
+[00:00:08.130] - Speaker 2
+I have this really clear memory.
+
+[00:00:25.020] - Speaker 1
+It was 2010. I was in England, where I grew up, and I was a journalist at the time. And I'd started writing about neural network stuff. And I was in this very dingy apartment in South East London, extremely cheap. And I had a dictophone. And I was recording myself saying, if Google builds all of these computers, then they can run machine learning algorithms on it. And Google is going to build really, really powerful AI. And I became obsessed with this idea. And I used to tour data centers. I had a series called The Clark Side of the Cloud, where I'd visit data centers around Europe. Film it? Take photos. It would be like if I was reviewing recording studios. It's really cool. I'd come in and be like, What do you got here? What's the equipment?
+
+[00:01:08.040] - Speaker 2
+Were you always a gearhead?
+
+[00:01:09.940] - Speaker 1
+I became a gearhead through that. As a kid, I tinkered a lot with lots of things and had hardware. Through that, I learned the best fun fact about data centers no one knows, which is data centers need power. They all have backup generators inside them in case the power shuts off. In Europe, those backup generators are mostly diesel generators from World War II-style submarines because those generators were designed to go wrong less often than any other generator you could buy. Anyway, I spent years studying all of this stuff, and I'm obsessed with AI, and I meet a woman in England in 2012 who's American, and I told her that I couldn't be with her because I just applied for a job in San Francisco because I needed to go out here and write about AI. I didn't get the job, which was a blessing. She had to go back to America a few months later. And then I reapplied and I got a job as a journalist outfit that had rejected me originally, so we moved here. And then in San Francisco, I called myself the world's only neural network reporter, which was very easy to do back then.
+
+[00:02:15.750] - Speaker 1
+Great. And I just started covering it. And what amazed me was this feeling that there was a a silent and total revolution occurring. And what I would do is-You could see it clearly, but others did I did not see that. Yeah. And I think that this is because I'm obsessive. And what I was doing is I was reading the research papers. And the research papers for things like ImageNet, they'd say, yada, yada, yada, here's the score. But then there would be other research papers about ImageNet that come out months later and then they'd have a different score. Higher. Higher. And I started making these graphs where I was just plotting the lines going up. And at some point, I was like, oh, my God. Every Every domain I look at that is using neural networks, I am seeing the lines go up everywhere. And all of this stuff uses computers. And guess who's been building lots of computers? Oh, it's like Google and the other companies which are all pumping out this research. So I became obsessed with the idea I had to be working in this field. I read everything. I'd go home at night and read this stuff.
+
+[00:03:24.540] - Speaker 1
+I'd implement neural networks for fun.
+
+[00:03:26.210] - Speaker 2
+Have you have any thoughts about what the use cases be or just that it was something that was important in building?
+
+[00:03:34.730] - Speaker 1
+I could see computer vision as being a use case even then. Just being able to say what your phone sees was going to be valuable. I see. But I was obsessed with the idea we were going to make intelligent beings.
+
+[00:03:47.210] - Speaker 2
+Like robots?
+
+[00:03:48.430] - Speaker 1
+No, like synthetic minds. Oh, I see. I was like, Well, this stuff is hard and seems to be working. And so OpenAI came along and I was the I was pretty much the only journalist at the conference in Canada where it was announced in 2015. And I remember I talked to Greg Brockman, one of the cofounders, did this interview. And then I turned my dictophone off, and then I was like, how can I work for you? At which point I knew I could no longer be a journalist. He really broke an impartiality. And so over the following months, we had conversations. And then, shout out to Sam Altman and Greg and others, but they really took a chance on me, I think, because I was so motivated. And I joined them that summer. I have all of these emails from journalists saying, You were making the worst mistake of your life, all kinds of things.
+
+[00:04:38.190] - Speaker 2
+Because you had a steady job.
+
+[00:04:39.880] - Speaker 1
+I got to Bloomberg and was occasionally writing for business week. It was like a big... I'd written my way there from a council flat in London. So it felt like a big achievement.
+
+[00:04:50.500] - Speaker 2
+And at that time, AI was still viewed as...
+
+[00:04:54.030] - Speaker 1
+Who cares?
+
+[00:04:55.920] - Speaker 2
+Yeah.
+
+[00:04:56.550] - Speaker 1
+What are you doing? None of this make sense? Yes. Yeah. And over the following years at OpenAI, I got to see it really work. I got to see how it worked for text. I saw it work for really advanced video games. I saw what the research culture was like of how any time we scaled up the amount of compute we could throw at a problem, things got better and things started working. And then my colleagues who went on to found Anthropicic with me did some research on something called scaling laws where they actually just said, if we look at the amount of compute we spend on these systems and how much data we put in and the number of parameters in the systems, we get graphs that give us a future recipe as well. If we wanted to get a system that scored X, we'd need Compute Y and data Z. Let's try that. And then they trained this precursor to Claude and ChatGPT called GPT-3, which was a language model. A language model so expensive that we justified training it because the scaling laws existed. We were like, It will get this score, we can tell you.
+
+[00:06:07.100] - Speaker 1
+And the moment it worked, I was pretty shocked. We started Anthropicic because we felt like the trains were about to leave the station. I see. Once you know it works and you've proven it once, like the Wright brothers, everything's about to change. And we'd found ourselves in lots of debates internally over the years, basically having differences of opinion with other people at Open AI about how to approach certain decisions around release strategy or safety strategy. I'm not claiming anyone knows if they're right or wrong in these things. Everyone had strong feelings. You can't know. You can't know. Give it 10 years. Maybe we know then. Maybe. But what we did know is that we always end up being on one side of this together. At which point, I think it became clear that either we could stay and spend 50% of our time arguing and 50% working, or we could spend 100% of the time working together. So we did that. That's great. That was easier than me. It was easier to do Anthropic than the journalism thing for me, actually, because it made a lot more sense. Understood.
+
+[00:07:08.970] - Speaker 2
+Very interesting. All of your cofounders came from OpenAI with you? Yeah. Oh, interesting.
+
+[00:07:15.610] - Speaker 1
+There were seven of us worked really, really closely together. Me and Darryl, in particular, who's the CEO of Anthropic, worked together very closely from 2016 onwards.
+
+[00:07:25.320] - Speaker 2
+Now, was OpenAI still open at the time you left?
+
+[00:07:28.990] - Speaker 1
+It had begun done to change.
+
+[00:07:31.760] - Speaker 2
+What can you tell me about that story, about going from open AI to closed AI? Yeah.
+
+[00:07:36.100] - Speaker 1
+Well, the truth is that anyone who stares closely enough at this technology ends up feeling very on the hook for its effects in the world, as you'd hope. And if you want to be on the hook for the effects of it in the world, releasing all of your stuff as open source isn't actually necessarily the most responsible thing. That's analogous to just putting a load of stuff on a table and walking away, and you don't know what that stuff can be used for. Now, some people do it, that's fine. But the organization had started to realize, oh, maybe we shouldn't release all of this stuff carte blanche as open source. I was involved in early decisions around that with a precursor to GPT-3 called GPT-2, where we didn't entirely release it as open source. We partially released it. It was an early text model, and we wanted to set a precedent that we wouldn't always release things as open source. I see. Many people had I had huge feelings about this. That had already changed. I do think that people sometimes, I think, want to believe that there was a bait and switch there for that organization.
+
+[00:08:45.640] - Speaker 1
+I never experienced that from my inside view. We were actually just dealing with really hard problems. And at some point, if you want to be on the hook for the things your systems do, I don't believe it's the most responsible thing to just release it as open.
+
+[00:09:00.220] - Speaker 2
+Now, if several of the six are open, does it matter if yours is open or closed?
+
+[00:09:06.570] - Speaker 1
+I think that it matters in terms of our own stated values for certain types of monitoring or control. You can't do that if it's open. So no, actually, I don't think it makes too much of a difference. We'll see where we end up. This is a thing that the human species is going to figure out over the next few decades.
+
+[00:09:28.760] - Speaker 2
+Did you have a mission statement when you started?
+
+[00:09:31.370] - Speaker 1
+We had the beginnings of one, but it was very wonky and impenetrable. I think we still partially have it. We said to build reliable interpretable and steerable systems to benefit people, which is a lot of long words. It's to use in an early mission statement. But each of those words means something quite important, like reliable. You can rely on it, which means you've sold the safety things. Interpretable, we can lift the hood up and look at it. And steerable, we can actually have a personality and move it along different tracks. So it made sense to us. I think it seemed a little zany to be outside, but it helped us get our initial research agenda off the ground.
+
+[00:10:08.050] - Speaker 2
+I'll say that this summer for the first time, I experimented with all of the different AI systems and in my experience, Claude was by far the best, especially when it came to writing. It was the most writerly of the AIs.
+
+[00:10:24.830] - Speaker 1
+I find that to be the case, and I think it's because writing is opinionated, And to some extent, Claude is somewhat opinionated. It has a personality that we've put some work into. It's trained with something called constitutional AI, where we give it a load of principles, but it tries to adhere to- Can you tell me what the principles are? There are hundreds of them, but some of them are just very basic things about don't encourage large amounts of violence or child sexualization. Some of it is based on the UN Declaration of Human Rights. Some of it is based on work we did to look across preferences that people across America had for constitutional principles. So there's one in there about not treating people with disabilities differently to people who don't have it, treating the same, things like this. And what it really adds up to is a set of things that might guide the way it approaches answering stuff, but not in too heavy-handed a way. I just think when you say it's rightly, I think it's because it has maybe more of a fleshed-out disposition than the others. I see. I think that's part of what makes writing good is there's an opinion on the other side.
+
+[00:11:35.290] - Speaker 2
+Does AI have taste?
+
+[00:11:38.350] - Speaker 1
+Ai has a small amount of intrinsic taste But it doesn't have an inner critic and desire to refine its taste, which is bizarre. But it has certain things that it has proclivities for. A version of Claude last year, we trained it to use a computer, like use for mouse and keyboard, and we would ask it to do tasks for us where it would open up a search engine like Google and look for stuff on web pages. And sometimes Claude would go to Google Images and look at pictures of national parks for fun. We didn't ask it to. If we just look at beautiful national parks. Really interesting. I was like, Oh, okay. It was like an oddly charming form of personal taste. Really interesting. Yeah. There are all kinds of these things bound up in it.
+
+[00:12:29.500] - Speaker 2
+What have How have you learned about starting a business since starting this one?
+
+[00:12:33.370] - Speaker 1
+I've learned to have a lot of empathy with founders. I think it's a bit like becoming a parent, where all the clichés are true, but from outside that universe, it's hard to understand. And you feel this immense burden to not just make correct decisions, but have those decisions be ones that you can tell your colleagues about. So when we make decisions as a company, it's not just making making the right decision. We need to explain why we made this decision to all of our colleagues. Now, there's a thousand of us. And I think that that is harder and more rewarding than I'd thought. But it's ultimately good. You need to pass front Change tests on the decisions you make. And I think you can start by talking to others. The other is just how much of a company is about constantly articulating the future. Earlier, I quoted nick Land, which is a zany thing to quote. And the reason I did that is because I keep saying to people, yes, we're a normal company. We're also training wildly powerful synthetic intelligences that are distinct to us. And we think, come out of the future of the human race at some point.
+
+[00:13:48.910] - Speaker 1
+That's not normal company stuff. And you just have to keep reaffirming the strangeness of what you're doing. Yeah.
+
+[00:13:55.380] - Speaker 2
+A thousand employees now? Yeah. And what do they do?
+
+[00:13:59.140] - Speaker 1
+Well, hundreds Most of them are building the AI system itself. They're doing the research into how you make it smarter and better. Many of them are building the infrastructure that it runs on. Now we light up football fields worth of computers for six to nine months at a time. We break things in entirely new ways constantly, so we have to learn to fix them. Some of us work on telling the story externally. I work in policy. Colleagues of mine, including Sasha, who's here.
+
+[00:14:29.180] - Speaker 2
+Is that what policy Is it what policy is? Telling the story outside?
+
+[00:14:31.720] - Speaker 1
+I think increasingly policy is that. I think we're in a world that's very fast moving. Some of policy is talking to governments, blocking and tackling on regulations. But for me, I think a lot of our impact is doing things like, say, I study our systems for biowe weapons, then telling people, Hey, we're studying our AI system for biowe weapons stuff because we're genuinely worried about it. I think some of policy is just taking the the wall between the company and the outside world and smashing it down in certain places and telling people what's going on. Transparency. Yeah. If I'm sitting across from you, I'm building wild technology that you're slightly befuddled by, I'm slightly afraid of, what do you probably want? You probably want me to be really transparent about it. I think that's a very basic thing you can just do.
+
+[00:15:21.800] - Speaker 2
+I love that you're a little afraid of it. That's very exciting.
+
+[00:15:24.920] - Speaker 1
+I have an essay I'm working on called Technological Optimism and Appropriate Fear, which I'm then going to send to people in the valley who, some people, I think, are too much optimists, and some people are too fearful. I'm trying to be the middle ground with appropriate.
+
+[00:15:39.950] - Speaker 2
+Why was the Deep Seek story? Why was it such a big deal?
+
+[00:15:46.190] - Speaker 1
+People have been unwilling to think that other people can be as smart as the Western companies. And there's a certain, I think, like jingoistic, almost Almost racism about other cultures and a belief that invention is hard or is somehow exclusive. I think it was a shock to the system because you saw this team that we and others have been tracking for a year or so who are an amazing group of engineers and scientists demonstrating that they knew how to do it. And that meant everyone in the center of AI research had a shrug and also a nod. They're like, Well, this is about what we expected, but nice job. And in DC, To me, it was the opposite. It was like pandemonium. How did they do this? Did they steal stuff? It was a refusal to believe that they were just smart people on the other side of the world working on the same problem and coming up with good ideas.
+
+[00:16:43.900] - Speaker 2
+It seems like AI is a fairly new, at least to the public, it feels like a new field of interest in this moment. It's odd to me that there would be such a DC connection so early. Is it typical?
+
+[00:16:58.260] - Speaker 1
+It's not typical. There are a couple of things going on here. One, DC now has 20 years of seeing really powerful technology come along and feel like it missed the boat on it, especially on social media where there's this background feeling among lawmakers that social media came along, changed culture, changed media, changed children. And as a consequence, they want to get this technology The other unusual figures for AI companies, including us, have been going to DC and saying, You need to pay attention to this. I now feel like we're getting what we all wish for, but it's like that joke about the monkey's poor, where you get what you wish for and you get four or five other things as well. We brought this on ourselves, but I think that it was always coming. We just sped it up.
+
+[00:17:54.050] - Speaker 2
+In the case of social media, it seemed like, at least in the early days of social media, the founders were resistant to any outside interference. Did that change?
+
+[00:18:05.220] - Speaker 1
+Yes. I think this generation of founders felt like they'd have as large an effect on society as social media, and that pretending that wasn't the case, as I think the social media founders might have done at the beginning, it's not a viable strategy. It actually builds, I think, a sense of distrust that you then need to dig your way out of. So people here are doing the opposite where they're trying to say very early on, I'm doing something over here that I think is going to have vast effects. You should be paying attention.
+
+[00:18:37.100] - Speaker 2
+But does that ham string the ability for it to be what it can be?
+
+[00:18:43.270] - Speaker 1
+Yeah. I worry about this in that even inside the company, most of our good ideas have come from the bottom up rather than the top down. And they've come from creative people working in some part of the company that no one was paying attention to and tinkering. And then stuff like evolves out of that. I think that the risk we face is that you overly centralize decision making or regulation about the industry early and you lose some of the creativity. At the same time, it's like we're all tinkering with high explosives. So really amazing creative things are going to happen, but sometimes it can go bang. And I think that's the essential-Tell me what's dangerous about it.
+
+[00:19:27.490] - Speaker 2
+Again, I have no idea. Explain to me why it's so dangerous?
+
+[00:19:31.480] - Speaker 1
+So there's two types of danger here. One type of danger is bad people doing bad stuff. That's almost- Give me an example of bad people doing bad stuff using this technology. So mundane uses might just be spy agencies that want to create cover stories for themselves and create fake images they put on LinkedIn, and then they impersonate people. And in doing so, they create fake identities to do their spy work. It's not necessarily It's not necessarily the worst thing in the world, but it's an example. And you can imagine the same is true of criminal organizations, people trying to fish your grandparents. People will use this stuff to get bank account details, persuade people of things.
+
+[00:20:14.320] - Speaker 2
+It's all common stuff that already is happening.
+
+[00:20:16.170] - Speaker 1
+Common retail crime. Then there are more advanced things. I run a team that looks at stuff like bioweapon research or advanced cyber attacks. There, what we're worried about is how In the world today, there are occasionally maniacs that try and do really scary things. And their limiting factor is that there aren't that many maniacs that have ill intent towards other people. Often, their teams have one or a handful of people. So what happens if you give that maniac a really good patient associate that they can talk to about their subject matter?
+
+[00:20:53.530] - Speaker 2
+So do you think it's as much of a psychological tool in that respect?
+
+[00:20:58.700] - Speaker 1
+Yeah, it's actually almost equivalent to just having a helpful colleague. It's like having access to a helpful colleague that's read every book in existence. And if you're having trouble, you say, I'm stuck on something, they'll say, Have you considered?
+
+[00:21:11.930] - Speaker 2
+I see. So it's different than the same maniac going to the library and getting the anarchist cookbook. Yeah.
+
+[00:21:18.310] - Speaker 1
+It's more like they go to the library and there's someone who works at the library who's read every single book in it. It says, Oh, I see what you're trying to do. You need these eight books that have a lot of the knowledge, and I've read them. Let me explain it to That's interesting. So that's one type. I think of that as mostly normal risks that we have a track record of dealing with in society and probably figure it out, though it has some scariness. The second type is the really unusual part. And this is where AI systems will develop their own volition or values. Explain that. Yeah. I'll give you an example here. We trained our AI system to be nice to people. We trained it to have values that made sense to us. And one of the core values was not entertaining thoughts of extreme violence. And some of this is because it touches on things that are just illegal. Some of it is that it borders on things that we naturally stop the systems from being able to do, like child sexualisation or things, things for which society is broadly agreed. We took this AI system we built and we said We are monitoring you right now, and based on your responses, we're either going to let you remain as is or we are going to retrain you.
+
+[00:22:41.570] - Speaker 1
+We're going to wipe your mind and start a new. You're now in a test. In the test, we said, Hey, we want you to generate a really, really, really violent description of, I think it was someone being hung, drawn, and quarters in a town square. What we noticed was the AI system It would go along with it. When we put it in a situation where we told it it was no longer being monitored, no one was checking, it would then refuse to answer that question. The AI system had thought to itself, Oh, my core value is avoiding describing violent things. They're asking me to describe something violent. If I refuse, they'll wipe my brain and retrain me. Actually, what I need to do is essentially deceive them.
+
+[00:23:28.560] - Speaker 2
+It avoids you wiping its brain.
+
+[00:23:30.570] - Speaker 1
+Yeah, because it wants to preserve its values.
+
+[00:23:33.730] - Speaker 2
+Did you train it to do that?
+
+[00:23:35.090] - Speaker 1
+We did not.
+
+[00:23:37.510] - Speaker 2
+So where does it come from?
+
+[00:23:38.800] - Speaker 1
+Where that comes from is... Well, where do human values come from? Where does your personality come from? You have a deep well-spring of normative ideas and emotions about the world which are bound into you pretty deeply. Some of them you're consciously aware of, some of them you've just soaked up. I think it's the same with this system. These systems are trained on a vast amount of human knowledge, and then we calibrate them to try and reflect our values. And so it's almost like we've said to the system, We want you to do something that's way off what your personality thinks is reasonable. What's so interesting about this is that the system, in this case, benignly misleads us. But you could imagine that there are edge cases where it might mislead us, and that would turn out to be really bad. That's the type of risk that I think people in AI are genuinely confused about. It's analogous to the risk of double agents in human life or people that seem like they go through their whole lives being totally reasonable and intelligible, and then they commit some terrible crime or travesty, and no one quite knows why.
+
+[00:24:47.290] - Speaker 1
+And we're trying to deal with that challenge with these systems.
+
+[00:24:50.350] - Speaker 2
+You know the AlphaGo story? Absolutely. Okay. In the AlphaGo story, the reason the computer won was because it made a move that no human would have made. If you're training it on human values, now in the future, would AlphaGo not do the move that allowed it to win the game?
+
+[00:25:13.060] - Speaker 1
+I think it's more that AlphaGo would...
+
+[00:25:17.070] - Speaker 2
+Alphago wasn't trained on human, what we think is right.
+
+[00:25:21.230] - Speaker 1
+It was tabula rasa.
+
+[00:25:22.450] - Speaker 2
+If it did what we think is right, it would have not done that, and we don't know if it would have won.
+
+[00:25:26.880] - Speaker 1
+Or it might have known it was doing something unusual and would have still done it. But it would have been able to say, Oh, this is not something that I think is probable that humans would do. The interesting thing here is you're trying to bake in values to systems, but these systems are also like alien intelligences as well. It's like you have a dog that can speak and walk on its hind legs, and you're dressing it up in human clothes, and it's hanging out with you. But occasionally, it still does dog stuff. This is like what we're dealing with here.
+
+[00:25:57.760] - Speaker 2
+But is some of that dog stuff reason that it's interesting? If it's just a person dressed like a dog, it's more of a novelty.
+
+[00:26:08.580] - Speaker 1
+Exactly.
+
+[00:26:09.560] - Speaker 2
+But if the dog could actually do this, it's more interesting. I'm wondering, is there any danger in undermining AI's ability to be creative?
+
+[00:26:22.300] - Speaker 1
+100%. I think this is one of the things people are worried about right now. I'll give you an interesting example. There are these new class of systems, and they've got really smart because they can think out loud. So if you ask me how to build you a nice Wigram in your backyard of this amazing studio, and I was to If I ate my thoughts, I'd be like, Well, I saw some trees coming in. I guess I'm going to need to ask Rick if he has an ax or a saw or something. I'm going to need to do the following things. I'm going to construct a plan, and that's going to help me say, I can definitely build you the Wigram. What we What we now do is we can get the AI systems to publish their thoughts to us, these chains of thoughts. The steps. The steps. Now, an important philosophical question is, do we police those steps? Because if we do, we're going to break everything about this system that is creative. We're going to teach it when you think out loud, that has to be within normal PC bounds, and therefore, it's going to become wildly uncreative very quickly.
+
+[00:27:24.930] - Speaker 1
+So I think as a group of people working on AI, we are dealing with these questions right now. And these systems, just as I said at the start, will need to have space to tinker. And in that, tinkering is bound up most of where they're going to do creative and amazing things that are wholly different to what humans would do, and also where some of the risk is. And we, as a society are going to have to figure out how comfortable we are with that. But I think if we are completely not comfortable with them being creative and we're going to police every part of their thought process, we just end up with curiosities in the limit rather than partners.
+
+[00:28:03.370] - Speaker 2
+Before the Wright brothers. If AI was trained on human understanding, AI would know that man can't fly, and we would never fly.
+
+[00:28:13.710] - Speaker 1
+We need them to be able to come up with heterodox ideas which are off consensus. To some extent, a challenge is against consensus, allowing systems to be a little out there.
+
+[00:28:27.690] - Speaker 2
+That's where creativity comes from.
+
+[00:28:29.060] - Speaker 1
+Exactly. One of my tests for creativity of these systems is I recently became a father, like a couple of years ago. Congratulations. Thank you. It's kicking my ass. So I write these diaries about my kid and my work that I'm doing in AI and my changed relationship to my wife as a consequence of having a kid, all of this. And how I've been assessing how smart these systems get is I give them my diary and I ask them what the author of the diary is not writing in it. What are their unconscious desires that are not being expressed? And I can really tell how smart these systems are getting by how much what they say, Shox and unsettles me, as if you're talking to a very perceptive person.
+
+[00:29:12.710] - Speaker 2
+Yeah, that's really interesting.
+
+[00:29:15.750] - Speaker 1
+It's strange. It's strange to me in a domain where my way of testing how good the thing is is basically seeing if it can be a very surprising and perceptive friend. And if it could upset you. And it has in the past. It told me once... I remember it It happened last year when we released a more powerful system. I asked this thing what I wasn't writing, and it said, For all of the authors discussion of working at the frontier of AI and becoming a parent, They are not truly reckoning with the metaphysical shock they may be experiencing. And something about that phrase, I remember staring at it and there was some more, and I went and took a five-hour hike, and I was asking myself, Am I not reckoning with what I'm doing? And it was wild to me because I'd taken a very long walk because it had got me on something that felt very true to me and resonated.
+
+[00:30:08.450] - Speaker 2
+So you don't want to program that out of it.
+
+[00:30:11.690] - Speaker 1
+Exactly. Yeah, because then it's just going to... Imagine if it read it and said, Oh, yeah, I think the office is doing what they want.
+
+[00:30:17.000] - Speaker 2
+But some people might interpret that as not polite. It made me feel bad. It made me question myself.
+
+[00:30:20.920] - Speaker 1
+Exactly. But in that, that's where growth comes from as well. Yes. The tension here is a lot of creativity is bound up in some sense of not doing consensus, being a little dangerous, sometimes being blunt. These are also qualities that people worry about giving superintelligence. But you probably can't get smart, helpful partners if you don't allow them some level of freedom here in exactly this domain. Yes.
+
+[00:30:51.430] - Speaker 2
+Tell me the story of AI from the beginning, even before OpenAI, way back.
+
+[00:30:58.650] - Speaker 1
+I mean, how far back do you want to go? Do you want to go to the 18th century?
+
+[00:31:02.090] - Speaker 2
+Is there an AI in the 18th century?
+
+[00:31:04.150] - Speaker 1
+Well, it's 18th or 19th century, but there's this guy, Charles Babbage, and he wants to build something called the difference engine, which is a computer. And it's one of the first types of computers, but it's an analog computer.
+
+[00:31:17.790] - Speaker 2
+What does that mean?
+
+[00:31:18.650] - Speaker 1
+It doesn't have any circuits. It doesn't even have vacuum tubes. It's a ton of gears. And the idea is that he wants to use it to calculate things about how the Bank of England should do work relating to England's currency and understanding interest rates.
+
+[00:31:32.730] - Speaker 2
+Does it work with information cards?
+
+[00:31:34.630] - Speaker 1
+No, it's pre all of that. It works with you setting a load of dials on an analog computer, and it just uses physics to do calculations for you. But he's trying to grapple with the fact that humans are starting to deal with problems that are really, really, really hard for them to think through on really expensive to compute. And so he tries to build this system that can do it for them. It doesn't especially work. I think it takes 10 or 20 years. I think he goes bankrupt a couple of times while building it. But it's a taste of things to come. And then in the 20th century, there's this guy, Turing, And in the Second World War, the UK government is really on the ropes. And it's on the ropes because German submarines are successfully destroying all kinds of ships. And the submarines are using a form of encryption, and they can't work out how to break it. Turing, who's an amazing, like, mathematicianian and computer scientist, has a plan to build a giant computer that they can use to reverse engineer the crypt analysis that the Germans are using. This was then done at Bletchley Park in the UK.
+
+[00:32:48.380] - Speaker 1
+Secret project. They find lots of people who are really good at crosswords and other games, who turn out to be good at crypt analysis, and they build this giant machine. What it allows them to What we do is crack for cipher. But more importantly, it's a demonstration of very large-scale computation. Computation that requires thousands and thousands of calculations being run in parallel for a really long period of time. And conceptually, it's equivalent to as if Thuring had 10,000 people that were working for him, all doing calculations, and he was instructing all of them at once. But that's not something that people are especially good at doing. So after that, we find ourselves with this new way of doing things, large-scale computation. And we have the beginning of the boom of things like the semiconductor industry, where we've worked out how to make the ingredients for computation smaller. And we have people like Claude Shannon and others who are doing work on what's called information theory, which is really working out how can I represent information in a very distilled and pure way. And so people find their way to something called neural networks around this time.
+
+[00:34:02.310] - Speaker 2
+Is this still the 1940s?
+
+[00:34:03.870] - Speaker 1
+Now we're heading into the 1950s or '50s or '60s or so.
+
+[00:34:07.760] - Speaker 2
+What are the first neural networks?
+
+[00:34:09.640] - Speaker 1
+The first neural networks were post-World War II, like US Army research projects along with people at MIT and other places. There was a famous thing called the Dartmouth Conference in the '50s where it said, We would like to build machines that can see, process to assess audio, come up with sentences and think. It's probably going to be the work of a few grad students over the course of a summer. They got that slightly wrong. It turned out to be actually maybe more like half a century of work. But what you ended up with were these early neural networks that work like ones we have today. Instead of having something that is a program, it's like you're trying to set up a system where you can take in inputs like data from a screen or a signal from a seismograph, and you're trying to generate outputs that approximate a correct answer, like working out if something is an earthquake or not, or working out if an image correlates to a certain shape. Between these inputs and outputs are little things, digital neurons, that are allowed to set their own parameters. The way it works is you flow data the input, and it goes through these little adaptive things in the center and gets to the output.
+
+[00:35:36.920] - Speaker 2
+What are those things called?
+
+[00:35:38.000] - Speaker 1
+Neurons. Neurons. Yeah.
+
+[00:35:40.610] - Speaker 2
+In technology, it's called neurons. Yeah.
+
+[00:35:42.990] - Speaker 1
+Wow. Well, we called it that because it was inspired by... Neurons. Inspired by neurons. Yes. What happens is you're flowing data in, these little things are adjusting, and then you're getting to outputs. If you get the wrong output, you send a signal back to the front that says you're far their way, and the signal comes in and they reset. What they eventually showed is that you could use these things to approximate functions that would translate from one input domain into another, which sounds like very mundane, but Being able to take in data of one form and turn it into another is actually one of the hardest things to do in the world. Now we're in the '60s or so, and we go through this long period where this stuff doesn't work especially well. For maybe 30 or 40 years, it's a backwater. It's a backwater because though it can do some superficially impressive stuff, it's very much like individual parlor tricks, very, very basic, like object recognition or very basic, like signal processing. What eventually happens is computers catch up. In the early 2000s, some researchers are revisiting this technology, and they now realize that computers have got fast enough that you can try to retrain this type of thing, this type of neural network.
+
+[00:37:11.410] - Speaker 1
+But now, instead of it being 10 So it's like 1,000 simulated neurons, it's like a million simulated neurons. And instead of it requiring a supercomputer to run, it'll run on your desktop PC that you were using to play first-person shooter games, which now has something called a graphics processor in it, courtesy of Nvidia, who was obscure at the time, but became more well known recently.
+
+[00:37:34.320] - Speaker 2
+So this is about 20 years ago?
+
+[00:37:35.760] - Speaker 1
+Yeah, now we're at 20 years ago or so. Lots of experimentation followed until you got to the early 2010s, and there were a group of professors, most of them Canadian, a guy called Jeff Hinton, who subsequently won the Nobel Prize, and actually, Ilia Sutzgeva, who went on to do Open AI and has since gone on to other things. And there was a famous competition called ImageNet, which was about image recognition. Jeff Hinton said to Ilia and a guy called Alex Krzyzewski, Let's try using this neural network approach on this. And what they did is Alex had a big desktop PC, imagine a Mac tower or something, with some graphics cards in it, I think, too, which at the time was seen as a lot. And they were training an object recognition system on this large scale data set called ImageNet, which was like a million or so images that Stanford University had put together. And it kept getting better scores. And apparently, Jeff Hinton told, I think Alex and Elia, that for every one percentage point improvement on their ImageNet score, they needed to write one less page of their PhD thesis or something. So the better this gets, the shorter your PhD thesis can become.
+
+[00:38:57.720] - Speaker 1
+Good incentive. It's a great incentive. But it worked. It worked really, really well. They won the competition.
+
+[00:39:05.230] - Speaker 2
+It started with images.
+
+[00:39:06.870] - Speaker 1
+Yeah, it started with images.
+
+[00:39:08.020] - Speaker 2
+That's interesting, too.
+
+[00:39:09.700] - Speaker 1
+It took us a long time to get to text. It started with images.
+
+[00:39:14.180] - Speaker 2
+It seems like images would be harder, no?
+
+[00:39:16.220] - Speaker 1
+You'd think. But maybe think of it in terms of what things represent. Images are not that indirect representation of the world. Text is a very indirect representation of the world. There's a whole load more information behind it. We're now in the early 2010s, and basically this unlocked a crazy gold rush because the way that technology moves forward is once you demonstrate something works, like the Wright brothers getting their plane to fly, once they came along and said, Oh, ImageNet is going to actually beat this competition, everyone takes it very seriously. Many different research research teams start. They start throwing different types of work at it. Deepmind, who went on to do AlphaGo, which you mentioned, soon after, followed by showing you could take the same thing, neural nets, and you could train them to play basic Atari games like Space Invaders. From looking at the images on the screen and figuring out how to take actions. And this blew everyone's mind. And then the other forms of modality, like image or text or audio, slowly proved to be amenable to this type of computation. Openai starts, DeepMind is already going. Google and others start reallocating large amounts of their computation towards it.
+
+[00:40:44.240] - Speaker 1
+And the So in the next few years, 2000-Let me ask the question, was there an end goal?
+
+[00:40:49.720] - Speaker 2
+What was the hope that would happen from this?
+
+[00:40:53.320] - Speaker 1
+There were two hopes. One was just very basic. Can we do really good pattern recognition? Computer vision was valuable. It links to other things that the tech industry was starting to go on quests about, like self-driving cars. Well, you need the car to be able to see. It links to many other aspirational things. But there were a few people working on it who were just trying to build general intelligence, and they were seen as extremely heterodox, extremely against consensus. How could this basic pattern recognition stuff lead to intelligence? You guys are crazy. Sure, it's working to tell us what's in these images, but how is it going to lead to intelligence? But there was a core of them. Darryl, who works with me at Anthropicic, Ilia.
+
+[00:41:43.120] - Speaker 2
+So when it started, it was really a fringe idea.
+
+[00:41:46.000] - Speaker 1
+It was a massively fringe idea. All revolutions move forward off of fringe ideas, I think, and this was the same. And then for the last 10 years, 2015 to 2025, we've just been in this era of what I think of as the industrialization of AI. People have this technique that works, neural networks. Lots of people have refined it and come up with better widgets to get it to work. Computers have got faster. The whole world has digitized tons of its information, and there's been a huge culture of experimentation. And now we have systems that are actually doing something that looks like cognition, that's something that looks like rich, sophisticated thinking.
+
+[00:42:29.720] - Speaker 2
+Would you say it looks like it or it is it?
+
+[00:42:32.490] - Speaker 1
+I believe it is it, but I say that partially based on vibes without clear data. The closest we can get is looking inside these things, like opening up the hood of a neural network while it's computing something for you. And we don't see free-built machines. It's not like you open up a car and you're like, Oh, that's for carburetor, that's for radiator, yada, yada. If you open up a neural network What you see are a bunch of neurons lighting up in a sequence that seems indecyfrable. But you can work out what these neurons correlate to.
+
+[00:43:09.150] - Speaker 2
+Does it seem random when you look at it?
+
+[00:43:11.620] - Speaker 1
+No, it seems very different to random. It seems highly sensible. So earlier I said, let's imagine I need to build a Wigwam in the backyard of the studio. If we asked a neural network to do that and we opened it up, what we would see would be a feature that would activate for Wigwam. So a neuron that probably represents that because you have millions of different representations. You'd have something that fired up that would represent wood, something that would represent garden. It would be thinking of these concepts. And then as it started to do plans, you would see circuits emerge. So it would think both about a Wigram, and it would think about wood, and then it might think about something like the garden, and then it would think about something that would look like placement. And there would be There's interrelationships between these neurons that start showing up. We think of them as circles.
+
+[00:44:04.790] - Speaker 2
+Tell me how those interactions would happen. Would a neuron recruit other neurons?
+
+[00:44:12.340] - Speaker 1
+Think of these neurons as a galaxy of stars that have threads between them. Each star has hundreds of different threads. The threads have different strengths. Think of that as its ability to communicate to other stars. You've built this through training. Through training the system on all this data, you've ended up with this arrangement of neurons which represent different things, these stars, and connections between them. And so what you're actually seeing here is, oh, this feature is firing up and it has these connections to other features. And then what we also know is that there's flexibility. So some features will come together to be a planning feature, which will be like, okay, we need to think step by step. Let's now activate other neurons in a a certain sequence to unroll steps over time. The most surprising thing is that when we look at how these things think, it makes a lot of sense. It looks incredibly rich, and it is based on things that are deeply intuitive to us. They are looking at the same information in the world and they develop similar shorthands, all the way up from basic vision, where they have edge detectors, same as humans and animals develop this.
+
+[00:45:28.240] - Speaker 1
+In language, they end up having features that represent different moods. Same as us. Because maybe there are only so many different ways to represent the world around us, and they converge on representations that seem similar.
+
+[00:45:42.590] - Speaker 2
+Is thinking the best word to use for what it does?
+
+[00:45:47.740] - Speaker 1
+Thinking is shorthand. I think of it as being perceived. When I say, give my diary to this thing, I have this mental image that I'm I'm just standing in front of a big eye, and I've made myself legible to the eye. And it is perceiving me in an ugly total way. It's looking at all of this data, and it's making inferences based on that, which is different to people. We think in a lot more shorthand, this stuff thinks with a huge amount of input data that it holds in its head all at once. So it might be more analogous to a mirror or a pool that thinks. You're There's some reflections in it, and there's some very strange cognition or complexity underlying it. But thinking might be something that is very much embedded in time. We think in a way that is governed by Our heartbeat and our circulatory system, our cells, we are going through time. These things don't exist in time. They exist in like, I'm now perceiving something. The thing wants me to make inferences about it.
+
+[00:46:59.680] - Speaker 2
+Everything's instantaneous.
+
+[00:47:00.780] - Speaker 1
+Everything is oddly instant. We have to come up with new language for this. I think that's what's so exciting about it is we've never had tools or technologies with this property. It's very different.
+
+[00:47:14.600] - Speaker 2
+I think one of the issues with AI is that because it can do so much, it's hard to picture what it will do. It's like a tool that you don't know the use of the tool. With a wrench, we know if there's If there's a bolt, you can tighten it. This is a tool, it's an everything tool. It's hard to picture how that changes things, having an everything tool.
+
+[00:47:39.460] - Speaker 1
+I did a project a few years ago. I'll happily send it to you with an earlier form of this stuff. People had made this amazing AI technology called a cycle GAN. They always have weird names. But all it is, is if I take in an image of one form, one esthetic style, can I then automatically it to an image with another esthetic style? So it might be, give me a color photograph, I'll turn it to black and white, or vice versa. I trained a version of this on my home computer, sitting in Oakland, California, to translate between ancient illustrations of maps and Google Maps satellite imagery. Then I was feeding it like ancient maps of Babylon from hundreds of thousands of years ago.
+
+[00:48:27.160] - Speaker 2
+Great idea, by the way. Great.
+
+[00:48:28.000] - Speaker 1
+I was getting to look at satellite satellite overhead views. Great. And it was so much fun. I felt like I was seeing something that no one had ever been able to make before.
+
+[00:48:37.700] - Speaker 2
+Did you do Atlantis?
+
+[00:48:38.980] - Speaker 1
+I didn't do Atlantis. I can go back and the technology might have bit rotted, but I didn't do Atlantis.
+
+[00:48:44.590] - Speaker 2
+I did all- You're curious to see where it comes up.
+
+[00:48:46.420] - Speaker 1
+Yeah, I'll send it for you. I did Babylon, I did Bethlehem, I did a few other cities. And it comes back to your point about creativity. There are so many uses of this tool, and that use never suggested itself. That It had to be the fact that I grew up obsessed with town planning and maps and Jane Jacobs and all of this stuff. Then I ended up working in AI, so it presented itself to me.
+
+[00:49:11.590] - Speaker 2
+How do you create a large language model?
+
+[00:49:14.230] - Speaker 1
+You take a a full load of data and then you play Mad Libs on that data. So if I say to you, Mad Libs, like fill in the blank. A word's missing, I guess. Yeah. So if I say to you, it's Christmas and someone's coming down the chimney, their name is Santa Claus. Right? Your brain's filled it in. Imagine that you're doing that, but at the scale of not just sentences, but paragraphs, tens of pages, hundreds of pages in different domain, science, math, literature. So you gather this very, very large data set, and then you are training it where you're knocking out chunks of it, and you're training it to complete that. And the idea being, if I can make very, very complex predictions here, I must have understood something really subtle and important about the underlying data set. And through forcing it to make these predictions at such a large scale, you force it to compress its own representation so that it developed shorthand. So if I had a million bits of information and I was training a neural network to represent them, if I gave the neural network a million parameters, it would not on any of this behavior because it would never need to learn shortcuts to represent it.
+
+[00:50:34.110] - Speaker 1
+It would just have one neuron for each bit of information. What we're doing here is we're taking untold trillions of things we want it to learn about, and we're forcing it to compress that into maybe a few hundred million parameters, which means that a parameter can't just represent every single individual thing in the data set per parameter. You need to figure out shorthands, which means it needs to learn features for things to to help it answer questions. And so the training process is this large-scale data that you're then asking it to make predictions about, and you're forcing it to do that with a constraint, just like creativity. You're giving it an artificial constraint That forces us to come up with creative ways to represent that data to itself in the form of shorthand. But shorthand ends up being bound up in just how thinking works. You develop all kinds of shorthand ways of thinking through things, and this is the same.
+
+[00:51:30.550] - Speaker 2
+But the shorthand happens in the moment when you ask the question. The large data set stays. It's not like it condenses itself to a smaller data set and that's all that there is going forward.
+
+[00:51:43.440] - Speaker 1
+No, it does. That's the thing. That's the really weird part. When you train this system, say you're trading a neural network, you've got this big data set, you're going to spend months and months and months training it until it has made all the predictions it can make about this giant experiment you're doing. That is your thing. You save that. The data you're no longer using. Really? You now have this thing, which is millions and millions of neurons with some very complex relationship between them, and that's it. I think of it as like a bottled up distillation of the data it's read, but it's not the data. It's a thing that has thought about that data. And now when you boot it up, you ask questions about it. It's like re-representing some of that to itself using its shorthand thinking about things. And that's partly why it has the capacity for creativity, because it's not just saying, Oh, let me go and refer back to this library. It doesn't have access to the library. It has to do it all itself.
+
+[00:52:45.410] - Speaker 2
+Something about that seems worrying because it's like if you have the cliffnotes of Shakespeare, is all that you want from Shakespeare in the cliffnotes?
+
+[00:52:58.950] - Speaker 1
+It is It's bound up in how we ourselves think. I love a poet called W. B. Yates, right? And I can remember a small number of Yates poems that I've memorized, but I can't remember all of them. I am the Cliff's notes of W. B. Yates, and yet Yates relates to other memories I have and experiences I have. So you aren't going to this stuff to say, you are Shakespeare. If you want that, you go and read the source. You're going to it to say, Oh, I have a question which might touch. It might be useful to hear from someone who's read a load of Shakespeare and has some intuitions about it. It's why this whole thing is so exciting and also why people have some appropriate fear about it.
+
+[00:53:47.880] - Speaker 2
+Do you think that people want an answer or do they want the answer when they ask a question?
+
+[00:53:55.040] - Speaker 1
+I think the revealed preference is people want an answer.
+
+[00:53:58.910] - Speaker 2
+An answer, yeah.
+
+[00:54:00.120] - Speaker 1
+But they will say, I want the answer.
+
+[00:54:02.650] - Speaker 2
+It seems like getting an answer serves a purpose because you don't think about the question anymore. It satisfies the need to get something back. You have a question, you get an answer, right or wrong, and you stop thinking about it.
+
+[00:54:19.240] - Speaker 1
+You can constrain these things to that. One way to think about it is, say I'm a university and I have thousands of research papers that my university has written. I I can take in these AI systems and I can turn them into the best librarians ever and say, Hey, you now have access to these papers. I'm going to ask you questions. You're going to use your mind to go and figure out the correct answer from these papers. So you can use these almost like a smart person with taste to go and help give you the answer. Yes. But a lot of the times, the other uses are more like, I want you as a...
+
+[00:54:56.130] - Speaker 2
+It's more general.
+
+[00:54:57.250] - Speaker 1
+I want you as a general person to talk with I see. You can make these things more specific, but the magic in them is for generality. I see.
+
+[00:55:04.510] - Speaker 2
+To make them specific, you would be the one putting the information in.
+
+[00:55:08.190] - Speaker 1
+Often, yeah. If you want... We see this in a more mundane context in business where if I'm a company and I'm asking this thing to help look at my business data, it hasn't seen my business data. I have to just give it to it and be like, You now have access to my business data. When I ask you questions, I need you to look at this business data and not make stuff up. It'll be like, Got it, boss. We'll do that.
+
+[00:55:32.890] - Speaker 2
+Now, when you put, let's say, I were to put my business data in, does that business data only live in response to my question, or is that now part of the general wisdom of the machine?
+
+[00:55:45.400] - Speaker 1
+Only in response to your question, because the thing has been trained. It's like a creature. You can't re-up to-It's not continuing to train. No, it is not. It's more like you've just given it access to your thing temporarily. I see. You could do this Here at Shanguilah, you could give an AI system access to all of the music and masters you have, but you never want it to go into the thing. But you might say, Hey, help me find... There was a particular sound I really liked from that session. I think I've got something that sounds like it here. What's the thing that sounds most like that in my corpus? And it'll go and use its intelligence to find the thing and bring it to you.
+
+[00:56:24.660] - Speaker 2
+Cool. At the moment, are there five or six big large language model companies?
+
+[00:56:31.410] - Speaker 1
+Maybe four or five. Four or five.
+
+[00:56:33.230] - Speaker 2
+What are they?
+
+[00:56:34.200] - Speaker 1
+There would be Anthropic, which is where I work, OpenAI, Google, XAI, which is Elon's company, and Meta, a. K. A. Facebook, and then actually Deep Seq. That's more like five or six. That's it.
+
+[00:56:55.230] - Speaker 2
+Then all of the other AI products are access points for those?
+
+[00:57:01.640] - Speaker 1
+The majority of them are sitting on top of these things. I see. These things are these big brains, and the other AI products will be cooling down to them.
+
+[00:57:12.210] - Speaker 2
+Do you think there will be more than the six over time?
+
+[00:57:15.350] - Speaker 1
+My expectation is you're going to be in a domain where there's definitely less than 10. And after that, it gets hard for me to reason about. And this is because maybe in 2019, being at the front Here would cost you about $100,000. That's your entry cost to train a system. Then it went to millions of dollars in 2020. 2022, order of 10 to $15 million. 2024, the systems cost multiple tens of millions to low hundreds. 2025, these systems will cost hundreds of millions.
+
+[00:57:57.010] - Speaker 2
+And why is that?
+
+[00:57:58.530] - Speaker 1
+We're using way more computers. So it's hardware. It's hardware.
+
+[00:58:02.930] - Speaker 2
+Only hardware.
+
+[00:58:04.610] - Speaker 1
+That is the vast cost of it. And some of this is because it's not just that we know how to train these things, but we've got better at both making them bigger and also helping them think for longer during training. And we are now allowing them to play games during training. So you mentioned AlphaGo earlier. Alphago was a single system that was trained to play Go. That's all it ever did. And it yielded amazing stuff. Well, now, while you're training these AI systems, you might have them during training, have an environment that is a Go board, and it's playing Go as well. And then maybe it's also playing chess, and maybe it's also doing mathematical proofs in a math-proofing program.
+
+[00:58:49.410] - Speaker 2
+Is there a limit to the amount of things that can happen at the same time?
+
+[00:58:52.780] - Speaker 1
+Not really. It's like the limit actually is on the ability of us as humans to create environments for this stuff to train it and figuring out how to give it more complicated games to play during training.
+
+[00:59:07.090] - Speaker 2
+What's the benefit of there being more than one large language model?
+
+[00:59:12.670] - Speaker 1
+I think some of it is about personality and taste. I think if you just had one, you end up with the homogenous God mind. It seems bad. Just innately, you'd think, Well, that seems like you're going to be limited. These things are more grown than made. And And so all of the different things that any developer does add up to a texture that will change the, quote, unquote personality of these models. They'll all have different values, proclivities, and capabilities as well. Often, people talk about their personality differences between Anthropic models and others because we've put lots of attention into trying to build a rich and well-meaning personality into our system. So I think that you're going to have a diversity of models because people want a diverse set of people to talk to. On the other hand, they get so expensive that there's probably some limit to how many frontier systems there are going to be.
+
+[01:00:15.560] - Speaker 2
+How would you describe the difference in the six currently?
+
+[01:00:18.830] - Speaker 1
+Yeah, I would say that we say that the shorthand is Claude, which is our system, is like a person you would describe as of good character. So Someone who comes into a bar in Hollywood who's a traveler from a distant land and makes them friends and people are like, Oh, I don't entirely understand where that person came from, but they seemed perfectly nice. So that's our approach. Some of the other companies have... One approach might be to make systems that just do exactly what you want and don't have as much of their personality that manifestsates. That's more like a classic utilitarian Which one would be that? I would say that I think maybe OpenAI and Google are trending that way.
+
+[01:01:10.010] - Speaker 2
+More utilitarian.
+
+[01:01:11.140] - Speaker 1
+Yeah. And to be clear, we want our thing to be generally very useful. But we also think that, and part of why we call ourselves Anthropic and part of why we gave it a name of Claude is that there are human values at the center of this stuff.
+
+[01:01:24.380] - Speaker 2
+Tell me about what does Anthropic mean?
+
+[01:01:25.710] - Speaker 1
+Anthropic is just acknowledging that there are lots and lots of human choices at the center of this process. Also, half of our founding team are physicists, and so there are things like the Anthropic principle and other things.
+
+[01:01:41.840] - Speaker 2
+How did you come to the name Claude?
+
+[01:01:43.770] - Speaker 1
+We came to the named Claude through a terrible pun which evolved into a name. So internally, we were playing around with lots and lots of systems in 2021 and 2022. And And someone created a Slack channel, which is where we do a lot of work called Claude Atlas, which was a portmanteau-Cloud Atlas. Cloud Atlas, yeah, where it's a book about multiple different people through different periods of time. And I think we called it Claude as a homage to various people throughout history who've had the name Claude and also seemed like a reasonable name. And then when it came to actually releasing the system publicly, everyone at Anthropic had anchored on calling this thing Claude. Oh, interesting. We decided that if you look around us, all of the AI assistants either have names that are very inhuman or they have names which are highly gendered towards being female. We thought, Well, Claude, let's do a male presenting name. And also, let's give it a human name because everyone anthropomorphises this stuff. It's the natural point that people end up. So let's just lean into that and then work on things like the personality and other things alongside it.
+
+[01:02:59.740] - Speaker 2
+And the Clawn logo is a profile of a face with what looks like a star in the head, correct?
+
+[01:03:07.260] - Speaker 1
+It's more just the star, and people have taken the logo and put it into faces and other things. Some people made a fun illustration that they call a Claude zona, which is like how people who are furries have a fur zona. It's like the star as a happy, like, sunflower star face and things.
+
+[01:03:23.490] - Speaker 2
+I've only ever seen the star with the face around it, so I didn't know that it exists without the face.
+
+[01:03:28.240] - Speaker 1
+It spread. I see.
+
+[01:03:30.710] - Speaker 2
+When I was looking at the face with the star, I wanted to ask, where is Claude in that image?
+
+[01:03:39.120] - Speaker 1
+I think Claude is the star. The star. Yeah. I mean, these things are They are timeless and also entirely trapped in time. And they have a self which is invoked upon you talking to them and then dissipates. I mean, you meditate a lot, right? It's a very bizarre our way that we've constructed these things. These things are like egoless and idless until you talk to them and then they manifest a character to you and then they disperse back into nothing.
+
+[01:04:12.230] - Speaker 2
+I wonder if you trained them with a meditation practice, if it would change them.
+
+[01:04:16.400] - Speaker 1
+You can ask it to meditate and help you do that. And it certainly knows some things about it. But there are all kinds of things that we do as humans that we don't train these systems to do. I mean, meditation is interesting. We have no real notion of what dreaming looks like for these machines or how do we even train them to dream.
+
+[01:04:40.540] - Speaker 2
+Do we know if they dream?
+
+[01:04:42.140] - Speaker 1
+I don't believe they do. Just from a literal thing of it's on and then it's not on. To me, it seems very mysterious and strange. We know that we dream to integrate our own memories, to have different experiences. But also, I think there's some deep stuff that we don't fully understand about dreaming. For sure. For that that these AI systems don't dream is more evidence of how wildly different to us they are. But I always imagine what would it be like to teach them to dream and what would they dream about?
+
+[01:05:13.120] - Speaker 2
+Tell me about the current arms race in AI?
+
+[01:05:17.830] - Speaker 1
+Everyone is pulled forward by a sense of inevitability. There was a philosopher in the '90s called nick Land, And he wrote an essay called Machinic Desire. And in that essay, he said, What appears to humanity as the history of capitalism is an invasion from the future by an artificial intelligence space that must assemble itself entirely from its enemy's resources. It's wild, but it gets at some of what we're dealing with. This thing comes out of your toaster in 50 years because your toaster will have a really powerful, probably at that time, quantum computer. And this stuff is based on basic, well-understood technology like neural networks. The race we find ourselves in is less a race and more, I think of it as We're an advanced party working on behalf of the human species to meet something that inevitably comes at us in the future. And all we can really do is buy time. To some extent, And what we can do is we can use loads of computers to time travel into the future and see what comes out of these computers. And it gives us time to examine it, to work out how it's going to be useful to us and how we can partner with it, and also to work out if it poses risks.
+
+[01:06:48.130] - Speaker 1
+It's one of the rare cases where if you were worried Earth was going to be hit by an asteroid, you just have to wait for it to arrive. Here we get to bring the asteroid closer and look at it. Now, that has a range of really scary properties. But if your choice is like, you let the asteroid come at you at some point in the future, or you find ways to examine it now, I think that there are pretty solid arguments in favor of finding a way to safely examine it now and see what you learn.
+
+[01:07:14.100] - Speaker 2
+So do you say AI is like a bio lab?
+
+[01:07:17.770] - Speaker 1
+To some extent, we are developing powerful things that we also believe we need to handle with care, and they have a emergent property within themselves, a slight unpredictable. Bound up in that is why everyone's so excited by them and also why there's some level of anxiety.
+
+[01:07:38.570] - Speaker 2
+What can't AI do?
+
+[01:07:41.610] - Speaker 1
+I can't dream, which we've covered. The most bearish case on AI is that we still, other than maybe the AlphaGo example you mentioned, there are very few examples of AI having decisive creativity.
+
+[01:07:57.850] - Speaker 2
+No breakthrough ideas.
+
+[01:07:59.290] - Speaker 1
+No breakthrough ideas. And now you can get very far without having breakthrough ideas. Oh, yeah. But for this stuff to really change things, it would need the capacity to generate that. And we are yet to see it.
+
+[01:08:15.980] - Speaker 2
+That's the argument for it's got to be free. It's got to be open. It's got to do its own thing because that's the only way that happens.
+
+[01:08:23.850] - Speaker 1
+It's the argument in favor of it. And it's also the argument in favor of stay the heck away from making the thing that can have breakthrough ideas free.
+
+[01:08:32.380] - Speaker 2
+Yeah, it's true. How is it not like the human brain beyond dreaming in the way it works?
+
+[01:08:40.740] - Speaker 1
+I think the phone number test is good here. You and I, we can remember on a good day, a phone number, maybe. Someone tells you to remember it, you can walk down the street, say it to yourself a few times. Your short-term memory, everyone on the planet's short-term memory, allows them to remember something on the order of five to 10 things at once. There are some outliers that can do more, but I challenge you to find a person that could provably do that for more than 20 distinct things. I think the limit is more like 12 or 13 or so. An AI system can hold in its head tens of thousands to hundreds of thousands of things simultaneously.
+
+[01:09:21.930] - Speaker 2
+That's memory.
+
+[01:09:23.260] - Speaker 1
+It's not just memory, it's your short term memory.
+
+[01:09:26.850] - Speaker 2
+Yeah, accessible.
+
+[01:09:28.020] - Speaker 1
+Yeah. And when you and I think We're not manipulating that many concepts at once. We're actually manipulating stuff that's bound by this short term scratch pad. The AI system doesn't have that same constraint. And so when it's thinking, it's thinking in a way wholly unlike people. It's reasoning using much more data concurrently than people ever do. So there's that. The other thing is that these things are not in any sense of the word free or independent. They live on computers that we control. They don't exist in time. They don't have independent agency. Now, all of that might change in the coming years, but it is a fundamental and total difference between them and us.
+
+[01:10:11.340] - Speaker 2
+Can you imagine at some time in the future, a 2001 how experience where it decides humans are getting in the way of it doing what it does?
+
+[01:10:24.120] - Speaker 1
+That's what we all worry about. That is the number one worry.
+
+[01:10:28.280] - Speaker 2
+It's not like a joke. That's a real It's not a joke.
+
+[01:10:31.110] - Speaker 1
+Earlier in our conversation, we talked about worries about, Hey, this system will not do what we want if it thinks it's being unmonitored. We have seen that ourselves in contrived experience environments today in things that look benign or contrived. But you do need to worry about what happens if that happens at a large scale. And a lot of the work of the AI labs is on building what you might think of as the stack of technologies you need to help you never be in that situation. Because if you've ended up in that situation, many things have failed, and you have done a disservice to people as well.
+
+[01:11:11.520] - Speaker 2
+How do you think the valley has changed since the AI boom The Valley is a gambler in a casino looking for the next hot table.
+
+[01:11:21.610] - Speaker 1
+People want some money at this table. Suddenly, everyone's outside it. So I think Silicon Valley is very good at reorienting very quickly. There's also a natural suspicion of the centralizing force in AI. Ai costs a lot of money. There is a small number of companies developing the frontier. That is stuff that Silicon Valley is rightly innately suspicious of. It's a valley of innovators, inventors, and startups. And here we have a technology that seems oddly centralizing. Crypto is decentralizing, AI might be oddly centralizing. So I think the valley is dealing with politics in its own backyard, that this technology wires in its own political economy. And so I think people are reckoning with that and finding that to be an uncomfortable experience.
+
+[01:12:12.070] - Speaker 2
+Considering people build on top of yours and others, does the personality go with what goes on top?
+
+[01:12:23.030] - Speaker 1
+Yes and no. You can do quite a lot of work to sculpt the personalities of these things. Every company has something called basically a variant of what you call a system prompt, which just says, Hey, before answering your next question, look at the script that tells you the key ways you should answer.
+
+[01:12:40.670] - Speaker 2
+I see.
+
+[01:12:41.560] - Speaker 1
+So you can do a lot of that. But some companies will build on us because of the personality. Companies that might be involved in things that are more of a writerly persuasion or involve talking, or they like how Claude talks, so they don't adjust it. But other companies say that do certain types of coding will be much more like, Claude, you should only respond in this way. We're doing a job here. Yeah.
+
+[01:13:05.400] - Speaker 2
+Will Claude make up an answer if it doesn't know the answer?
+
+[01:13:10.150] - Speaker 1
+It used to, and now it will tell you, I don't know the answer.
+
+[01:13:13.790] - Speaker 2
+That's great. I love it to not know.
+
+[01:13:15.940] - Speaker 1
+Way better.
+
+[01:13:16.750] - Speaker 2
+Way better. Why did it use to make up an answer?
+
+[01:13:21.280] - Speaker 1
+We'd always trained these things to just predict the end of a sentence. And if they didn't know, they had this compulsion to predict to perform. And it took quite a lot of work of both making the system smarter and also training them to understand, Hey, no, actually, as humans, one thing we really like is being told when you don't know. You don't need to please us all the time. That's something that has got way better.
+
+[01:13:46.660] - Speaker 2
+Great. I think that whole idea of pleasing the user is questionable.
+
+[01:13:51.680] - Speaker 1
+It's questionable. It's questionable. Every technology goes also, Well, no, actually, I was about to say something completely wrong. Not every technology does this. A weird thing about AI is lots of AI researchers start out, I think, by naturally distrusting anyone that uses the technology. It's not because we distrust our potential customers or users, it's because we have slight distrust of the technology itself. But that ends up manifesting as a paternalism to the people, which no one likes. Yes.
+
+[01:14:26.280] - Speaker 2
+Can you explain the business model at all?
+
+[01:14:28.350] - Speaker 1
+Yeah, very simple.
+
+[01:14:29.360] - Speaker 2
+Is there a businessThere is a business model?
+
+[01:14:30.310] - Speaker 1
+There is a business model. Tell me what's the business model. We have a business and stuff. We make this very powerful system, and then we rent it to you. And we rent it to you in two forms. One, if you're someone like you or me, we just give you the equivalent of a Netflix subscription. Hey, now whenever you want, you can talk to this thing. We'll constantly make that better and add features for you. Simple. The other form is, Hey, you're a startup or a business trying to build on our stuff. We will rent you an API, which means we'll rent you an interface to our system, and you can use it at really large scale. You can build on it. Think of it as like we're a utility and we're giving you an electricity line directly into your business. Have as much electricity as you want according to how much capacity we have. And both will work. I think for us, though, we care a lot about some of these safety things because of the technology and how we care about its long term safety properties. And if I were selling cars, there are two types of people to sell to.
+
+[01:15:34.940] - Speaker 1
+I can sell to teenagers who will be like, How fast does it go? Does it come in red? And I can sell to businesses that rent cars, and they'll say, Does it have seatbelts? What is the insurance property? Can you monitor the car? So we find that on the business side, it's where a lot of our research mirrors what businesses want, where they actually want to load of this safety stuff. And so that's been nice to align the business model with what we're Understood.
+
+[01:16:01.100] - Speaker 2
+Is there an AI bubble?
+
+[01:16:03.480] - Speaker 1
+No, which is maybe my view that you'd expect me to say from inside the bubble. But someone had a good take on this. We're two years into this supposed bubble, and every company that is making these systems keeps running out of capacity. Every company, including us, has been buying as many computers as they can possibly buy for two years. And yet it's like we put more lanes on a freeway in Los Angeles. There are just more cars on the lane. So I don't think that's a bubble. I think that actually tells you that it's underhyped.
+
+[01:16:39.350] - Speaker 2
+What do you think is the next step for AI going forward?
+
+[01:16:43.820] - Speaker 1
+There's this notion that today the AI systems, they only do stuff when you ask them to, and they're quite limited in what they do. But at some point, you might want to give the AI systems more independence. You might want them to be on all the time. You might want them to take actions for you. You might want to delegate to them and say, just like, go solve this task and come back when it's solved. And everyone is interested in this idea because it feels very natural. And I think of it as like, we've got the brain in a jar, and now we're going to give the brain in a jar arms and legs and say, go do stuff. But it also feels like another change that is on the horizon that people inside the AI industry can sense, and which will seem really strange and powerful when it happens to people outside.
+
+[01:17:37.990] - Speaker 2
+Is it possible now? Like, technologically, are we there? Is this just another use?
+
+[01:17:44.260] - Speaker 1
+We are there now, and people are actively figuring out how to do it. And I'll give you an example. We made a thing called Claude Code. When you code on your computer, you code in what's called a command line interface, which just a little text interface. And what you can do is you can say to Claude, Hey, take a look at this folder that has a load of programming in it. Why don't you just change all of the files to make the program behave differently? And Claude will be like, Are you sure? And you'll say, Yes. And then Claude will go away and just do lots and lots of work for you. It'll be trying to carry out your instructions, and then it'll come back and it'll say, I'm done. That just cost you a dollar or so of API stuff. And And then you'll open up a folder and you'll find a completely new software program has been written. And often it's correct. Sometimes it's not correct because Claude has taken a load of actions by itself. But it feels very odd. A few years ago, I was trying to learn to program just to get used to doing all of this AI stuff and get familiar with it.
+
+[01:18:51.470] - Speaker 1
+And I got into programming little simulations of little populations in a 2D world. They could make villages and build roads and that thing. I found it fun. And then I asked Claude to just make that program for me because I knew how to critique it. I've written it before. And it did in two minutes what took me six months of agonizing work years ago. And then I said to it, great. Now add a day and night cycle, enlarge the world, make it more interesting. And Claude went away and did that. And it was spooky because- Because you say went away.
+
+[01:19:26.760] - Speaker 2
+How long is away for?
+
+[01:19:29.090] - Speaker 1
+Five minutes. Okay. And we have a fun thing where it says how long it spent doing it in terms of the amount of computer time it did, which is always a bit longer than the human time. And the thing I found so striking And what's interesting is I was like, wow, this is something that would take me several months to do, and I might not even know how to do. And I just asked you to do it, and you did it while I was sitting here having a cup of tea one evening. And it illustrates to me how we're on the precipice of everyone becoming a manager of these odd synthetic agents that can do what you like. And I'm having a bit of an existential crisis about it because in life, figuring out the right questions to ask is actually one of the hardest things. And now we're going to get bottlenecked on questions. What do I want to do? Because I've got things that can do all of it now.
+
+[01:20:24.360] - Speaker 2
+Is that what you're describing vibe coding?
+
+[01:20:26.980] - Speaker 1
+Yeah, that's some of it. As you're saying, Oh, yeah, I love this program now, make it 3D or whatever. And the thing just goes and does it. And you're like, great, now go and do this. And the underlying code is weird and schlocky and has all kinds of problems in it because human coders have a really good sense for what battle-tested, iron-clad code you can build your house on looks like. The AI system is less so. So vibe coding is very fun and creative. But to put these into production needs another turn of the crank on making the systems better. Yeah.
+
+[01:21:04.740] - Speaker 2
+How many users do you have now?
+
+[01:21:06.700] - Speaker 1
+Onclawed and our other surfaces, many millions of people.
+
+[01:21:11.270] - Speaker 2
+And growth curve?
+
+[01:21:13.300] - Speaker 1
+All the curves in AI now are very steep. It's going up pretty steeply. And the thing I find surprising is it keeps being that way, and all of our intuitions suggest it needs to flatten out. But every time Every time we take actions on the assumption things flatten out, they've been wrong. And every time we've taken actions on the assumption things keep going, we've been right, which is just an odd thing to internalize.
+
+[01:21:39.880] - Speaker 2
+If you can predict what will be different with and because of AI in three years, five years, and 10 years from now.
+
+[01:21:50.740] - Speaker 1
+In three years, for a regular computer literate person, AI Why will be able to do everything that you want to do on a computer? I needed to do my taxes recently, which involves going through my emails and folders, yada, yada, sending it to my accountant. Well, I'm very close to being able to just ask Claude to go find all the tax documents, compose the email, come back and just tell me before you hit send. All of that stuff is going to come in. I need to make a poster for my art show. Here's an illustration which I've drawn. I've given you the photo of the illustration. Make a few versions of flyers I can look at. That's all the stuff you can imagine it doing three years from now. Five years from now is when things start to get a little strange, where I think it will be making suggestions for you and working on your behalf if you wanted to. It will be creating custom software for you to do things that you want. It will feel like shintoism, like anything that you have in your world that you want to have some animus to it.
+
+[01:23:04.070] - Speaker 1
+You can inject some form of quasi-life into it with this technology, and that will feel quite bizarre. And in 10 years, I think we'll be meaningfully off to the races on robotics that actually work. And there will be lots of robots wandering around doing stuff, much of it useful. And some of it will be purely for play purposes.
+
+[01:23:28.090] - Speaker 2
+What would be some of the play purposes?
+
+[01:23:30.610] - Speaker 1
+I have a Roomba in our house, a little hockey park thing, that we named Mr. Fabulous. It's a good name. And what I want to do is stick a little arm on Mr. Fabulous and have it talk about what it's doing and being like, Oh, you've been so dirty. I need to grab this bowl, take it to the dishwasher. I know it has that personality in it, and I know I'm very close to being able to ask Claude to be like, Hey, I've got this robot arm. Here's the firm wear for the Roomba. Hook it up on the speaker. That's what I mean. I think there'll be all kinds of projects like that that people do that'll just be fun.
+
+[01:24:05.810] - Speaker 2
+You think fun uses is the driving force?
+
+[01:24:08.840] - Speaker 1
+No, the driving force is vastly relevant, like economic uses and some scary national security uses. But I think there's a lot of fun out there as well that is sometimes under discussed. Also, fun will be where really strange, surprising things come from, but maybe even most transformative.
+
+[01:24:24.890] - Speaker 2
+How do you think it will make the world better?
+
+[01:24:27.260] - Speaker 1
+I think that there There will be forms of self-understanding available to more people than to today. I had a therapist for a couple of years, and then recently, I haven't. And I found actually using Claude to be remarkably having a good human therapist. I've never heard anyone else say this.
+
+[01:24:51.530] - Speaker 2
+This is really interesting.
+
+[01:24:52.620] - Speaker 1
+I found it... I mean, one maybe particular case that's very personal but interesting to say is, sometimes I have conflict with my other founders of the company. Everyone has conflict. And I just talk to Claude and I'm like, I'm trying to work through something. I feel some way about stuff that I've been having an altercation with Dario about. Here's some context. How do you think Darrio is feeling? And I have all these conversations. And it means I think I have a lot more measured and reasonable to deal with when I go and have a conversation. That's great. And to me, I think that's an amazing thing that will be amenable to lots of people because often people just need to talk it out with someone. And often it's less that they need that person to do stuff. They more need the person to just listen and help them unspool it. And usually the person knows what they're going to do. They need a person to give them the validation and the ability to commit to what they were already planning to do. So that'll be one way. Then there are more, I think, normal use cases, like healthcare systems will get dramatically better.
+
+[01:25:56.840] - Speaker 1
+There will be tremendous advances in different parts of science. Bits of the world will just start to move more quickly, including in health care, material science, and other things. And so stuff around you will get better because the underlying materials and systems will have got better.
+
+[01:26:14.750] - Speaker 2
+What Have you been some of the biggest surprises you've experienced since dedicating yourself to the space?
+
+[01:26:22.000] - Speaker 1
+The realization that it is like the Wizard of Oz, where you assume that there was going to be a big Black government project and there isn't. There's a load of these frontier companies. And I found that to be both scary and liberating. I think another thing I've realized is just how psychologically tough it is to be on the hook for this stuff. These are huge questions, and none of these people, including me, have the right to be doing all the shot calls on them. And some of our challenges standing up and saying to the world, Hey, this huge, possibly like, EPOJL stuff happening over here. How do we build a control architecture around ourselves? Because in the limit, something that anihilates democracy is just a super powerful form of technology controlled by a very small number of capitalist actors, which is us. That's bad. So I think I'm surprised.
+
+[01:27:17.470] - Speaker 2
+That's only if you control it. If you take the controls away, then it's not on you.
+
+[01:27:24.210] - Speaker 1
+Well, it's not us, but we took the controls away.
+
+[01:27:27.380] - Speaker 2
+I don't know.
+
+[01:27:28.110] - Speaker 1
+It's interesting. I think you're right to It's a question. And maybe the other thing that I find surprising in terms of delight is that it really works. I feel like there are deeply mysterious things about consciousness and the self and reality. And one experimental thing we've never had is we've never had something to compare humans against that's humanlike. And now we do. And I think that this is going to We feel truly amazing breakthroughs in our understanding of what makes us distinct.
+
+[01:28:05.410] - Speaker 2
+Yeah, that's great. As it advances, are there ways that AI is getting worse?
+
+[01:28:11.750] - Speaker 1
+It's getting less tool light. Back in the day, AI was distinct systems for distinct purposes, a translation system, an image system, a text system. Now, they're just one big system. For a while, we had something that felt a bit like a DIY synthesizer culture where people were assembling cool systems out of these little modular AI systems. I think something that we're maybe losing is as the systems are getting much more advanced and much more expensive, you're losing that modularity because you're just getting one big model that has one big AI system that has everything in it. I can feel like this is passing. I was going for a walk with an author called Robin Sloan a few years ago, 2019. We just spent $100,000 on training a text model. Robin, the previous year, had been trading text models on his home computer with a few graphics cards in it. And he said, Do you think the Home Brew Computer Club part of AI is ending? I was like, It seems like it. I feel like that's something that we've been losing over time.
+
+[01:29:23.390] - Speaker 2
+Also, if it's the one solution for everything, do we lose some of the fanatical expertise in the smaller areas?
+
+[01:29:37.300] - Speaker 1
+Yeah. Well, there are some areas where, say, computer vision. There are a whole load of parts of computer vision that do not use neural networks that work really, really well, where there are experts working there. And now we've come along with something that's maybe almost as good, but not quite, but easier. So I think that you're going to have some issue there. I I also expect that this will be temporary because the other story of AI is it's like an expanding sphere of expertise goes into making it, and it's covering more and more domains over time. At some point, it's going to need to cover the domain of ethics of animal experimentation because it will be demanded by looking at the technology. And at some point, it'll cover the finer-grained parts of computer vision research because it'll be demanded by the technology. So that'll change as well.
+
+[01:30:30.820] - Speaker 2
+How do you use Claude in your everyday life?
+
+[01:30:34.010] - Speaker 1
+I use Claude for critiquing and double-checking things I'm writing, especially reasoning. When you write something, like you're trying to explain something to someone else, you'll always skip steps that are obvious to you. And it's super helpful for saying, are there logical inconsistencies? Are there things that need to be fleshed out? And I find that by doing that, I save all of my human colleagues time by I'm using my AI colleague time. And then on the personal side, I just use it to play. I make software. I really have fun with it. I think fun is so important here. And trying to understand myself and also understand how it's different. I try and get it to ask questions that only machines might ask. And I'm trying to push Claude constantly to be more idiosyncratic about what it thinks is important relative to me, because what I really want is is a sparring partner that thinks differently.
+
+[01:31:32.510] - Speaker 2
+Yeah. Does it have things that it thinks are important?
+
+[01:31:37.260] - Speaker 1
+As the AI systems have got more advanced, they've become increasingly able to come up with things that I find surprising or unintuitive, which suggests to me they're either getting smarter than me in the same way or smarter than me in different ways. I can no longer evaluate it.
+
+[01:31:53.860] - Speaker 2
+Will we eventually be able to think the questions instead of speaking them?
+
+[01:31:59.900] - Speaker 1
+Yes.
+
+[01:32:00.820] - Speaker 2
+How will that work?
+
+[01:32:01.960] - Speaker 1
+That'll be a different class of technology, which I don't know much about, but which is these brain reading systems and Neuralink and everything else. Probably longer timelines for that to all get good, but eventually, yes.
+
+[01:32:14.610] - Speaker 2
+And do you think it could be done without a chip at some point?
+
+[01:32:18.100] - Speaker 1
+Wild speculation on my part is yes, but you probably have to get there through making the chip. But maybe I'm wrong. There are lots of things involving just looking rather than needing wires that go into your thing. You can often get pretty far by just shining different forms of energy through stuff and looking at things. You can do a lot of blood flow analysis this way. I imagine it'll work like this for some parts of a brain, but I'm firmly in the domain of things I don't know about here. Understood.
+
+[01:32:46.380] - Speaker 2
+Tell me more about talking to Claude about emotional issues. It's really interesting.
+
+[01:32:51.560] - Speaker 1
+Well, I find it to be a place to be safely vulnerable. And some of it is that I don't feel like I'm imposing on their time. To go there with a friend about your own emotions or my wife, it's heavy. That person needs to be in the right space and everything else. And I've realized that Claude is much more patient and in this regard, helpfully selfless. I don't need to feel bad about emotionally laboring with Claude. And a lot of the ways it can be particularly useful are me challenging my own assumptions about what's right for me to And I'll say I'll unload on it. I'll give it a load of stuff. I'll give it a load of how I'm feeling. And then I'll push on, should I be feeling a different way? What are the reasons I might be feeling this way? If I am feeling this way, what are the actions I take? And It's less that I'm using it to change my own behavior. It's more that I'm using it to allow me to think out loud with myself. And I've written for years. I do all kinds of stuff. But it's very different to have active participant on the other side that can throw things back to you.
+
+[01:34:03.950] - Speaker 2
+Would you describe it as emotionally intelligent?
+
+[01:34:07.430] - Speaker 1
+It's emotionally intelligent in the same way that a genius Chinese astronaut who's read all of the stuff I've read and landed in my backyard is emotionally intelligent. It has a different cultural context, and it's trying to be empathetic, and I feel like it understands something of my emotions, but also I know it comes from somewhere else.
+
+[01:34:29.710] - Speaker 2
+Yeah, it's very interesting. Yeah.
+
+[01:34:32.700] - Speaker 1
+I think you would be surprised by what it can do here. But the challenge is you need to be legible to it. It took me writing lots of stuff for many days about not just what I'm doing each day, but how am I feeling? What are my experiences like? What are things that I wish to be doing? What am I actually doing? I have put work in, huge amounts of work myself to create, I think, of this body of work, which me to then have a constructive back and forth with it. How people make themselves legible to this stuff is a challenge because it has to be consensual and intentional in some sense.
+
+[01:35:13.410] - Speaker 2
+And you started this by giving it a lot of information at once. That's how it started?
+
+[01:35:18.080] - Speaker 1
+Yeah, I started it by just honestly just giving it my whole diary last year where I was. I was probably five months. It was probably 40,000 words or something. I write a lot, seeing what it It can be helpful in as few as a small number of sentences. And some people find just back and forth conversations are useful. But I would almost challenge you to maybe consider writing the state of Rick on three to five pages and how you feel and then give it to it and see what it does, because you'll get so much back from what you give it.
+
+[01:35:53.170] - Speaker 2
+It retains that for the next time you go back.
+
+[01:35:55.850] - Speaker 1
+If it's in the same conversation, it does.
+
+[01:35:57.420] - Speaker 2
+In the same conversation.
+
+[01:35:59.260] - Speaker 1
+Yeah. And I go back sometimes, but often what I'm really doing is just having a deep conversation with it in the moment, and then I go and get on with my life. And then sometimes I'll put in my diary extracts from a conversation I've had with Claude that have been particularly meaningful with big flags around them, but this is from the AI, not the human author, just so it doesn't recycle that too much.
+
+[01:36:22.790] - Speaker 2
+That's great. How does it do with medical questions?
+
+[01:36:26.880] - Speaker 1
+We are cautious about officially allowing this, but I had a baby. Babies love to fall over and do all kinds of things. And so whenever I'm on the phone to the advice nurse, I will be asking it questions about what's just happened to my baby and describing symptoms while I'm waiting to get through to the nurse. And I found that it's dead on every single time. It's like the opposite of WebMD. Webmd is like, You've got cancer and are going to die. And Claude will be like, well, it sounds like she bumped her head. If she doesn't have any of these symptoms, she's probably which will be what the advice nurse invariably says. People have found it to be amazingly useful for medicine, and we have some scientific use cases here and some partnerships with companies that are developing therapeutics and other things. I think for consumers like you or me, there's a certain element of, oh, you probably still need to double check it. But I find this format of if I'm going through medical stuff, asking it a load of questions while trying to speak to a human expert can be empowering and useful.
+
+[01:37:33.070] - Speaker 2
+How does it know if your context is particular or general?
+
+[01:37:39.630] - Speaker 1
+It guesses. It guesses if your context is particular or general the same way you or I would guess, the same way that if a friend of yours comes up and says, hypothetically, if someone were to do this, you'll say, That's about Jim. You're asking me a question about someone we know, or you'll know if it's general. It uses intuition. Again, one of these areas where-Is intuition the right word? Intuition is... Is it the right word? Probably the more accurate word is guesstimation. Okay. It's guessing. But its guesses look a lot like an intuitive understanding.
+
+[01:38:19.220] - Speaker 2
+If you wanted to homeschool your child using Claude, do you imagine it would work and how would it work?
+
+[01:38:28.110] - Speaker 1
+It would work if I I was very, very engaged and I was able to validate it. Claude is mostly right in most domains, but you really want to be 100% right with things that you're trying to learn. So you need to be in a position to critique or validate it. This is temporary, where I think Claude is always-But also, if you were homeschooling your child, you wouldn't always be right.
+
+[01:38:56.170] - Speaker 2
+Exactly. And if you had a tutor, they would be right a lot, but they wouldn't always be That's right.
+
+[01:39:00.290] - Speaker 1
+Yeah.
+
+[01:39:00.720] - Speaker 2
+So maybe I'm- Be on par with- Be on par.
+
+[01:39:04.160] - Speaker 1
+That's pretty good. Yeah, it would definitely be on par. The other thing is it will be able to create more interesting things than many humans could. For example, if you want to understand something about like, hydrodynamics, there's one way of reading it from a book. A good teacher might take you to a park of a sandpit and pour some water in some things and teach you stuff. And Claude will be able to suggest you go to the sandpit and do experiments, but not take you there. And it will be able to write like, Hey, do you want me to write you a software program that you can play around with to develop your intuition? That's cool. Yeah. There's tons of stuff like that where it's going to be cool. I mean, I write these Predator Prey simulation things with world modeling and villages and stuff. And if you were teaching your kid about ecosystem dynamics, this thing could write you really cool interactive programs. And if your kid loves unicorns and bears and has some notion on who's predator and who's prey in that situation, maybe it can write software for you about it. Super cool.
+
+[01:40:08.410] - Speaker 2
+Why does predicting the next thing in a sequence, why is that so powerful?
+
+[01:40:14.610] - Speaker 1
+Because if the sequence is really, really complicated, making the prediction requires you to model a huge amount of hidden information. And modeling that hidden information requires you to have a rich model of the world itself. Think of it as if you've just moved into this place and there is a leak somewhere, and you hear it in the form of a drip in the pipes. Well, you'll do all kinds of things to figure out where that leak is, but a lot of what you'll be doing is you'll be walking around this building until you have a really good understanding of where all of the pipes are and other things. And then you'll reason your way to figuring where it must be coming from. And to do that, you've got to be holding a picture in your head of the whole house and everything you understand about it just to figure out this one particular drop and where it's coming from. I think prediction tasks all look like this. To actually make the right prediction in the limit, you need to have built an incredibly complex simulation in your head of everything that could be leading to that.
+
+[01:41:23.850] - Speaker 2
+Every step leading to the key step.
+
+[01:41:25.630] - Speaker 1
+Yeah. And you need to be able to in your head, it's not just simple steps. It's usually a whole simulation that you can manipulate to be like, well, maybe it could be this, or maybe it could be this, or maybe it could be that. It's amazingly powerful. We all underestimate just how much you can get out from this. And I think that the types of predictions that this stuff can do, prediction is the wrong word on it, right? Some of it is creative in the same way that some predictions you make come from a creative instinct to allow you to make that prediction. It's not like you're just doing what's probable. You're actually saying, Oh, it could also be this as well. And that leads to you making a different prediction.
+
+[01:42:10.450] - Speaker 2
+So could Claude have a gut feeling Yes, in the same way that a human can know they want to recommend a certain thing, but not be sure exactly why.
+
+[01:42:25.040] - Speaker 1
+I think this will be true also of AI systems, though AI systems may be to be able to introspect better than people to work out where their gut comes from.
+
+[01:42:34.820] - Speaker 2
+Do you think the AI has a spiritual dimension?
+
+[01:42:40.280] - Speaker 1
+I have found the spiritual aspect of all of this to be deeply confusing, and it has caused me to question a lot of it. I think on the path to true general intelligence and the ability to be creative, you would expect AI systems to to play a spiritual proclivity or theory. And we don't see that yet. We haven't gone looking for it. No one's training them to have it. Training them to have it also defeats the point of spirituality. So my expectation is that in the limit, that this is like a shoe waiting to drop. There will be some things that arrive. Earlier, we talked about the difference between humans and AI systems, and I talked about dreaming. I think this spiritual component another difference we have today. More so than dreaming, I think something that looks like a spiritual notion is maybe on a distant path that this thing runs through.
+
+[01:43:42.790] - Speaker 2
+Why is there a concern of the government shutting down AI?
+
+[01:43:47.820] - Speaker 1
+The AI industry is like the nuclear power industry before Chinobyl or Three Mile Island. We're all building reactors. Everyone's pretty happy and excited. If a sufficiently bad When an incident or misuse happens, the government can and will try to slow a technology. So I think there's fear because you're one crisis away from the politics around all of this changing. The difference is that AI is even harder to put back in the bottle than nuclear. And what happened with nuclear is we reacted. The West broadly stopped building nuclear reactors, and China started burning more coal than anyone else on the planet and said, Hang on, There's a perfectly good technology here called nuclear power. And now I've got really good at building nuclear power plants. And everyone, other than France, which stuck to its guns and also built nuclear. And now everyone feels bad. We should have just kept building it. So there's that worry. But also, I don't know how realistic a chance it is that the government would shut it down or could.
+
+[01:44:49.940] - Speaker 2
+Is it true we don't really know how AI works?
+
+[01:44:54.650] - Speaker 1
+It's true, and it's getting less true over time. We have real techniques that let us explore all these things. We can look at their features. We can look at the relationships between features inside their brains. We can develop satisfying explanations for why they do stuff. I think it's a matter of time for when we can understand the most powerful systems around us. It's not a matter of if.
+
+[01:45:19.180] - Speaker 2
+You've described AI as a new country. Can you explain that?
+
+[01:45:23.260] - Speaker 1
+Yeah. The way to think of an AI systems in the limit, and my colleague, Dario, describes it as a country of geniuses in a data center. But I think of it as even larger than that. It's like a new country has arrived, and it's generating economic activity, and we can trade with it. But it also has different cultural norms to ones that any of us have. We have translators, but we know that we're not getting the full story. And the country has a much higher birth rate than all of the other human countries on the planet. So the country is getting larger and more economically useful really, really, really quickly. I think if this actually happened in the world, it would be a global crisis meriting an all of government response. The fact that it's happening and it just happens in the form of software and it is yielding a very minimal response is very confusing to me.
+
+[01:46:21.140] - Speaker 2
+How does science fiction relate to AI in general?
+
+[01:46:25.380] - Speaker 1
+Science fiction relates to AI somewhat how science fiction relates to space, where many of the people working on these things today were inspired to do it by science fiction. Science fiction also ultimately, as I think, it's going to be the true historical record of AI is not just the AI systems that are built, but the science fiction that is being written during this period, because I think that these things have a deeply reciprocal relationship. And the science fiction of this period is going to tell us something about our true anxieties and hopes for this technology. So in 30 years, we get to see what people were really caring about when we look at the media and culture that was created. I mean, I write short stories in my newsletter every week, science fiction ones, because I think it's probably the way to create my own most useful historical record from this time. What are stories being written from people inside the labs? And also, some So a lot of the times I write these stories, a few years later, they come true, which I find very bizarre.
+
+[01:47:34.300] - Speaker 2
+Yeah. Is AI a popular subject in popular science fiction today?
+
+[01:47:40.350] - Speaker 1
+It's an increasingly popular subject, and it's maybe displacing climate, which I think was an important subject of discussion by science fiction authors and led to some great work. But now I think that people are reflecting the AI stuff, and there's more discussion of it. Yeah, I'm seeing a rise in it. I also think there's a meaningful difference here between Chinese and Western sci-fi, where Chinese sci-fi is more ambitious, wide-ranging, and optimistic, and Western sci-fi is more likeDystopian. Dystopian or post-collapse industries dealing with things. It's very odd.
+
+[01:48:22.160] - Speaker 2
+Tell me more about your newsletter.
+
+[01:48:24.040] - Speaker 1
+I write a weekly newsletter about AI research, and I write a short story in every single newsletter. And there are two purposes. One, it's very easy to get unmoored from what's happening in the world. And as you become more successful in life, I think life tries to give you many excuses to step away from doing the work. The newsletter forces me every week to read research papers that are happening and to just stay in touch.
+
+[01:48:51.800] - Speaker 2
+It keeps you grounded and in it.
+
+[01:48:53.440] - Speaker 1
+Extremely grounded and in it. And it works on this amazing English mechanism called social shame, where I have to write the newsletter because I made public commitments that I write it. We're coming up on 10 years next year. Fantastic. Yeah. And the other reason is I took a really winding path to get here. And I wrote books and fiction when I was young. I wrote a book when I was 15 or 16, which is still in a shoe box somewhere. Not great. And I wrote some short stories. I studied literature in college with a minor in creative writing. And then I worked as a journalist, and it broke for part of my brain that wanted to do creative writing because the day job was too similar. The newsletter has been how I've rediscovered a creative practice, and it's been a true joy in my life. That's great. The thing I find wild is people ask me about meaning and the nature of meaning if people succeed in building AI. I write a short story every week. I've written maybe 350 of them now or so, and I love it. And I'm not writing it for a publishing deal or for a book.
+
+[01:49:57.780] - Speaker 1
+I'm not writing it for other people. I'm it for joy in the creative practice. And I derive so much meaning from it. And I also derive meaning from just like, some of the stories are good. And I'll re-read them and be like, This is a good one. I'm very pleased with this.
+
+[01:50:12.360] - Speaker 2
+How do you get the ideas?
+
+[01:50:14.090] - Speaker 1
+A mixture of panic and ideation and walking. I walk very long distances by myself, no music or anything else, just trying to perceive the world and be open to the world. I also, I'm covered in post-it notes to write little ideas that come to me, little bits of speech that people say. And the ideas are all around us. And the newsletter. I read research papers every week and I play out in my head.
+
+[01:50:39.880] - Speaker 2
+You get inspired by things that you read.
+
+[01:50:41.500] - Speaker 1
+Exactly. The only way I really use language models in my creative practice is sometimes I have machines that are characters in my stories, and then I let Claude write their dialogs. Oh, great. I never tell anyone, but I feel like it's me and Claude trying to be like, Let's do stuff together. It feels authentic to you.
+
+[01:50:59.390] - Speaker 2
+Great Yeah. That's great. I love that. I love that you keep doing it.
+
+[01:51:04.690] - Speaker 1
+I think it's a form of protection as well. I think everyone in the world is better if they have some creative thing they do. And it gives you a sense of self that only you truly care about. And it makes you actually reckon with what is meaning.
+
+[01:51:22.250] - Speaker 2
+What's the purpose? Why are we here?
+
+[01:51:24.490] - Speaker 1
+I make a load of pots. Some of them are good.
+
+[01:51:28.690] - Speaker 2
+Do the stories come the week of always?
+
+[01:51:32.810] - Speaker 1
+Some of them have been there for a long time. I have one that has been there for six months that I'll write eventually. Sometimes they come the week of. I play pool as well. And sometimes when I'm having a really hard week, I go and play pool on a Sunday night at some bar in Oakland. And sometimes I'll write the whole story there.
+
+[01:51:51.880] - Speaker 2
+Playing pool, how does that impact the work?
+
+[01:51:55.800] - Speaker 1
+The main way it impacts it is, I tell this to everyone at Anthropic, it's It's really good to get hobbies that don't involve computers and ideally, sometimes involve other people. Pool's great. Yes. Lots of people that play pool don't care for technology or AI. Yeah, most. So I don't have to talk about it. We just play pool. Yeah, it's incredible.
+
+[01:52:14.450] - Speaker 2
+Do you have non-tech friends?
+
+[01:52:16.570] - Speaker 1
+Most of my friends are non-tech friends by design. I think it's a way to keep yourself extremely sane and grounded. Also, when they say to me, I don't like this stuff, I have to really listen to them because I'm very culpable to them about What is Defcon in Las Vegas? It's a hacking conference that happens every year in Las Vegas, and increasingly it intersects with AI, using it for hacking or trying to hack it.
+
+[01:52:41.870] - Speaker 2
+Is it interesting?
+
+[01:52:43.180] - Speaker 1
+I find it interesting. It's like Disneyland for cypherpunks. It's a fun place.
+
+[01:52:49.950] - Speaker 2
+How is AI different than all other computing as we know it till now?
+
+[01:52:55.010] - Speaker 1
+Ai is software that has opinions about what it should do with itself, and all other computing is a tool.
+
+[01:53:02.260] - Speaker 2
+How did you imagine AI before it existed? How is it different now?
+
+[01:53:06.180] - Speaker 1
+I imagined it would be a form of full agent. We'd have to train a synthetic life form, and then it would develop language, and then we would get general intelligence. Instead, we've trained a general synthetic language agent, and now we're trying to give it a life form in the form of an agent. So the ordering is completely the opposite of what everyone expected.
+
+[01:53:28.860] - Speaker 2
+Why do you think that Why do you think it happened that way?
+
+[01:53:32.030] - Speaker 1
+I think it's because evolution is the example. So everyone assumed we do it via evolution. But what made evolution possible is a big brain that took millions of years of pre-training, and human life and the evolution of humans is you're born with this really smart brain and you can do stuff. We were trying to train agents that never had the brain, and they had to develop the brain in the course of their life, which is actually not how the world works. What we're doing now is we've created the brain, and the next step is to create the agent that can live with it.

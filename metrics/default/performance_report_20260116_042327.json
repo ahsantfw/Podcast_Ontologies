@@ -1,0 +1,82 @@
+{
+  "summary": {
+    "total_operations": 4,
+    "total_duration": 1711.8004064559937,
+    "total_items_processed": 1566,
+    "overall_throughput": 0.9148262812030464,
+    "by_operation": {
+      "load_transcripts": {
+        "count": 1,
+        "total_duration": 0.020385026931762695,
+        "total_items": 10,
+        "avg_duration": 0.020385026931762695,
+        "avg_throughput": 490.55613384638775,
+        "min_duration": 0.020385026931762695,
+        "max_duration": 0.020385026931762695
+      },
+      "chunk_documents": {
+        "count": 1,
+        "total_duration": 0.20031523704528809,
+        "total_items": 778,
+        "avg_duration": 0.20031523704528809,
+        "avg_throughput": 3883.878288420499,
+        "min_duration": 0.20031523704528809,
+        "max_duration": 0.20031523704528809
+      },
+      "initialize_schema": {
+        "count": 1,
+        "total_duration": 5.08105993270874,
+        "total_items": 0,
+        "avg_duration": 5.08105993270874,
+        "avg_throughput": 0.0,
+        "min_duration": 5.08105993270874,
+        "max_duration": 5.08105993270874
+      },
+      "extract_kg_async": {
+        "count": 1,
+        "total_duration": 1706.4986462593079,
+        "total_items": 778,
+        "avg_duration": 1706.4986462593079,
+        "avg_throughput": 0.4559042585268951,
+        "min_duration": 1706.4986462593079,
+        "max_duration": 1706.4986462593079
+      }
+    }
+  },
+  "operations": [
+    {
+      "name": "load_transcripts",
+      "duration": 0.020385026931762695,
+      "items_processed": 10,
+      "items_per_second": 490.55613384638775,
+      "metadata": {}
+    },
+    {
+      "name": "chunk_documents",
+      "duration": 0.20031523704528809,
+      "items_processed": 778,
+      "items_per_second": 3883.878288420499,
+      "metadata": {}
+    },
+    {
+      "name": "initialize_schema",
+      "duration": 5.08105993270874,
+      "items_processed": 0,
+      "items_per_second": 0.0,
+      "metadata": {}
+    },
+    {
+      "name": "extract_kg_async",
+      "duration": 1706.4986462593079,
+      "items_processed": 778,
+      "items_per_second": 0.4559042585268951,
+      "metadata": {
+        "concepts": 542,
+        "relationships": 215,
+        "quotes": 183,
+        "max_concurrent": 12,
+        "batch_size": 10
+      }
+    }
+  ]
+}

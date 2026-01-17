@@ -1,0 +1,1223 @@
+[00:00:06.960] - Speaker 1
+Tetragrammaton. Tetragrammaton. Tetragrammaton. Tetragrammaton. Tetragrammaton. Tetragrammaton. Tetragrammaton. If you're going to have an opinion on something, you need to at least be well-educated by your own standards. You shouldn't be going out and saying, Oh, I have these strong opinions, but I've never really developed- Never looked into it. I've never looked into it. I've never gotten the information that would allow me to see if I'm really right. If I'm going to have opinions on shoes, I need a theory of feet. One of the things that struck me was in World War II, we had this problem where guys were breaking their ankles, damaging their angles, pulling their ankles, jumping out of airplanes, paratroopers, landing on their feet off of a parachute. Someone had the bright idea, Well, let's make some specialized jump boots for these guys. Let's make combat boots that really reinforce their ankles, keep you from breaking your feet. They were a huge success during the D-Day invasion. There were a lot of people who landed on their feet, didn't break their ankles because of those boots. But then something interesting happened. All these guys who, when they wore the boots, saw a decrease in injuries, all of a sudden started getting more and more injuries.
+
+[00:01:30.080] - Speaker 1
+Doing the exact same thing.
+
+[00:01:31.450] - Speaker 2
+Still landing.
+
+[00:01:32.690] - Speaker 1
+Still landing. Same case. Same case. Same boots, same people.
+
+[00:01:36.580] - Speaker 2
+It doesn't make sense.
+
+[00:01:38.410] - Speaker 1
+It turns out that a major factor was that the first time when they started using these boots, they were taking guys who had been using much more flexible shoes, normal shoes, corn-fed Iowa boys. Then they were putting these stiff boots onto those really strong feet that they had been working out. The muscles were well supported, the ligaments were well supported, their feet were healthy. As They had these guys continue to wear stiff boots all the time, their feet actually compensated. They basically got used to the support. Their arches were lost the musculature that they had built up. Exactly. All of a sudden- It weakened them. It weakened their feet. All of a sudden, it turns out the tool that made you stronger in the short term made you weaker in the long term. To me, it seems pretty obvious there's something you should do every day, and then there's just something you should do for game day for the thing where you're really pushing the limits. This is at odds with a lot of military philosophy. The army, in particular, has a new mantra, Train as you fight. The idea is that you should train wearing all of the gear that you actually fight in.
+
+[00:02:44.000] - Speaker 1
+You should train the way that you're going to fight because you wouldn't want to, for example, train in Nike trainers, and then all of a sudden you put on all this heavy gear and it turns out you can't perform. But I think that that misses the point that sometimes you should train as you train and then fight as you fight. And your training should take into account what you're going to need to do. You should be preparing for it, but you should not necessarily train every day in the thing that you use. The much shorter example of this is like a carbon-plated running shoes. You probably shouldn't run every day, and then they give you a little bit of extra boost. They return a little more energy to your step. But you probably actually should be training in shoes that challenge you more. Then you wait for game day to actually run in this stuff. I don't know. I'm not in the shoe business. Have you read Born to Run?
+
+[00:03:27.000] - Speaker 2
+Of course.
+
+[00:03:27.630] - Speaker 1
+What a great book. I just reread it recently. It's interesting because some of the science in it is no longer consensus. Is that true? It's a mix. Some of it still holds up. There's other things that we've learned since. There's also people fight about these things nonstop. It's never really settled. But yeah, Born to Run, it's an inspiring book. If people haven't read it, they should check it out. Very good narrative. It's the best book. At the end of the day, whether the science is in line with what people claim is the most modern science, the reality, there are facts in it that cannot be disputed. There are people who live in the desert who run barefoot or in absolutely minimal shoes, and they kick the ass of 99% of the runners in the United States who are using the fanciest gear that costs hundreds or even thousands of dollars. I'm like, there's something interesting there.
+
+[00:04:14.560] - Speaker 2
+Absolutely. Tell me about this Game Boy.
+
+[00:04:18.460] - Speaker 1
+That is the Mod Retrochromatic, which is the world's best reproduction of the Game Boy color. It's a project that I've been working on off and on for over 15 years. We finally shipped them to people last year. The general idea is, what would a Game Boy be if there were absolutely no limitations? Because when you're making a commercial product, particularly one that's oriented largely at children, you have to think about cost. You have to think about scalability. Can I make millions of these a month? But what if you didn't worry about those? The chromatic is the result. It has a magnesium, aluminum, alloy shell, It's extremely durable. You can run over it with a car without it denting or bending. It has a sapphire, lab-grown sapphire screen lens. Instead of just a sheet of plastic, it's actually made of the same type of sapphire you'd see on a high-end watch. But it's actually, as far as I know, the largest expanse of sapphire in any consumer product ever made. It has a one-to-one reproduction of the original Game Boy resolution screen, so 160 by 144. It was actually very hard to make displays that low-res in modern day.
+
+[00:05:30.760] - Speaker 1
+People have forgotten how to do it, but we wanted it to be a perfect reproduction. Just across the board, all these decisions, it's been a pet project of mine, probably a lot more creative than a lot of the work I typically do that's more in the function side. It's been fun to build something that's a little more because it's delightful rather than because it solves some problem. There's no problem that solves, right? No.
+
+[00:05:54.760] - Speaker 2
+Well, I didn't know anything about you, and I saw this Game Boy, and I read about the Game I thought, whoever makes this, I want to meet. This is interesting to me because someone who will go to these lengths for a passion project, that really is what creativity is about. I agree. I love it.
+
+[00:06:13.930] - Speaker 1
+When I hire people, I look for that same mentality. When people ask, Well, what projects do you want to see? Work or school? I say, Now, what I want to see is the projects that you did that you weren't paid to do, that weren't part of your government-mandated high school education. What What did you do in your own time with your own money that wouldn't have happened but for your care? Because people who create things because they want it to exist and there's nothing else making them move forward, those are the people who I like to work with the most. Anybody can get shit done when somebody's beating you over the head. But to create something because you want it shows a very special type of mentality.
+
+[00:06:54.340] - Speaker 2
+When did you first come in contact with VR?
+
+[00:06:56.620] - Speaker 1
+It's funny because Oculus actually is so deeply tied to mod retro, if you can believe it. Really? Most people know me for starting Oculus when I was a teenager, and it was a virtual reality company. I started, I was living in a camper trailer, working a minimum wage job, putting myself through school. I ended up figuring out how to make virtual reality headsets that were better and cheaper than anyone had previously figured.
+
+[00:07:20.090] - Speaker 2
+Tell me the history of virtual reality so I know. Sure.
+
+[00:07:22.720] - Speaker 1
+I mean, VR is interesting because it was one of those dead technologies. It was the future and the past. Like a Game Boy, really? A little bit, yeah.
+
+[00:07:31.320] - Speaker 2
+I mean, it was- I'm solide in this case.
+
+[00:07:34.290] - Speaker 1
+Exactly. The difference is the Game Boy achieved a huge level of success and then fell out of fashion. Virtual reality never came truly into being. It was this Technology in the '80s and '90s where conceptually people understood why it would be so cool to have great virtual reality technology. I mean, the ability to put yourself into any virtual world you could imagine, to do anything without limit. It almost sounded like waking dreams, but collaborative. These were really cool ideas. The problem is in the '80s and '90s, the people that were most excited about VR were typically the ones who hadn't actually tried VR in its current status. It was so low quality and so heavy and so bulky and so low resolution, so laggy, it would often make people sick. People who tried it would say, Oh, I see. This is a thing way off in the future. So it died. There had never been a successful one.
+
+[00:08:25.130] - Speaker 2
+When it started, when it started? When's the first iteration of it?
+
+[00:08:27.930] - Speaker 1
+The first iteration is It's debatable. There's people who fight about this. Arguably, some of the first virtual reality devices may have been head mounted displays that were integrated with robot control systems for managing nuclear waste. But the people say, well, that's not really virtual reality. It was remote controlled, but it was not actually synthetically generated by a computer. There was also something called the Sensorama, which was a machine where it reused recorded film reels and motion and wide field of view in 3D, but it wasn't computer generated. The first computer-generated VR device was created by Ivan Sutherland. It was referred to as the sword of Damocles because it was actually hung from a chain and it was actually held from a frame because your neck couldn't support the weight. It was such a heavy device. It was showing very, very basic wireframe graphics in Stereoscopic 3D.
+
+[00:09:23.230] - Speaker 2
+When was that?
+
+[00:09:24.170] - Speaker 1
+I mean, that would have been the late 1950s, early 1960s. I mean, people have been trying to do this for a long time. Nasa had a large VR development effort in the '70s through the '80s through the '90s.
+
+[00:09:36.220] - Speaker 2
+What would NASA's use for it be?
+
+[00:09:37.300] - Speaker 1
+Nasa wanted to use it for all kinds of things. They wanted to use it for training astronauts, so training them in systems that had not been built yet. Imagine, for example, putting them in a space capsule and testing different layouts or control panel configurations without having to actually build it and test it. You could iterate much faster. They were also looking at it for telepresence. There was a product called the Leep Telehead that was funded by NASA in, I believe it would have been the late '80s, early '90s. Don't quote me on it, though.
+
+[00:10:07.180] - Speaker 2
+That would have been FaceTime?
+
+[00:10:08.690] - Speaker 1
+Even crazier. The idea for the Leep Telehead was that you would put on a VR headset and a pair of data gloves, and then a head with cameras and robot arms could be 10 feet away from you, 10 miles away from you, 100 miles away from you, and you could log into it and over a wireless link, control the robot on the other end, feeling as if you are the robot. You turn your head to the right, the robot head turns to the right. You're seeing full field of view, 3D. The idea was that if you're a NASA astronaut, you could have a robot go out and do spacewalks, do repairs on the outside of a vehicle. Or imagine if you are-It's always been connected to robotics in some way. For a very long time, it was. I think because the computers were so limited that you couldn't make computer graphics that were really useful enough for VR to be all it wanted to be. A lot of the early applications were for robotics, telerobotics. Also, imagine a nuclear power plant is melting down and you need to go in and do something. Wouldn't it be great if you could send a robot to do it and you're teleoperating it through this VR system?
+
+[00:11:15.540] - Speaker 1
+It's a lot easier than doing it with keyboard, mouse, and screens because you can feel as if you're present in the environment.
+
+[00:11:21.100] - Speaker 2
+That's how a lot of surgeries are done today.
+
+[00:11:23.100] - Speaker 1
+Exactly. There's a company called Intuitive Surgical. They have the Da Vinci Surgical Apparatus. You've probably seen this. It's a remote remote surgery apparatus and magnified surgery apparatus. A guy looks into a VR device that projects onto his retina. It's a very wide field of three-dimensional view. Then he has these large controllers that track his fingers and his hands, and they have force feedback. He's making huge motions with his arms to do the surgery. Then those are minimized into a tiny little robot head with teeny tiny little stereoscopic eyes and teeny tiny little robot hand pincers. You can, for example, have a guy doing what looks like big orchestra movements, but then performing tiny micromillimeter movements, stitching together the lining of somebody's heart on the other end of this robotic link. Vr has been used for a lot of interesting robotics.
+
+[00:12:10.830] - Speaker 2
+You said project onto the retinas. Is that how it works?
+
+[00:12:14.500] - Speaker 1
+More or less. What you need to do is you have a display, and that's generating an image. People often think of VR as you take a screen and you put it right in front of your eyes. You don't want to actually focus on a screen up close. It'd be very uncomfortable. You use optics to- When you think about a page in a book, you could How do we get it so close to your face? Exactly. What the lenses in a VR display do is magnify that image, make it larger to cover more of your field of view, and then also refocus all of the photons to a different angle. Instead of the rays coming in at these convergent angles that require you to strain your eyes to focus, they're coming in as parallel rays, which allows your eyes to relax and focus in infinity.
+
+[00:12:53.130] - Speaker 2
+Was that already being developed since the 1950s? Yes.
+
+[00:12:56.200] - Speaker 1
+People discovered that principle a long time ago. What I figured out how to was make VR headsets cheaper, lighter, and better than anyone had by doing in software what most people thought had to be done in hardware. Most VR displays, up to that point, these optics I'm talking about, they had to not only magnify the image and reproject the image, they also had to, in the process, not ruin the quality of the image. If you've rendered a square, it needed to come out as a square on the other side. It couldn't be a warped, a skewed view. The problem is the types of lenses that are good at being wide field of view while also being lightweight have lots of optical distortion. Typically, VR headsets had to use many lenses per eye in a complex projection system.
+
+[00:13:43.480] - Speaker 2
+Which would make it heavy.
+
+[00:13:44.350] - Speaker 1
+Made it heavy Bulky, bulky. And expensive. Exactly. So heavy would give you neck strain. So have you needed robotic arms to hold the device and you would move it around with your hands. I figured out how to build a wide field of view, high-quality device that was lightweight because I realized something. You could describe the distortion characteristics of a lens as a mathematical function. Then you could generate an inverse function that is the opposite of those characteristics. Then I could render an image using that inverse transformation. It would basically render an image that is hugely distorted. It looks gross. You have chromatic aberration, colors separating at different frequencies. You have geometric distortion, meaning that maybe just bowed and at the corners, it's all dredged out. You would render this horrible-looking image. But then when you put it through the horrible lens, they would cancel each other out and you have a perfect image again. I realized that you could do this in real-time on a graphics card on a modern computer. This wasn't really a new idea. Nasa had actually had this idea in the '70s, but computers were nowhere remotely powerful enough to do it.
+
+[00:14:57.430] - Speaker 1
+I realized that computers had finally gotten powerful enough to make a head mounted display that only worked if you had a powerful graphics card continuously compensating for the deficiencies of the optics, rendering a distorted view that my optics would then undistort.
+
+[00:15:13.050] - Speaker 2
+What in your experience before that led you to be able to know what you just said?
+
+[00:15:17.360] - Speaker 1
+This is actually where it gets back to Mod Retro, crazily enough. Mod Retro was actually something I did before Oculus. I started it when I was 14 or 15. It was an online community for people who wanted to modify vintage game systems and computers.
+
+[00:15:31.560] - Speaker 2
+Did you create Mod Retro? I did.
+
+[00:15:32.980] - Speaker 1
+I'm the creator of Mod Retro. Cool. Well, it was me and a few of my online buddies. We never actually met in real life, but we were a bunch of online buddies, and we said, We're going to make this website. It was actually really popular at the time. We were getting millions of page views a month, back when that meant something. These days, millions of page views. There's lots of people get millions of page views, but this was in the 2000s. What we did was combine old technology with new technology. We would modify, for example, a Nintendo 64 and turn it into a handheld portable system using modern batteries, modern displays, transforming it from one thing into an adjacent thing.
+
+[00:16:10.330] - Speaker 2
+Was gaming always part of it?
+
+[00:16:11.940] - Speaker 1
+It was usually part of it. We were also like one project that someone did was modified a music player. At the time, MP3 players were relatively new, and they put one into a cassette tape. They made a cassette tape that it self-stored hundreds of songs, and it had a self-contained battery, and it looked just like a cassette tape. But you would put it into your car, and it would play songs that were MP3 files in your normal cassette tape player. It was usually gaming-Super cool idea. Super. It was super cool, especially back in the 2000s. I This was the products you could buy like that now 20 years later. But we were just a bunch of kids. We were mostly teenagers, college students, wacky nerdy guys, just building cool projects.
+
+[00:16:53.850] - Speaker 2
+I can remember in the early days, there was a cassette that you could put in that had a wire coming from it that you could plug something in when you needed that.
+
+[00:17:02.320] - Speaker 1
+That's right. At one point in time. In this case, it was cool because it was totally self-contained.
+
+[00:17:05.520] - Speaker 2
+No wire. What a great idea.
+
+[00:17:07.260] - Speaker 1
+Gaming was often involved, but it was combining modern technology and retro technology. It was over the course of Mod Retro that I got into display technology, electronics, modification. I'm a self-taught engineer.
+
+[00:17:20.760] - Speaker 2
+Were you a math guy?
+
+[00:17:21.990] - Speaker 1
+I was not super good at math, but more practical engineering. I understand. Like mechanical design, optical design. When I You said that that is your main thing, your mechanical. I would say mechanical, electrical, optical. I'd say at its core, I'm a guy who understands enough about everything to know when there's opportunities to put new things together. When I started Oculus, all the first people that I hired were actually people from Mod Retro. It was crazy. We're like a whole bunch of nerdy kids. I'll give you an example. The first person that I hired at Oculus was my friend Chris Dykus, who was one of the administrators on Mod Retro. I hit him up and asked him what he was going to be doing for the summer. He said, Oh, I'm going to be working this job until I go to college in fall. I said, No, you're not. You're going to come and we're going to build virtual reality headsets because I've just cracked the code. We're going to start this company. That was on a Friday. On that Monday, I drove to his house in my minivan, picked up him and all of his stuff from his mom's house, and he never went home.
+
+[00:18:28.730] - Speaker 1
+We went and we We went and we lived in a motel during the early days of Oculus because we didn't have an office or a house. It was pretty wild. It was totally DIY. It was totally DIY. We were the DIY spirit embodied. A bunch of DIY guys trying to turn our DIY virtual reality project into a real consumer product that would be manufactured by millions.
+
+[00:18:51.290] - Speaker 2
+Now, again, you said at this time, it was a dead technology because since the 1950s, people had tried doing it. It was always too heavy, it was always too expensive, and it was just forgotten about. Is that correct?
+
+[00:19:03.000] - Speaker 1
+It was forgotten about, except as maybe a punchline. From time to time, people make jokes about virtual reality, like the Simpsons have some joke. Like a failed technology. It was even worse than a failed technology. It was seen as a failed technology that it was the go-to example for an out-of-touch view of the future. If you wanted to paint somebody as being out of touch, you'd show them being like, Oh, yeah, virtual reality is the future, because people had heard it so many times before. It never came to fruition. It was to paint you as a nutter. Anyone who talked about VR was treated that way as just a nutty person who believed in... I mean, you might as well believe in time travel.
+
+[00:19:41.950] - Speaker 2
+Was that part of the draw or no?
+
+[00:19:44.440] - Speaker 1
+It was never part of the draw for me, exactly. At some point, I started to get pissed off enough about people treating me that way that I wanted to prove them wrong. But in the beginning, no. Nobody cared one way or the other.
+
+[00:19:56.110] - Speaker 2
+Did you just want this device?
+
+[00:19:58.370] - Speaker 1
+I was a gamer. I love video games. I was modifying all these vintage consoles, but I was also a modern PC gamer. I built this PC gaming rig. I think it would have been six monitors. I was using an AMD iFinity setup. I don't know what that is. It was their old tech for spanning multiple monitors together. Imagine a big, giant wrap-around display made of multiple screens. I had a really high-end computer driving it. As I set this up, think of it like the ultimate gaming rig that I paid for using all this money that I made working odd jobs here and there, fixing computers doing stuff. I realized, okay, this is the pinnacle of PC gaming right now in front of me. You can't get any better than this. Well, what's the next step? It was a difficult question for me because I wasn't sure. Was it going to be instead of six monitors, I had eight monitors? Or the graphics going to get ever so slightly better? That started to actually really worry me. I was like, Well, this can't be the pinnacle of it. Sure, if the next step is just more screens or bigger I mean, that's not interesting.
+
+[00:21:01.710] - Speaker 1
+I said, Well, maybe I'm thinking about this wrong. I remember this moment so clearly because it was probably one of the most important- Where were you? I was in the garage of my parents' house. We had a two-car subterráine garage with a ramp up to the street. My dad had one half of the garage for his cars and projects, and I had one half of the car. Was your dad also a do it yourself tinkerer? Do it yourself, but of the previous generation. Do it yourself like, build your own clean your own carb, not build your own virtual reality headset, but exact same mentality. I realized I shouldn't be asking what the next step is. I should be asking what the final step is. Where's all this going in the long run? Who cares about the two or three next steps along the way. Where is this going to go in a hundred years? What will gaming look like? And instantly my mind jumped to, well, of course, that's going to be virtual reality. The ability to feel like a virtual world is real. You're in the game. You're in the game. You're in the inside the game itself and that it's indistinguished from reality.
+
+[00:22:03.050] - Speaker 1
+That's obviously where this is going. From there, I said, well, I only want to work on that. I don't want to work on the intermediary steps. I don't want to have slightly better color reproduction in my displays, slightly higher resolution in the rendering engine. That was where I became obsessed with the idea.
+
+[00:22:20.680] - Speaker 2
+But what do you think were the data points leading up to that that allowed you to have that epiphany?
+
+[00:22:26.370] - Speaker 1
+Pop culture. It was pop culture only. I loved science fiction novels. I love science fiction film. I really appreciate science fiction authors and creators in general because their job is to think about what the future will look like. If you say, Well, what's the future of gaming? To someone who grew up in my generation, who grew up watching The Matrix, who grew up watching Yu-Gi-Oh, who grew up seeing all this, it was obvious. It's like, Oh, obviously, that was the future. Later, I think I was able to back that up with tactical reasons. Well, here's why the ultimate gaming display would be a VR.
+
+[00:23:00.950] - Speaker 2
+It started more just pop culture, aspirational.
+
+[00:23:05.790] - Speaker 1
+I mean, look, it's like, it's how many things have happened because science fiction depicted them? I loved Star Trek growing up, and the version of the future that I envisioned included virtual reality. It's like, well, that's where we're all going. It was very much driven by just what creative science fiction had imagined about the future.
+
+[00:23:26.460] - Speaker 2
+How old were you at this time when you had the Epiphany? I was 15.
+
+[00:23:29.570] - Speaker 1
+Fifteen? I started building my own virtual reality headsets that summer, and they were terrible. I don't- Are there mod retro guys all around 15? We were probably between the ages of 13 and 25, would be the typical range. It was mostly high school students, college students, and people who were out of college but not yet in the real world. We joked, not back then. We didn't recognize this till later, but we often talked about how Mod Retro was basically like it was the lost boys. It was a bunch of boys who hadn't yet grown up and maybe who never would. There were a few guys who never did grow up. There were these outliers, but it typically was people in school, people in college, or people who had not yet joined the workforce. Once you joined the workforce, you got suitified and transformed, and now you're taking care of a family or a house and your bills. You don't have time to just work on cool projects necessarily.
+
+[00:24:28.070] - Speaker 2
+Were you homeschooled as well?
+
+[00:24:28.910] - Speaker 1
+I was.
+
+[00:24:29.660] - Speaker 2
+Do you think that that also played into your open-mindedness?
+
+[00:24:32.750] - Speaker 1
+Absolutely. I don't think that Oculus would have existed if I had not been homeschooled. I was one of four kids. All of us were homeschooled at one point or another, but some of the kids did better in public school. Some of them did better homeschooling. I was the one who was homeschooled all the way through. It worked out really well for me. Great. I'm definitely going to be homeschooling my kids. Amazing. When people tell me, Palmer, is it important that you homeschool your kids, too? My point to them is, I don't know if it's important that I homeschool them. It's just really important to me that I not put them into the school system. Everything else comes from there. Is it homeschooling? Is it something else entirely? I don't know, but I don't want to just cram them into the hole.
+
+[00:25:16.020] - Speaker 2
+The rigid system.
+
+[00:25:17.070] - Speaker 1
+Right. I was lucky enough to be able to pursue my own interests, to spend a lot of time working on this stuff. Also, it taught me to manage my time, I think, much better than I would have otherwise. I still had to do standardized testing and keep up with a certain level of knowledge. I couldn't just do whatever I wanted. But it was nice to say, okay, I can spend... I also started doing college courses when I was 14 or 15.
+
+[00:25:39.420] - Speaker 2
+How did that happen?
+
+[00:25:40.640] - Speaker 1
+In California, high school students are allowed to attend community college courses. It's allowed, and you get to pay the normal community college rate, which is you have nothing. It's highly subsexual state.
+
+[00:25:54.090] - Speaker 2
+I imagine things that you wanted to learn.
+
+[00:25:56.660] - Speaker 1
+Things that I wanted to learn. I joined the Long Beach City College Robotics team, for example. The best part about that is that you can get high school credit and college credit at the same time. It's fully double-dipping. If I can pass a college algebra course, why shouldn't I get credit for? Why should I do AP algebra in high school? Because AP algebra gets you college credit as well. If I'm going to take the actual college course, shouldn't I also get high school credit? That's great. What's cool is if you start attending community college courses when you're a teenager, you can turn 18 having done all your general education units before you even graduate high school. Now you can just transfer to a school that's in whatever your specialty is, and you can graduate in less than two years, which is really cool.
+
+[00:26:42.240] - Speaker 2
+Really cool. I never heard anyone mention this before.
+
+[00:26:45.850] - Speaker 1
+Here's the problem. It's very, very difficult for most people to actually do this. Why? Because the law says two things. First of all, that you are last in line for all community college courses, meaning basically there's an enrollment date. Your enrollment date as a high schooler opens up a month after everybody else. The problem is most of the courses, especially the ones you want, they're already full. They're already fully enrolled. I see. I actually got extremely good at the art of persuasion because you can often petition into a course. If you show up on the day and you have the petition form, you're like, I want you to same day enroll me in this course, Professor. If you show up to a class and not everyone shows up, you often get right away. Sometimes you could work a deal with the professor and be like, Look, I know that people dropped this course. Keep auditing the class for the next week or two. Odds are enough people will drop that there will be room for you, and then I'll let you late enroll into my course. I got very, very good. I had to petition into every single course I took, every single one.
+
+[00:27:49.940] - Speaker 1
+I got very good at researching, for example, a professor who worked for my geology class. I would read papers of the professor, and then I could go and say, Oh, Professor Dine, I loved your paper on metamorphology in the San Joaquin Basin. I would so love to take your course. That's how it works. Amazing. That was the first difficulty, why you've probably not heard. People have to petition in. Kids these days don't even want to answer telephone calls because it stresses them out. Imagine telling them you need to go and you need to negotiate with a professor you've never met for each of your classes. The other reason is, I think a little more sinister, it's that You can only sign up for college courses if your principal signs up to allow it.
+
+[00:28:35.330] - Speaker 2
+Why is that?
+
+[00:28:36.240] - Speaker 1
+The reason is because the teachers unions got really concerned because people were going in saying, Why would I take my math course here? I'm going to go take it at a community college where it's better instructors, better hours. I can do night classes sometimes, and I get college and high school credits at the same time.
+
+[00:28:53.370] - Speaker 2
+That's great.
+
+[00:28:54.540] - Speaker 1
+But the problem is when you do that, then you don't take the high school course, and the school loses proportion funding. I see. What happened is the teacher unions managed to get a piece of legislation passed that says you can only take a community college course if your principal signs off for that specific course. Every time you take it, you need to get a signature from your principal saying, I agree that you will not take this course here at my school, and you will instead take it there. Most schools have a policy of saying they will only sign off if it is a course that they do not offer anything like it. For example, they might allow you to take a robotics course, but they might have a crapping robotics class, and you might have a world-class robotics team in your town, and the principal will say, Our policy is that we'll not sign off in this. This was one of the reasons it was so great for me to be homeschooled. We had our own state affidavit filed, our own homeschool plan, and my mom was my principal, so she could just sign the paperwork.
+
+[00:29:50.240] - Speaker 1
+I would show up to enroll in the class. Here's my form saying that my principal has allowed me to take this class. Amazing. I really hate this because it's one of the things like you turn 18 and all of a sudden, you don't need this anymore. I always hated growing up. There's all these things where I'm 16 years old. Why shouldn't I be able to go to the community college and sign it for a course? Why is it the state is going to tell me, No, you are not allowed to be in this class unless you happen to be in one of the districts that will sign off? Because most kids don't get to choose where they live. You could just end up in a district where your teachers just won't sign off. What does that mean? It means you're not joining the robotics team. It means you're not getting the opportunities that I did. Anyway, you can probably tell I've got beefs with the traditional education system here because I often see them holding back kids. It's heartbreaking. Any kid should be able to sign up for the robotics team. Any of them. For sure.
+
+[00:30:40.760] - Speaker 1
+But you're right, it is heartbreaking. I've had kids ask me for help with this, and my only advice to them is, you need to exit the school. How can I convince my school to let me do this? I say, You need to exit the school system. They're not going to let you do this because it would set precedent.
+
+[00:30:57.280] - Speaker 2
+Did you ever get into Battlebots?
+
+[00:30:59.110] - Speaker 1
+I loved watching watching Battlebots. Do you know it's back in Las Vegas as a permanent show? I went to see it. How cool. How was it? I haven't actually been. Me and my friends have been planning to go and see it, but we haven't actually gotten there yet. You'll love it. I mean, Battlebots, you remember Robot Wars? I never participated in that. But growing up, it inspires you. People want kids to be inspired by the right things. I think they want you to say, I was inspired by John Glenn being an astronaut, or I was inspired by Greta to save the environment. Those are acceptable things. Nobody wants to say, My kid was inspired by the violent robots fighting each other. But when you're talking about young boys, that's meeting them at their level. I have a young boy, seven months old, and he's already learned His new favorite activity, he's only seven months old, it is to take one thing in his hand and then find something else and hit it as hard as he can to make the loudest noise he can. If it doesn't make a loud noise, he'll then try something else.
+
+[00:31:59.930] - Speaker 1
+Once he discovers something that he can hit on the pan and it makes noise, he'll just do that and he says, This is fantastic. I'm just smashing these things together. People have been doing that for millions of years. I think it's good to inspire people where they are because that's how they're going to go do something else.
+
+[00:32:15.920] - Speaker 2
+Absolutely.
+
+[00:32:16.730] - Speaker 1
+I've argued with parents about this. They're like, Well, I don't really want to encourage violence. I'm like, he's not attracted to the violence. Battlebot is not about violence. It happens to take the form of a competitive, gladiatorial style It's about the machines, the engineering, the power of man's will brought to bear on the output of somebody else's mind. It's a duel of the minds camouflaged as a physical battle. I think even kids understand that, and that's why they find it so attractive. I argue with them. I said, Guys, if your kid likes battle bots, they're not going to go be a serial killer or a murderer. They're going to go on to be like an engineer. They're going to be an engineer. Exactly. For me, growing up, it wasn't battle bots. It existed when I was a kid, but it took a while to get around. But I grew up going to demolition derbies. Yeah, amazing. My dad was a car salesman, and his car dealership, the guys would build a car for the Orange County Fairs demolition Derby every year. You'd have all these car salesmen in their off hours welding on bars, souping up this car, building something.
+
+[00:33:25.330] - Speaker 1
+For me, that was a really, really fascinating thing. It's so hard to make a kid about how to calculate the failure point of a span when it's just a bridge drawn on a piece of paper. But when it's welding a cage onto a car and you know you're going to see it smashing another car just like you saw last year, all of a sudden that stuff takes on a really real meaning and you all of a sudden understand it and understand why you should care.
+
+[00:33:53.010] - Speaker 2
+When did you first get interested in the software side of things? Because I'm hearing a very physical world of A view from you.
+
+[00:34:01.100] - Speaker 1
+Here's my secret. I'm a hardware guy who took the hard knocks to finally acknowledge the value of software. I am not a software guy. I'm a quite poor programmer. I have a good understanding of software concepts, of computer science concepts, and I've obviously worked with software my whole life, but I am not the guy who does a really good job of that. I know that sounds weird, because the whole Oculus, it was basically a hardware innovation that on a software innovation. Then even with my new company, Andrel, we're an artificial intelligence company building defense products, and we have dozens of products that are all built on our AI platform. I'm not an AI programmer. I couldn't contribute meaningfully to that. But we have more people working on software than all of our dozens of hardware products combined. It turns out that that's where a lot of the value is these days, and it takes a lot of effort. These things are not easy to build. I'm a hardware guy trapped in a software Have you ever met Mark Andreessen? I have. He famously said, Software is eating the world. He was right. Now, Peter Thiel has his book, Zero to One, about bits versus atoms.
+
+[00:35:13.740] - Speaker 1
+I'm much more in the atoms side of the X specialty.
+
+[00:35:17.620] - Speaker 2
+So continue the Oculus story.
+
+[00:35:19.620] - Speaker 1
+Sure. I start this company. I hire a bunch of my- And you're 15. I started building VR headsets when I was 15. My first ones were awful. My second ones were awful. I built dozens of prototypes over the course of about four years. When I was 19 is when I built my first set of prototypes, where when I showed it to my friends, instead of making fun of me, they said, I get it now. I had a series of different breakthroughs that all culminated in a prototype. Do you remember what they were? Oh, yeah. Tell me, what was the first breakthrough? The first breakthrough was the one that I described where basically you do geometric predistortion in real-time in a shade or on a graphics card. Doing in software what everyone else had previously done in optical hardware.
+
+[00:36:03.130] - Speaker 2
+Is that how it's done in video games?
+
+[00:36:06.020] - Speaker 1
+Vr video games, yes. Basically, I had figured out how to make lenses that were very wide field of view to make you feel like you're in the game and very lightweight.
+
+[00:36:15.650] - Speaker 2
+How do you learn about lenses?
+
+[00:36:17.580] - Speaker 1
+When I decided I needed to build VR headsets, I decided I had to educate myself. We were talking about how I'm building a theory of feet. I needed to learn everything I could about optics. How do you start?
+
+[00:36:26.320] - Speaker 2
+How do you do that?
+
+[00:36:27.640] - Speaker 1
+You start by just looking the fundamental principles. You read some of the college textbook-level work. Then you want to say, Okay, I've learned the basics. I understand the concepts of reflection versus refraction. I understand the idea of compound optics. I understand the A-Sphere versus spherical optical. You learn the basics. Then you need to say, Okay, where are the people who are pushing the limits? Or who are the people even who disagree? Who are the people who are taking unconventional approaches? To do that, you need to go into published literature. You need to read academic studies.
+
+[00:36:59.040] - Speaker 2
+Would you reach out to people I often would.
+
+[00:37:01.520] - Speaker 1
+A lot of that was available online, and so I was able to get studies. Sometimes they would be available in paid databases that I didn't want to pay for. If you reach out to the authors of the study, they'll often send you a copy just because as someone who's-Yeah, you're interested. They're interested, yeah. They don't make money off of it. The database people do. Then I also started buying old virtual reality headsets. At the time, they were really cheap. There was a system, one system that I bought that originally, when it was sold to hospitals as a data visualization device, basically, pre-looking at 3D scans of stuff, they bought it for about $90,000 in the 1990s, and I bought it for less than $200. They're basically throwing this stuff away. Nobody cared about VR back then.
+
+[00:37:45.290] - Speaker 2
+No, it's garbage to anyone else. It's garbage.
+
+[00:37:48.730] - Speaker 1
+I actually, over the course of those four years, built up the world's largest collection of virtual reality devices, over 100 different devices. This is a teenager. It's so funny because now everyone holds on to that stuff. It's not even that the prices have gone up, they just don't even sell it. I actually single-handedly destroyed my hobby of collecting virtual reality gear. But I bought this stuff, and the first thing I would do when I would get it is take it apart. When you take something When you take something apart, you learn. You might not learn so much. If you took apart a VR headset, you might not learn all that much. But when you've immersed yourself in the field, it's almost like you can see what they were thinking as you take it apart. You can imagine the conversations and the trade-off. Oh, I see. The choice is made. The choice is. I see why he did this. He was trying to get that weight out from here up to here because he didn't want to have a strap over the top of the head to counterbalance it. I see what he was going for there.
+
+[00:38:44.010] - Speaker 1
+Not the choice I might have made. You could- But would you see some good ideas also? I would see good ideas as well.
+
+[00:38:50.190] - Speaker 2
+You'd see what wouldn't work and what might work.
+
+[00:38:52.290] - Speaker 1
+Many of these people, you'd see their older work. I would even buy multiple headsets. Maybe they were built by... There's a company called Olympus. They have the Olympus Olympus iTrec line. You could actually see over time the design changing, and you could say, They realized this was bad and that this was good. A lot of this was just lost knowledge. There's nobody talking about it out in the public because it all happened decades earlier, not as an academic thing.
+
+[00:39:15.480] - Speaker 2
+It didn't go anywhere.
+
+[00:39:15.980] - Speaker 1
+It didn't go anywhere, and it was commercial. It happened privately inside of these companies, didn't go anywhere. You've probably read a book about the creation of the iPhone at some point, right? Or Steve Jobs. Never? No. Well, I'll tell you, there are dozens of books Because the iPhone is a success, there's endless material. If you wonder, how did they decide to do this? You can educate yourself a lifetime over. But VR failed. All that material was forgotten. No books were written about it. Nobody did anything. One of the other things I did was track down people who had worked in the VR industry in the '90s, and I met with them. There was one group of people. They were the people who were some of the original cofounders of a company called Virtuality. It was one of the almost successful virtual reality companies. They had gone bankrupt, but they had a run of success selling virtual reality arcade machines to theme parks, casinos. They had some at Walt Disney World. I managed to track down a couple of the guys who owned the remaining assets of virtuality. I met with them in an olive garden in Kansas City, Missouri.
+
+[00:40:24.980] - Speaker 1
+I just wanted to ask them a bunch of questions. Why did you guys do this? Why was this done? Then my final question to them was, would you consider selling some of the intellectual property of virtuality to me? Because I'm looking at starting a VR company. At this point, I was 18 thinking about it. Their advice to me was to run, not walk, not just from them, but the VR industry. They said, Dude, you'll never raise money. Nobody takes it seriously. Everyone will think you're a kook. They said, The real problem with virtual reality, we've learned, is not that it will fail. It It's that it will haunt you for the rest of your life. You will be that idiot who believed in virtual reality. Everyone will think you're a cookie nutter. They said, We're lucky. We've managed to find a second career as commercial real estate broker. They escaped. They escaped, but only by hiding their past. Their advice was, run, run. I did think about that because here's two guys who have experienced it, but I was just so obsessed with it. I just couldn't get away from it. They A lot of their advice ended up being right.
+
+[00:41:31.640] - Speaker 1
+I struggled to raise money. People thought it was crazy. Peter Thiel's fund, Founder's fund, they were the first institutional investor to write a check into Oculus. They gave us $1 million before anyone else really believed in us. It was a very interesting conversation because I was talking with one of the general partners, Brian Singerman, and he's basically beating me up and saying, Well, there's never been a successful VR company in history. What makes you think that you're so special? I think their final thinking was, Okay, For Palmer to be successful, this has to not just be a successful company. He has to create a successful industry. Yeah, market. He has to create it. It'll be the first successful VR company in history. If he's right, it's because he created an entire landscape through this company. Which is difficult. It's very difficult. It almost never works. I think their final conclusion was this probably isn't going to work. But you know what? Here's a million dollars. Why not? Because venture capitalists, their business model is they're going for power law. They take risk. A few massive successes pay for a long tail of failures. I think they said, You know what?
+
+[00:42:37.930] - Speaker 1
+We've got $6 billion in our fund. We've got to invest in something. A million dollars, like one-six thousandth of our fund that we need to invest this year. It's worth that. Then, of course, I'll jump ahead to the end of the story. I ended up selling Oculus just two years later.
+
+[00:42:56.030] - Speaker 2
+Two years later.
+
+[00:42:57.500] - Speaker 1
+Well, less than two years later. It was actually exactly 18 months.
+
+[00:43:01.340] - Speaker 2
+So you get a million dollars, and 18 months later, you sold the company for what?
+
+[00:43:06.370] - Speaker 1
+$2. 3 billion dollars. It's pretty-It's unbelievable. It was the right technology at the right time. They invested because they saw my demo. I showed them my headset and they said, Holy shit, this is incredible. This is the best VR we've ever seen. Their problems weren't with me or with the tech. It was just, can VR in general even be a thing?
+
+[00:43:26.010] - Speaker 2
+The market had already rejected it.
+
+[00:43:27.730] - Speaker 1
+The market had rejected it. It's not their money. They say, Okay, well, you're going to need to raise money from other people and you'll struggle. You're going to need to convince employees to come to work for you. It's going to be a struggle. You're going to need to convince game developers to support you. That's going to be a struggle. The lack of belief wasn't even necessarily in even the tech. It's like, God, you're going to need to convince every group of the gaming and tech society to believe in this. We somehow pulled it off. You know how we pulled it off? How? Remember I said in the '80s and '90s, the people who were most excited about virtual reality were the ones who hadn't They had seen The Matrix or Lawn Mower Man, but they didn't understand how bad it was. We took the opposite approach. We had a small marketing budget. We didn't buy billboards, we didn't buy TV ads, we didn't buy social media ads. We just went to game conventions. We went to game conventions, set up a booth, set up a headset, set up a game, and said, Come try this.
+
+[00:44:22.630] - Speaker 1
+Play the game. Play the game. Put it on your head, feel like you're inside the game. Our slogan at the time was Step into the game. We had to We had our little banner in our little crappy booth, Step into the game.
+
+[00:44:33.360] - Speaker 2
+Anyone else used it for gaming before?
+
+[00:44:36.130] - Speaker 1
+People had tried to use VR for gaming, but it's just the quality. It wasn't good enough. Not even close. We were the first VR headset, I think, ever, where the people who are most excited were the ones who had tried it. That was how we got people excited. We went to the Game Developers conference, which just happened in San Francisco, 2025 version. We went to Genese. Do you still go? I don't have a reason to. Actually, that's not true. My company, Andrew, has a recruiting team there because we hire people with that skill set. But I used to go every year for Oculus, but I just can't justify. It's the same. I used to go to Japan three or four times a year because all the game developers were there. I don't have a good reason to go to Japan every year, which makes me sad. But yeah, that's how we got people to care. We showed it to them, they saw it, and then once you tried it, you understood, Oh, it's actually here. The time has come.
+
+[00:45:25.120] - Speaker 2
+Okay, now I have a controversial question. In here now, 2025, Did VR fail again?
+
+[00:45:32.760] - Speaker 1
+That is a fair question to ask, and I will take maybe the unsurprising position. Absolutely not. It has not failed. There is a narrative going around where people are like, Oh, VR has totally failed. But let's look at this in perspective. The Oculus Quest 2, the last version of the best-selling VR headset, Oculus Quest, or I guess now it's MetaQuest. They just launched the Quest 3. But the previous version that they launched a couple of years ago sold over 20 million units. I didn't know that. It outsold the Xbox. I read even these game outlets like, Oh, my God, VR is such a failure. It's outselling the Xbox. It is the third best selling game console platform in the world, this one VR is that. Also, there's PlayStation VR. Playstation VR, the first one, sold millions of units, and the second one has sold millions of units more. I would say, looking from where I started, where nobody cared, for it to go from people think it's literally a failure to it is one of the most successful console platforms in the world, and Apple has launched a headset, Meta has launched a headset, Google is now kicking off a new effort.
+
+[00:46:41.050] - Speaker 1
+It's hard for me to look at that as a failure. I understand. United States of America is only 350 million people, and they've bought 35 million VR headsets. Hard for me to look at that as a failure. Understood. But I think where the failure narrative comes from and where it's fair is the hype level that people they put out where they said, We're going to have this on a billion people. This is going to change computing. It's going to become the dominant computing platform. I still believe all those things, by the way. I believe that it will become the dominant computing platform. And not necessarily big, bulky VR headsets, but it's something like a pair of Oakleys you put on and they augment your view. Sometimes you'll be in VR, sometimes you'll be in AR, sometimes you'll have nothing. What's AR? Augmented reality. Think of VR as I've been transported to a virtual world. Augmented reality is I'm putting directions for where where I'm going in my view.
+
+[00:47:31.240] - Speaker 2
+I'm in this world, but I'm getting more information. It's like the heads-up display in your car.
+
+[00:47:34.470] - Speaker 1
+Exactly. There's this old concept called the virtuality continuum. The idea is that AR and VR are not different things. They're actually different ends of the same spectrum. One that is fully virtual and one that is fully real. Imagine I'm in the real world, and then I add one dot marker. That's a little bit here. Imagine over here, I'm in a game, but now imagine that I'm able to see my hands in the game. That's a little more augmented. Then somewhere here in the middle, imagine if we were sitting here, like we're sitting now, imagine if around us was some arbitrary vista. I don't know. What's a place you like?
+
+[00:48:10.560] - Speaker 2
+Italy.
+
+[00:48:11.250] - Speaker 1
+Italy. Suppose that we're sitting here, and it's me and you sitting, and we're in Rome. Then imagine that it turns out maybe you're sitting here and I'm sitting in my house in Newport Beach, and we feel like we're sitting in the same place and in Rome. That would be a mix of virtual content, real content.
+
+[00:48:28.430] - Speaker 2
+Do you think that's something that's coming I think it is absolutely coming.
+
+[00:48:31.900] - Speaker 1
+That's cool. I still believe it is... But the future of computing, just ask the same question again that I asked about gaming. Okay. What's the next version of this phone going to be? That's pretty easy. You're like, Oh, it's going to be higher resolution and the internet speed will be higher, and I guess maybe it'll be a little thinner. Better camera. Better camera, right, exactly. But then ask yourself, Well, what's the final version of this? What is this going to be in a hundred years? Is it still going to be a rectangular thing that I I put my... No, it's probably not. At that point, it's probably some data implant that gives you superhuman vision where you can also see in the dark so you don't run into things at night.
+
+[00:49:10.630] - Speaker 2
+Will there be a way to talk to our devices directly, mentally, without without an implant?
+
+[00:49:16.230] - Speaker 1
+Yeah. How will that work? That whole field you're talking about is typically it's either BCI, brain to computer interfaces, or HCI, human to computer interfaces. There's already very compelling technology to do this without implants. Actually, a lot of this has been developed by some of my former team members who are still at Metta. They have a device that you can wear on your arm, and people think that it just detects your muscle movements, but it's actually much more sensitive than that. You can actually send it signals using your nerve cords that it can detect that have no motion at all. You can basically learn to use it as an arbitrary data link to control things type. That's where all this stuff is going in the long run. Eventually, you'll probably wear some wristband or something.
+
+[00:50:00.990] - Speaker 2
+It'll just read your... Essentially read your mind.
+
+[00:50:03.670] - Speaker 1
+It'll essentially read your mind. It may not be reading your brain directly. To be clear, I've got this particular opinion that I haven't talked about too much, but I believe that technology has moved in the wrong direction as a result of the iPhone exclusively. What happened with the iPhone is that it was so easy to use that everyone wanted to make things that were similarly easy to use. Meaning you could hand it to somebody who, and with no training, they could puzzle it out in about one or two minutes. It was just extremely easy to become proficient. Up until then, mobile computing devices, but also a lot of normal computing devices, they required a lot of practice to use. It probably took you a while to learn how to type, right? To know how to type well.
+
+[00:50:47.720] - Speaker 2
+I still don't know how to type.
+
+[00:50:48.960] - Speaker 1
+It takes hundreds of hours of dedicated practice to become a good typist, minimum. But once you do it, it's a superhuman interface. It allows you to do it. You can type faster than you can talk, extremely Extremely accurate. It's an input and output stream. Reading is much faster than talking. And so computers up to that point had been a superhuman input device. They elevated what we could do. We could do things that were far beyond what we could do ourselves. Steve Jobs famously said, he wanted a computer to be a bicycle for the mind, to make you more efficient, faster, able to get where you needed to go with less effort. The iPhone, I think, was a detour on that. It was, we're going to just make computing really easy to use. An iPhone is not a superhuman productivity device. You can spend hundreds of hours using it and not come even close to the productivity of a person with a full-size keyboard and a full-size mouse and a full-size monitor. This has been true for applications. People stopped making video editing applications for consumers that required a lot of learning, and instead, they were to make really basic, simple ones.
+
+[00:51:46.880] - Speaker 1
+They're successful. That's what TikTok is. Tiktok is like, Sony Vega Pro collapsed into five buttons and made extremely easy to use, and that's why millions of people use it every day. But there's only so much you can do with TikTok. It limits your creativity. There are creative limitations to what you can do with an easy to use platform that has a low skill ceiling. Where I'm going with this is I'm a huge fan of technology that raises the skill ceiling for dedicated users. I'm a big fan of technology that if you're willing to put in the time, it can make you something beyond human capability. I'm finally coming back around. Human to computer interfaces, HCI or BCI my brain interfaces, I'm not excited about them for making computers easier to use. I don't mind if my BCI requires 150 hours of training to even begin to be competent. If that means that at hour 1,000, hour 5,000, I'm like a superhuman God of information control who can seamlessly convey things out of my brain and into the world with no barrier. I would train for thousands of hours.
+
+[00:52:56.780] - Speaker 2
+If we start with the idea that language isn't specific enough, if we could skip the language step.
+
+[00:53:03.870] - Speaker 1
+What people want is the Vulcan mind meld. They want to touch hands and then just the full conceptual idea, go back and forth, the emotions associated with it. I think that that's where we can get. But not if we keep using devices that cap the skill ceiling extremely low to what can be done with no training. Nobody even bothers to make devices or applications anymore unless they can be taught to somebody in a matter of 10 minutes. I think that is to the detriment of society. The best things that I know how to do, not just in tech, in- Anything. Anything in life, they're not things I was able to learn how to do in 10 minutes.
+
+[00:53:43.380] - Speaker 2
+Usually with those things that are difficult to learn, over time, you find ways to make them easier to learn as well. That's right. Just naturally.
+
+[00:53:51.500] - Speaker 1
+I mean, look at how we used to train typists on typewriters. We then invented better schemes. We invented typing programs that were much more effective. The amount of it takes to become a competent typus, for example, is an order of magnitude reduced to when we first developed that skill. I think it's also the same for surfing. Surfing used to require a lot more falling and a lot more trial and error. But as people have turned it, I don't know if it's exactly a science, but more like a science. They've seen, okay, it's a waste of time to even have people try to surf this type of condition. They're just going to fail and they don't learn from it. We've been able to basically perfect it and say, no, we can train somebody to surf now in an afternoon. That would have been unthinkable in the '60s. In the 1960s, we're just going to teach this guy to surf today. What? No, you can't do that. You have to be in the ocean for hundreds of hours. You need to be in the waves. You need to deeply learn to understand it. You need to learn to body surf.
+
+[00:54:48.060] - Speaker 1
+But now we've perfected that.
+
+[00:54:49.910] - Speaker 2
+Did you ever learn to surf growing up in Southern California?
+
+[00:54:52.230] - Speaker 1
+I did learn to surf. I grew up in Long Beach, California. I'm not saying I was ever a particularly good surfer.
+
+[00:54:57.430] - Speaker 2
+But did you enjoy it?
+
+[00:54:58.670] - Speaker 1
+I did enjoy it. The problem for me is that I was captured by technology. I was an outdoor kid until I discovered how awesome computers were, and then I became an indoor kid. I don't want to say I stopped going outside, but maintaining proficiency in surfing, it takes a certain level of investment.
+
+[00:55:18.030] - Speaker 2
+Would you say you're obsessive?
+
+[00:55:19.990] - Speaker 1
+Yes, I'm an obsessive person. Sometimes that's good and sometimes it's bad.
+
+[00:55:24.350] - Speaker 2
+If you want to accomplish something, it's really good.
+
+[00:55:27.080] - Speaker 1
+That's right.
+
+[00:55:27.770] - Speaker 2
+If you want to build something, it's what it takes.
+
+[00:55:31.150] - Speaker 1
+It is. I think some of this is like it's a creator versus consumer mentality. There's some people who are like, Oh, but I think they look at people like me and say, Oh, you're a workaholic. My point is, it's not the act of working that consumes me. It's the nature of the work itself. I enjoy it. It's engrossing, and I'm immensely satisfied by it. But there's a lot of people say, But, Palmer, you have all this money. Why do you still work? You I sold your company for billions. I would never work. You're just obsessed with making more money. I have to make... Guys, it isn't the money because I just have plenty of money.
+
+[00:56:08.990] - Speaker 2
+You like to build things.
+
+[00:56:09.950] - Speaker 1
+I love to build things. I'm not saying there's anything wrong with having a more consumer mentality. There's people that say, If I had your money, I would go retire to an island, my tie in hand. I'm like, You know what? That's actually totally reasonable. There's a whole continuum of people in the world, and just different people want different things.
+
+[00:56:30.670] - Speaker 2
+Many people who think they want that, get that, and then quickly realize, Hmm, this is empty.
+
+[00:56:36.730] - Speaker 1
+It's true. My grandpa was a pilot for United Airlines. He knew he was like me. He liked what he did. Hard charger. He was a He was a smart charger. When he retired, he got his pharmacy license. He became a pharmacist, specifically a prison pharmacist. He was basically like a sub... I know this sounds crazy, but he was basically a substitute teacher prison pharmacist. So prisons need pharmacies, right? They just do. They need people to dispense the drugs. You got to have all the right licenses. But imagine that you're a prison that has a pharmacist who needs to go on vacation. Or imagine that your pharmacist trips and falls down the stairs and needs to go to the hospital themselves for a week. Well, all of a sudden, you need a substitute. That's what my grandpa did, and he found huge meaning in that work. Then he had other friends who, your point, they were tired, and then they realized they didn't have anything to do. Then some of them went back to the and some of them just went crazy, and some of them died.
+
+[00:57:34.400] - Speaker 2
+People die early when they have no purpose.
+
+[00:57:37.070] - Speaker 1
+That's right. I think it's really important to have that purpose. There's a group chat called the B- Boys Club. It stands for Billionaire Boys Club. It's people who have sold a company for at least a billion dollars. About half of the B-boys are obsessed people like me who are now on their second or third company and just loving it. The other half are people who are are cruising the Mediterranean on their yacht. They're hanging out in Monaco watching F1. It's so fascinating that you can have such a disparity between people who... We obviously all had it in us to do it. And then I think it's when you get the money is where you find out what someone's true nature is. Because there's some people where they were doing it because they loved it, but also because they wanted that financial independence in the money. Once they had it, they had what they really were looking for, which is financial stability. And there's nothing wrong with that. My grandpa always stressed to me that financial independence is one of the best goals in life. Not being wealthy. Independence. The idea is to achieve the level of wealth that allows you to say, I don't have to work today.
+
+[00:58:46.610] - Speaker 2
+Not have a boss.
+
+[00:58:47.860] - Speaker 1
+I don't have to have a boss. If you have a boss, do this thing that your principles disagree with, to have the power to say, No, I'm independent of you. I reject what you're directing me to do, and I'm not going to do it. You can fire me. It doesn't matter. I'm perfectly fine. That was, for me, an early goal.
+
+[00:59:07.810] - Speaker 2
+Was a goal of Oculus in building the company to sell the company?
+
+[00:59:12.650] - Speaker 1
+No, it was the opposite. I honestly felt like I had- You thought you'd have it forever. It was your baby. I thought I'd have it forever. Just to be totally honest, if you start a company to sell, you start a company where there's buyers. There's lots of big laundromat companies that buy laundromats. There's lots of big tech companies that buy compression algorithms. There's lots of hardware companies that buy new display technology. There's nobody to buy a VR company. There's no market. I assumed that I was just going to be this crazy guy tilting at this windmill, and I saw a very high probability it would fail, but at least I would have got to do it. I would have gotten to, for at least a few years, work on my passion, which was trying to make the best or true reality the world's ever seen. I knew that if it did work, we would create an entire industry. If I've been creating it to sell, I would have picked something different, which feels like there's something to learn there.
+
+[01:00:11.070] - Speaker 2
+Was there any emotion involved in selling it?
+
+[01:00:16.000] - Speaker 1
+There was some emotion, but it might not be what you imagine. Usually when you sell a company, they take over your company and that's it. When Facebook bought Oculus, there were two elements of the acquisition that made it so there were no negative emotions. Or at least very few. The first is, they said, You'll be a wholly owned independent subsidiary. You'll get to make the calls. You decide what to do, you're going to get to go make this happen. I'm like, Okay, so that sounds great. That's good. The other bit, they originally offered us $1 billion. We said no, because we just weren't interested in selling. They came back and said, Okay, $2 billion. We said no, we just weren't interested in selling. Because at this point, 18 months in, when we started the company, it seemed crazy. Nobody believed in us. Eighteen months in, because we had gone to all these game conventions and showed it to everybody, everyone believed. All the top game developers were making games for our platforms. All the gamers were excited about what we were doing. So we had convinced people. But the thing that really convinced me was when Facebook came back and said, Okay, not only will we buy your company for 2 billion, in addition, we will commit to giving you a billion dollars in research and development funding minimum for the next 10 years.
+
+[01:01:30.150] - Speaker 2
+That's incredible.
+
+[01:01:31.380] - Speaker 1
+To me, I'm running the numbers. I'm like, Well, shoot. How many VR headsets do I have to sell to get a billion dollars of research development? They were willing to do this because they saw it as a long term investment in the future of computing. I mean, I would need to sell millions and millions of VR headsets at a huge profit margin, which is hard. I calculated at our margin at the time, we were making $20 a headset. I was like, shoot, I'm going to have to sell hundreds of millions of headsets to get this amount of money. It's just not going to happen. As a guy who really wanted to push the state of the art forward, that was an unimpossibly good offer. $10 billion in research and development funding to do whatever I wanted, however I wanted, which is all you wanted to do anyway. And then all of a sudden, I was going to have $10 billion to do it with instead of a few million dollars. And so that was really what motivated me. I remember really explicitly, there was an email thread after Mark had made this proposal to us, and someone said something like, Well, they say that they care about it, and they do that, but who's to really say how things will go in the future?
+
+[01:02:39.090] - Speaker 1
+I said, Look, if Mark is playing us, then he's Van Halen. Because he was masterful. It would have been like he came in with exactly the thing we wanted to hear and was just lying about it. I couldn't imagine that. It was very clear that Mark did also believe in it.
+
+[01:02:56.940] - Speaker 2
+Did you see a life for VR past gaming, or did you think gaming was the ultimate play?
+
+[01:03:03.460] - Speaker 1
+No, I knew there was a huge past gaming. Actually, before I started Oculus, I worked for about eight months in an army research lab on a program called brave mind. I don't know if you've ever heard of it. I feel like I have. Why would I have heard of it? It's based in Los Angeles at the ICT Mixed Reality Lab, which is an army affiliate research center between the US Army and the University of Southern California. It's basically the idea is to bring Hollywood-type technology and work on military problems. The brave mind program was using virtual reality exposure therapy to treat veterans with PTSD. The idea is that you could train them to mitigate their physiological responses, reduce their dependence on medication, improve their quality of life. I was working on that even before I started Oculus. I wasn't an important guy in the program. I was a lab technician, but I knew from that experience alone, VR was going to be huge beyond just gaming. I was personally most motivated by gaming, but there was another factor that made gaming the right place to start. At the time that we started the company, the only computers that were capable of running virtual reality at a high enough frame rate to make you not get sick were gaming computers, very high-end computers with high-end graphics cards.
+
+[01:04:25.970] - Speaker 1
+Who owns gaming computers? Well, gamers. Exactly. You could say, Oh, wouldn't it be great if we could make this to help relaxation or meditation experiences or virtual travel for your grandma? But your grandma doesn't own a gaming computer. All of a sudden for her, the price to buy into VR is thousands of dollars. She has to go buy a $1,500 gaming PC and all these accessories and then buy a VR headset. I see. Whereas the buy-in for a gamer is a few hundred dollars, which is a much more thing. We always knew that as technology progressed, it would become more accessible. In particular, we invested very heavily in what we called standalone VR technology. Building VR systems that had their own processing on board so they didn't need any external computer. That's what became Oculus Quest. At the time that I was fired, it was called Santa Cruz. It was the internal name of the prototype. We had just started showing it publicly, a virtual reality headset that did not need a It rendered all of its own imagery using specialized chips on the device itself. That was a crazy thing back then. But now most VR headsets are independent.
+
+[01:05:40.320] - Speaker 1
+You don't need any PC, much less a gaming PC. Lots changed since 2012.
+
+[01:05:45.590] - Speaker 2
+Getting fired was not part of the plan.
+
+[01:05:47.810] - Speaker 1
+It was not part of the plan at all.
+
+[01:05:49.950] - Speaker 2
+How did that change things for you?
+
+[01:05:51.790] - Speaker 1
+It was interesting because it had nothing to do with virtual reality. I gave $9,000 to the wrong politician to give money to if you live in San Francisco. I was immediately then put on leave. They tried to find some way, reason they could fire me. There was a whole internal investigation. Honestly, I thought they were going to find something on me because you work at a place, you're in charge of a thousand employees for three years. You assume you did something against the rules at some point. But they did a whole internal investigation and they concluded I'd never violated any Facebook policies. And so then they had to let me go for no reason at all. They was like, Well, we can't come up with a reason, but we don't want you around anymore. It was purely political. It had nothing to do with my work performance. That was very frustrating because I think it would have been a lot easier to stomach if it had been...
+
+[01:06:40.740] - Speaker 2
+If you're doing something.
+
+[01:06:42.490] - Speaker 1
+Or even if it had been something I did even at work. Even if I just rubbed someone the wrong way at work, but it wasn't. It was purely outside of work that upset them. I had already been thinking about what I would do if I weren't doing VR because I really wanted to work on something that was impactful. I had decided quite a while earlier that if I were going to ever start a new company, I wanted to work in the national security space, and I wanted to apply technology that I thought was important, like augmented reality, virtual reality, artificial intelligence. How did you pick that? Well, part of it was what I said earlier. I had worked on this army program, Bravemind, earlier, and so I knew just how bad the government was at developing technology that could really make a difference for men and women in uniform on the battlefield and off the battlefield. I know it seems hard to believe today, but if you rewind back to like 2014, '15, '16, '17, all the big tech companies were very, very much in bed with China. They all thought they were going to get into China.
+
+[01:07:54.160] - Speaker 1
+They were going to make a lot of money in China. They were making censored versions of their products for China.
+
+[01:07:58.720] - Speaker 2
+China was a manufacturing base.
+
+[01:08:00.620] - Speaker 1
+So manufacturing base for hardware companies, an investor base for all tech companies, media companies, too. Hollywood, in particular, saw them as a market. It's a growing economy, huge population. Lots of people. Lots of people. And so tech saw them the same way. They said, Maybe China is not a huge part of my business today, but I imagine that in a few years, they might be the largest part of my business. And as a result, tech companies refused to do any work with the United States military, not because they thought it was unethical to do so. It was a business decision. They said, I'm not going to work with the US military because if I do, China won't let me make money. I got really worried about this because I saw it as a very dangerous experiment that we've never run in this country. What happens if you completely divorce our most innovative American technology companies from the United States government? This has never happened in history. You've always had a very close relationship. I mean, that's where Silicon Valley came It's where microwaves came from. It's where semiconductors. It's where GPS... Exactly. This was a very recent thing, and I said, shoot, this is actually a very dangerous experiment to run because if it goes the wrong way, We're just going to be irreparably far behind.
+
+[01:09:21.430] - Speaker 1
+Dictatorships like China, Iran, Russia, who are heavily investing in technology for military applications. I've I've been thinking about this for some time. To be honest, if I had not been fired, I think I would have been happy to keep working on VR for the rest of my life. I had said so many times. But if I was not going to be allowed to work on VR, then I knew what I wanted to work on.
+
+[01:09:44.640] - Speaker 2
+Did you ever consider buying Oculus back?
+
+[01:09:47.300] - Speaker 1
+The problem that you have with that is Mark Zuckerberg truly does believe in VR and AR and just the virtuality continuum. I mean, he changed the name of to meta because he believes in the metaverse, the idea of this virtual world that exists alongside and enmeshed through the physical world. He really believes in it to the point where he believes the future of computers is that, the future of communication is That. The future of the internet and social media is That. I guess the point is when you say, Could you buy back Oculus? It's really, Could you buy Meta? I need to check right now, but I think Meta has a market cap, something like $500 billion, $600 billion. I don't have that much money. He wouldn't sell the thing that he believes is the future of the company. It's just not practical.
+
+[01:10:38.370] - Speaker 2
+Do you believe it's the future?
+
+[01:10:40.050] - Speaker 1
+I do. I think different people maybe disagree as to the timeline, but something really strange would have to happen, I think, for augmented reality and virtual reality to not be the end game. Virtual reality is interesting because it allows you to have literally any experience, any interface without physical limitation. Imagine if you said, Oh, the future is not AR, it's actually phones. Okay, but my AR would allow me to simulate any type of phone you could ever imagine, if it's good enough, which it will be. At some point, AR and VR are way indistinguishable from reality and their quality. If I can simulate literally any type of physical device, any type of user interface, any type of environment, how could it be that some small subset of that capability is going to be the thing that actually we're using? I just don't see it.
+
+[01:11:37.380] - Speaker 2
+Are we already living in a simulation?
+
+[01:11:39.580] - Speaker 1
+This is a classic question, right? Are we living in a simulation? I think that if we are, there's insufficient data to determine it one way or the other so far. There's lots of very interesting thought experiments. One of the ones that I've always liked, it's not based on data, it's more of a logic puzzle based on probability. It's, okay, do you believe that VR can ever become, for an individual person, indistinguishable from reality? Some people don't believe it. I, knowing the tech, I just can't imagine a world where it's impossible. It will happen at some point. Maybe it'll take 10 years, maybe it'll take 100. Surely a thousand years from now, we'll have figured that shit out if we're still around. If you believe that, then the next obvious question is, well, if you are sure that we can build VR that is indistinguishable, what are the odds that you're living in a base level reality right now? If it's possible in the future, wouldn't it have been possible? If you're in a simulation, wouldn't it have been possible in the past? What are really the odds? Because imagine a world where we build perfect simulation, we all live in a giant simulation, or maybe just one person is.
+
+[01:12:45.080] - Speaker 1
+Maybe everyone is our personal simulation. Then imagine in that simulation, there's a simulation. In that level, there's a simulation. If you believe that perfect VR is possible, how likely is it that you're in the base level reality? It's hard to argue with that one, but there's no data to really support it. Of course, there's one conclusion you could take away from that, which is that we will not be able to build VR technologies in the distribution. You're familiar with the idea of the great filter? Mm-mm. Oh, there's this concept, the great It's a great filter. Basically, there's this problem. If life is random and if life can spring to life randomly, why is the universe not full of life?
+
+[01:13:26.710] - Speaker 2
+Why is the-We don't know that.
+
+[01:13:28.730] - Speaker 1
+We don't know that it's not of life at some kind. But why is it not full of life like ours? I mean, we make a lot of radio waves. They travel out of the universe. If there were intelligent life all over the galaxy, there should be just a huge amount of background, radiation. We should be able to detect something. The great filter is the question, what is stopping that from happening? What is the thing that's stopping there from being intelligent life radiating signals all over the galaxy? There's many theories. One theory is that species SCEs typically don't develop. Maybe there is life all over the universe, but it usually doesn't develop to the point where they have radio waves. Another is that once you- Why would radio waves be the thing?
+
+[01:14:11.650] - Speaker 2
+It's like, maybe that's our thing, but that doesn't mean it's their thing.
+
+[01:14:14.770] - Speaker 1
+It could, and that's part of it, it could be that most...
+
+[01:14:18.660] - Speaker 2
+Maybe they use- Maybe we don't have the receivers that pick up whatever their thing is.
+
+[01:14:22.130] - Speaker 1
+These are questions that go into the great filter. One of the theories is that they're communicating in some extra dimensional level. Maybe we've spent way too long muddling about with radio, and normally they go straight up to like, psychic telepathic multidimensional communication, and we're tuning in on the wrong dial. That is one of the great filter theories. Another theory is that any civilization that invents nuclear weapons extinks itself very quickly. Maybe there are briefly pockets here and there, but we don't see it everywhere because they all just wipe themselves out. One of the other theories is actually virtual reality. It's that eventually they develop sufficiently and they all just plug themselves into VR and they don't bother emanating radio waves or exploring the galaxy. They're just insular and in their own planet. It's one of the things there's a lot of theories for why this might be. But we don't know. There's not enough data. You can only really spect it. I see a lot of similarities between the, are we in a simulation question? And why don't we in detect intelligent life? Is it because there is no intelligent life? Oh, here's another one you might like.
+
+[01:15:30.310] - Speaker 1
+One of the theories is that societies that develop quickly realize that maybe it's not a smart idea to radiate in the space because you're announcing to everybody, Here I am. I'm a threat. I'm a developing society that might come for you and your resources. It could be that everybody who emits radio waves just gets whacked out of existence by extraterrestrial powers who don't want any competition.
+
+[01:15:56.370] - Speaker 2
+That's what most of the 1950s movies, Sci-Fi movies are. That's the story.
+
+[01:16:01.380] - Speaker 1
+There are some pretty smart people who look at things like our search for extraterrestrials where we're listening, but also broadcasting, and they're saying, This is the dumbest thing ever. Because anyone that could get to us, Anyone who has the technology to get to us, probably not going to be good news for humanity. Of course, we want to believe that they're going to be advanced in morality and that they're going... But the problem is our version of morality is uniquely human. It's not even a matter of... It might not be a matter of morality to them. It might be that we are like ants to them. What if that's really the level that they see us on? It's not even immoral for them to just wipe us out. One of the great filter explanations is that we are living in a simulation, and that that's actually why we don't detect anything. It's all just a simulation. Why would you simulate endless civilizations out there if you don't need to?
+
+[01:16:56.800] - Speaker 2
+Will there be a time when the virtual reality experience can happen without wearing a device, like a communal location where everybody gets to beam to another place?
+
+[01:17:11.530] - Speaker 1
+The technology to do that is certainly physically possible. There's even systems that can do this to a certain degree today. What it comes down to, though, is that most of the schemes to do so aren't as good as just wearing a pair of glasses. Remember, it doesn't need to be a big pair of Even being able to wear a pair of Oakleys is a huge step over trying to do it without them. There's a few ways to do this. One of the science fiction favorites is go straight to the brain. You pipe all the information right into the brain. The problem is the parts of the brain where we do that type of visual processing are very tight clusters. It's actually very hard to stimulate individual neurons inside of it from the outside. It's hard even with implants to do it. They're so tightly clustered that really they only want to talk to each other. It's very hard to activate individual neurons without activating the ones that are around them. Effectively, it's a resolution problem. The matter is so dense. It almost be like saying, do you see that giant huge pile of salt over there?
+
+[01:18:17.860] - Speaker 1
+I want you to reach in and grab the one in the middle, but you can't disturb any of the others. It's a very difficult problem. I understand. For that reason, I'm generally a fan of VR schemes beams that don't go straight to the brain. They just clip on the end of our peripheral nervous system. So our hearing, our sight, our touch. And then if you're going to do that, I've got to get light into my eyes somehow. And there's some really wild schemes. I've heard people say, well, you could use focused X-ray beams to activate rods and cones on your retina. And you could have everyone could be walking around and you have an X-ray beam firing at everybody, drawing images on their eyes. But then it's like, well, but then why wouldn't you just put the X-ray projector on a pair of glasses or just put a display projector and just project photons into their eyes just like the real world does? It turns out what we have is already really good. It's probably best to just copy that. You build a system.
+
+[01:19:14.370] - Speaker 2
+Is there a way to have the glasses without glass where it's projecting onto your eyes but from locally?
+
+[01:19:20.750] - Speaker 1
+You mean like, so you're preparing a pair of glasses.
+
+[01:19:22.390] - Speaker 2
+But they don't have any lenses. No lens?
+
+[01:19:25.140] - Speaker 1
+Yeah.
+
+[01:19:25.630] - Speaker 2
+It's projecting at you instead of reflecting.
+
+[01:19:29.770] - Speaker 1
+So So you can make transparent lenses. That is something you can do. So I can make a thing where I'm wearing transparent lenses that are still projecting it.
+
+[01:19:38.280] - Speaker 2
+Is it projecting into your eyes or is it a screen that your eyes are focused on?
+
+[01:19:42.310] - Speaker 1
+It depends on the display technology. If you're using... There's something called a virtual retinal display where it basically usually uses a scanning laser, like what you're talking about, coming off of a thing that's on glasses, and there's no display in the whole thing. It's just basically painting an image through your lens onto the retina. You know an old CRT TV? It goes, imagine a laser that paints an image like a CRT does onto your retina.
+
+[01:20:06.480] - Speaker 2
+Why would the glass be necessary for that?
+
+[01:20:08.350] - Speaker 1
+The problem for it is that if you want a wide field of view and you want to be able to rotate your eyes, it needs to be able to paint it from any angle. Imagine this. Imagine I made something where it shoots in from here and I don't have any lens. But what if I rotate my eye over here? Now I need light to be coming in from this angle. I can't shoot light from here that comes into an eye that is pointing over this way. Whatever your scheme of projecting the ray in needs to physically cover the angle at which your eye can rotate and look in any direction, more or less. There's ways you could get around that. For example, the X-ray beam thing I told you, that doesn't need to go through your eyes lens. That could go through your head and focus on your eye. That's crazy shit. Nobody's ever done this. It's a thought experiment. Another one is people have proposed what they call light field displays that create projections of light that are correct from all angles. There's been a theory where you could make a room where all of the walls are light field displays.
+
+[01:21:13.780] - Speaker 1
+Basically, imagine a world where if I'm looking this way and I look this way, the wall over here is now projecting the light field into my eye. You could have a full light field room. You could do that, but there's actually things that a light field room can't do for you.
+
+[01:21:27.810] - Speaker 2
+Is the sphere like that, the light field room idea?
+
+[01:21:31.880] - Speaker 1
+It is a little bit like that. Now, it's a little different in that it's not 3D or capable of doing things up close to you. But yeah, you're right. It surrounds you. It surrounds you. But here's the thing the sphere can't do. What if I'm playing a game and I want to be holding a sword. Sphere can't do it. It can't draw an image of a thing attached to my hand. Let's say that I just wanted to be... I imagine I'm a night. I want to be wearing gauntlets. The sphere can't wrap virtual imagery of a night's gauntlets around my hand. Whereas if I'm wearing glasses, I can absolutely do that. In fact, there's things that do it today. There's just limitations. If you really want pure VR, the best way to do it, I know everyone wants to get away from glasses, but at some point-It's still the best way. Exactly. It's not that you couldn't do it. It's with all the trades, glasses are going to end up being the best way. I think they'll be very slim glasses. You could also... There's a company, several companies actually making augmented reality, inventory contact lenses, where you can have a contact lens that flips on and off.
+
+[01:22:28.550] - Speaker 1
+That's interesting. There's another Another whole area, which is companies working on implants for your eyes, they're focused right now on blind people. Imagine people who have some severe form of macular degeneration. There are ways where they can implant a display in their eye, and then it's hooked up to a camera and it gives them their sight back. Of course, once you build this, it's also a VR system. You could pipe in a view that is not from a camera, but rather rendered by a computer. So I think probably for the next couple of decades, at least, implants are going to be for blind people. But who knows? Maybe we'll be getting implant someday.
+
+[01:23:07.790] - Speaker 2
+Who is John Carmack?
+
+[01:23:10.000] - Speaker 1
+John Carmack, one of the smartest people in the entire world, He is a genius who deeply understands the nature of hardware and software and how they work together in tandem. He's the father of modern gaming. He created Boom, he created Quake, he created the modern 3D game engine, the modern first for sure. He's the guy who basically made the foundations of the game industry as we know it today, and not just created like he had the idea, like he personally coded it, and then was at the top of his game for decades after that. That's probably what he's best known for. These days, he's working on AGI, Artificial General Intelligence. The idea of building an AI that can self-lear, it's super intelligent, It applies to anything. It can do anything. It's not specialized. He's been working on that for a few years now. But in between those two things, we actually work together. Back when he was still working on video games, he actually found out about my Oculus Rift prototype, reading about it online, and asked if I would lend it to him. I lent him one of my prototypes, and he had been trying VR stuff for years.
+
+[01:24:23.870] - Speaker 1
+He immediately went online and said, This is the best virtual reality headset the world has ever seen. This is by far the most impressive system that has ever been conceived.
+
+[01:24:33.040] - Speaker 2
+Was that before you sold and before you- This was right as I was starting the company.
+
+[01:24:38.780] - Speaker 1
+So I was 19 years old at the time. His endorsement was a huge deal. In fact, him saying that caused me to caused Sony to approach me and offer to buy me out, hire me, and let me run a virtual reality research lab in Santa Monica. They said, We will put you, this 19-year-old kid, in charge of Sony, PlayStation's virtual reality research division. That's how good it was. And he had showed it to them. So he had this prototype.
+
+[01:25:03.780] - Speaker 2
+Do you think Sony would have fired you, too?
+
+[01:25:06.360] - Speaker 1
+So this is interesting because I don't think they would have fired me for several reasons. This is a fun hypothetical to explore. So first of all, Japanese companies much less prone to firing people. They instead will take away your work duties. They'll assign you to sit at a desk and do meaningless busy work. They basically try to get you to quit by making your job just really, But not awful like they'll scream at you. Just you sit at a desk and do nothing, and eventually you'll tap out. That's the Japanese way. That's one reason they wouldn't have fired me. But the other reason is at the time, all of the 3D and VR R&D work was being funded out of the budget for the Sony Liverpool office. In the UK, they had an office focused on high frame rate, 3D, 3D rendering technology. This was the team that made, for example, the PlayStation 3D monitor. They were the entity in Sony that was doing all the programming to add 3D TV compatibility to PlayStation 3 and PlayStation 4 games. So it was That was what was funding all their 3D and VR efforts. If you can believe it, they offered me this job in, I guess it would have been July of 2012.
+
+[01:26:27.980] - Speaker 1
+I thought about it. I actually turned them down, and then they doubled their offer to me in terms of compensation, and I turned them down again. Then less than a month later, Sony Liverpool was shut down by Sony Corporate. Wow. If I would have done it, it actually... It's I wouldn't have gotten to the point where I would have been fired. I would have been laid off because what they wanted to do was not just hire me. They wanted to acquire all my technology. Imagine a world where they acquire my technology and then just do, before we're able to prove it, before we're able to get it anywhere, Shut it down. Yep, shut it down. It was just a decision by Sony Corporate in Tokyo. The 3D stuff is not really making enough money. Shut it down. We've given them enough shots. There's a world where all my tech was trapped in Sony. They bought all the rights, and then I was never able to use it again.
+
+[01:27:15.700] - Speaker 2
+How do you think the world would be different if you weren't fired from Facebook?
+
+[01:27:20.550] - Speaker 1
+Oh, man. I mean, I probably am no different than anyone who's been fired in thinking that they Things would be better off if they had. I'd be doing things. If I was still there, the things would be a lot different. But I'll tell you what I believe. I think a lot more VR headsets would have been sold. I think the market would be a lot healthier. I think and more self-sustaining. I think that I would have focused less on the audience that I hoped to have in the distant future, which is like the mom doing virtual travel to Rome, the grandma doing virtual cooking lessons. I would have focused a lot less on that audience and a lot more on the... I would have doubled and tripled down on the audience that did exist, which was gamers.
+
+[01:28:08.780] - Speaker 2
+Yeah, get all of them.
+
+[01:28:10.610] - Speaker 1
+Get everybody. Instead of outselling Xbox, outsell everything. Be the dominant thing because how am I going to get to a billion ordinary people who have a very high bar for them to spend their money? It needs to be very high quality. It needs to be something they need in their lives, something they would rather buy this than that. Vr just isn't there for the average person. They are better off spending their money probably on something different. A gamer, on the other hand, his options outside of VR, get back to that story I told earlier.
+
+[01:28:44.080] - Speaker 2
+You have a What are you going to get?
+
+[01:28:46.040] - Speaker 1
+A bigger screen, bigger resolution. That's it. That's what your future is going to be. I would have focused very much on capturing the audience because it's also a matter of how much you spend. There's something called the CAC in lots of industries, but including the The tech industry. Customer acquisition cost. What's your CAC? And your CAC can be driven by marketing spend, so TV ads, social media ads. It can be driven by going out and paying celebrities to use stuff that then turns into people want to buy. But you blend all of your costs together and divide it by the number of people that you attracted. That's your CAC. How many dollars per person did it take to attract that customer? And when you're trying to attract people who barely need your thing, you might spend hundreds of dollars convincing each person. But when you have somebody who already really wants what you're doing, your CAC might be a dollar or nothing. Anyway, I just feel like there's a lot of the... Right before I left, there was something I said about our marketing efforts, and this was I had already been... I was being fired, but they hadn't quite deactivated my badge yet.
+
+[01:29:51.010] - Speaker 1
+One of the last things I said to the marketing team was, You need to get some people in this room who drink Mountain Dew, not Starbucks, because there's way too much Starbucks here and not nearly enough Mountain Dew. I don't even have to explain it. Anyone can hear that and be like, I understand exactly what that means.
+
+[01:30:09.170] - Speaker 2
+Did you grow up drinking Mountain Dew?
+
+[01:30:10.720] - Speaker 1
+I did, of course. I'm a gamer. Gamers drink Mountain Dew. What was your order at Jack in the Box? My favorite Jack in the Box item was, unfortunately, discontinued a long time ago. It was the turkey, bacon, cheddar, melted sandwich. It was so good. You had crispy bacon, a ton of cheddar cheese, and then a ton of smoked turkey on sourdough bread. Then they would griddle, and it had this Chipotle mayonnaise sauce, too. It was really great. They don't make that anymore. The sourdough steak melt was my second favorite thing. Also discontinued, if you can believe. I don't get what it is, but I really love Jack in the Box egg rolls, the pork egg rolls. Have you ever had those? I never had those. You should try. It's actually legitimately competitive with egg rolls you would get in a really great Chinese restaurant. In many cases, I think even better. They're deep fried, so that helps. But you probably looked up Jack in the Box. One of my favorite-I grew up eating Jack in the Box as well.
+
+[01:31:17.170] - Speaker 2
+When I heard that you ate Jack in the Box, I was like, Okay, we grew up in a similar environment.
+
+[01:31:20.990] - Speaker 1
+I grew up in Long Beach, California. The Jack in the Box was the place where all the delinquents hang out. The kids smoking weed. It was not the good part of town. But I loved Jack in the Box. When I was living in a trailer, I ate a lot of Jack in the Box because I know it sounds crazy today when fast food is so expensive, but back in the 2000s and early '20s, fast food was cheap. Super cheap. It was legitimately cheaper than buying groceries. I ran the numbers because I was trying to get by. One of the coolest things that happened to me as a teenager, it felt to me like I had won the lottery. Jack in the Box used to have a loyal customer program, and managers could hand out these little cards purely at their discretion to any customer they wanted, typically loyal customers who came in a lot. It gave you 10% off of your order at Jack in the Box, any order, 10% off your order, and it could be combined with all other promotions. If you had to buy one, get one free, 10% off that one that you're buying.
+
+[01:32:25.370] - Speaker 1
+If you had one where it was, Oh, it's not a $5 combo, it's a $3 combo, you still get 10% off. I got one of those cards, and it felt like I had won the lottery. Every time I'd go in, I'd roll in with my card, flip it out. Oh, yeah. I'm a loyal customer here. Unfortunately, they discontinued that program. By the time they discontinued, it didn't matter. But by the time they discontinued it, I was already a billionaire. But I got to tell you- For emotional, you were connected to it.
+
+[01:32:56.730] - Speaker 2
+You were in the club.
+
+[01:32:58.220] - Speaker 1
+I was in the club. I I forget. What was the valued customers program? It was something like that. I'll have to dig it. I still have the car. They didn't take it away from me. But I'm hoping that fast food actually comes back around to being cheap. It has a lot of things going for it. First of all, the portion sizes tend to be smaller, whereas olive garden, a lot of food gets plated but not eaten. So fast food, there tends to not be much food waste on the consumer side, but also not much food waste in the kitchen. They don't have spoiled stuff that they're throwing out because they go so much volume and they have such a continuous supply chain. They call it just in time delivery, jit. Basically, things get delivered, ideally, just as they need them. They don't have tons of stuff just sitting on a shelf that might go bad. Their food waste is very low. Which then brings their food cost way down. Their utilization of their energy is very high. When you make something in your oven, you're heating up that whole oven to make one thing, and then it cools down.
+
+[01:33:57.720] - Speaker 1
+When a fast food place or a Imagine, imagine if you were going to fry something, you're going to heat up a whole vat of oil, probably to deep fry a few things. There, that same heat energy now gets put into everything. It keeps going, and it's very high utility. The energy costs, the food prices, the waste, it's actually much less at fast food. I'm actually pretty bullish that if we can get the right dynamics going in our country.
+
+[01:34:23.950] - Speaker 2
+We can get healthier ingredients in them.
+
+[01:34:25.420] - Speaker 1
+Healthier ingredients. Then I think the big game changer is going to be autonomous food delivery. Right now, delivery food costs a lot because you're paying for a guy to drive a car around, and it's a whole ass multi-ton vehicle to bring you a burrito. That's crazy. When you start seeing this automated drone delivery stuff actually take off, the energy cost of the delivery goes down by literally 100 times. The price of the delivery can go down by literally 100 times. Imagine a world where for me to build a burger, I have to go buy beef, some of which has expired at the grocery store. That's packed into the price of the cost, some of which I might not use. That's got to be factored into the cost. I've got to buy all these condiments, and I've got to carry those. Eventually, some will go bad. They're buying in bulk. I think within a few years with autonomous food delivery, we might be able to have healthier, better food made fresh, fast food style delivered to your door, cheaper than you'd be able to make it yourself. This is one of my wacky future predictions is in the future, kitchens will be strictly for rich people.
+
+[01:35:30.100] - Speaker 1
+You will not dedicate a huge chunk of your apartment or house to having a huge kitchen to prepare things.
+
+[01:35:37.840] - Speaker 2
+This food will just be available.
+
+[01:35:39.250] - Speaker 1
+Yeah, exactly. You'll be able to get it whenever you want it immediately at a very high level of quality, basically on demand. The only people who have kitchens, it'll be like people who have, I don't know, what's an indulgent rich person thing? Like stereotypical- A record player. A record, exactly. Turn table. It's the person who enjoys the process. They're not They're not trying to listen to music. They're trying to engage in the hobby specifically of playing vinyl records. They do the same thing. If you're trying to eat, food will come to you from the robot where they'll shoot the burrito missile into your yard. If you want to cook, that will be a thing that you do, and it'll still be a thing. But I don't know. It's a little dystopian, but it seems likely that that's where it's all going.
+
+[01:36:22.940] - Speaker 2
+What's the first thing you ever remember building?
+
+[01:36:25.660] - Speaker 1
+It depends on your definition of building. But the first thing I remember is a thing I made was I had realized at some point in working with my dad on cars that shorting battery terminals was bad. You have your short- Spark. Spark. Then if you have something that hits the terminal and welds itself, it'll get really hot and you could start a fire. I realized to myself, Oh, my God, I could take this principle and I could use it to build a lighter that is purely electric. What I did is I took a paper clip and I bent it in a wacky, weird way around the negative terminal of a nine-volt battery, just a little one, and I bent it so that you could push down on the bent other end, touch the positive terminal, and then it would make the paper clip. It was a very thin paper clip, very, very hot. But of course, that will burn your finger. I added a blob of probably J. B. Weld, some … What is that? J. B. Weld is an apoxy that's often used for automotive parts. It's high temperature resistant. I see.
+
+[01:37:36.700] - Speaker 2
+I took a little J. Weld. What your finger was touching wouldn't get hot.
+
+[01:37:38.770] - Speaker 1
+Exactly. It worked? I put part of a clothes pin on top of it so that it was wood insulated, glued to the metal and I could touch it down. It would make the metal very hot and you could touch it to things and light them on fire. It worked. That was the first thing I ever made that I conceived of myself. I'd done like things. That's really cool. I did like little kits like, Oh, I put together the balsa wood airplane with the rubber band. That was the first thing I wear. I came up with it myself. Is it these rockets? I did all of that. I went to Rocket Camp, but that electric lighter was the first thing I ever built myself. I think I probably would have been six or seven years old. I don't know. I think that's pretty sharp for a six-year-old to come up with. Super cool. One of the other things I built early on was a... It was a stun glove. It was a glove that you wore that had two spring loaded pins on the punching face. Then I wired those with really, really horrible nine year old soldering to a capacitor that was charged up by a disposable camera.
+
+[01:38:37.290] - Speaker 1
+Basically, I took a photo flash capacitor, used a disposable camera circuit to charge it up from a little AA battery, and so it would charge it up. If you touched both terminals to your skin, it would give you a massive electric shock. Knowing what I do today, it was ridiculously dangerous because it was 330 volt photo flash capacitor. Massive amps are what kills you. Volts are what hurts, amps are what kill. Wow. Tazers are like millions of volts, but tiny amperage because amperage is what kills you. They want very low amps. It wasn't until years later that I truly-Understood how dangerous it was. It was extremely If I ever would have touched one terminal to this side of my body and the other to the other and caused it to flow across my heart, extremely high chance it would have stopped my heart because amps kill. Your heart can be disrupted quite easily there. But I didn't I was nine years old. I still have that glove. I've got a whole bunch of my wacky inventions from when I was a kid. So cool.
+
+[01:39:37.010] - Speaker 2
+Okay, so the Game Boy is an old game that you modded and made new. If you were to make a game from scratch with no reference to the past, what would that game be?
+
+[01:39:48.560] - Speaker 1
+A game from scratch with no reference to the past, something totally new. Totally new.
+
+[01:39:53.690] - Speaker 2
+You could make the game of your dream. What would it be?
+
+[01:39:58.120] - Speaker 1
+I had this of a game where severe consequences for playing it incorrectly, by whatever you define incorrectly as, are an inherent part of the experience.
+
+[01:40:13.600] - Speaker 2
+You're talking about repercussions.
+
+[01:40:14.940] - Speaker 1
+Repercussions. Yeah, exactly. Because in the real world, what you do has severe repercussions. You can't just do whatever you want. I know in a game, well, I want to do whatever I want. Well, sometimes constraints are what makes something interesting. Imagine this. The original idea that I had was, what if you made a game where when you die in the game, it destroys the VR headset that you're playing with, and you can never use it again?
+
+[01:40:38.030] - Speaker 2
+It's almost like a version of Russian roulette, but not as deadly.
+
+[01:40:42.120] - Speaker 1
+The idea would be, rather than being based totally on chance, it would be based on your decisions. Imagine an MMO-RPG. I don't know what that is. A massively multi-player online role-playing game like World of Warcraft. You have some concept of World of Warcraft in your mind, like Dungeons and Dragons, but it's on the internet. Not really. Have you ever played Dungeons and Dragons?
+
+[01:40:59.550] - Speaker 2
+No, I'm You're missing out.
+
+[01:41:01.580] - Speaker 1
+I play Dungeons of Dragons every week. Really? Oh, yeah. I play as a will.
+
+[01:41:05.230] - Speaker 2
+Have you played it for many years every week?
+
+[01:41:07.000] - Speaker 1
+For many years with the same group of people. That's great. We all get together. I'm a wizard named Nilrum Five, who's from Atlantis, and he's trying to find where Atlantis went and bring it back. That's his backstory.
+
+[01:41:17.780] - Speaker 2
+You didn't give him that backstory.
+
+[01:41:19.260] - Speaker 1
+No, I did. No, he's my character. I created it. He's Nilrum Five because he's actually one of at least six Wizards that are all identical clones of one another who have totally different personalities, but he's one particular Wizard of the bunch. There might be more, but he only knows of six, and he's the fifth. Anyway.
+
+[01:41:41.010] - Speaker 2
+No. Is it only fun or is there more? Do you get something from it besides entertainment?
+
+[01:41:46.590] - Speaker 1
+Oh, I think so. Kids get something out of smashing blocks together, and I think adults get something out of being creative and playing pretend. That's not how people usually frame it, but that's what you're doing. There's They're creative thinking, thinking on the fly. It's using different muscles than you use in your everyday life. You run a business, you don't get to exercise those same muscles. Anyway, you've been to a Renaissance Festival. I had. All right. Imagine a Renaissance Festival, but it's on the internet and it's in VR. Anyone, your live-action role-playing as knights and rogues and wizards and whatnot. Imagine a a game like that today? How do you think people behave in it? Well, they act nothing like they would act in the real world. They engage it extremely-Play a character. They play a character. Also, people, they don't think about what they do because if their character dies in the game, you'll just spawn, you're back, and you're playing the game again. My thought was, well, how would people act if you had one life? It's a game with one life. You'd probably act very differently. For example, you would probably be more likely to collaborate with other players.
+
+[01:42:59.070] - Speaker 1
+You'd be more likely to say, let's all get together to go on this dangerous quest because any one of us does it, that's it. We're going to lose and we get locked out of the game forever. Let's say towns were safe places where you're not likely to get killed. You would really think twice about leaving town. You're like, okay, before I leave town, I'm not just going to wing it. I'm not going to go, oh, let me go see. Let me try to kill the dragon. If I die, I'll just respond and go try buying different potions. No, I'm not going to plan this out. I'm going to really, really give this my all. My thought was that it would force a totally different type of thinking that most games just don't force you to engage in. It would be more like real life, regardless of the quality of the graphics or the fidelity of the simulation.
+
+[01:43:46.050] - Speaker 2
+It's a reality of a different kind.
+
+[01:43:48.010] - Speaker 1
+Exactly. Where there's consequences for your action. Also, you play in games, there's lots of people who are griefers. They're just out to ruin the fun of everybody else. They just go out and they kill people. It's really easy to do that when there's no consequences. Like, Oh, sure. They might kill you instead, but you respond and you do it again. But what if all the griefers said, No, no. Getting into a fight with another character for no reason? Fifty, fifty shot. I'm the guy who loses and I'm locked out of the game forever. That's the background. You can see where this is going. I want to build a game. The original idea was-Very interesting idea. The original idea was a headset. Then there's a more extreme version. What if you tied it to something that was even more valuable than a headset? Because you could just buy another headset. Here's my crazy idea. What if it was a game where when you log in, part of it is you have to give it the passwords to all your social media accounts. If you die, it wipes out your entire digital persona. It's a full digital death.
+
+[01:44:41.340] - Speaker 2
+That's great.
+
+[01:44:42.860] - Speaker 1
+Wouldn't that really raise the stakes? That's great. The first moment you're in that game, you look around, you're like, Okay, I am on my game. You see a threat, it's not like, Oh, it's just some thing. Okay, I'll go over and fight it. You're like, Oh, shit. That thing's coming I'm going to run away because I don't want everything to fall apart as a result. The problem is, of course, I love this idea of this game. Who would actually play it? I don't know. I don't know if you know this, but I actually took this to its extreme at one point. I built a virtual reality headset as an art project that actually kills you if you die in the game. You actually die when the game over screen comes up. It blows up your head. I made it as an art piece to illustrate the... Because I've been fascinated idea of games that are more realistic with realistic consequences. That would be the ultimate version, right? Now you're really going to want to make sure you don't.
+
+[01:45:38.830] - Speaker 2
+I want to make the argument for the benefit of this game in society, which is In the shooter games, it's the opposite of protecting yourself. It's like life is cheap in a shooter game.
+
+[01:45:52.380] - Speaker 1
+That's right. Life is very cheap.
+
+[01:45:54.730] - Speaker 2
+If you spend a lot of time in a shooter game repeating over and over the fact that life is cheap, it's not such a stretch that when you get into the real world, the idea that life's a little more cheap than it was before you started playing the game. Sure.
+
+[01:46:09.740] - Speaker 1
+A game where violence has... It's not so you say there's no violence in it. I want to go out on my fantasy adventure and slay Dragons, but I like the idea that even in a collaborative environment, your life and the life of the people you're with is something precious to be preserved. It's a valued commodity in the game rather than a disposable game element.
+
+[01:46:30.540] - Speaker 2
+I remember there was some story I read about how the army would look for gamers for certain jobs.
+
+[01:46:37.900] - Speaker 1
+Sure, I believe. For Predator drone operators. They were familiar. Yeah, exactly. No, absolutely. Anyway, That is the game that I would love to see. It's totally separate from that. What I actually want is my favorite game of all time is Chrono Trigger for the Super Nintendo. I don't know what that is. It's a Japanese role-playing game where you travel through time trying to save Earth from a... Well, I guess I can spoil it. It came out in the '90s. It's been a long time. But there's an alien being called Lavos.
+
+[01:47:07.740] - Speaker 2
+We don't know that if we're playing the game, you have to get to that level.
+
+[01:47:10.730] - Speaker 1
+You have to get to that level. It's like Scientology. You find out as you play the game and the mystery unveils and stuff. But basically, in millions of years in the past, the real story is the impact that killed the dinosaurs was actually Lavos, which is just one... You know how pine cones have the many seeds? Lavos is one of those seeds off a pine cone. There's a being that reproduces by shooting out spores that fly across the universe until they hit a planet. Basically, the impact that killed the dinosaurs was Lavos landing on Earth, smashing into the crust. It digs to the core of the planet and rests for millions of years, absorbing energy from the core of our Earth. Then the story is, eventually, in the modern day, Laavos emerges to destroy the planet and shoot out its own spikes and then complete the reproductive cycle. You have to travel through time trying to stop Lavos. You go in the medieval times, you're going back to caveman times, you're going into the distant future of a ruined world to get things from that ruined world. It's cool because it has 14 different endings.
+
+[01:48:22.270] - Speaker 1
+You get different endings depending on what you did, how you did it, what you did in the past. Did you save that person? Did you destroy that airship? It's my favorite game of all time. If I could make a game that was not something totally new, it would be to bring that game back for a new generation because it's pretty dated. It's from 1996.
+
+[01:48:42.150] - Speaker 2
+What would be different about your version than that version?
+
+[01:48:44.890] - Speaker 1
+I think it would be very hard to improve on what is near perfection from a gameplay perspective and from a storytelling perspective. It's a great story, dozens of interesting characters, amazing soundtrack. But I think you would update the graphics, update the soundtrack just to be more what people want these days. But probably the most important thing is make it available on modern platforms. If you want to play Chrono Trigger, you have to own a Super Nintendo. Those went out of production two decades ago. A lot of the ones that are around today, a lot of them have failing components. It's actually quite hard to track down things. Actually, that was one of the reasons I made the mod Retrochromatic. It's actually hard to play Game Boy games these days. You have to track down a Game Boy that is still in working condition, that doesn't have problems with a lot A lot of them have audio problems these days due to degradation of the components. If you want to be a Game Boy gamer, you either need to be a techno head like me who can take apart and repair old systems, or you need to pay a bunch of money to buy a Game Boy from somebody who knows how to do that work.
+
+[01:49:45.760] - Speaker 1
+If you wanted to go buy a Game Boy color today that's been fixed up and put into good working condition, you could easily spend $200. Kids aren't doing that. I got to ask you, were you a fan of the Game Boy when it came out?
+
+[01:50:01.350] - Speaker 2
+Absolutely. I've never been a gamer. My only game experience is with the Game Boy, Tetris. Only Tetris. I didn't play any other games.
+
+[01:50:11.050] - Speaker 1
+When you'll notice, with Mod Retrochromatic, we bundled it with a new version of Tetris week at all. Why Tetris? Of all the games? It's because the original Game Boy, there are millions of people who aren't gamers who nonetheless loved Game Boy and loved Tetris. What is it about Tetris? I think it's a It's a universal game. You should try to get Alexi, the creator of Tetris. He's still around. Oh, he's still around. I saw him a few months ago. Mod Retro was sponsoring the Tetris Classic World Championship. It's basically like a... It's a competition for people who play Tetris. On the Game Boy. On the Game Boy. Alexi was there. I don't know if you know the story at all of Tetris.
+
+[01:50:52.070] - Speaker 2
+I don't know anything about it.
+
+[01:50:53.180] - Speaker 1
+Oh, my God. There's a fictionalized but largely correct version you should check out. I think it's called Tetris. It's movie about it. Alexi is a computer programmer working in the Soviet Union. It is a Russian game by a Russian developer, and the song, Do Do Do Do. The Russian music. It's actually a Russian folk song. He is just this genius programmer who built dozens of versions of this puzzle game and then hit on this magical formula that everyone loved. He ends up licensing it to Nintendo. It's bundled with every single Game Boy in North America. It is a crazy story. Anyway, I love games where you have that universal human experience. There's a picture of Hillary Clinton sitting in Air Force One, playing Tetris on a Game Boy. I don't think Hillary Clinton is a gamer.
+
+[01:51:42.430] - Speaker 2
+Anyway, that- I can remember getting in the way of work because it was super addictive.
+
+[01:51:46.950] - Speaker 1
+Jeff Bezos has said the exact same thing. He said, When you play Tetris, it starts to reprogram your brain. Even when you stop playing, you still see the blocks falling, and it feels like you're still- It's like you're still- It's like you're still- It's one of those incredible things. Yeah, One of the reasons I wanted to do that particular game on that particular console is because it's so universal. It's like Mod Retro, we're doing some other stuff. We're also doing a Nintendo 64. I don't know if you were ever a Nintendo 64 guy. It sounds like not.
+
+[01:52:11.410] - Speaker 2
+The only other game I ever had was Pong, the first Pong.
+
+[01:52:14.440] - Speaker 1
+But I'm so glad that we started with this. I mean, I've been working on this project as a side project for years.
+
+[01:52:19.420] - Speaker 2
+It's the coolest thing in the world.
+
+[01:52:21.540] - Speaker 1
+But I'm so glad it's one that's so universal because everyone loves it.
+
+[01:52:23.610] - Speaker 2
+It's the coolest thing in the world. I love it. Are you spiritual at all?
+
+[01:52:27.870] - Speaker 1
+I am very spiritual. I'm Christian, I have been my whole life. Cool.
+
+[01:52:32.370] - Speaker 2
+Do you go to church?
+
+[01:52:34.280] - Speaker 1
+That's a complicated one. I went to church for a very long time, and then my wife and I were unhappy with the doctrinal direction of the church that we were attending. We left that church, and we're looking for a new church. But also this was right around when our son was born. Right now, our dilemma is we need to find a new church that is doctrinally sound before my son is old enough to figure out that he's not going to church. But he's only seven months old right now.
+
+[01:53:02.700] - Speaker 2
+You got a window. We got a little bit of a window. Do you pray?
+
+[01:53:05.720] - Speaker 1
+I do.
+
+[01:53:07.920] - Speaker 2
+Beautiful. Are there other failed technologies like VR that you're aware of that are due for a refresh?
+
+[01:53:18.290] - Speaker 1
+Absolutely. Not all of them fit exactly the same mold. Nuclear is not exactly a total failure in that it has remained in by a handful of customers, like military uses them for submarines. But the reality is, in the United States, at least, we stopped building new nuclear reactors decades ago. It was a failed technology, and I think it's coming back around, and it's going to make energy so much cheaper, which in turn is going to make a lot of goods cheaper. I mean, a lot of the inputs to even our agricultural system, like all the nitrogen fertilizer that we make, very energy-intensive to make. And so cheaper energy is going to make our food cheaper. It's going to make our cars cheaper. It's going to make... Basically, everything gets cheaper when you make energy cheaper. I think nuclear is the one whose time has really come back around. Another one is actually artificial intelligence. I know that sounds so dumb to say today when everyone agrees that it's hot, but if you just rewind a few years, I started Andril in 2017. The name of my company is Andril Industries. The acronym for that is AI.
+
+[01:54:26.250] - Speaker 1
+And we wanted-And that's on purpose. That's on purpose. It's because Our core mission was to build autonomous systems based on artificial intelligence for the military. For example, building autonomous fighter jets that can take the place of a manned fighter jet and save the life that would have been lost otherwise. To make robots the tip of the spear that's taking the brunt of the impact rather than the people. When I started the end roll, we couldn't even talk about AI. When we were fundraising, we wouldn't say a word about AI. When When we were talking to the press, never say a word about AI. Obviously, we were building AI. Our core product is something called Lattice. It's the AI brain that powers all of our fighter jets and submarines and missiles and everything. But you couldn't talk about AI because AI was like VR. It was this failed technology that was seen as forever in the future, never in the present. If you think it's going to change everything, you're a crazy person. People might agree like, Oh, AI is going to work someday. A hundred years from now, we're going to have C3PO. But if you said, Oh, no, it's right now, people thought you were nuts.
+
+[01:55:32.730] - Speaker 1
+We had to hide what we were and just actually make products based on AI. Now that AI is cool, now we get to talk about it and admit what we're doing. But I would say that was another fail. You were always doing it. We were always doing it. But you asked if there's other failed technologies. I went straight from one failed technology straight into another failed technology because I looked at it and I said, You know what? We actually can build working AI. The tech is actually finally there. You don't remember I talk about John Carmack? Yeah. Hugely influential to the games industry, basically created everything. Oculus never would have gotten to where it was without him endorsing. And by the way, I ended up hiring him as the Oculus CTO a year later.
+
+[01:56:10.680] - Speaker 2
+So he worked with me for a few years. Amazing.
+
+[01:56:13.420] - Speaker 1
+But then John Carmack, before I did, decided that AI was the future again. So back when I didn't even think AI was a real thing, I was still focused totally on VR, and he says, No, I'm going to start spending my time on AI. That's where I think the future is going to be. But there's There's a lot of technologies like this, a lot of ideas like this that people have just written off as nonsense. I think genetic engineering is another one of those. They always jump to Jurassic Park. But it's going to be a huge part of our future. If we're going to increase food productivity, which lowers the price of food, makes famine and drought less likely to wreck everybody. There's a lot of people who treat genetically modified stuff as this crazy mad science stuff. We should be making making it just part of everything.
+
+[01:57:02.380] - Speaker 2
+Does Andrew have a mission statement?
+
+[01:57:05.080] - Speaker 1
+Oh, boy. So we do. I think it's to radically transform our national security through the application of advanced technology. If we've changed the wording a handful of times, it's basically- It's always been a version of that. It's always been a version of that. I think at one point it was of American national security, but I take a broader view of our national security. I would apply it to basically Western world, the free world, the democratic world, whatever you want to call it. There's a group of countries in the world where we don't always get along and we don't always...
+
+[01:57:39.320] - Speaker 2
+What are the rules of... Are you allowed to sell weapons to... Great question. Other countries? I don't know how any of that work.
+
+[01:57:46.180] - Speaker 1
+We can only sell to people that the United States government allows us to sell to. It's totally up to them. Sometimes that comes in the form of them saying, We will allow you to sell to them if want to buy it. Other times, it's the US coming in and saying, We are going to help subsidize it/buy because we want someone to have this capability. For example, imagine if there's some nation that we're working with and their airfields are critical for our national security, the United States military has a strong incentive to make sure that they have air defense systems that keep those runways from getting blown up. So they might come in and say, We are going to invest in this. People outside of the defense industry rarely ask me these questions, but when they do, it's usually in the context of, Well, Palmer, which countries would you sell to and which would you not? How do you determine that? The point that I always make to them is, You shouldn't want that decision to be up to me because I am the top executive of a for-profit private corporation. If it's up to me, maybe you like my list.
+
+[01:58:51.720] - Speaker 1
+Maybe I make a list and you say, Oh, that's great. I love the list of people you'll sell to, and I hate all the people you want. But why would you want that list to be up to a billionaire executive? You should want that to be decided by government officials who are elected by the body populace and are accountable to them, who, when they make bad decisions, can be removed through an election. You can't remove me from Andrall if you disagree with my decisions. You can maybe vote for somebody who will not buy my stuff, but you can't remove me. The point I made to people is if you believe in democracy at all, then you have to believe that the right path is to let the democratic process guide what what we sell and to who, and then hold people accountable when they make bad decisions. People say, Oh, but Palmer, what about the war in Afghanistan? What about the war in Iraq? Were those just wars? My point is, thank goodness we can hold the politicians who are responsible accountable or not. Thank goodness we have the ability to hold them accountable. Imagine if the decision to sell a lot of those entities' weapons had been just up to a bunch of executives who needed to make their quarterly profit.
+
+[01:59:56.130] - Speaker 1
+That would have been a disaster. I don't want to say I abdicate all responsibility. It's more I forcefully-I just want to know what the rules are. Oh, yeah. I forcefully reject even the idea that I should have even any choice.
+
+[02:00:09.730] - Speaker 2
+Do the rules from the government ever change? Do they say- All the time. In World War II, Russia was our ally.
+
+[02:00:17.150] - Speaker 1
+Well, here's another example. We just sold a bunch of F-35s to Japan. How crazy that we've gone within a lifetime. People are alive who have seen Pearl Harbor.
+
+[02:00:27.120] - Speaker 2
+We joined the Second World War against Japan.
+
+[02:00:31.130] - Speaker 1
+Because of Pearl Harbor. Because of Pearl Harbor. It's wild. We've gone from Pearl Harbor to selling them our most advanced weapons and working with them. I don't know if you track this side of politics, but- I don't. Japan is amending Article 9 of their Constitution in a way that will allow... Their Constitution prohibits them from engaging in offensive military operations. Their military is called the JSDF, the Japan Self Defense Force. They are prohibited their constitution from owning weapons that are designed for offensive applications. Of course, there's a lot of overlaps. A fighter jet for defense is very similar to fighter for offense, but there's some things they haven't been able to have, like aircraft carriers, long-range missiles. But because of the rising threat of China, China is now saying that they want to take parts of Japan. They're saying that Okinawa, they have a historical claim that shouldn't belong to Japan. China also wants to take Taiwan. And so Japan is saying, You know what? We need to change that. And it's so wild because It's their Constitution, you know why it has those limitations? It's because we made them as part of their surrender.
+
+[02:01:36.570] - Speaker 1
+It's not they didn't choose it. We forced it on them. And now we're saying, Yeah, that's great. We want you guys to be a partner with us. We want you to help keep China at bay. We want to help deter them. I guess the point I would say is that things are always changing, and nothing is ever set in stone. I would love to see a world where China, which is today our largest strategic adversary, economic adversary.
+
+[02:01:58.640] - Speaker 2
+Does everyone believe that?
+
+[02:02:00.460] - Speaker 1
+There are people who disagree. I think there's people who think that Iran is a bigger threat because they're irrational to a larger extent. China is only willing to start a war if they think they have a good shot at winning it. They're only willing to invade Taiwan if they believe there's a very good chance they'll successfully take it. Iran, on the other hand, due to their political and theological dynamics, is more willing to win by losing. They'll start a war that they know they can't win. There's people who, rationally, they think Iran is a bigger threat. There's also people who point out that Russia is actively engaged in an invasion in Europe. There are people who say Russia is obviously the bigger threat than China. China's only hypothetically might invade democratic nations. Russia is literally doing it as we speak, and I'm sympathetic to that argument. But big picture, China has the economy to really matter. They have the population and the economic means, the manufacturing means. They're brilliant at building technology. I was part of the problem. I built millions of virtual reality headsets in China. That's where all my factories were when I was at Oculus.
+
+[02:03:06.050] - Speaker 1
+So, yeah, generally China is our biggest adversary. They are at odds with all of our friends in the area. They want to take over the Philippines. They want to take over Korea. They want to take over Taiwan. They want to take over Japan. We'll see what happens with Vietnam. They probably don't want to try that again. The last time they tried to invade Vietnam, it didn't go so well for them, but they've got ambitions. I think it's It's totally possible that within our lifetime, we could see China change and have them turn into a Japan. What's the trick about China is they're not radical against the United States. Chinese people, they like America. They like American culture. They like American movies. They like American music. There's a reason that our media does so well there. It's not like Iran, where America is seen as theologically repulsive, at odds with how the universe wants humans to live.
+
+[02:03:58.740] - Speaker 2
+That wasn't always the case.
+
+[02:04:00.110] - Speaker 1
+No, of course.
+
+[02:04:01.310] - Speaker 2
+It was in the recent 1960s, it was different.
+
+[02:04:04.230] - Speaker 1
+Iran has managed to stay so socially conservative for so long. It's hard for me to imagine how they come back, at least anytime soon. China, if they had different political leadership, I think that they'd love to be an American ally. The average Chinese person has no beef with America. The people who have a beef with America are the members of the Chinese Communist Party who don't like our interests that contradict theirs, like them wanting to take Hong Kong, them wanting to take over Taiwan. But what's interesting about China, too, is most of China is not a member of the Chinese Communist Party. I don't know if you know this. I don't know that. But in Germany, you really had to be aligned with the Nazi Party during World War II. The Soviet Union You needed to be aligned with communism. You weren't really allowed to have- You didn't opt in. In China, it's actually not like that. I want to say it's 25 or 30% of people are in some way a member of the CCP, and they are not pressuring the rest of China to become a member. Most Chinese people are actually quite apolitical.
+
+[02:05:04.680] - Speaker 1
+They want to get by, they want to make money, they want to provide for their family. They're not that different than most Americans. They like America generally, and they don't really have strong opinions as to where they should be invading or not. It's very interesting that China has created that dynamic because it's much easier to imagine how they change in the future. You don't have to flip 100% of society. You just need to flip the 20 or 30% that are members of the CCP or not. Let them keep believing that America is awful. That's fine as long as 70 or 80% of the country changes their mind. I'm actually quite hopeful. I would love to see them become like Japan, ideally without a world war in between. That's the rub.
+
+[02:05:45.340] - Speaker 2
+How is the business model of your company different than the munitions companies of old?
+
+[02:05:53.280] - Speaker 1
+The way that Andrel works is very similar to the way that most companies work, not defense companies, but just your companies in general.
+
+[02:06:00.700] - Speaker 2
+We use our own money to build things. Defense companies work differently than most companies. Yeah, they do.
+
+[02:06:05.160] - Speaker 1
+Oh, absolutely. Well, let me talk about how defense companies work. Most defense companies work on what's called a cost plus basis. They get these cost plus contracts from the United States government which pay you for your time, your materials, your costs, and then a fixed percentage of profit on top of that.
+
+[02:06:26.280] - Speaker 2
+They might say- The more it costs, the bigger their percentage.
+
+[02:06:29.150] - Speaker 1
+You immediately It identified exactly the problem.
+
+[02:06:31.350] - Speaker 2
+The incentive is to spend more.
+
+[02:06:34.190] - Speaker 1
+It's to build the most expensive thing, to pitch the most expensive thing. Then even once you win, you often actually make more money when the contract takes twice as long, things break all the time and you need to replace them. You actually make more money. There's a lot of reasons for why we do Cost Plus. It really boils down to we needed to nationalize production of war material during World War II and basically have all of our automotive and industrial factories build tools of war, but we didn't want to nationalize them because that would have been communism, which was politically unpennable at the time. Imagine that I'm Ford and you say, Hey, Ford, build me a tank. Ford might say, I have no idea how much that's going to cost. I've literally never done it before, at least not in a long time. The government said, Okay, we'll pay you literally whatever it costs and some profit on top to make it worth your while. If it goes on too long, don't worry about it. You'll be taken care of. That is a reasonable way to pay for tanks in the middle of a world war where you're fighting for your life.
+
+[02:07:36.160] - Speaker 2
+Short term emergency.
+
+[02:07:37.880] - Speaker 1
+But to keep doing that for then decades, you end up growing a very, very toxic dynamic that cost taxpayers Hundreds of billions of dollars a year in waste. Actually, you asked what our mission- It's even corruption, not even waste, really. There's a lot of corruption as well. You asked what our mission statement is, which is transforming national security through application of advanced technology. But the first page of our pitch deck to investors said, Andrel will save taxpayers hundreds of billions of dollars a year by making tens of billions of dollars a year. The idea is to not just make money, but to kill legacy problems. It's to go and say, I'm going to replace this thing that costs $10 billion a year with something that costs less than a billion a year. And to do that over and over and over until we can take this money and spend it on other things.
+
+[02:08:31.450] - Speaker 2
+So that's a typical- Is it easy to do based on how overblown the old model is?
+
+[02:08:38.120] - Speaker 1
+Sometimes. I think it's so radical to the duty. Here's what our business model is. We spend our own money to build a working product, and then we sell it. Of course, that's the way Jack in the Box works. That's the way that music labels work. Everything. Everything works this way. But the way everything works is radical to the Department of Defense. Culturally, It's hard. They also have certain cultural objections to it. Imagine you make something for $1 and you try to sell it to them for $2. They're going to say, Well, wait a second. That seems really unfair to the taxpayer. You're making a 50% on that thing. You don't cost you a dollar. Why should I pay you $2 for it? Meanwhile, they're probably paying some other company $100 to make the same thing. But basically, there's all these rules around that were designed to limit the problem. Basically, there were all these laws passed to limit the amount of profit that you can make, and it was to try and keep cost in control. But then once you start spending your own money, those laws are still around. They're like, Well, no, we won't let you make more than 5% profit margin.
+
+[02:09:46.590] - Speaker 1
+I explained, Guys, I can't run a business where I run my own money, my own risk. I do everything with the tech players. I will fail from time to time.
+
+[02:09:55.770] - Speaker 2
+You're selling it to them for way less than anything else.
+
+[02:09:58.380] - Speaker 1
+For way less money. That is the That's the biggest problem we run into.
+
+[02:10:01.870] - Speaker 2
+What are some of the products in the new company?
+
+[02:10:05.580] - Speaker 1
+We build all kinds of hardware systems. They're all powered by the same AI called Lattice.
+
+[02:10:11.850] - Speaker 2
+What does Lattice do?
+
+[02:10:13.150] - Speaker 1
+Lattice is the AI brain that operates all these different systems, and you train Lattice to do what it needs to do for a particular system. For example, Indril makes, among other things, autonomous fighter jets, autonomous submarines. These are real fighters, but without a person in them. That means there's a lot of ways to put this.
+
+[02:10:35.330] - Speaker 2
+Could a person get put in them?
+
+[02:10:37.190] - Speaker 1
+No, because we've built them around not meeting a person. Not meeting a person means you don't need the space for a cockpit. You don't need the life support systems. You can, for example, do maneuvers that might kill a human pilot.
+
+[02:10:50.070] - Speaker 2
+There's a lot of advantages to not having a person in it. Exactly. Also, them not getting killed, obviously.
+
+[02:10:55.210] - Speaker 1
+What you're trying to do is build an AI that can pilot that submarine, operate it sensors, also fly this fighter jet. Submarines as well? Yeah. We make autonomous submarines for the Australian Navy and also the United States Navy. But on the fighter jet side, in particular, the idea is not to have them fighting on their own. The Air Force calls the program Loyal Wingman. The formal name of the program is CCA, the Collaborative Combate Aircraft. The concept is to have several CCAs for every manned pilot. Imagine I'm a pilot. I'm flying my F-35. I now have a whole wing.
+
+[02:11:31.040] - Speaker 2
+I have an army behind you.
+
+[02:11:32.250] - Speaker 1
+So behind me. But then I actually am probably going to push them out in front of me because that way they have all these... They have the same sensors I do. They have the same weapons I do. Now, if I'm flying out there and waiting, trying to find something, I can send these guys out, they're the front line. When somebody comes across our radar, I can sense them and then even tell my wingmen, my AI wingmen, to take shots at it while I'm still way out of range.
+
+[02:11:58.130] - Speaker 2
+Can the other party not not know which is the one that's manned?
+
+[02:12:01.790] - Speaker 1
+Exactly. You want them to be confused as to which is which, because if they do know, they're going to want to go for the manned pilot. Because that's how they cause the most damage to the United States. The other interesting thing about it, you've seen Top Gun. I did not, but- You never seen Top Gun? Well, I will tell you, Top Gun is not really a war movie in that it's about guys learning how to fly fighter jets, and they have a whole book of maneuvers and tricks that they can use because you have to manage your energy and your speed. You only have so much. You have to make sure you don't run out of altitude and get too low to the ground. Now you run out of ways you can maneuver. You need to make sure that you don't run out of energy, that you don't run out of altitude, and that you don't get in the wrong position because you might end up in a position where you managed to shoot a guy down, but now he's going to kill you, too. That's not a win. There's also, separate from that book of maneuvers that we've been developing since the dawn of manned flight, a book of maneuvers you can't do.
+
+[02:13:01.970] - Speaker 1
+It's the maneuvers that leave you with not enough altitude, not enough speed in a bad position. Some of them are extremely powerful maneuvers that will get you the kill, but you're probably dead at the end. You've already seen where this is going. Once you have AI fighter jets, you can take those tactics and you put them in your playbook. You say, Yeah, we're all working together. You know what? I prefer to have all my AI fighter jets live. But if I need to, I can now start- You can sacrifice one for the greater good. You have to sacrifice your ponds. I mean, imagine playing chess and you couldn't sacrifice your ponds. It just wouldn't work. That can have real impacts, even not just against fighters. Imagine you're trying to get into an area. Imagine you're trying to take out the launch of a nuclear weapon. You need to get to this facility, and if you don't destroy this facility, they're going to be launching nuclear weapons. It's protected by surface to air missiles ringing the entire facility for hundreds of miles out. No way can any man fighter get in close enough without dying. If you can get close enough to shoot a missile at it, they can get a missile at you.
+
+[02:14:04.680] - Speaker 1
+You're both going to die. Imagine if you could come in with a huge number of autonomous fighters, and you could have unmanned fighters go in, destroying those surface to air missile capabilities facilities, clearing a corridor for you to go in and actually strike the nuclear launch facility. You can do that without losing human life. It's extraordinarily powerful.
+
+[02:14:26.380] - Speaker 2
+Do you think of it like a video game?
+
+[02:14:29.430] - Speaker 1
+I think Most of the people who think of things like this, like war as a video game, they're the people who just haven't been close enough to it, haven't had enough experience with it. Would you work with these customers every day? And not just hypothetically, like Andrel has our systems deployed in combat all over the world. We have our systems protecting military bases all over the world, critical infrastructure all over the world. We're in offensive operations.
+
+[02:14:51.370] - Speaker 2
+How many weapons do you have out in the world?
+
+[02:14:54.190] - Speaker 1
+Nobody's ever asked me that. Let me think. It's in the thousands, but it's one of those things where it's not like thousands of fighter jets. For example, we also build a system called Anvil. It's a counter drone drone. It's a drone that basically flies out and then accelerates to 188 miles an hour and runs into other drones and knocks them out of the sky. We have a whole bunch of those on military bases all over the world, protecting bases from drone attacks, and those are used every single day. Bases are getting attacked every single day.
+
+[02:15:25.970] - Speaker 2
+Is that true?
+
+[02:15:26.750] - Speaker 1
+The United States is continuously under assault, and you might not hear about every attack.
+
+[02:15:32.120] - Speaker 2
+I don't hear about that.
+
+[02:15:33.430] - Speaker 1
+Well, there's a few reasons for that. One is that it's so normalized. Some of these bases in the Middle East, they're attacked so frequently that it just starts to turn into noise. Two, when nobody dies because companies like Andrel successfully, our tools, successfully stop the attack. Nobody dies, no harm, no foul. If you want to read defense publications, you'll find the news. But there's also attacks where they happen. And imagine that there is an attack that has an impact. Maybe nobody dies, but it destroys them equipment. We don't necessarily want to go out into the world and announce, attention, everybody. The autonomous drone attack from these people successfully destroyed a billion dollars in equipment on this airfield. Because in doing so, they might not know.
+
+[02:16:21.100] - Speaker 2
+You're inviting more trouble.
+
+[02:16:22.280] - Speaker 1
+You're inviting more trouble, and they might not know. They might have been taking pot shots. They got lucky. You don't want to go tell them, What you did, that just worked. You should do more of that. There's actually an incentive to downplay these things. But US troops are under attack almost every single day in one part of the world or another. Drone attacks, in particular, have been on a huge upswing. We want a billion-dollar contract with SOCOM, Special Operations Command, to do all of their counter drone integrations. We just want a 600 and something million-dollar contract with the Marine Corps to do the same thing for them. Drone attacks are turning into a huge problem.
+
+[02:16:59.500] - Speaker 2
+How much How much competition do you have in this area?
+
+[02:17:02.590] - Speaker 1
+Tons of competition. Really? Tons of competition, but most of it is quite old-school companies.
+
+[02:17:08.340] - Speaker 2
+All the rest of them are cost plus?
+
+[02:17:10.240] - Speaker 1
+Most of them. With CCA, the Collaborative combat aircraft, Loyal Wingman, we were competing to build AI-powered fighter jets against Lockheed Martin, Northrop Grumman, and Boeing.
+
+[02:17:21.680] - Speaker 2
+People who make jets.
+
+[02:17:23.500] - Speaker 1
+That's what they do. We beat all three of them. This was after the CEO, I won't say which one, but the CEO of one those companies had been going around telling people that Andrel had a zero % chance of being selected. And in fact, none of them were selected because we had the most credible manufacturing plan. We had the most credible technical plan. We had the most credible plan overall to get to having thousands of unmanned fighters deployed on a time scale that is relevant to keep China from trying to invade Taiwan. That's really what it's all about. The goal is not to to beat China in a war. It's to make it clear that a war would be too painful for them to even consider. We want them to look at what we have and say, Oh, shit.
+
+[02:18:10.000] - Speaker 2
+Well- Peace through strength, they call it.
+
+[02:18:11.780] - Speaker 1
+I think it's a powerful doctrine because wars almost always start when one or both sides disagree as to the outcome. Both sides think they can win. If one side is... It's not that one side has to know it will lose. If China isn't sure it can win, if they say-They won't attack. No. Nobody wants to start a war that's a 50/50 coin flip. Because if you do that, there's a 50% chance you get what you want and a 100% chance that you eat the pain. It's a bad deal. We don't need to make it impossible for them to win. We need to make it where they aren't sure. I think we're not in that place right now. Right now, they are feeling pretty certain. There's a reason that you have Xi out there saying, I'm President for life. I do what I want. Before I die, I'm going to with Taiwan. He thinks they can get away with it. I don't know if you know this, but China has 350 times more ship building capacity than we do. For every warship we can build, they can build 350 of them. It sounds almost impossible, right?
+
+[02:19:16.090] - Speaker 1
+Yeah, that's wild. But the reason for that is that they also have a huge commercial shipping industry, whereas we've lost our shipping industry. We have almost no ship yards remaining in the US. China is building all the ships for basically everyone on the whole planet.
+
+[02:19:29.240] - Speaker 2
+Where do you make We make our stuff.
+
+[02:19:30.770] - Speaker 1
+We make our stuff here in the United States. All of it. Not all of it because there are some things that we make with partners in their nation. For example, a major customer for our AI-powered submarines, Royal Australian Navy. But the Royal Australian Navy- So you You make those there for them. Exactly. We make those in Australia. That makes sense. Absolutely. But everything we make for the United States, we make in the United States. Most of what we make for the rest of the world, we make in the United States, too. I'll tell you, it's really hard to make stuff without leaning on China because everything's in China. It's so easy to make stuff in China. If I had no national allegiance and I had no sense of patriotism, I would move to Shenzhen tomorrow and just start making stuff. Actually, the moderate Made in all North America. It's not made in China. I could have made that in a 10th of the time if I had just gone to China. It would have been so much easier.
+
+[02:20:24.300] - Speaker 2
+Is there a possibility that over time, America could get back its manufacturing base?
+
+[02:20:29.020] - Speaker 1
+Absolutely. The The problem that we did, I mean, there's a million problems, but what we did is hollowed out our country by allowing China into the World Trade Organization and allowing American companies to outsource manufacturing to China without penalty, without import tariffs, without any reason to not do it. Why wouldn't you, if you're allowed to just send it to another country where they have- Everything's cheap. It's dirt cheap and there's no environmental regulations and no labor laws, why wouldn't you do that? We've been able to get a bunch of cheap shit over in the last 50 years as a result. That has helped the United States. Everyone's able to buy cheap TVs and cheap cars and cheap stuff because of China's rise. The flip side of that is that there's no more manufacturing in the United States. If you're a smart When you're a kid coming out of high school and you're deciding what you're going to do with your life, you are never going to become a manufacturing process engineer. You're never going to say, You know what I want to make is injection molding equipment. You're going to go work on Wall Street.
+
+[02:21:27.500] - Speaker 1
+You're going to go work at Google. You're going to go to where the economic opportunity is because that's what most people want to do. Most people, they want to take care of their families as best they can to the best of their abilities within the opportunities available to them. There's very few people who say, No, I'm going to go work at a lower paying job with fewer prospects where I'm more likely to get laid off because I really love manufacturing and industrial equipment. It happens, but not rarely. What happens is fewer people even know how this shit works. The people who do are either A lot of them are very old. A lot of our manufacturing expertise we do have, it's like the leftovers. These are people who are in their 50s, 60s, 70s who are now retiring or close to it. For us to bring back manufacturing in the United States, we have to undo all those incentives. We need to change it so that a smart kid does want to become a manufacturing engineer. This will get back into politics, but I'm generally lean libertarian. I'm a little out libertarian. I'm generally a fan of free trade.
+
+[02:22:28.130] - Speaker 1
+But what we've had with China and others It was not free trade. They don't let us into their markets. When I was at Facebook, I wasn't allowed to sell Oculus Rift headsets into China, even though they were made in China. They wouldn't even let me sell to their people because they locked out all these American companies. They don't want us making any money in China. What we had was not free trade. It was a one-way money-express way, straight into China, and nothing comes back out. That's one of the reasons, even though I'm a libertarian, and it's very much against libertarian doctrine to believe in tariffs, I basically I feel like we made a bunch of really bad decisions and had unfree, one-sided trade. The only way to do that, I think, is some tariffing. We have to basically go to... Tariffs aren't just about the other countries. Tariffs are about signaling here, going to investors, banks, and saying, if you invest in... Imagine a 19-year-old Palmer Lucky, but for manufacturing. I want a bank to meet with that guy, and he says, I want to start a factory to build this thing that America needs, and there's Tariffs on the Chinese one so I know that I can beat them even though China has slave labor and coal power.
+
+[02:23:35.260] - Speaker 1
+You want the bank to say, You know what? We believe in that. We will give you a business loan for it, a full business loan. But if you don't have a tariff on that, they're just going to say, No, You're going to fail. China will just beat you because they have no labor laws and their energy is dirt cheap because they burn more coal than anybody in history ever has. I fall on the side of some problems take decades to create. They take decades to fix. It isn't going to be easy. It It is going to be painful.
+
+[02:24:00.810] - Speaker 2
+But you do think it's possible.
+
+[02:24:01.970] - Speaker 1
+I think it is possible, and I think it's necessary. If we can't make the things that we need to maintain our quality of life, then we are actually just subservient to our adversaries.
+
+[02:24:12.900] - Speaker 2
+I imagine for you to build the things you build, you must spend a lot on R&D.
+
+[02:24:17.140] - Speaker 1
+We sure do. We put all of our profits back into R&D. The most defense primes put about 1% to 3% of their revenue back into what they call I-RAD, internal research and development. This is different from C-RAD, which is customer research and development. I-rad is where you pay it yourself. Andril puts every penny we make back into I-RAD. We are continuously researching and developing new things, putting every penny we make into making new stuff.
+
+[02:24:43.410] - Speaker 2
+Based on that, can other companies copy your stuff and not have to do the R&D?
+
+[02:24:50.010] - Speaker 1
+Yeah, not always. There's some things where it's hard for them to copy us. But a lot of what we do, the concept itself is the crazy thing. We build this a new product called Road Runner. It is a small microfighter jet that can take off and land vertically with two thrust vector jet engines. It basically takes off and lands on its engines.
+
+[02:25:13.270] - Speaker 2
+It's your height Yeah, it's a little bigger than me. It's man-size, but wider.
+
+[02:25:19.520] - Speaker 1
+It's basically a teeny tiny fighter jet that can take off without a runway, fly out somewhere, shoot down an aircraft, and then come home and land right there. It can even operate from the deck of a small ship. Most systems to shoot down aircraft are rocket-powered because they can launch instantly and they're very fast. A lot of people, when we started working on Road Runner, said we wouldn't be able to build an aircraft that can take off fast enough because jet engines usually take a while to start, like a full minute, so you don't have them bind and fail. They said, You'll never be able to get them to start fast enough, and you'll never be able to make it reusable and still maneuverable enough. People just told us it wouldn't work. People in the government told us they didn't think we'd be able to do it. We used all of our own money to develop. It was at about an $80 million development program. We went from first drawing idea to combat validation, meaning it was actually used in combat by a customer in less than two years. Wow. That's because we used our own money.
+
+[02:26:15.710] - Speaker 1
+If it was a government program, it never would have gone that fast. But we cut all the red tape by using our money.
+
+[02:26:20.340] - Speaker 2
+That's the way that the other companies can't compete with you.
+
+[02:26:22.870] - Speaker 1
+Spending our own money, yes, that's really where it is. Here's the thing. We proved you can make jet engines start in just a few seconds. We proved you can make a reusable missile that is very cheap and still doesn't- Did you use your nine volt lighter to get it to start? No, we have to use a very fancy system to get those engines started. As far as I know, they're the fastest starting jet engines in the world. I've searched high and low, and I've not found anyone who's ever done it faster. If it does exist, it's some classified program. But us releasing that system and showing it has made it where... If people want to copy it, they're going to have to do a lot of hard work.
+
+[02:26:57.340] - Speaker 2
+But we showed that it was possible.
+
+[02:26:58.510] - Speaker 1
+But now they know it's possible. Exactly. That changes everything. It's a lot less risky. They could say, You know what? It's going to be expensive to copy it.
+
+[02:27:04.490] - Speaker 2
+Yeah, but it's worth doing because now we know it works. Yeah.
+
+[02:27:06.700] - Speaker 1
+You know what? There's companies that are copying it. There's companies that are trying to do exactly what we did. The key there is we just need to keep investing. We're working on a new version of Road Runner. It's even better. It's even faster. Eventually, there is going to be a supersonic Road Runner. Imagine a tiny jet that takes off from- Anywhere. A parking lot, a ship, and then turns into a supersonic attack aircraft and then comes home and lands right there to be refuel. It's going to take a long time for anyone to catch up with that.
+
+[02:27:38.640] - Speaker 2
+What have you learned about warfare since going into this business?
+
+[02:27:43.450] - Speaker 1
+I've learned a lot about warfare, but I think especially what I've learned is it's the conditions that lead to warfare. One of the things that's really stuck with me about the invasion of Ukraine, for example, when I was in Kyiv, and we've had weapons and people in Ukraine since the second week of the war. We've been involved from the very beginning. One of the things that struck me when I was in Kyiv training guys on how to use some of our weapons platforms, this was earlier in the war, it's that the Russians that invaded Ukraine really, truly thought they were the good guys, but not because of a real disagreement as to what makes someone good. It's that they were just lied to. They've told by their media and by their TV and by their politicians that Ukraine was basically ruled by Zelenskyy, who was a puppet of the West. We were actually just using, which is so funny. Isn't it funny now to look? Now, he's running all these political problems, but they were saying, Oh, he's a puppet of Donald Trump, and he's a puppet of the West, and he's literally just their installed dictator that is running Ukraine.
+
+[02:28:55.710] - Speaker 1
+They told all these Russian troops that the people of Ukraine would welcome them as heroes. They said, They want to be liberated. They desperately want you to come in. And so a lot of the guys who went into Ukraine from Russia, they went there thinking this was going to be a week long special operation. They went in with a week of clothes, and a parade uniform. They literally thought there were going to be parades for them. My favorite example of this is there was a Russian pilot who got shot down in his Kha-52 attack helicopter. They were trying to take over an airfield at the Antonov Aircraft Company, Corporate Airfield, and they got shot down by the equivalent of their National Guard. He crashes. What do they find in his flight bag? They find about three days of clothes, a parade uniform, and 50 condoms because that is what this guy thought he was going to need after the- To celebrate. To celebrate. They were literally told the Ukrainian women, they're going to be all over you.
+
+[02:29:53.900] - Speaker 2
+They were rescuing them.
+
+[02:29:55.060] - Speaker 1
+You're rescuing them, and they hate Ukrainian men because Ukrainian men are all joining the military because they're tools of Zelenski. I mean, like crazy shit. The wildest thing I've learned, the biggest thing I had not realized is, yes, weapons are an important part of controlling the battlefield, but the most powerful weapon is control of information with your own population. Because I guarantee that when China invades Taiwan or the Philippines or Vietnam or wherever they go- They will be the good guys in their mind. They're going to come with some story. They're going to say, You're freeing these people. They desperately want to be freed. Their women are going to be all over the place. You better bring some condoms.
+
+[02:30:38.190] - Speaker 2
+I mean, that's- The information war.
+
+[02:30:41.250] - Speaker 1
+The information war is the true new battlefield that I think people have not fully yet understood.
+
+[02:30:48.430] - Speaker 2
+How do you imagine the future of warfare? How will it be different in 10 years, in 20, and 50?
+
+[02:30:55.430] - Speaker 1
+I actually feel like we have a pretty good handle on it for the most part. You look at something like the CCA program. Right now, that's just prototypes. Then it's going to turn into a real aircraft, and then it's going to turn into thousands of real aircraft. Those aircraft, we're going to be using them for a long time. They're not doing it for one year. You When you're thinking about the F-16, we're still using it decades on. I think in 30 years, they're still going to be using CCAs. It might be a different variant, but it's going to be pretty similar stuff. I think the future of the battlefield is pretty well understood.
+
+[02:31:29.980] - Speaker 2
+It'll be much less manpower.
+
+[02:31:32.610] - Speaker 1
+Much less manpower, a lot more autonomous systems. I think also a lot fewer boots on the ground in general, not just manpower, but even, I think, the types of wars that have people on the ground for decades at a time, I think they're going to fall out of fashion. I think part of that is technology. The other is just politics. You know, like post-Vietnam, America was weary. We were not going to get into another war like that anytime soon. It was politically impossible. It wasn't until 9/11 that you had all of a sudden a renewed willingness to be a fighting a bunch of guys with AK-47s out somewhere in the world. I think that we are in a similar dynamic today. People saw the war in the Middle East drag on for decades. We spent trillions of dollars fighting. We didn't get even a fraction of what we hoped to get out of it. We didn't build an enduring democracy in the Middle East. We We really messed it up. I think that probably for the next 50 years, the United States is not going to be the world police. We are not going to send hundreds of thousands or millions of troops to go save someone's ass.
+
+[02:32:44.690] - Speaker 1
+I think we're going to go from being the world police to being the world gun store. We are going to give our allies everything they need to turn themselves into prickly porcupines so that nobody wants to step on them, nobody wants to mess with them. But we are probably not going to send our people to go die for them doing I personally am a big fan of that development, I think.
+
+[02:33:02.980] - Speaker 2
+Is it possible that we could get the technology of defense so good that everyone is defended and there's no reason to try an attack in the future?
+
+[02:33:16.800] - Speaker 1
+That is the dream. That is the dream. Now, I think there's edge cases where it falls apart. Can we stop China that way? Yeah, I think so. But imagine you have an ISIS-style group or Al Qaeda. What do you What do you do about guys who say, When I die in this suicide bombing, I get to go to hang out with 72 virgins? How do you stop that? It's really difficult. There's always going to be irrational actors, edge cases, extremist groups. Something I'm really terrified about is also biological weapons. What happens when a nation state can, for example, build a tailored biological weapon that is only lethal to a particular ethnic group? Or maybe they think it's only lethal to a particular ethnic group, but actually it kills everybody. Or maybe it mutates and then it starts killing everybody. These are the things that I'm really worried about. It's one of the reasons you asked, do people agree that China is our biggest threat and how Iran, some people think it's a bigger threat. To be specific, Iran has specific religious and ethnic enemies. They can boil down their enemies into a very particular group.
+
+[02:34:24.310] - Speaker 1
+One thing that's terrifying is what if Iran, without taking credit because they don't want to get nuked, what if they don't take credit, but they do cause a biological weapon to come into being? If they took credit, then they get wiped out. But what if they didn't take credit, but they say, Oh, praise be. This is just such an incredible great thing. But of course, they actually made it happen. How do we fight that? That's something I'm really terrified about. I know people who are working on this problem. It's not one that I'm deeply involved in myself. I don't have any specialty in biological weapons. I only know what people tell me, but there really smart people, and what they tell me has me a combination of spoofed and hopeful. Who knows? Maybe someday we're going to end up with a whole bunch of nanobots in our blood watching out for these engineered viruses, but we got to figure out something. I am a techno I am so optimistic about our future on basically the front of every technology. You look at transportation, energy, biology, medicine, even entertainment. Everything is looking really good right now.
+
+[02:35:28.610] - Speaker 1
+I don't think it was even that way even 10 years ago. There's been so many breakthroughs. There's really no area of technology where I feel like our lives are not going to be made significantly better over the course the next 10 or 20 years. For all of the people who feel like everything's going to shit, I think we're going to be looking back in 20 years as we're eating our 10 cent Jack in the Box burritos given to us by burrito, Cannons and drones. We're going to be in our $5,000 cars charged up by nuclear reactors. I think we're going to be looking back and saying, that was a tough for a while there, but we really came out the other side of it.

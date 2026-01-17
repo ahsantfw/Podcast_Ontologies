@@ -1,0 +1,761 @@
+[00:00:00.000] - Speaker 1
+Tetragrammitan. I'm the kid in school that I love technology, I love computers, so exactly as nerdy as you would imagine. And I was also a kid that always ended up figuring out what everyone else was into. I would buy a lot of, I don't know, magic eye books or something, and then sell them to my classmates. I like technology, and to be able to do more of the technology, I need money, and to make money, I sell something for profit. This was a full line to my childhood.
+
+[00:00:54.180] - Speaker 2
+Business was to support your technology habits. Exactly.
+
+[00:00:57.180] - Speaker 1
+Jensen Wong was the founder of NVIDIA, who's now one of the biggest companies. I got to meet him at some point a few years ago. Then I told him that to buy his first product when I was in my teens, I actually literally went to the hospital in Germany. They pay you to donate blood. I have all positive, which apparently they were very excited about. That was my first product market fit. I have a blood for his product. That's what I told him. He looks at me and says, You'd be surprised how often I hear stories like this. I'm like, Wow, you know you have a great product. Anyway, I needed money. Many years later, beginning of Shopify. This is the end. In 2004, I moved to Canada with my now wonderful wife.
+
+[00:01:43.700] - Speaker 2
+How did you decide to move to Canada?
+
+[00:01:45.340] - Speaker 1
+My wife is Canadian. As soon as I, quote, I left school, I finished 10th grade. Then I was 16. I started an apprenticeship at a company called Siemens. Germany has this wonderful vocational education system, which they can apprentice as a computer programmer. I actually left school. Four days of a week, we would be working in a company, and one day of a week, we would go to trade school. I had a master who I worked for, who took me on a swing. It's like, wonderful 200-pound long, gray hair and a ponytail, coming in to work on his BMW motorcycle every day. Everyone else wearing suits. He was so competent that no one I would impose any dress code on him. So a huge inspiration for me. I was studying under him and learned the ropes and learned programming like essentially a blue-collar craftsmanship. I actually think this is a beautiful way to learn about technology and worked wonderfully for me. Now I meet my wife. We lived in Germany for a year, and then she went to Canada to finish her studies. I decided to move with her because at this point, I heard about Silicon Valley and I knew where it was on the map, at least.
+
+[00:03:01.560] - Speaker 1
+I've never been there. But in Canada, I was closer to Silicon Valley than Germany. I was like, That seems like the right direction. Let's go. I imagined I would end up in San Francisco, but then Shopify happened and that got me busy.
+
+[00:03:12.720] - Speaker 2
+Did you have any ideas yet about starting a business or anything, or you just know that you're a programmer?
+
+[00:03:18.490] - Speaker 1
+I love the craft of programming things. I was looking for a programming job, and I got people to offer me jobs. But then I found out that I was there on a visitor's visa. It turns out they don't allow you to work when you're on a visitor's visa. I tried to figure out how to get a work permit, and then that seemed really hard. I talked with a lawyer friend, and what he taught me on the way out because I was dismayed. I guess I can't do any work. He said, Well, you could start your own company. It just as a throw away.
+
+[00:03:49.640] - Speaker 2
+So had it not been for the visa, you might not have started a company. You would have gotten a job.
+
+[00:03:54.950] - Speaker 1
+I think so. I'd like to think I might have seized another opportunity at some point, but It was like, not this one. This ended up being a really good idea. I love that. My wife, Fiona, was a wonderful person, rock of my life. She was working 14 hours a day studying. She was doing her degrees. I just told her, You know what? I think I'm going to just start something. She said, Hey, this is the perfect time for us to do this. Let's jump. It was fairly modest. I started a business selling snowboards, like an online store. I'm like, I I understand the internet. It seems like that's where things are going. I did not know that in 2001, there's a big dot com crash, pets. Com. All the companies that died were like that then. Order pets. Com, ordering pet food over Internet. All these things went up, became a huge amount, and then crashed because they crashed. It was nuclear winter in technology. Everyone was like, Clearly, the internet didn't work, or e-commerce, or all these things that crashed in dotcom, the e-commerce stores. I didn't know this. Anyway, I built this little snowboard business called Snow Devil.
+
+[00:05:07.180] - Speaker 1
+Up until then, all the other stores I saw were just a grid of products and there was no context. I wanted to tell a story. We got snowboards, you could buy them. There was a buy button, this thing, and a checkout and all these things you associate with the Internet now. But the description of a product was basically me and my cofounders or friends telling a story of like, here's what happened the day we took this one out. We ended up with just new snow. In Canada, it's like snows for half a year or something like this. So new snow, we took this snowboard for these reasons, and then we went out in the mountain and Bob got hurt and we spent most of the day in hospital. We just chronicled. It almost ended up not being about a product, but what people liked is just that these are real stories. It was like a diary. Exactly. Because it's just like a lot of times people end up purchasing products because they actually fell in love with the thing it stands for, what's behind it, the people it supports and so on. It's like almost a vote for something that they find valuable even beyond the product that they end up getting.
+
+[00:06:11.500] - Speaker 1
+So that was fun.
+
+[00:06:12.440] - Speaker 2
+You also become a trusted source when you're telling these stories, people trust you. You're telling them personal stories about yourself. It's just not all good stories.
+
+[00:06:22.660] - Speaker 1
+Exactly. It's like the day didn't work. We didn't get to use the snow, but we really wanted to. It's actually also really interesting. It's authentic. It's a real story. Like a friend. Exactly.
+
+[00:06:33.580] - Speaker 2
+Like talking to a friend.
+
+[00:06:34.660] - Speaker 1
+Again, we're talking in internet years, 2004 is another world. It might as well be 100 years ago. The most fun thing that was going on from a perspective of us techies was we were exploring this new medium. But this is like we now connected all the computers. Every day more people would be using this, but we haven't found out how to communicate. What are the patterns? What is the language? What's the esthetic of this medium? Just contributing something different ended up being just fun. People noticed and I didn't use an office share software. I just built the software I wanted. At some point, some gentleman from Pennsylvania ordered a snowboard. It's like, this is going to sound silly, but what my software did is send an email that someone placed an order. Now, at some point in the months before, I wrote that email. It Because I wrote the software. I had to write the email that it would send. I knew exactly what the email would say if it would arrive at some point. But then it would arrive in my inbox, and I just like, I remember everything about that day. It's just like, I felt like the day where I went from being a builder to an entrepreneur.
+
+[00:07:50.900] - Speaker 1
+Someone else saw value in the thing I built. One person. One person.
+
+[00:07:54.740] - Speaker 2
+One person engaged. Yes. How long had you been doing it at this point?
+
+[00:07:58.240] - Speaker 1
+I started four months For four months, there's no feedback.
+
+[00:08:02.880] - Speaker 2
+No feedback. Then you get one customer.
+
+[00:08:05.420] - Speaker 1
+One customer.
+
+[00:08:06.620] - Speaker 2
+It's proof of concept.
+
+[00:08:07.740] - Speaker 1
+It's proof of concept. It's just like someone... People do not want to share money. When they do use their money for something, it is a It's huge. It's a vote for everything behind this thing they are doing. They want the product, yes, but they also deem the story valuable. In a very real way, people do vote for more of that in the future. I think you're deeming the entire enterprise as something that you would like to see more of in the future, although we don't think about it like this. It is a profound experience.
+
+[00:08:36.760] - Speaker 2
+When did you start thinking about it that way?
+
+[00:08:39.200] - Speaker 1
+It was a couple of years later, I think maybe 10 years in or so. I was like, Okay, I built this. What do I want to do next? I sat down and was like, Why am I doing this? I just realized that moment I've had about becoming an entrepreneur, that the thing I built afterwards. Then Shopify now has millions of businesses. I can help other people have that same experience. I just think I want to vote for a world where more people are entrepreneurs.
+
+[00:09:08.790] - Speaker 2
+You realized the business wasn't selling the snowboards, it was providing the system so that anyone could do what you just did.
+
+[00:09:19.160] - Speaker 1
+Exactly. I wanted to share this. I had such a good experience with this, and I realized, you know what? Yes, there was other software for e-commerce, but no one has sat down and built software for new entrepreneurs, and that's a very different thing. Up until this point, all the retailers who were on the internet, they're already rich companies that were established, and they worked with some service provider, and they got a version of whatever they were doing online and It's going to take many millions of dollars. I want to make it so that for a couple of bucks, everyone can just go and give it a try. I want people to reach for their own independence during the lunch breaks.
+
+[00:09:56.280] - Speaker 2
+It's for the do it yourself community, really.
+
+[00:09:59.120] - Speaker 1
+Exactly. The mission of Shopify is cause more entrepreneurship in the world. You do this by lowering the friction. If it's required that you happen to have spent your entirety of your teenage years in dark rooms cultivating the craftsmanship involved in computer programming, Then that is a completely ridiculous barrier that you put in front of people who actually have something to contribute some product to share with the world. That's an unreasonable ask. And so lowering the barrier for entry actually causes more consumption, causes more people to do it.
+
+[00:10:31.720] - Speaker 2
+In a way, you're like a collaborator with the people who make things. That's right. You're their technical collaborator, and you provide them the service if they don't have the skillset to do it and make it really easy.
+
+[00:10:43.130] - Speaker 1
+Exactly. Importantly, we are not the thing. We are actually just pushed from behind.
+
+[00:10:48.740] - Speaker 2
+Shopify is invisible.
+
+[00:10:49.910] - Speaker 1
+Exactly. It's invisible. In fact, I'd like to think it has significant positive impact on the story, but it's not written in the story. It's your superpower. You don't go to Shopify to use Shopify. If you've bought anything on the internet and it wasn't on Amazon, it was probably a Shopify store. Shopify is all the other small boutiques. To be fair, some of the customers got really, really large. They started on Shopify and now massive businesses. But we would like people to be more successful. We're reasonably big now, and the best thing we can do to grow our own business is to make our customers more successful. We are just on the same side of the table with them, and that's That makes the mission so much simpler. What was the first non-snowboard business that got to work through this system? To be fair, after launching, it was a wonderful... This is 2006. It's been Shopify launched. I'll say for the first year or so, it was an amazing good platform for other people who wanted to also build snowboard stores and nothing else. I hoped it was generic enough for other people to use it, and it really, really took a lot more work to make it work for other industries.
+
+[00:12:01.680] - Speaker 2
+How did people know about it?
+
+[00:12:03.390] - Speaker 1
+It really was very word of mouth in a sense that because of Snow Devil and because it was so different, people kept sending me emails about, Can I license this software? I want to do something similar. This is actually how the idea really was born. What I then was doing was actually continuing telling the story of while I was building it and the decisions I was making about how I wanted to work, and I just tried to teach what I have learned. That created an initial group of people who were all ready to go. They tried something. Some of those businesses are still active. This was now, oh, man, that's a long time ago, like 2006. We were almost 20 years ago. There's really big business like Fashionova. It's a great customer, Alo yoga. And All Birds is a company that sells on Shopify, and then Public is a company fixed here in LA, it's just wonderful.
+
+[00:12:54.640] - Speaker 2
+Have any companies that already had their own sales technology How did you actually shut theirs down to use Shopify?
+
+[00:13:03.340] - Speaker 1
+Not for a very long time. When we're talking chronologically, 2006 was launched, and then it wasn't a good business, partly because, well, it turns out There's a reason why no one's built software for new entrepreneurs. Because new entrepreneurs, well, they don't yet know really what they're doing. They might not have their products. They probably have no money. They really require a lot of customer support. Shopify would have lost every single business competition that was ever created. It's actually a bad idea from this traditional business perspective. The big business, they're just not trusting some two, three guys up in Canada. We ask people to trust us with their livelihoods. It's like, yeah, no. If Shopify is down, the business is not operating. That's a huge responsibility, which we were asking for a lot.
+
+[00:13:53.360] - Speaker 2
+Did you feel that responsibility right from the beginning?
+
+[00:13:55.480] - Speaker 1
+Right from beginning, everyday sense. It's a huge responsibility. It's super motivating, too. I mean, beginning was tough. Costs were super low. We were living with my parents-in-law in my wife's childhood room, which we could use rent-free. And so that was very helpful. And the thing that changed was my wonderful father-in-law. He's a bureaucrat. He worked for a government on a government salary. We were running out of money, of course. And I couldn't meet payroll, and it was getting very close. Then our evening conversation, he just brought me a check to pay payroll. He kept doing this for almost a year because I was just married with Fiona. We were living in their house. It was like, I just like, we'll never forget these incredible I found out he took a remorse mortgage on the house for doing this. Without telling you. I was aware how much of my family was invested in this company already, and I still didn't know. I only found out years later how real that really was. I had incredibly generous people helping along the way. I was in Silicon Valley, which I then finally made it to just on a visit.
+
+[00:15:11.270] - Speaker 1
+The way this was set up in 2008 was all these fantastical storied investment house, Benchmark and Excel and Sequoia. They were all on one street, like this Santa Road, which is, again, for European, that's surprising. I would have imagined that all happening downtown. I was staying at a hostel somewhere close by, and I bought a bicycle of Craigslist. I had a meeting. For the first meeting, I couldn't answer a single question because I had no idea. I built software. I was like cosplaying and being a business person, basically. He had lots of patience with me, the venture capitalist. He asked me all these questions. I had no idea how to answer them, but I did write down all the terms he was asking me. Then later on, I used the neighbor's WiFi to look up on Wikipedia of what this actually is. Then I figured out I looked into the data and could answer one more question in the next meeting. It went like this one step at a time. Then I was there. Then right when I actually got me some interest. One firm gave me a term sheet, but it was conditional on moving to Silicon Valley, which I don't like when people tell me what to do.
+
+[00:16:25.100] - Speaker 1
+It's like it's very natural. I would rather do the opposite.
+
+[00:16:29.560] - Speaker 2
+It's It's funny because you moved to Canada because it was closer to Silicon Valley. It sounded like your dream was to someday get to live in Silicon Valley. But when they said you have to, you said no.
+
+[00:16:42.900] - Speaker 1
+I think my wife is very wise at using this against me. If she really doesn't want me to do something, then she understands the reverse psychology perspective and someone accidentally tripped over it. But it also was an interesting experience because I was meeting with a partner at this firm. This firm, this is a thing you practice for, I suppose. That was a day when Lehman Brothers was collapsing, Bear Stearns. It's like all this another financial crisis, almost like this dot com period. Again, this is odd business history events thing. They were basically saying, Yeah, so that sounds nice, but no one is going to have money. We're going to go in a bad time, recession. Everyone's probably going to go out of business. I flew back and I thought we were dead. Something really funny happened. Suddenly, more people started signing up.
+
+[00:17:38.000] - Speaker 2
+Why do you think that is? What changed?
+
+[00:17:40.160] - Speaker 1
+I think because it turns out that more people dream or want to be entrepreneurs than we think. It's in the back of everyone's mind their plan B for their career. Then when times went tough and people lost their jobs in finance, plan B becomes plan A. People We said, Okay, well, I lost my job. I'm going to go try building this business I always wanted to build. At this point, we were ready for this. This is what we trained for and help people build the business or take the business that's now struggling locally, your parents' artisanal leather belt business, and just maybe see if there's an audience or people who want this thing online.
+
+[00:18:24.860] - Speaker 2
+In some ways, the crash may have helped you.
+
+[00:18:28.980] - Speaker 1
+It absolutely It made the company. That's really interesting. It's just like it was there at the right moment, and suddenly, I think we made a profit for a first time. I'm talking, I didn't take a salary ever. It's a very virtual profit. But making a profit ever means that it's viable business and that changes everything. That's the early days about it. It's a blur.
+
+[00:18:57.900] - Speaker 2
+Let's keep going from there. What would the next breakthrough moment after 2008?
+
+[00:19:04.140] - Speaker 1
+At this point, we were at the end of the financial crisis, let's put this to 2010, just to pick a round number. We were, I'd I'd say 20, 25 people. What would those 25 people do? Mostly programmers. Actually, my co founder, Daniel, he was our chief designer officer, and he's a brilliant designer. He really had a role figuring out how to make internet software work. It was a key thing about JMP, we had to make everything as approachable as possible because we find- When you say designer, I think of designer as a graphic designer.
+
+[00:19:42.180] - Speaker 2
+You don't mean that.
+
+[00:19:43.100] - Speaker 1
+Yeah, I do. We We used to call it user experience. It's maybe a good term for it. It's not just what it looks like. It's a technical job. It's a technical job. It's a technical job that involves... Well, a lot, you live in Photoshop in these times as well. You create the user interfaces that are approachable It's terrible. If you put yourself into a mind of our users, again, you are reaching for independence, which is, by the way, an enormous act of courage. Putting yourself out there, you will know more about this than probably anyone I ever talked to, is frightening because you are creating something that is there for the world to judge. At least in our world, it's like the entrepreneurs usually told their family or their friends that they're doing it. There's a sense This is a public failure that people act on this. They're already frightened doing this thing, but hopeful. That's the mindset that most people use our software in during their early days. Are you able to figure out how to do this? Because if it's convoluted or complex. If a software is in a way of that, well, it will make you feel dumb.
+
+[00:20:52.640] - Speaker 1
+That is never your fault. People should never feel dumb because they can't figure out something in the software. It's always the software's fault, at least our belief. We tried to figure out how to make things just more approachable for the uninitiated because every single time we did, more people ended up using it. The venture capitalists in Silicon Valley that passed on Shopify in 2007, 2008. The reason why they passed on Shopify is because they said they did market analysis and there were only 40,000 online stores in the world during that time. They said, well, even if you get half of them, I mean, that's first of all really hard to do. Then second, it's still that's a good business, but maybe not a great business. But what they missed is the reason why there was 40,000 online stores is just because it was too hard. How hard it was to do.
+
+[00:21:43.980] - Speaker 2
+Exactly. Yeah, the point of entry was too much. Would you provide only the online experience or would you help with shipping or any of the other things?
+
+[00:21:54.080] - Speaker 1
+Yeah. We give you an online store to begin with. I mean, today Shopify does so much more of a point of sale and all these things. You can buy products for ChatGPT right now. It's like as of last week. But we also help with shipping, buying the shipping labels, figuring out how to do this, helping you. Most of what Shopify really does is integrate you into whatever you want to use. You work with a warehouse, it integrates into Shopify, the products will just leave the warehouse for you when they're being ordered. How to professionalize the business is all these things.
+
+[00:22:26.460] - Speaker 2
+I have a question. If I have a business and if I'm selling my things on Amazon, person would buy it from Amazon and then it would ship from the Amazon warehouse to them. With Shopify, it would be on my own store instead of Amazon, but the back-end would work in a similar way. Is that correct?
+
+[00:22:51.380] - Speaker 1
+Yeah. Most people start by either self-shipping the product. I had my snowboards in the garage, a garage full of snowboards, and I sold through them. That's not that common anymore because the infrastructure has gotten good. There's warehouse you can go to and you give them the parts and then they ship them and that all integrates. For most people, it would be very similar to Amazon.
+
+[00:23:12.800] - Speaker 2
+Do you want to have something in someone else's brand or whether you want to have your own storefront brand?
+
+[00:23:18.560] - Speaker 1
+Yeah, exactly.
+
+[00:23:19.480] - Speaker 2
+Would that be the main difference?
+
+[00:23:20.450] - Speaker 1
+That's the main decision you're making, exactly. Then the difference is how much money do you make when you sell? Because when you sell for a marketplace, the fees are like a tax. It's often like 15% or something, which is razor thin. Many categories of products can't operate even at those numbers. Sometimes they're much higher. But your store is your own thing. It's like it's 70. There's only two things you can own in the internet. It's like your own domain and your mailing list. Everything else is leased. Shopify is the thing you put on your own domain. It's your design. You make the full margin and you can place advertising or you can just guess can be your company's homepage and all these things are possible. It It plays a role. I'm going to complicate things a little bit because they often then buy something from Amazon. That order flows into a Shopify store, and then Shopify says Amazon to send it out. There's a lot of these components. If you buy something off Instagram, there's a lot of crossover. The software is complicated. It's never quite this one thing it does. The thing you get when you use Shopify is that you can then plan to expand your business however you like, but you always keep sovereignty over decisions.
+
+[00:24:27.910] - Speaker 1
+We don't impose on you limitations. In fact, we have 3,000 engineers that basically integrate every single bit of the global world of commerce into the software and then hide that feature until you need it. If you need it, make it so that it's easy to make a decision of if that's something you should be doing. It's global.
+
+[00:24:46.220] - Speaker 2
+It's not just North America.
+
+[00:24:47.440] - Speaker 1
+Yeah, 175 countries. We have customers in.
+
+[00:24:50.600] - Speaker 2
+When did it expand to the world?
+
+[00:24:53.400] - Speaker 1
+It would be around these times. Here's what happened in 2010. Until this day, I was programming all day long. It's been pure 16-hour days, and I loved it. It was just incredible time. I need to start doing a little bit more, just figuring out business and setting all these things up. I had hopes that I would find a CEO for a company because I really wanted to look after the technology. But eventually someone told me, just like, you will never find someone who gets as much as shit about this as you do, and you have to run this. I'm like, okay, I take this more seriously and learn some of her skills. I love actually being bad at stuff. I find learning the entire point of it. I started focusing a little bit more on this. We had some money saved and said, Okay, let's do some marketing programs. We just actually didn't really do marketing until this point. We didn't have money for it. I separated out in five different programs. We did five different tests to see if any of them would help us grow the business. Then it turns out all five worked.
+
+[00:25:54.420] - Speaker 1
+I'm like, Okay, clearly we need more money. When I started talking about venture capitalist. We started going this route. We were actually a six-year-old profitable company going for venture capital, which is totally the wrong way around. But it became clear to me that this was not... I thought of Shopify a bit as a lifestyle business, as in they'll make profit and then we just tinker on it, and it's going to be a reasonably small affair. But it became so important to so many people so quickly that it was very clear that I had to support it differently. All the said, it's like I went again back to venture capitalist, we raised money, and Then things just went very, very, very quickly. Five years later-What did you do different when you got the influx of venture capital money? I think maybe money in general, but definitely venture capital money. It's an amplification of everything that's already there. Basically, I think what VCs do is they accelerate the process of revealing everything that actually would have happened otherwise. I think in a way, I'm super thankful that we went this very winding and non-standard way because we were just a very good business at this point.
+
+[00:27:00.950] - Speaker 1
+Really, we made every dollar count. We really were very good at being effective. Once we had the money, we were like, Wow, that's a lot of money. I mean, a couple of million dollars is an incredible amount of money. Let's invest that just as wisely, even though it was a bigger sum, into these marketing programs we were setting up. It just turned out there was just this incredible... This was just a time where the internet was clearly there, everyone had broadband, e-commerce. I mean, there's no one confused about this. The iPhone, there was just a lot of happening at the same time. The growth just went totally into a different year. And so I learned how to put an executive team together, although lots of our wonderful people like it because we just prioritized learning as a thriving on change, learn things quickly. I mean, funnily enough, no one of us ever worked in a public company. I had to figure out what that even really is. But we figured that was a good thing for us to do. In 2015, we went public.
+
+[00:28:04.760] - Speaker 2
+How was that experience?
+
+[00:28:07.000] - Speaker 1
+Profound, actually. I'm not super sentimental, but writing the first line of code for something and then about 10 years later, just bring the Bell at the New York Stock Exchange. This is like, man, that is a surreal experience. This is a significant percentage of what's possible to do in in the world of capitalism, really. It's just like- And not what you set out to do. No.
+
+[00:28:35.480] - Speaker 2
+It happened.
+
+[00:28:36.260] - Speaker 1
+I call it, this is not a fortune cookie. It doesn't sound very good, but it feels like a collaborative inquiry into a question. A question is, what would the world look like if entrepreneurship would just be significantly simpler? Would people do it more? The beautiful thing is that question is like a resounding yes as an answer, and the degree of a yes was not absolutely unclear It's clear to me.
+
+[00:29:03.840] - Speaker 2
+Did you find that the functional aspects of the technology of an online store is pretty similar from company to company? The thing that makes it different is the story you're telling within that technology. Is that right?
+
+[00:29:17.910] - Speaker 1
+You're spot on. It's exactly that. It's the first 80% of the same for everyone, which you can give them right off the bat and just set them up well. The next 20% are different for absolutely everyone. It's the creativity, it's the It's the storytelling. It's the narrative, it's explaining the reason why you exist. Even if you go to Shopify. Com today, because this is what we tell our customers, on the top, there's a video that's linked which says, Why do we exist? Which is actually just what was not there that needed to be there and why this product have to be created. The best entrepreneurs tell that story. It's like we live in Toronto, we go to vacation with my three boys, and we go to Caribbean. It's always has this pirate quality to it. We like playing poker. For whatever reason, I found a shop for a story that sells pirate-themed poker sets. I'm like, I don't know how many people there are that really, really want this to exist. But I'm so excited to play with golden dupleones poker in the Caribbean with my boy. It's like my life is not 100 times better because of it, but it's like that vacation is 10% better and that's so worth It's because it's the thing that you want that probably no one else wants.
+
+[00:30:33.530] - Speaker 2
+Exactly. All of the niches that are interesting to somebody now have a place to live.
+
+[00:30:39.560] - Speaker 1
+Exactly. Someone's esthetic said this is a thing that should exist. There's like a thousand true fans in the world for this, maybe. Maybe that's all there is, but you can make a living with it. It turns out the Internet is so big that if you have a thousand true friends, you have a lot more. Because the difference between someone who appreciates something and someone who is utterly are excited about something is like me right now telling you about this. It's like there's a virality to just good ideas. In the traditional world of retail, that wasn't allowed because a lot of retail before the Internet It was dictated by merchandising executives. If you made a product, you had meetings with the merchandising executives at Walmart and Target and other places, and they had limited chair space. They were making cost-benefit analysis, like how much What profit margin does your product have? How much space do I have? Where can I put it? The channel by which products could be sold was one which optimized away everything that was interesting for some but made it appealing to the most. I think a lot of the consumerism that people verify, it's not because people love stuff too much, it's because people hate the stuff they get.
+
+[00:31:54.710] - Speaker 1
+The quality is not there. What's actually intact, again, because of the of a distributed internet and this global brainstorm about what are the things that ought to be existing and the voting for dollars is that fully intact great products can be created and can be marketed and can be found. Then there's this incredible incredible systems like Facebook's advertising engine that says, Hey, you can actually probably find people who like pirate theme and poker. It's like this is possible now. You can connect to people who are utterly delighted. This is the engine which is driving it all.
+
+[00:32:30.430] - Speaker 2
+The idea that if a thousand people in the world are interested, that could be a good business. Whereas in the old model, if there were a thousand people in the world, there would be no way to ever… Nobody would ever know.
+
+[00:32:40.620] - Speaker 1
+Exactly.
+
+[00:32:41.580] - Speaker 2
+It wouldn't make sense to do it where you are because where you are, you might be the only person interested. There was no avenue to get to the others.
+
+[00:32:49.460] - Speaker 1
+That's exactly right. If that would have remained the case, I think the world would feel very muted compared to what it is. There's just a vibrancy that doesn't exist because, again, products matter. We People love the things they buy. People buy wonderful objects for all sorts of reasons because they want to feel connected to the people who created it because they love the story. One of our incredible success stories very early was Kylie Jenner with her lipstick brand. It went incredibly big because when I grew up in Germany, the star, the first time I was like, Michael Schumacher, a Formula One driver. You would see him on television all the time, and he was making advertising for toothpaste. It's just like, even to a nine-year-old that felt dissonant, it feels very much by doing this, he's using his reputation. He's drawing against the bank account of reputation he built. He's using it to benefit the Colgate or whoever. Now, with Kylie's Lipstick, that's so her. That's like every transaction is actually additive. People have a stronger connection to her. I think it's just very pure. This is why I'm so excited. I hope to do this my entire life because I just love this space.
+
+[00:34:06.060] - Speaker 2
+How difficult was it to scale along with the interest?
+
+[00:34:10.920] - Speaker 1
+We were a public company for a few years, learned how to be a public company When the growth was very, very good. Then COVID started. We were under shelter in place orders basically for a year and a half in Canada. It was extremely tweaked towards the overabundance of caution. That was difficult for a company. Of course, when you work with a lot of small business, and again, we have millions of small businesses on Shopify, they are the lifeblood of our economies. Like 60 to 80% of people in every country I look for small businesses, but they are fragmented. If you're, I don't know, any of a large companies, you can represent the interests of the entire company really well to like politicians or so who need to know about your needs or whatnot. The small businesses have very little representation in this way. One thing that always happens during every time of crisis, and certainly during dot com and financial downturn that I've encountered, is that the small businesses really, really suffer. A lot of them go out of business very quickly. We have no credit. We don't have inventory. We can't absorb a downturn of spend.
+
+[00:35:21.940] - Speaker 1
+I went in front of a company and said, Look, all of us made life decisions. We made decisions to not become doctors. We made decisions to not become nurses. We can't help for health crisis here. But the thing that we can do as our mission is just make more small businesses get to the other side of us than otherwise would. Let's try everything we could. We figured out overnight how to extend credit to people and from out-of-balance sheets and all these things. This wasn't clear to us initially, but maybe should have given the patterns. Well, if no one can leave their house, e-commerce starts playing a completely different role in the world. We just We worked out all the plans, the roadmap, all the work that we did ended up being pointed at a thing that just gets businesses to the other side without having to lay off everyone. It worked really, really well. We doubled in a year. We actually had the craziest insane things inside of a company. We had to be on call with all internet providers who were running auctions on server capacity because the world couldn't produce more chips anymore.
+
+[00:36:30.220] - Speaker 1
+So all the computers that made up the internet, with all the computers we've had for a while, you all had to ration, basically. There's so many stories there. But from a corporate way, Shopify exploded and ended up being very much talked about I'm super proud of what we did. Internally, basically, almost fell apart. It was just such a stressful time and so difficult to manage. So many people decided they're just like, They've had enough. This is too hard. I had to live I took two different lives externally and internally and tried to... I felt like I kept a bomb from exploding by just trying to wrap it from all directions and get my arms around it. So it was a really, really trying time, but also just, I think, that really, really tested us.
+
+[00:37:15.280] - Speaker 2
+How much customization can a store get through Shopify?
+
+[00:37:20.680] - Speaker 1
+You should not be able to tell that you're interacting with a Shopify store. They look completely different. Again, sovereignty is a word I use a lot. It's like if you don't have ability to make the design or the look of it feel anything like your vision, then I would feel as a failure as Shopify, even if you continue using us, because our job is never to constrain you.
+
+[00:37:42.460] - Speaker 2
+Not to limit the seller.
+
+[00:37:43.460] - Speaker 1
+The thing that's under our control is that we want to go and make it so that you can be as creative as you can.
+
+[00:37:48.540] - Speaker 2
+Do you have competitors?
+
+[00:37:51.500] - Speaker 1
+I mean, for a while, people made a lot of Shopify and Amazon being competitors.
+
+[00:37:55.420] - Speaker 2
+Do you think of Amazon as a competitor?
+
+[00:37:57.560] - Speaker 1
+No, I never did. I once ran my mouth because I was starting to get annoyed with the question. I said that Amazon is trying to build an empire and Shopify is arming the rebels. Apparently, it turns out Jeff Bezos is a very big Star Wars fan and never saw himself as staff waiter. That's turned out to be a really, really unbecoming I'm not saying analogy. Then it got quoted a lot. Anyway, no, I think of Amazon as an extremely worthy rival. I think competition always feels like someone's dying in But a rivalry is a wonderful thing because you get to inspire each other to be better. These days, we actually work super closely together on many things, so it's hard to even make a rivalry.
+
+[00:38:38.630] - Speaker 2
+If one of your stores, let's say one of your biggest accounts, had great success selling a product, would you then ever manufacture the same product to try to compete with the person?
+
+[00:38:49.480] - Speaker 1
+We would never, ever manufacture a product. That would be incredible.
+
+[00:38:54.000] - Speaker 2
+That's a difference between you and Amazon, for example.
+
+[00:38:56.130] - Speaker 1
+I don't know how much this is actually cultural for Amazon. Amazon even, but it's just a consequence of being a marketplace. Because, again, the internet of the '90s, sorry to go back there, but there's a bunch of idealism encoded here in the way Shopify works. Because in the '90s, again, I grew up in a very small city, Nothing terribly interesting happened ever. I think Julius Cesar founded it. That was probably the most interesting thing that ever happened there, so 2000 years ago. At some point, the internet came to town and then you explored it. It was this new thing. It was fantastic. For the first time, you could interact with people without having to call into a radio show or something with people who were everywhere in the world. And that was incredibly liberating. You could serve a website to everyone. It's up to you. There's no license. I needed no license to start Shopify. I just had a machine started to respond to request, and it's an incredibly liberating affair. So it was promising an incredible decentralization of power and It's a lot of opportunity. Unfortunately, a lot of aspects of the modern Internet are actually quite centralized.
+
+[00:40:06.360] - Speaker 1
+We wound up with one search engine and maybe two or three social media networks, all different. There's one in every category. The Everything Store, literally. They're obviously super convenient because when there's a search box, you can type in exactly the widget you want, you'll get it and you purchase it. That makes perfect sense and maybe even it's ideal. But I come at it from another perspective. I'm like, well, what if we take the ideals of the '90s, everyone has their own site and everyone is their own Southern individual and really explore that. Would it work? It turns out in e-commerce, it's actually really valuable. It works as well. It's almost a bit of a clash of visions for how the internet works. Now, people would argue Shopify itself is a one big piece of software that hosts all of them. Maybe that's also not exactly the spirit of early internet, but fair enough. I think it's an implementation of the same ideas.
+
+[00:41:01.740] - Speaker 2
+Tell me about your relationship to coding.
+
+[00:41:04.200] - Speaker 1
+I love coding. I sit down on a Saturday night when I have time and I just put headphones on. I always have a couple of things that I want to get done. It's like it's my craft. What type of things?
+
+[00:41:18.080] - Speaker 2
+What are the type of things you like to get done?
+
+[00:41:19.960] - Speaker 1
+Sometimes I make games. There's these things called game jams or jams in general. They're like just people decide from this time to this time, we are making a game and everyone should share it. Like a competition Almost, it's not even... There's no prizes. It's just a convenient excuse for creating constraints. Creativity must have constraints. I love the artistry of it. The only way to be a good programmer is to be a very, as a code learner because you have to understand the problem domain that you're trying to solve so well that you can actually write software against it. There's so much wonderful things about it. It fits my brain in a way that I almost can't access this this creativity in any other way. Anyway, I think it's deeply creative, it's deeply interesting, and it's a wonderful craft by itself. I personally use a Japanese programming language, which I found in 2004, then I could make all choices. My own company, I can now use really, really weird things that I could never use. Then this programming language out of Japan called Ruby, that's what I built Shopify in. Again, because it felt like when I was using other programming language, it always felt like I wanted to paint, let's say, an oil painting, but someone giving me crayons.
+
+[00:42:35.580] - Speaker 1
+It just didn't mismatch. Then I found Ruby, and I just like, I found that my brain ran on Ruby even before I knew of it. I'm using this language because It really feels like it connects with me at that level.
+
+[00:42:48.240] - Speaker 2
+How has AI impacted Shopify?
+
+[00:42:51.280] - Speaker 1
+I consider myself so incredibly lucky here because, again, I saw technology grow up, and I've been part of this industry long enough that I've seen when a new platform came out, we connected all computers through internet, and then the phones came out, which was another platform and it made things so interesting. I didn't expect to have another one of those. I think this is the best. I always thought Shopify was a company that is a bridge between the real world and the world of the internet and technology because really the software I make is so that other people can help themselves to everything that technology has to offer for their own pursuits. But software was always pretty autistic. It doesn't understand the meaning behind anything or so. It just it blindly follows. I think AI is increasingly allowing people to have collaboration around intent, actually conversations that lead to more creativity. With chat bots or conversationals, we see this. It's deeply integrated in our software. We are super excited about it. I think it's an incredible to actually have to reinvent all software again. It's certainly-It's not daunting to you. No, I love it.
+
+[00:44:07.420] - Speaker 2
+It's an opportunity.
+
+[00:44:08.480] - Speaker 1
+Yeah, I don't like Stasis. I don't know this for sure, but I would have probably retired now if it wouldn't have happened for AI. But AI gives me... Again, I love the task I got myself in life, which is I really deeply care about value in this on Shopify and this idea. I found my gifts early, like with programming. I cultivated them to be hopefully very good at them. Then through Shopify, I managed to give them away, which is, I think, really the meaning in life is to share the gifts that you've cultivated. The technology capabilities coming, there's so much more we can do for people. We used to do a survey, and I wish we would have done it more. In this survey, we had lots of questions, and one of them added on a whim was, do you know someone who within 24 hours, would respond to an email or a text message about an entrepreneurial question? The amount of people who said yes was something like 70-something %. Then initially, I was super impressed by this because I would have imagined this would have been much, much lower. Then we had the idea of, let's try this in general population.
+
+[00:45:15.360] - Speaker 1
+It turns out it was like 9%. We're like, Okay, well, what's happening here? Very simple. What's happening here is that only the people who know someone who has done entrepreneurship actually try to build businesses because otherwise it just seems impossible.
+
+[00:45:32.440] - Speaker 2
+The model, having the model.
+
+[00:45:34.540] - Speaker 1
+Having someone, having demonstrated that it's possible. Having someone, when you run out of options, answer the question. It's so hard. How do you incorporate something? Who knows? It's different depending on where you... You can't even read a book about it. Now you sign up for Shopify, you have a thing called Sidecake. You can have a conversation with it, infinitely patient, super intelligent, knows everything about entrepreneurship, can tell you how your business is really doing, and do all sorts of tasks for you. You start out with a co founder, which is really beautiful. It costs no equity. It's just there to push you. I love all that.
+
+[00:46:10.000] - Speaker 2
+Is there any advantage or disadvantage to being based in Canada?
+
+[00:46:15.240] - Speaker 1
+Canada had a perfect culture for doing something like this when I started. If I would have been in Germany, it would probably been too much... It would be too frictionful. You would have to... You need to start with $50,000, which I didn't have before you can incorporate anything. I call Canada basically America for Europeans because it's such a fun mix of the two. It made it very easy. Then we started and built there and always found good people. I think there was an advantage of not being in Silicon Valley. In fact, for commerce, specifically. In many ways, it made it harder. But Silicon Valley really committed itself to making money for advertising. It's such a good business model to make money for advertising that if you do anything Anything else, you're running out of time too quickly. You can't make money fast enough. It's so much slower to build something that you charge money for, like monthly, like Shopify. I think there were some advantages there. They did this funny thing. I don't know how real it is, but I only realized this years later, I'm curious what you think about this. I would travel to St.
+
+[00:47:20.240] - Speaker 1
+Imbelly, and then I would have meetings with people, and I would ask them millions of questions about how to build companies because I was trying to figure it out. Then I would write everything down and try to figure out which of this makes sense. Then I would localize it if it's a good idea to Shopify and I want to implement it. It took me a long time to figure out that in this conversation, I didn't actually hear the real answers to what other people are doing. I usually got the highlight reel or actually the ambitions. Often I got the ideas they have that they wish would be true and they're currently working on. I compared that to my average. I compared the highlight reel that I got from Silicon Valley to what actually was going on in a company. Then I implemented some of those things. I I ended up with, like something, a better version much earlier than anyone else on these matters. And in a way, it actually almost head faked Shopify into being a better company than it could otherwise been. Because if it would actually been closer to everyone, we would have a much better model for what the companies around us are actually like.
+
+[00:48:16.750] - Speaker 2
+It would have made it more ordinary.
+
+[00:48:18.010] - Speaker 1
+Exactly. It allowed us to just be, in a way, extraordinary and different. There's value in difference. The sameness is conversion.
+
+[00:48:27.260] - Speaker 2
+Absolutely. If it's the same, why do it?
+
+[00:48:30.370] - Speaker 1
+Yes, exactly. It is an axiom that if you want to be better, you must be different because if you're the same, you end up being the same. This is the way the sentence continues. Just finding different constraints that mean that you end up different means that you have a chance of being better because otherwise you don't. Distance actually is more valuable than people think.
+
+[00:48:52.320] - Speaker 2
+How do you think growing up in Germany impacted you?
+
+[00:48:55.820] - Speaker 1
+I think Germany initializes your acceptable minimum quality higher. I think that's a good thing and a bad thing in a lot of ways. I remember going to the MoMA at some point, I think the one in San Francisco, and there was a Dieter Raams' exhibit. He's a designer of this wonderful product for Braun. I loved it, but it looked like my house growing up. It's just like all these beautiful objects were like that's literally the LP player and the coffee machine and the razor my dad used. I think it's harder to create a product in and get market acceptance because the minimum quality bar that people accept is higher. You cultivate tastes, I think, in a way that I think is also important. Then coming to North America and working in Canada where people are much more, Hey, let's put an MVP out. The confluence of those two things is like, yes, but is it good? Yes, it can be minimum viable. I push people to call it minimum lovable product. What's something that actually someone might actually love if it turns out to be good? I I think that ended up making a difference.
+
+[00:50:01.440] - Speaker 1
+How do you think about that?
+
+[00:50:02.980] - Speaker 2
+That sounds good. I think we can know what the bar is for us, but it's very hard to know what the bar is for someone else.
+
+[00:50:08.280] - Speaker 1
+But you cultivated an incredibly well-refined taste. Something passing your quality bar is an asset test that it's high enough in the market. If it is high enough for you, it's probably high enough for everyone. That doesn't mean it's going to be successful. No.
+
+[00:50:24.820] - Speaker 2
+The opposite is often I would miss things that ended up being very successful just because that looked similar to something I saw when I was younger and didn't seem so revolutionary now. But to the people at that time, it was revolutionary.
+
+[00:50:39.760] - Speaker 1
+Yes.
+
+[00:50:41.520] - Speaker 2
+How many employees do you have now?
+
+[00:50:46.700] - Speaker 1
+Shopify is 8,000 people, about half. Half in Canada and United States. Yeah, public company, $120 billion market cap thing.
+
+[00:50:56.030] - Speaker 2
+How did the business change when it went public?
+
+[00:51:01.480] - Speaker 1
+I think it just got better. We weren't public so early. This is another one of us. Everyone, Silicon Valley, was always telling me, Go public as late as possible, and I just couldn't find it. I tried to get people to argue from first principles for this idea, and it seemed very derivative. It's like, Oh, other people are going public later, is what I heard.
+
+[00:51:20.880] - Speaker 2
+What does that have to do with you?
+
+[00:51:22.680] - Speaker 1
+That is the worst reason. Exactly. Again, I felt a certain… Just There's a difference also, the institution of being public. Again, I want to share. I like to develop your gifts and then I cultivated them and then share it widely. I had wonderful investors, and they all fully trusted me. I had 100% trust. I could not I'll do it more if I try it. It's like battery doesn't charge past 100%. I can get a new set of private investors. But I think what's much better is become a public company, have some people, hopefully early in their career, make bets on you, and then we grow the company together. That's going to work well. They are going to be successful, and there's going to be a kinship or a relationship that's being developed, and it worked perfectly this way.
+
+[00:52:08.020] - Speaker 2
+For some reason, some people have the experience of going public and feeling shackled by the experience, but you didn't have that experience.
+
+[00:52:17.180] - Speaker 1
+To be fair, I should say that I just retained control in a way that helped. I started the company, I think Shopify, at least while I'm there, would do very poorly if my job would have to become to be consensus builder. It's just because to me, the consensus always finds the least objectionable option. What I want to do with building, I want to build work-class things. To me, that comes from a really big piece of software like Shopify, feeling like it's written by a single author in the end. It isn't. It's thousands of people working on it. But there got to be one consistent You can't just switch perspective all of a sudden or writing styles from one screen to the next. In the same thing with a company, again, even investing in a company is a vote. If you're voting with your investment money for a company and you want to participate in the value. That is a company run by their founder. I think what you want is that founder to be in control of a company because that's what you don't want. You will need someone very different. Let's call them founder-run companies and managerial-run companies.
+
+[00:53:31.680] - Speaker 1
+Managerial-run companies, the job of CEO is totally different. The job is to create a plan. The CEO doesn't actually have a legitimacy to decide exactly what the company does. People think so, but it's not actually like that. The legitimacy is a thing that's built. What the CEO does, it creates the stakeholders a plan and then creates legitimacy in the plan. The plan is then followed by everyone. It's the plan that has the authority. The CEO just has ability to influence the plan heavily. That also makes these companies very hard to adjust. If you want to pivot or something, you need to make a new plan and explain why you didn't screw up with the last plan. This is why large companies often have a hard time incorporating AI quickly or something like this or doing COVID. Founder run companies are different. The fact that the slot is filled, that the person is there who has all, in my case, the 20, almost 21 years of being there for every decision. Every step. Every step. I can talk with great authority to what the Shopify way is about something, how to make this. Therefore, when COVID happens, the day that happened or when AI comes out, I'm actually not beholden to the roadmap Because the roadmap exists because it comes from figuring out what the exact best things are to work on right now.
+
+[00:54:52.300] - Speaker 1
+But if reality has changed, that is clearly now something different because otherwise, reality didn't actually change. I think they have underappreciated how different they are, founder-run companies and managerial-run companies, and neither is better than the other. In fact, in most business sectors, I think founder-run companies are a mess. They're a hot mess of chaos and hard to predict and they're harder to work for. Things change on a dime. For the right people, this is the best. They love this energy. They love the ability to creatively impact the entire thing. Just ideas matter in the best cases. The best idea wins. It doesn't matter who said it. But if everyone who disagrees, there's someone who can just say, We are going to go with the best idea, and this is it, based on this thing, rather than, Highest paid person said so.
+
+[00:55:38.260] - Speaker 2
+Would you say you trust your instincts?
+
+[00:55:40.540] - Speaker 1
+Yes. I think instincts are your entire life's experiences rolled up and ready for instant decision making. I think people should trust them more. It's just you have to cultivate the instincts. You also have to learn a lot. Sometimes people end up trusting all the instincts, and that can go poorly. But I think for engineering and for business and strategy and entrepreneurship, so yes, I trust that instinct.
+
+[00:56:04.440] - Speaker 2
+Do you question yourself? If you have an idea, do you question, is this going to work? How will it work?
+
+[00:56:09.230] - Speaker 1
+All the time. I never am as hard on anyone else's ideas as on my own. I actually discount my idea significantly because I just like the conversation. I work with absolutely incredible people. The worst thing that you can ever do as a leader is just constrain the upside. I want to raise the floor by just navigating us around It's just bad things that have been tried, don't work or won't work in this case because I can spot those, but I don't want to cap the upside.
+
+[00:56:37.120] - Speaker 2
+How difficult is it to recruit people?
+
+[00:56:40.240] - Speaker 1
+The moment you have a bunch of 20 people in a company, you're really in a people business. It's like you're drafting the team, you're finding great people. I've hired people who I've worked on for 15 years before. Is it hard? It's super hard. The thing I found that makes it really easy is just be very, very clear who you want and who you don't want. I think people are not ready enough to. I almost talk people out of coming to Shopify. Sometimes I just explain, look, this is, again, founder of a company. Therefore, if you come from Siemens and you're very, very used to everything being just operationally fantastic, We're like, none of that stuff happens here. We are just like, we are a company, we try our very best, but every once in a while, people have to put on their cape and be heroes. That's the way it works.
+
+[00:57:25.280] - Speaker 2
+What are your reading habits?
+
+[00:57:27.480] - Speaker 1
+My wife is in a completely different cicaden cycle to me. I would be a night owl if the world would let me. She's a light sleeper, so we're both in bed at 10: 00, and I read to one. It gives me wonderful time. I have my Kindle that doesn't cause too much light, so she doesn't wake up. I read sometimes fantasy. I make it so that every third book has to be a book that I think I will disagree with. That's one of my things, which has been a fun habit. I tend to read books that are older at this point. Actually, Mark Andreessen has gotten me on this. I read too many current-issue books, which were all the same book in the end, and I was complaining to him. He said, Just read books that people recommend that are More than 40 years old. Then you only read the books that stood the test of time. That's been actually a wonderful habit for the past recent years.
+
+[00:58:23.880] - Speaker 2
+What are the things you'd like to learn about?
+
+[00:58:26.660] - Speaker 1
+I think everything's interesting. I've never found anything that's not interesting. I teach this to my kids. No one of my kids is allowed to say that anything is uninteresting. They can only say this isn't interesting to me yet, which is actually a wonderful way to do it. Obviously, I study excellence. I just love reading about excellence in every other field. I love biographies. I also try on different hobbies. If someone I really admire has a hobby which sounds surprising to me, I try it on. I really, really, really got into motorsports, which has just been so incredible. I call I call Zen Buddhism 200 miles per hour. It just focuses me in a way nothing else seems to be able to do. I do endurance racing.
+
+[00:59:09.780] - Speaker 2
+Endurance racing, driving?
+
+[00:59:11.320] - Speaker 1
+Driving, yes. What's an endurance race driving?
+
+[00:59:14.350] - Speaker 2
+How long is that?
+
+[00:59:15.520] - Speaker 1
+The most famous race is the 24 Hours of Le Mans. You do that with a team of three people. I'm training for doing it next year. This year, I've done a 24-hour race at Datona with the team. It's the hardest I've ever done. I was delirious driving at 2: 00 AM after already having driven for four hours with 60, one other cars. One of the most beautiful things about motorsport is that you do it like amateurs and pros together. There's no tournament where you can play with the best tennis players. It's not like as well because it's too much of a weak link. But in motorsport, one of the three drivers is an amateur. If you're a fast amateur, you can go find fantastic pros who you can then learn from. There's always so much to learn. I just love doing difficult things with interesting people. I serve with the through line in my life. It's a wonderful event.
+
+[01:00:08.080] - Speaker 2
+Does the fact that the consequences or dire play a big role?
+
+[01:00:11.830] - Speaker 1
+I think so. I didn't even have a driving license in Canada. I just had one in Germany and then a six by it. I never drove. I don't even know if I truly love cars. But I got invited to a track day and friends just pulled me with them. It's like, I heard. Then They put us in these cars and gave us instructions, and they let us go on a track. Then they immediately pulled me in on two laps later, and I thought I did something wrong. But then they told me my tank of gas was empty. It was 40 minutes later. I'm like,How is that possible? You thought you just started.
+
+[01:00:50.800] - Speaker 2
+You lost time.
+
+[01:00:51.900] - Speaker 1
+I lost… This has never happened. It was just incredible in this way.
+
+[01:00:57.080] - Speaker 2
+You were so concentrated in what you were doing. Time stopped, essentially.
+
+[01:01:00.640] - Speaker 1
+Because what I realized is racing is there's a perfect lap time out there. It's physically possible to calculate this, I imagine. The actual lap time you get is the sum total of all your inadequacies as a driver. It's like you're competing against yourself, you're competing against the track. The other cars are actually obstacles to this. But you get this immediate feedback. After every turn, you feel it, you're connected for your ass to the car, to the ground, to You're feeling all the movements in the car. You get the lap time at the end and you just know if you did well and you know that you're getting better. You're connected to the ground at the bottom of the tires. It's basically four playing cards of contact patches, that's all. From them, you can ask up to 100%. If you ask any more, it's bad. You don't want to. You're trying to get this close to 99. 99% of what the grip can do. Then you invest it either in going straight or in two turns. It's immediate feedback, visceral, high adrenaline, skill building. That's wonderful. I love it.
+
+[01:02:08.410] - Speaker 2
+Do you feel like every lap you're aiming to get the perfect lap over and over again?
+
+[01:02:13.800] - Speaker 1
+You're chasing something, right? You're chasing this thing that's just elusive. Again, you have to accept that you cannot drive perfectly. I find that incredibly motivating. I have never been externally motivated, broadly. I've always been internally motivated. I just believe we meet the person we could have been at the end of our lives. The point is to try to minimize the difference. This is what else is there. You cultivate your sets of skills, and then along the way, you share them again.
+
+[01:02:45.660] - Speaker 2
+Would you say you spend most of your time in your head or in your body?
+
+[01:02:50.300] - Speaker 1
+In my head. To me, self is camera at abstractor, analyzing the day, the situation. Again, how can I show a better tomorrow It's the types of books I am drawn to are the ones that talk about these things. Growth is good.
+
+[01:03:08.060] - Speaker 2
+How does being an engineer impact you as a CEO?
+
+[01:03:13.820] - Speaker 1
+I think engineering is a great preparation for it. Good companies are complex adaptive systems. There's a good deal of game theory in incentive system design. Engineering is like how to get a large system to end up doing the thing that it is supposed to It's like that's basically what you get computers to do, especially the engineers. I did a lot of internet and network engineering. This might be too much in the weeds, but the moment there's a network cable, you don't know if a thing that you send on a wire will arrive on the other side. You actually have to build the system in such a way that it's self-healing. You have to build a system that if something is out of order, if a packet doesn't arrive, it can recover from that. I think that's really odd, esoteric way of talking about it. But I think knowing how to build complex systems that orchestrate together and to run a global e-commerce platform that heal themselves with unforeseen It's hard to predict problems. Actually, it's pretty amazing preparation for building companies because they happen to also be very non-deterministic. It's pretty good.
+
+[01:04:30.100] - Speaker 2
+Tell me about efficiency. When do we benefit from efficiency and when is efficiency not a good thing?
+
+[01:04:37.420] - Speaker 1
+I used to talk a lot about efficiency, and I think it's still the right way to get at it because people are more familiar, but I'm actually more very against waste, and it's actually a different thing. To me, wasting things, it's just like it's a crutch for your craft. I think great craftsmen make the most out of what they got. Yes, those things can also be described being inefficient, but it's actually not the inefficiency that's offensive to me. It's just actually the waste that's produced because that ends up being, especially, it usually accumulates and then has very high interest. I think the ideal thing to do to build is something that's beautiful all the way through. Including the processes and therefore which aren't wasteful. Efficiency is almost a secondary property of that. Then there's times where you just need to be just a step out of this because you're doing something that's only needed once, and then it just It doesn't matter. Sometimes you just need to do really unscalable things to do it. Action causes information. Instead of going and building an entire piece of software, just pretending that it exists is a really good thing.
+
+[01:05:43.520] - Speaker 1
+Startups learn this. They're I just put something in the market which might just be a landing page, and they only build it, and people are actually interested in. I got so lucky. I built all of Shopify before I told anyone. I thought to be like, I imagine it would have been wrong. I mean, it was. I ended up doggedly pursuing it and eventually making it good. What's your relationship of efficiency?
+
+[01:06:05.840] - Speaker 2
+Well, I, too, don't like waste, but I understand that in the process to get where you're going to get to the best, sometimes the time aspect of it's not in your control.
+
+[01:06:16.110] - Speaker 1
+That's right.
+
+[01:06:16.960] - Speaker 2
+Sometimes the number of iterations it takes to get it right is not really in your control. Totally. It's not inefficient to do 100 versions. If you're hunting for this thing, that's world-class.
+
+[01:06:30.960] - Speaker 1
+It is where it gets tricky even talking about efficiency. I can tell you the way I love to write code with my colleagues early. My philosophy on code is for every problem, there's probably 100 lines of code that solve it extremely elegantly, and no one in the world is smart enough to find those. We end up needing 5,000 lines of code to actually give them skills issues and maybe to make it readable enough to other humans who will end up having to make changes in to a future. Sometimes people do hundreds of thousands of millions of lines of code for something like this, and that's inefficient. In order to find those, what we've done is we set ourselves constraint. We just love these constraints where we said, Okay, we are going We built this feature and we start in the morning and we pair program two people in front of a computer, the keyboard back and forth. At the end of the day, we would throw away our code and we would ship the feature the day that we could implement all of it in the day and it would fully work all the way to the end.
+
+[01:07:32.360] - Speaker 1
+That just meant we ended up really learning about the problem domain. This is similar to what you say. To me, that's incredibly efficient because I want the efficiency in the product. I think the process, people should not I'm going to talk about efficiency to find the serendipity that leads to the best possible insight. Because you can't know. Sometimes you're just a vessel for the right idea coming. You can help serendipity by just really deeply understanding the problem, which Which you explore through code.
+
+[01:08:01.200] - Speaker 2
+Sometimes, or not understanding it at all. Yeah, that's true. Is the other way. Because sometimes coming at it from not knowing what's possible allows you to do things.
+
+[01:08:10.820] - Speaker 1
+I did not know that the world hated e-commerce. Everyone lost a lot of money doing dot com. No one was going to invest into e-commerce software. I just didn't know. I also didn't know that it's usually a couple of hundred people working on it. I just tried it, and I used a better programming language and everyone else, at least one that fit me, and then it worked. It happened.
+
+[01:08:28.700] - Speaker 2
+Tell me the difference between hiring someone who's very experienced versus smart beginners.
+
+[01:08:35.840] - Speaker 1
+Okay, so there are two kinds of intelligences, I think. There's fluid intelligence, and then there's a crystallized intelligence. Describe the two. Fluid intelligence is essentially the curiosity-driven, I want to figure this out. It's just like, how quickly can you pick something up? Do you like playing with ideas? In my interviews with people, I try to find a thing that they're very passionate about and then ask them about... I make changes to what they're passionate about in such a way that they have to re-imagine something. If someone is really into soccer, for instance, I'm like, Okay, we When you wake up, this crazy thing happened. The Earth's core stopped rotating quite as quickly and gravity is now 0. 7. 0. 7 of a G, so 30% less. Which positions in the game of soccer end up being more important? I have no idea what the right answer is, but I want to play with ideas. That's fluid intelligence in this moment.
+
+[01:09:35.140] - Speaker 2
+I love that.
+
+[01:09:36.320] - Speaker 1
+Then there's crystallized extension, which really is wisdom. If you've been programming for a long time, you've picked up a lot of patterns, you know what not to do, you In so many situations, you can say the words, Oh, this is another one of those, and already have an idea for how to solve it because you've encountered the problem before. I'm making this distinction because this distinction is actually invisible in a very profound way day to day. When you work with your colleagues, it's like your colleagues are incredibly helpful to have on a project, but you don't know what side it's coming from. What happens, though, is that, again, in the world of AI, just AI comes and suddenly everything is new. Suddenly the patterns end up not actually mattering so much. I had these incredibly interesting experiences where some of our best engineers will be put on the project that really need to succeed. We put them on really, really, really need to succeed AI projects and they didn't contribute. We're like, Well, hold on, why is that happening? Then we put an intern on it, and everything just goes incredibly well. I think what's the magic is for people who end up just doing both.
+
+[01:10:47.560] - Speaker 1
+Because unfortunately, what I've observed in these 20 years of building Shopify is that some people are okay with the overall amount of intelligence they bring to bear to be the same, and slowly it's all converting from fluid to crystallized. They are day-to-day just as helpful, but they've stopped cultivating their skills. They stopped reading the books, they stopped tinkering with new technologies, and you just don't know. Then everything changes and suddenly you find out very quickly. But some people keep it and then they compound. When that happens, it's just magic. People who are deeply curious but also know a lot are just like, there's no better thing than… It's intoxicating We're working with people on new problems like this. Those are the people I'm incredibly drawn to.
+
+[01:11:36.680] - Speaker 2
+What is chaos engineering?
+
+[01:11:41.080] - Speaker 1
+Well, that's a solve for things being too derivative, too static. I think stasis is death. When things are static, that means you're not advancing. If you're not advancing, that means you're sliding soon, right? Like backwards, usually. Okay, what's chaos engineering? Chaos Engineering? Chaos Engineering has a fun history. They Again, this incredible thing that so many millions of people trust us with their livelihood is very real. Then there's downtime because some piece of hardware failed. Everyone is going, Well, look, a piece of hardware failed. It's an act of God, so to speak. It just happens. I'm like, Well, if it happens, then that means we have to engineer around it. We have to build the redundancies to make that not affect the system. What I hear back is that it's just It's hard to test because it happens, really. I'm like, cool.
+
+[01:12:32.640] - Speaker 2
+You can make up potential failures.
+
+[01:12:35.320] - Speaker 1
+Yeah. I look into our server farm and turn off service. I just started doing that. It was better than doing it. When something fails, it usually is at night. Then pages sometimes are slept through, and then suddenly you have real problem. Let's make this actually happen more frequently because if failure is more common, it's actually easier to reason about. It's actually bad that failure is rare. If it's a real part of the system, you want it to be frequent. Initially, I did this manually.
+
+[01:13:03.240] - Speaker 2
+You get good at solving the problem.
+
+[01:13:04.840] - Speaker 1
+Exactly. You just know what's this thing. Years later, actually, Simtaleb wrote a fantastic book on this exact thing called Anti-Fragile. He coined the name for this thing. He said, Hey, after you break a bone, after it heals, that part of the bone is the strongest part of a bone. No language on planet Earth actually has a word for that thing. No culture has discovered that certain things get better by breaking them or disrupting them. Even though the concept is clearly all around us. So, peers engineering. So, I mean, very quickly, the operations people figured out that we can just set alerts on me logging into servers. So they had plenty of warning and then that. But we encoded into the system. We ended up building a random thing that something failed more frequently. It became a thing. And then eventually, I loved it so much as a thing, but I wanted it in a company because I also don't want things to be too static. You don't want every day to be the same because that's like...
+
+[01:14:06.640] - Speaker 2
+Boring.
+
+[01:14:07.180] - Speaker 1
+Boring. We just come up with annoying stuff to do. Use your mouse with your non dominant hand days. It's just like, it's such a bullshit move not to think about it.
+
+[01:14:22.690] - Speaker 2
+It's like challenges.
+
+[01:14:23.580] - Speaker 1
+Yeah, it's just like today you have to put your mouse on the other side of a keyboard and you just have to make do. But By the end of the day, everyone was quite good at it.
+
+[01:14:31.810] - Speaker 2
+What are some of the ones besides left hand and mouse day?
+
+[01:14:35.520] - Speaker 1
+The best thing we did, and this is like, I feel extremely lucky that this happened. We were in a negotiation. We had some possible landlord. Eventually, he threatened us to just kick us out of our entire office. We were already starting to... We were going to build another office because we were outgoing this one, and we were getting pretty tired of finding him passed out every night on some couch somewhere. This is the entire thing. The situation with our landlord did not work for either side. Then we were like, what would we actually do if we would be kicked out? And Dan, my co founder said, well, we should really have a plan B for this. We should know what to do. Let's think about this. And we said, Okay, let's have a session. Let's think about what we actually do. And by the end of the session, we were like, let's make that plan A. We sent everyone an email next weekend that Forbes wouldn't work in the office for the next month, and we all work remotely now. To build some empathy with a few people who work remotely to us, we just shut down the office.
+
+[01:15:39.600] - Speaker 1
+This was in 2016. I mean, day one was no one got anything done. Turns out Some people didn't even actually have reasonable internet, so they went to each other. Our interns, we used to serve lunch, so some of our interns were completely dependent on this and almost starved. We had one cook in a company. He asked if he can buy a taco truck, an odd one, and just drive sandwiches to people. When some people met in coffee shops. Everyone made it work. By day three, we were cracking. That was really cool and a cool experience. Then a couple of years later, COVID happened, and we were like, fuck, we trained for this. We knew how to do this. We trained for this. We knew. Our systems were so well set up for this eventually because we figured out how to have a culture that actually understands etiquettes about video calls. We had this all figured out. Some of these things ended up being really, really, really lot bearing for our culture. Another good thing is we randomly delete meetings. Reoccurring meetings, we often delete all of them every year and a half or so. We figured the good ones come back and the bad ones, no one wants to tell the person who started it that it's a bad meeting.
+
+[01:16:48.610] - Speaker 1
+It's like a garbage collection thing. No meetings. Just delete them all. If it's a meeting with an external person, it stays, of course. But all internal meetings get deleted and people hated it. Now, it's like people cheer. They're so happy. It's like a completely unstructured time for actually doing their craft.
+
+[01:17:10.800] - Speaker 2
+What are some of the requests you've made of your team that would likely not have come from other CEOs?
+
+[01:17:16.080] - Speaker 1
+I really tried basically everything at some point. When we started a company, again, I didn't take a salary for a long time, but everyone got salary, earned the same amount of money. We started basically straight up communism. It's funny to think about this But I think deriving some of the capitalism values from first principles is also a good exercise. Then I read a book, actually a paper at some point. They called The Turanny of Structuralism. It was fascinating. I think it was about the 1960s feminism movement. But basically, the thing they analyzed wasn't important. What it basically said is a hierarchy always exists, is what it said. The only choice you have is are you documenting it or not documenting it? Then it made the case that documenting it was way It's better for everyone. It just really changed my mind on some of these things. I don't even know if it was that interesting, but what I really loved was this idea of some things are simply true and the choice that you make is are you documenting it or not? I found I document. Sometimes that means I have to tell people are inconvenient things, but it's just more honest.
+
+[01:18:21.410] - Speaker 1
+So recently, this is a memo which a bunch of people have read online. They just said, Look, Using AI reflexively to solve problems is a baseline expectation now. Two and a half, three years in AI tools around, just play with them and try them. If you find they can help you with If you're going to find something that's valuable to you, then that's good. There's always the early adopters like me, we're just like, Try a thing. But then some people-Some people are really resistant. Some people are like, Well, I'll wait and see. I think that's actually pretty optimal. I actually don't think it's I'm terribly efficient to try absolutely everything. That's a lot of work. In the same way, I'm now reading books that are 30 years old. Let's do the things that stand the test of time. But I think in performance, if we have someone who uses AI a lot and well, and someone was just as good at their craft but doesn't, the person who's using AI, for instance, in engineering, is just significantly more productive. How do we think about this in terms of performance management? The only correct answer here is, well, that affects things?
+
+[01:19:35.260] - Speaker 1
+That person who isn't, we need to tell them that that's what they compete with now. Because if no one says, Hey, this expectation is set now, then suddenly their career goes away or isn't going as well as it should based on their skill. That's unfair. Anyway, send a memo about this and just explain this. Apparently, that captured the imagination. Interesting.
+
+[01:19:59.720] - Speaker 2
+How does That's what we received.
+
+[01:20:02.080] - Speaker 1
+I mean, yeah, internally everyone's like, oh, that's cool. I mean, it has some language about before you ask for the grow head count, try it with AI first. The media didn't We have an entire construction out of this about this being a layoff notice, which it really wasn't. I just want people to have instances of playing with AI. We create a lot of internal tools, just activism. We teach, we have channels, we have get-togethers. There's an evening AI tinkering fest now that people have put together. It's actually our non-engineers who have taken the call the most. They're just incredible things coming out of sales team. It was an unmitigated success inside of a company because It shared the excitement with AI because, well, if it's expected, I should get on this. It turns out the funny thing about AI, at least the large language models, is fundamentally, you communicate with them. You write to them. It'd be quite a prompt, but really, it's a document, a conversation. You're telling them to do something and you provide context. You know who isn't very good at communicating? It's usually the engineer. In a lot of ways, it's actually a wonderfully democratizing-A life skill.
+
+[01:21:13.640] - Speaker 1
+Yeah. There's a lot of fantastic communicators in every group of a company, and they are really having a moment to shine because they can just describe how to be helpful for this thing, and then it is.
+
+[01:21:25.960] - Speaker 2
+Have you experimented with vibe coding? Yes.
+
+[01:21:28.440] - Speaker 1
+I love the name, actually. I am now aspiring to cause vibe entrepreneurship or vibe business growing or whatever. It's not as catchy. You've become a spirit animal to the vibe coding movement.
+
+[01:21:42.700] - Speaker 2
+It's so ridiculous.
+
+[01:21:43.620] - Speaker 1
+The picture is so perfect with the headphones. It's fantastic. Yeah, vibe coding is really... It's funny, right? Programming is very much early in this, right? I love programming. I also love programming with AI. It feels exactly like back in the day when I was working with friends, two people in front of a monitor, now I have someone who has all this time and we can do it together. I have a second person looking, quote, unquote person looking over my shoulder. Some programming is also just toilsome. It's just reading a lot of documents and learning an API. It just knows it. It's wonderful.
+
+[01:22:20.980] - Speaker 2
+You gave an example of writing that note to the staff and then the media misrepresenting it.
+
+[01:22:27.450] - Speaker 1
+Yeah.
+
+[01:22:28.020] - Speaker 2
+Have you been misrepresented in any other way?
+
+[01:22:30.420] - Speaker 1
+I mean, there's lots of history there. Shopify is a platform, the white tent. We had, 2016, we had the... It was Elizabeth Warren, it was Hillary Clinton, and Donald Trump campaign stores on Shopify. And a lot of internal consternation with that. People wanted us to commit to being a to a site, and I thought it was quite ridiculous. But I didn't think there should be a liberal Shopify and a conservative Shopify. That seems ridiculous. But these conversations were always big. We have a long history with what's acceptable. There's real laws in a lot of countries. I come from Germany. Swastikas are literally... You cannot sell a product or even show a swastika in Germany. It's actually criminal. We have to enforce some of these things.
+
+[01:23:22.570] - Speaker 2
+Other than by law, are there any censorship rules that you have of what you won't put on Shopify?
+
+[01:23:28.770] - Speaker 1
+Yeah, there are. There's An acceptable use policy, which is, I think, a conclusion that a lot of the industry has gotten to. These are living documents. They have to change because divisiveness or edgyness, maybe. Edgyness on a spectrum. Like my pirate poker set is probably not zero because poker might be seen as gambling. Let's put it like 0. 1% on the edge in this. Let's say there's a red line at nine. When comes the swastika or the actual incitement to violence is 10. That's actually illegal. The swastika, at least in North America, is not. Some entrepreneurs are entrepreneurs of attention. They need attention, but they cause attention. Attention is the lifeblood. They are entrepreneurs that look for an edge to get attention. The curve looks like this. It's basically similar all the way until it gets very close to the bright red That's when attention goes up. There's a huge amount of benefit to doing something very edgy because people pay attention. Most recently was with Kanye, the first Super Bowl ad, which pointed at a Shopify store with a little There was an ad for a store or for a website. That website ran on Shopify and it looked like a super legitimate store until the Super Bowl ad.
+
+[01:24:53.920] - Speaker 1
+Then it flipped to simply a one T-shirt with a swastika on it, just causing He is an entrepreneur dealing in outrage using the audience as an instrument for his own purposes. I'm trying to see this in good faith. That's difficult. What do you do with that? It's not illegal, but it certainly causes a reaction. This has always been something. It has to be a living document. You have to create acceptable use policy, but you do also have to have a big tent in some in Tesla 42 to deal with this because these are usually valuable societal conversations organization, as long as there's no harm implied, at which point it's like the laws are very clear and we act super fast. This is another area where AI is so fantastic. We can hold very complex cases up to policies and decide super quickly. The internet is just really getting much better because AI was insanely difficult to institutionalize these things because these platforms are so big. I'm very used to being a... I mean, sometimes in a single I'm a Nazi Zionist. I'm trying to reconcile that in my head, but it's just like many build things you put yourself out there.
+
+[01:26:09.300] - Speaker 2
+You're a service provider, but you're not a content creator.
+
+[01:26:12.960] - Speaker 1
+That's right. We don't provide amplification. We don't make an editorial decision. We host. Now, if people purchase, then there's economic value accruing to it. A lot of people, some people anyway, make the case that that's an act of direct support. That is a hard case to make in my mind.
+
+[01:26:33.450] - Speaker 2
+Well, you don't support any of the things that are on the platform.
+
+[01:26:36.160] - Speaker 1
+Exactly. We are a hosting provider. We're like a street. Kanye, they had no intent to ship these products, and intent to ship is a requirement by our terms. We actually took the shop down because there was no intent to ship. People were sending money with no hope of getting something which is actually illegal, and they refunded. We didn't end having to litigate the veracity of the T-shirt itself for this reason. But if he would have shipped and they would be packaged in a FedEx box over the streets being delivered, we are not terribly unlike the streets that are used by the FedEx truck or the FedEx truck itself. It's just like it's infrastructure. Anyway, at least this is the way we see it. Smart people can disagree about these things. There's no perfect answer to this. We do our best.
+
+[01:27:30.140] - Speaker 2
+It seems like if it's against the law, that's a fair-Oh, yeah, that's easy. That's a clear line. But anything beyond that seems difficult.
+
+[01:27:38.720] - Speaker 1
+I think society should make this choice. Again, Germany decided that Swastikas are not okay. Therefore, that is super easy in Germany. I think that's the right process because it should be well-debated. What you look for is to find the best set of trade-offs.
+
+[01:27:53.900] - Speaker 2
+What are some accepted assumptions you've questioned when building something new?
+
+[01:28:00.040] - Speaker 1
+I love just invalidating assumptions. Just again, we started off with one single salary and that became pretty untenable very quickly. There's a long history about it. I used to think that I can convince people to just When something went wrong, my first reaction initially was that I would talk to people about why this went wrong and would just try to get them to do things differently. I mean, there's some of that, but I actually think there's almost two different visions for human capital. It's like that we are perfectible and that we are not. If you accept that we are not, what it does is that you get inspired to just find for best set of trade offs when building a It's just like, I really had to change my mind on this, but now I really love it. I'm like, look, I think everyone is allowed to be an intelligent actor in a local incentive system. If my comp plan is stupid and there's an activity that overpays, even though it I'm good for you. You hack the system. Let's go. It's my job to make a system that's good. That's an interesting game. That's much more interesting.
+
+[01:29:08.780] - Speaker 1
+I used to think that people had figured out how to build good companies. I definitely no longer think so. I think all companies are terrible, including mine. I think we will figure out in the next 20 years how to build good companies, but we are all going to be terribly embarrassed by the companies we used to run in the 2020s. I now see it as my goal in life to be slightly less embarrassed by my company when everyone else was retiring with me at the same time. I just think companies are understudied and underappreciated. What else exists that allows just a ton of fascinating, deeply caring, inspiring people to just get to spend their day together working on worthwhile things. But then in our case, we make tools, so those tools help others. It's just like it's great. It's like it's companies are technology themselves, and we should all be glad that they... I know they have a bad rep at times because Sometimes they do dumb stuff, but I just love companies. I think they're so cool. I think universities are the only other thing that's socially acceptable for you to just go all in on researching something.
+
+[01:30:12.960] - Speaker 1
+If it wasn't for university and for companies, how do you actually channel your craft into something over a very long period of time, aligning the incentives so well?
+
+[01:30:26.340] - Speaker 2
+Tell me some of the things you've changed your mind about over the course of your life.
+
+[01:30:31.720] - Speaker 1
+Oh, man. That would be fun to prepare for. I would love to think more about that. Things I changed my mind on. I used to think business is bullshit. No, I have to… Maybe it is, but no, I'm invested enough that I can no longer claim that. I have lots of strong opinions that I attempt to hold weekly. I actually really love when people change my mind. For instance, we were perfectly office-centric culture. We built amazing offices. My co founder designed floor space. We open-source them. They ended up being template for many tech companies building their places. We designed everything for serendipity and people just drawing people through the building and just making all these things. I was totally against remote work. Then COVID happened, and I committed a company to just only remote work. We're probably the largest remote company in the world. People got real whiplash from this. But I mean-Is it still remote now? It's still remote.
+
+[01:31:33.860] - Speaker 2
+Since COVID, you've gone remote.
+
+[01:31:36.180] - Speaker 1
+We have gone remote.
+
+[01:31:38.220] - Speaker 2
+Tell me advantages and disadvantages.
+
+[01:31:40.440] - Speaker 1
+Okay, right off the bat, it's worse. I think it's probably surprising to hear from someone who's committed for it. It's worse because it's like, the office does so much for us.
+
+[01:31:52.290] - Speaker 2
+The community.
+
+[01:31:52.840] - Speaker 1
+It's like you ship something, you do something, you walk to a water-cooler, someone gives you a fist bump. The After a glow of that lasts weeks. Someone sends you a fist bump emoji on Slack, you forgot about it in a second. It just doesn't hit you. It feels muted to do remote work in this way, or at least the planned version of it. It's harder. It's a little bit like training for marathon at altitude, I suppose. I haven't done that, but people say that's really hard. I believe them. Why do you do it? Well, there are significant advantages as well. It's a set of trade-offs that is worth doing for some companies in some cases. In our case, the problem was we started in Ottawa, Canada. That was our biggest office. We relocated lots and lots of people there. But it's a small city, it's a million people. Ended up having a lot of great technology people, but never as deep as another city would be. We had offices in Toronto and Montreal, New York. We had this situation where everyone in the offices ended up going to rooms and usually talking to other offices on the screen, no one there, so often.
+
+[01:33:00.780] - Speaker 1
+It was this really weird form of hybrid that just felt worse than all other options. What we ended up saying, Okay, we are going to be remote by default now, and we get really good at this. This required just complete… Like I said, don't port the office online, port the internet to the company. Because on the internet, there's communities of excellence that are all remote. A lot of the big open source software of our world has been written by people who actually never met. To make an even more geeky analogy, do you know what World of Warcraft is? It's a video game that…
+
+[01:33:42.430] - Speaker 2
+I've heard of it, but I don't play games.
+
+[01:33:44.080] - Speaker 1
+Lots of people playing together doing very complicated things. Forty people doing something very difficult requires a lot of coordination. There's real excellence. There's people doing something for first time in the world. There's cultures of excellence that form online with people who have never met each other. Funny enough, My wife actually ran and wrote a book of guilt. She ended up having more experience how to run a remote culture than I did. I learned from her. They were like, Okay, well, it's been done. Therefore, it's something we can figure out. I think we did. Now the people who work for a company can engage in a really amazing lifestyle design. Some people just choose to move downtown, some people choose to move out to the cottage. It's just like talent is incredibly well-distributed. It's actually worked really, really well for us. I still wouldn't recommend it for everyone, and I would never recommend it to a new company, especially these early days. Finding itself. Finding itself. We have lots of rituals, such as once a year, next month, we get everyone for a week to Toronto, including from Japan and everywhere in the world. Just for a week, we just work on a big industrial haul, and we have a big creativity and just events.
+
+[01:34:59.500] - Speaker 1
+Because Building relationships is very hard, remotely. But if you're doing it deliberately, you can also make up for a lot of time. This is by just... I mean, this is by conference, it's great.
+
+[01:35:09.560] - Speaker 2
+How is your company structured different than other companies?
+
+[01:35:14.020] - Speaker 1
+It's very functional. I believe in craft. You can be the best paid person in a company as a craftsperson. When I use craftsperson, that means not manager. We think most companies have too many managers, too many layers. All our managers were hired as programmers, designers first, and then... Because we think it works best to work for people that have a full appreciation of the crafts that you are yourself trying to cultivate. This is just not usually done in industry, and I just find it's... I don't understand how this works.
+
+[01:35:49.260] - Speaker 2
+What size teams do you have?
+
+[01:35:50.840] - Speaker 1
+We love a team of four. This is our favorite. We start almost everything as a team of four.
+
+[01:35:56.650] - Speaker 2
+What would the four team members be?
+
+[01:35:58.760] - Speaker 1
+Ideally, we talk about T-shaped people. It's basically people with a very wide set of skills and one significant specialization in the middle. It's like, programmers who also have, hopefully, good taste, but also know enough about design to point at how the internet works. Sometimes people have a lot of review because they went later to the world of engineering. We put teams together. Hopefully everyone has functioning understanding of everyone else's job, but also, therefore, have a deference to their specialization. We love teams that fall in love with the problems. I want them to go and if you're building a point of sale software, I want them to ideally build it in someone's store. We will send messages to our customers and say, This It's weird, but can we rent space in one of your stores? Can you just put an office in there and where people can just talk to you about what you need and work with you on these things? Action causes information. We've We love to just go and just start building and ideally, throw away what you build as you understand the problem better, just like we discussed earlier. Then if a team has to become bigger, after about eight or so, we split it into a subtask.
+
+[01:37:13.880] - Speaker 1
+Then we have a We have a system that also makes the remote thing work, but it's called GSD, which literally stands for get shit done. Where every team has a page of project and they do updates and they can do that so they don't have to have meetings with other people about informing them how it's going. It's just everyone knows they can go in GSD and read and you can follow projects. We have AI now making briefs about all the projects in one area. Just avoiding all this thinking Things that distract people who build things.
+
+[01:37:47.520] - Speaker 2
+It's easy to find out what's going on.
+
+[01:37:49.780] - Speaker 1
+Yes. It's an active process. You can't sit there and expect the operations team to book a meeting and then brief you on everything that's going on. It's at your fingertips.
+
+[01:37:58.970] - Speaker 2
+Yeah, It's all available.
+
+[01:38:00.860] - Speaker 1
+I try to not do this corporate baby proofing that exists in a lot of companies. I've always found that especially the companies that call themselves to be the professional companies, when you look inside, they look like when you go to visit There's a lot of people who just had their first baby. Every electrical outlet has these things in them and all the corners around it and there's baby gates everywhere. It's like they're not moving for 10 months, by the way. It's just like they can't even get to these. But It's funny because I know why it happened. But then if you go to a professional company, they have a dress code. It's like, what is that? You can't even trust your people to dress. It's amazing. It's wild. We try to have not too much guidance, but a huge amount of tools.
+
+[01:38:45.920] - Speaker 2
+How would you describe the company culture?
+
+[01:38:49.840] - Speaker 1
+I mean, island of misfit toys. It's a random assortment of people that are all united in that they're giving a shit. I think then When you make a product, people will feel it at some level other than super conscious if the people will create it give a shit, and there's nothing that allows you to fake that. That's the thing that I think unites. The beautiful thing about Shopify is, again, you're making a product that helps really inspiring people. Our customers are incredible. I worked with a bank at some point and just I was so dismayed because I got the sense that they treat their customers not as their customers, but rather as their crop. There was fees to be harvested. That's an adversarial relationship with your customer. It's like, what the hell? That's terrible. Best thing we can do for becoming a bigger company, growing tomorrow is to make our customers today more successful, which is on the same side of the table. I don't need to go around and tell everyone, Hey, you need to talk with our customers. They want to do that anyway. It is really fun to have a meeting about e-commerce with Kardashian.
+
+[01:40:02.100] - Speaker 1
+It's also, by the way, they're incredibly good entrepreneurs. Immediately, five minutes in the meeting, you will learn, of course, you've been incredibly successful because you're insanely smart and you just understand this stuff at an intuitive level. The way you do anything is how you do everything. Therefore, your e-commerce strategy is absolutely mint. That's a wonderful thing you find out.
+
+[01:40:22.500] - Speaker 2
+How has the scale of your business positively impacted the business?
+
+[01:40:29.280] - Speaker 1
+Again, I love I work with small teams. I preach with small teams. We form small teams. I would have imagined that I'm going to grow Shopify to its size, and then I'm going to stop doing this and then go work with a small team afterwards because it seems consistent. I no longer think so, Partly because we figured out how to scale. I think Shopify is often described as the largest small company imaginable, and I think that works quite well. The awesome thing about scale is it is such a to be able to be focused on more than one thing because focus is super important. Usually up to a certain size, it's either focused or unfocused. After a certain size, you can actually be focused on multiple things. That's just such an amazing accelerant for everything.
+
+[01:41:17.780] - Speaker 2
+Then you don't burn out because the burn out comes from too much focus on one thing. Great.
+
+[01:41:22.920] - Speaker 1
+Our eternal theory of how to have a best internal career with Shopify, again, you can be an innovative contributor for life. We call them mastery levels. You can just climb the mastery levels and it gives you more compensation and career advancement. What we really celebrate is when people... We call it do the jungle gym. Just go from one area, follow down some zip line to a completely different area. I have an intern, Anna, and at some point, she ran in HR. Now, when she did mergers and acquisitions, and then she joined product teams to work on point of sale. Eventually, Currently, she runs real estate for us. She's like, Tobi, why do you do this to me? I was like, Why are you competent? I have problems. You like solving problems. Let's go. 15 minutes after Anna takes over real estate, it sounds boring, but We have some cool real estate we have, suddenly everything is going well because she has this perspective of all these parts of a company. It's like that's also contrary to how people think about their career. The beautiful thing is when you get to build a company and you're lucky to have it be a success, is you can try the counterfactual.
+
+[01:42:36.500] - Speaker 1
+There's multiple forms of failure. Failures, of course, the whole thing is financially a failure. Let's clear that bar. But there's actually almost a more profound failure of at 10 years or so you wake up and you're like, if you build a company you wouldn't want to work for. That feels pretty dystopian in a way because there's so many companies I would not want to work for. Why did I add one? Why does my life work to add one more to the stack? Let's actually build a company that's we're working for. Let's focus on craft and giving it shit. It's fine that this stuff isn't quantifiable. It's fine that that sounds dumb when you say it, but it's true and may eventually it'll sound smart when people figure out that it's actually working.
+
+[01:43:19.980] - Speaker 2
+Would you say you have a basic philosophy or is everything up for grabs?
+
+[01:43:24.700] - Speaker 1
+No, I think I have a basic philosophy about quality. I fundamentally believe no one operates on their full potential. I think we all underperform our hardware. But I think helping people get more out of whatever they got, that's what tools do. The difference between modernity and 30,000 years ago, it's not genetics. It's like the tools we have. We can build houses, airplanes, get to space. We have the Internet. We're tool builders as a species. I think the best tools in the world make people end up having been more ambitious than they actually thought they were.
+
+[01:44:01.720] - Speaker 2
+Because you see a possibility that you didn't know was possible.
+
+[01:44:04.080] - Speaker 1
+Exactly. You take it one step at a time. I think we make too much about this. People need courage. People should emphasize courage more than ambition, I think. They're very different things. Ambition is an outcome. It's measured based on actually a goal. People should emphasize the courage and the habit to support getting to the goal and to try fast. Swing. Yes. Like a bias towards action. It's like, just do something and have the courage to put something out there, make something. If you don't make something in life, you can only end up being defined by the things you consume. I think that's a different existence.
+
+[01:44:38.620] - Speaker 2
+That's very interesting.
+
+[01:44:39.840] - Speaker 1
+We want more makers. That is my philosophy. Causing that is a thing. Shopify really is a mission-based company. Some of our customers become many multi-billion dollar businesses in sales a year. One of our customers got to $2 billion of revenue before us did. We raised them and they won, which is the coolest thing ever. They started on Shopify. The heart is all in causing entrepreneurship, and that just overrides all other priorities. It turns out over time, that actually arks to the right business outcomes, too. If it wouldn't, that would be okay because that's the prime director. It does. But it happens to… It happens to do it. Yeah, which is like, I mean, that's the… This is why I feel so lucky because, again, I would have insisted on it anyway. Tetragrammatin is a podcast. Tetragrammatin is a website. Tetragrammatin is a whole world of knowledge. What may fall within the sphere of Tetragrammatin? Counterculture? Tetragrammatin. Sacred geometry? Tetragrammatin. The Avant-garde? Tetragrammatin. Generative art. Tétragrammatin. The tarot. Tétragrammatin. Out-of-print music. Tétragrammatin. Biodynamics. Tétragrammatin. Graphic design. Tétragrammatin. Mythology and magic. Tétragrammatin. Obscure film. Tétragrammatin. Beach culture. Tétragrammatin. Esoteric lectures. Tétragrammatin. Off-the-grid living. Tétragrammatin. Alt spirituality. Tétragrammatin.
+
+[01:46:43.780] - Speaker 1
+The canon of fine objects. Tetragrammatim. Muscle cars. Tetragrammatim. Ancient wisdom for a new age. Upon entering, experience the artwork of the day. Take a breath and see where you are drawn. Tetragramadin. Com.

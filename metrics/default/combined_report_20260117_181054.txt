@@ -1,0 +1,52 @@
+
+================================================================================
+📊 INGESTION METRICS REPORT
+================================================================================
+Generated: 2026-01-17 18:10:54
+================================================================================
+📊 No API calls tracked.
+
+================================================================================
+⚡ PERFORMANCE REPORT
+================================================================================
+
+📈 OVERALL STATISTICS:
+  Total Operations:      5
+  Total Duration:        3.9m
+  Total Items Processed: 466
+  Overall Throughput:    2.01 items/sec
+
+📊 BY OPERATION:
+  extract_kg_async:
+    Count:         1
+    Total Time:    3.7m
+    Items:         155
+    Avg Duration:  3.7m
+    Avg Throughput: 0.69 items/sec
+  initialize_schema:
+    Count:         1
+    Total Time:    4.81s
+    Items:         0
+    Avg Duration:  4.81s
+  ingest_qdrant_async:
+    Count:         1
+    Total Time:    3.33s
+    Items:         155
+    Avg Duration:  3.33s
+    Avg Throughput: 46.58 items/sec
+  chunk_documents:
+    Count:         1
+    Total Time:    0.08s
+    Items:         155
+    Avg Duration:  0.08s
+    Avg Throughput: 1906.17 items/sec
+  load_transcripts:
+    Count:         1
+    Total Time:    0.01s
+    Items:         1
+    Avg Duration:  0.01s
+    Avg Throughput: 92.91 items/sec
+
+================================================================================
+
+================================================================================

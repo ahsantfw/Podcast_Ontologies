@@ -1,0 +1,1466 @@
+[00:00:02.400] - Speaker 1
+Tetragrammaton.
+
+[00:00:22.720] - Speaker 2
+I had.
+
+[00:00:23.280] - Speaker 1
+I want to share an aha moment I had last night after you spoke.
+
+[00:00:27.580] - Speaker 3
+I watched, I loved all your texts to me last night.
+
+[00:00:29.970] - Speaker 1
+I watched a little documentary about how semiconductors work because I don't know how semiconductor work. And I was thinking when you were saying it, my first thought was, well, semiconductor is a man made machine. And you're saying that we operate more like a man made machine. And what I learned in looking at the semiconductor. The semiconductor uses a crystal and it deals, moves energy through the crystal and something happens.
+
+[00:01:06.260] - Speaker 3
+Correct.
+
+[00:01:06.900] - Speaker 1
+It only allows it to go in one direction.
+
+[00:01:08.810] - Speaker 3
+It's what the visible or the invisible coach would call magics.
+
+[00:01:12.960] - Speaker 1
+So. But what's, what's so interesting about it is a semiconductor is imitating nature and it's using natural materials to do it. Again, I think of it as a. I don't think of it, I never thought of it that way. I just think of it as, oh, that's that thing in the computer.
+
+[00:01:33.120] - Speaker 3
+See, I would, I would want you, actually the evolution in your thinking here, because I like where you're going. I want you to realize that this is where the confluence where I guess science, religion, biology affords you. What I'm trying to say to you is that Silicon Valley stole the idea from nature. Nature is based on wideband semiconducting. And we're going to start like today talking about water, but without understanding light, water and magnetism. You know, I call it the Three Legged stool because it comes from NASA. You know, it's what SETI looks for. You know, SETI is the part of the government that, you know, looks for extraterrestrial life. And, you know, I'm not sure if you're friends with Musk Rick, but I will tell you one of the things that you need to share with him, maybe from this podcast, like cut a snippet and give it to him. Explain to him the difference between Earth and Mars. I understand why he's going to Mars because it's close. But Mars is a dead red planet. It's equivalent to saying, hey, I'm going to go out and build a, you know, an estuary out in the middle of Sedona.
+
+[00:02:40.850] - Speaker 3
+It's the stupidest thing in the world because it's a geopathic stress zone. And the reason it is is there's no magnetic field, you know, there, and there's pockets of that.
+
+[00:02:49.840] - Speaker 1
+What?
+
+[00:02:50.060] - Speaker 3
+Even on Earth we have geopathic stress zones. You know, that's what Australia is effectively. You know, you mentioned the donut hole yesterday. We didn't get into it. We may today because we're talking about water. But even in our, our country, like, you guys are really close to the Baja. You're close to New Mexico, Arizona. It's called Arizona because it's arid Zona. Without water, you have a desert, you know, and life doesn't populate those areas. It does, but the life is different. Like, for example, the plants out there use CAM. Photosynthesis doesn't use C3. Everywhere else in the world uses C3. Little bit of C4. 90% of plant life is C3 photosynthesis. When you know those little tidbits, you start asking yourself, well, what's the difference? I mean, you find out the big difference is how water's used. You know, in the blog that I wrote for both of you, which is Quantum Engineering 29 blog, the whole first part of that blog was about the first two semiconductors. And we talked a little bit about it yesterday. But it's about chlorophyll and hemoglobin. Hemoglobin was, was really big for your hack. But today, I'm assuming you guys want to start the basics of water, kind of what happened to me, how I figured out the rest of the part of the story, you know, of the leptin melano cortin pathway.
+
+[00:04:15.370] - Speaker 3
+So it began with the Nobel Prize in 1901. William Rankin, who got it for X rays, you, you may not know this, but when he shot his X rays over a period of time, he noticed that water acted very bizarrely. And he made a comment in the published literature at the time that something unusual is going on with water. And he used the first time in science something called two phase water. Water has two phases, which was very interesting. Then in 1913, a guy who was a scientist, conventional, but also a theologian, I think his name was, Henderson, wrote a book about the fitness of the environment. And it was totally tied to water. So this was the second time. So you see 13 years, people are beginning to think about it. Then the magics, you know, started to happen in and around water. I mentioned briefly yesterday, we didn't get into it. The father of modern biochemistry is Albert St. Georgi. I told you that when I was a resident studying bone physiology, I read the transcript of his 1941 talk as a Nobel laureate that he gave to medical students. And Becker happened to be one of the medical students in the audience.
+
+[00:05:32.050] - Speaker 3
+And he said, the most bizarre thing is that it appears to me that proteins have an electronic structure like a semiconductor. And water seems to play some type of role in it. So this is a passing comment from a guy who, you know is smart, but it made a huge impact on Becker. And I guess when we were at lunch yesterday, we were talking about like the transmission of knowledge and, you know, the issue with the Library of Alexandria. That little speech, I think probably had more impact than some papers that are in major journals that you and I probably read. And when I read Becker's work, it really got me into it because he proved beyond a shadow of a doubt. It's kind of like what Rick said a little while ago about when somebody says something really outrageous, it requires pretty extraordinary proof. Well, the papers that Becker wrote in the 60s that showed that collagen and appetite were semiconductors and in P type, that's. I did jump down the rabbit hole, just like you did last night when you said, okay, I need to learn about it. I knew a little bit about it already, but I certainly needed to learn more because what I knew about was narrow based semiconductors.
+
+[00:06:48.440] - Speaker 3
+That's the stuff that you guys are more familiar with that are based in Stanford. And I'm sure you can talk to a ton of people about that. The interesting part of the story came with a guy for me, where I began to look. I noticed immediately that chlorophyll and hemoglobin look exactly the same. We talked about this yesterday, iron and magnesium being the difference. But remember the nitrogen cage that's around it? I told you about the queer thing about the periodic table, that all wide base semiconductors use group 2, 3 and 4 elements to like the nth degree, like they eliminated some others. But I thought it was very bizarre that nitrogen was the key. And I knew that nitrogen wasn't an original part of the Earth's atmosphere. It came to be after cyanobacteria, after the photosynthetic issue. So I realized photosynthesis was the key. Now, things that I didn't know at this time, I went back and I said I need to understand how photosynthesis really works before I can understand how the human cell works. So I found out the first step in photosynthesis was the splitting of water into positive and negative charges.
+
+[00:08:04.670] - Speaker 3
+And the first thing I found, believe it or not, was the electron volts that it takes to split water. If you look at it, it's 12.06 volts. So remember yesterday, Andrew, when I was getting on your case about stuff about being curious and things like that? I have a formula that I figured out how to figure out what the frequency of light Goes to very quickly. Like when I'm doing stuff like we're doing now, you divide 1240 by the electron volts and it tells you the frequency of light. So if you do 1240 by 12.06, you find out that that nanometer light is 98 nanometers. That puts you in the soft X ray range. That's below vuv, which we talked about yesterday. And I thought to myself, wait a minute, I'm a doctor. We don't use soft UV to do photosynthesis. We're using visible light spectrum. So I took the paradox and I said, what the hell is the cell really doing? You know, what's going on here? And then I thought about it and I said, you know, the band semiconductor that silicon is goes from 1.7 to 3.1. So then I started doing addition of subtraction.
+
+[00:09:24.750] - Speaker 3
+I said, if you subtract out 1.7 to 3.1, I.e. the visible light spectrum that the eye sees, that's like 390 to about 760. So I said, that tells me that the key to this mystery is going to be 390 below. So I started looking at things that had a band gap that was make the difference to get me back to 12.06. And that's where I stumbled upon my deep knowledge from being a kid. I used to love the periodic table, and I know the periodic table inside and out. And I looked at it and I'm like, every single thing that's in a cell is sodium, magnesium, potassium, calcium. And I said, what do I know? Basic things. Let's go from the knowns to the unknowns to solve for X. It's like algebra. So I said, calcium is used predominantly in the mitochondria. Magnesium mostly in the mitochondria, but some in the cytoplasm. Sodium action potentials, but sodium, Remember, I'm a neurosurgeon. Sodium fills csf. It's like overwhelming. So you remember the story I talked about. Endolymph. Potassium is big there for your organ, for the ear. I said, but sodium is big for the brain.
+
+[00:10:47.200] - Speaker 3
+And then of course, I'm thinking, okay, as a brain surgeon, the queerest things about the brain, when it relates to water, what are they? Number one, the brain is surrounded by water. It's got holes in it filled by water. 95% of the CSF comes in the fourth ventricle, where the vagus nerve is, which. Remember you talked about your vomiting issue. Some of this may start making sense to you now. So I'm going through this whole thing and I said to myself, I need to know what the band gap are of all those atoms. So I started looking them up because I didn't know what they were. I just started finding papers out. And I didn't find a lot in the semiconductor community. I found it more in like basic physics papers, you know, where I pulled it up. So I started doing simple addition 12.06 from photosynthesis, my minus. And I started finding that I needed to look at atoms that only had band gaps above 7. Now remember yesterday when we talked about carbon in US carbon is a diamond. I told you diamond is 7.67. So a diamond will work. But you know, when I cut people open, I don't see any diamonds, but we do see carbon.
+
+[00:11:58.210] - Speaker 3
+So I got the idea right away that carbon had to be in a triple helix form a wide base semiconductor. Not not only was Becker correct, but he never went to the step. I just went and I did this all by deductive reductive centralized medicine, thinking just exactly what Andrew would do if he was trying to solve a problem. And that's how I started. I started with photosynthesis and something I knew and I kept looking. And then I started to think how ions were broken up. And then my key come to Jesus moment was when I realized potassium was the key. Potassium is an atom that's always inside the cell. And not only that, I. I've learned even from centralized medicine and my background that it was really important inside the cell in terms of the way it's structured water. And as I told you, since I'm a neurosurgeon, I know the history of how the MRI machine was was made. That brought me to the work of Gilbert Lang. And I told you about that. Gilbert Ling really has fame in the alternative health community for different reasons than what we're talking about now.
+
+[00:13:11.040] - Speaker 3
+He basically fought with Peter Mitchell for 60 years to try to show centralized science, who gave him a Nobel Prize in 1978, that he was absolutely wrong. Why? Because chemo osmosis breaks the second law of thermodynamics by 500 fold. And he did that by figuring out ATP stoichiometry. Okay, Ling, though, if you read his book, and I will tell you, I almost don't want you, Andrew, to ever read his book because it will confuse the shit out of you. It is the hardest book I have ever read in my life. And I put even quantum mechanics books there. His book was called Life the Below the Cell Level. But it's very Difficult to read, especially if you're a biologist. But the TLDR of the book is he was saying that there's some type of electronic structure inside the cell with water that has to do with the unfolding of proteins and side change that allow different hydration levels. That was the key point I got. But the key to his theory, it was called the AI induction theory, was potassium was the big issue. And I.
+
+[00:14:22.530] - Speaker 1
+And isn't potassium a big deal in semiconductors any all semiconductors?
+
+[00:14:26.140] - Speaker 3
+Well, it is, but. But in wide base semiconduction, it's big. Why? Because it's got a huge band gap and see band gaps in early semiconductors, like when you and I were young, it was all about silicons, the low end right now because everybody's going for AI and they're looking for quantum computing. Quantum computing can only happen with wide base semiconductor. That's why some of the people that you know in Silicon Valley will be interested in the story about water.
+
+[00:14:51.350] - Speaker 2
+Is bandgap the same as band pass? No, no. Bandpass lets certain frequencies through. Correct band gap as like a notch.
+
+[00:14:59.670] - Speaker 3
+Yeah, it's. It's actually an opening where electrons can jump through and it actually has to do with the physical characteristics of what the semiconductor is capable of doing. So for example, we talked ad nauseam yesterday about melanin, how important it is, because that's the single most important semiconductor in mammals. Post kt, hemoglobin and chlorophyll were the single most important ones pre kt. So the story with water kept going on for me. So I realized when I figured out that water had to be involved at some level for wideband semiconducting. Didn't know how they all fit yet. I jumped down the water rabbit hole further. So the next thing I did is I wound up reading papers on water from a guy named Emilio Del Jusse, who, believe it or not, was a physicist that was involved in cold fusion in the 90s, but got frustrated with that and wound up coming back to starting water and weird water chemistry. Then I got into reading a guy named Praparda and this guy named Will C. Robinson. And Will C. Robinson became important for you because I tweeted at you this morning about this because I don't know if you know it.
+
+[00:16:15.590] - Speaker 3
+He was at Texas tech in around 2010 and he took the original idea of Roentgen and brought it back to mainstream science. Like Explain.
+
+[00:16:29.040] - Speaker 1
+Explain.
+
+[00:16:29.710] - Speaker 3
+Well, basically Roentgen was the first one that said there was two phase water. Nobody kind of believed it for a long time. And then the guy I told you about in the U.K. chaplain said, there's low density water and high density water. One mimicked ice, the other one is liquid water. Why is that important? Again, not to bore you, but these details really matter in this story. Remember, you all have the experience that ice floats on top of water, and that's good news for fish, right? So things work out pretty well. But if you look at a periodic table, hydrides, and that period should never follow the rules of water. In other words, water has anomalous properties that no one can explain. So the reason these physicists were involved in this is they were trying to figure out the nuclear effects in water that would cause it. So one of the big stories that I found out right then and there about photosynthesis is that there's a huge, big deal about the isotopic fractionation of water used in photosynthesis. In other words, all water can be used in photosynthesis. But it shows that chloroplast somehow, like deuterium, depleted water.
+
+[00:17:41.540] - Speaker 3
+In other words, photosynthetic yields. When I read this, it stunned me. Photosynthetic yields in plants that have water that they use for photosynthesis has a 40% higher crop yield than water that has deuterium in it. And I'm going, that's bizarre as shit. You know, I wouldn't think that an isotope of hydrogen. Then it stopped me dead in my tracks. Just like everything I say to you. I'm like, does nature make mistakes? The answer is, no, she doesn't. I took that paradox and I said, I'll explain it. And the first thing I thought of was our friend from 1922, Nobel Prize, Albert Einstein, who said, equals MC squared. So I looked at the deuterium and I said, it's a proton and a neutron. That's double the atomic mass on a relative basis. When you add a proton, you're doubling the mass of something. I said, shit, it makes a lot of sense. If you're doing an energy equation, which was what photosynthesis is, that would raise the roof, you know, of the game. You'd have to have a lot more energy to break deuterium water. So what brought me to Del Jusi and prepared it was this very issue.
+
+[00:18:47.400] - Speaker 3
+And they talked about the nuclear effects of a deuterium. And one of the things I read in one of their papers, I can't even tell you which paper it was, Andrew, but I'm sure you'll be able to source it or put a medical student on it. That one deuterium atom controls 96 hydrogen atoms. And this is the reason why this problem. Because if you know anything about a chloroplast or a mitochondria, it needs to have hydrogen freely flowing. Remember when Rick, what we said the first step, because I don't want to lose you in the science, because this is a really cool story. We charge separate water effectively. What am I saying to you? Like when you and I grew up in New York and it was really cold out and the car didn't start, we call aaa. You need the positive negative charge to make a battery. So what is photosynthesis start with? Basically sunlight splits water to create a battery, so it's a capacitor. So I'm trying to take you down to synonym level so you get it. So what does this mean to a physicist? It means water effectively is an electromagnetic capacitor.
+
+[00:19:51.050] - Speaker 3
+That's what it is at a physics level. That was a new understanding for me for water at the time.
+
+[00:19:57.210] - Speaker 1
+Deuterium depleted water is a better one.
+
+[00:19:59.390] - Speaker 3
+No, it's worse. Oh, we don't want, we don't want to use deuterium when we're trying to generate energy. Why cost the mass encumbers it? Remember what photons are? They are a particle in nature but has no mass. They're not encumbered by it, so they carry more energy. Remember the discussion we had yesterday offline about orbital angular momentum? Light has infinity according to physics, usually has to be in laser form to do it. But electrons and protons actually have a fixed number, so they can't carry as much information. And this goes to Andrew's dad, where he can run all this by him in information theory and chaos theory. It's a big deal. The more information you can put through a system is through light, which is the reasons why light life organizes around light. Most light is the single biggest part of the three legged stool that we talked about earlier from seti. So getting back to the water story, when I put together what Chaplin was saying, Chaplin took Wiltse's work, took Roentgen's work, and Chaplin came up with this really crazy idea. He did a thought experiment just like I Einstein did. ICE has what we call a tetrahedral hydrogen bond network.
+
+[00:21:17.500] - Speaker 3
+It looks like a tetrahedron. Liquid water can be a pentamer, it can be a pentagon. And it turns out that it can flicker at fento or pico meter. Time scales very, very small for biology and it doesn't break the hydrogen bonds. These are all the ideas I got from them, it bends them, it changes the bond angles, and it turns out light does this. Light has amazing things. Like, for example, do you know what the mapeba effect is? You actually have to heat. If you use warm water and make ice cream, you make it turn colder, faster. Because of the queer properties in water, like when you form ice, you emit huge amounts of heat. Well, if you think about that for a minute, that makes sense with the story that I was telling you yesterday. So again, these are all key pieces to the story that I'm keep building. I'm adding them to the puzzle as I'm sitting you.
+
+[00:22:21.450] - Speaker 1
+The reason for the huge amounts of heat is to seek balance. Is that why it works? How does that explain how it works?
+
+[00:22:26.500] - Speaker 3
+Well, actually, the whole point of water is water creates the basis of the dissipative structure. Remember how I said to you that.
+
+[00:22:34.670] - Speaker 1
+I don't understand that?
+
+[00:22:35.980] - Speaker 3
+Well, I'm gonna. I'm gonna explain to you because I want you to get it. This is a really important point. When you're dead, you're at equilibrium. That's what equilibrium is. That, unfortunately, is not what most biochemists understand. Equilibrium. When it comes to medicine, a dissipative structure means that it keeps it far from equilibrium. But yet things can work. For example, to make it very simple to you, in your house, you have a fridge, right? Your fridge reduces entropy. Temperature keeps your food cold, so it doesn't waste. But if you look at it, how does it satisfy the second law of thermodynamics? If you put your hand behind it, you feel the heat coming out. It's dissipating into this big room. But within the system, the fridge is working. But if you look at a bigger system, it satisfies the second law of thermodynamics. A cell is doing exactly the same thing that's using water to do it.
+
+[00:23:27.570] - Speaker 2
+Can I just zoom us out for a moment? Life organizes around light. Totally on board with you there at many levels. Also water. You said light. Water, Magnetism. The magnetism piece is still a little bit cryptic to me. Except the. Except the part. No. Yeah. And I realized we haven't gotten there yet. I just want to queue it up because I think that for most people listening, it's going to be intuitive. Now, having listened to the earlier part of our conversation yesterday around why life organizes around light, now water with magnetism, I just want to queue it up. Does this go beyond the fact that DNA is a magnetic strip?
+
+[00:24:10.930] - Speaker 3
+Yeah, it does, but it's actually the cool thing is It's a simpler story, one that's easy to understand, and it's tied to deuterium. Turns out things with different charges have different magnetic moments. But what's the number one thing that biologists who are listening to this should pay attention to? What's the most magnetic thing in a cell that everybody talks about that always has a negative connotation? Reactive oxygen species or reactive nitrogen species.
+
+[00:24:40.060] - Speaker 2
+Because of free electrons?
+
+[00:24:41.690] - Speaker 3
+Well, because the valence electron, there's only one. So guess what? It's drawn to magnetic fields, which tells you that the cell is using this as a key second messenger.
+
+[00:24:54.080] - Speaker 2
+So reactive oxygen species aren't just this pathological condition.
+
+[00:24:57.850] - Speaker 3
+That's what we, you and I, will learn. And you'll find the more you read the stuff I tell you to read, that ROS and RNS is probably the single most important thing. It goes back to what Rick had in his book. Whatever they say, believe the opposite. Yeah.
+
+[00:25:12.870] - Speaker 2
+So should we not be. Should we not be buffering reactive oxygen species?
+
+[00:25:16.550] - Speaker 3
+Of course not. Because guess what? When you understand the basis of what I told you yesterday, especially after you talk to your dad, he's going to tell you about what happens with super. With superoxide and the Fenton reaction, all that you quench. The free radical reaction, for example, the one we use yesterday that I can mention here, because people have already listened to it. Melanin absorbs everything. Anything that's left over is given to the water, like in the endolymph canal. This is the reason why there's no pathology. Anything left over that a mitochondria makes actually has a purpose. It goes back to what Rick and I said to you yesterday, and I want to challenge you with it. Did nature make a mistake with ros? The answer is no. It has a purpose. Our job as clinicians and researchers is to figure out what the hell is going on. It makes far more sense when you subtract your belief that you have through your 47 years to listen to this story fully and then say, okay, what is really going on at the cell level below biochemistry? Because that's what we're talking about now. We are below the biochemical level.
+
+[00:26:24.890] - Speaker 3
+We're talking about the electronic states of how a dissipative structure works. Because what does these fancy terms mean? It means that light is buried in everything in a cell where scientists don't look. Buried in hydrogen bonds. It's buried in the bonds between atoms. And it turns out water is able to bend its hydrogen bonds when it's in a different energetic state. That's effectively what's the difference between ice and liquid water. So you know that you don't have ice in you, but you know that ice worked when you had your heart surgery. So the reason why this is important is realize that water is a chameleon. So I mentioned the guy, Marshall McLuhan because I knew you would know him. The medium is the message. What I'm telling you is water is the medium, the mean and the message for cells. It is absolutely critical. In fact, if you ask me, I would still say lights numero uno. But water ain't too far behind. Life is impossible without water. And it turns out water has to hydrate our semiconductors to work, which is the most counterintuitive to the people that you're going to be talking to in the semiconductor world.
+
+[00:27:40.400] - Speaker 3
+They still haven't taken graphene yet and put it in water. I don't think personally graphene is going to work in water. I think the triple helix is the key. You have to understand this atomic molecular organization. When I told you yesterday, amo physics is the key to, to understanding the cell. So getting back to the water story, I got all these guys on my head. Will T. Robinson brings it back in 2010. And then all of a sudden a group at Stanford looks at Martin Chaplin's work is what did Martin Chaplin say? He goes, there's got to be another answer beside the tetrahedron and the pent pentamer in water. And he says I think it's icosahedron. And he did this in his head and he modeled it with computers. Turned out the guys at Stanford proved that he was right. So we now know this is that we now know that water isn't homogeneous and we know that it has two states. Well, the two other guys that I mentioned to you earlier went back to them Proparter and Del Jucey. They came back to the water story after they got done with cold fusion.
+
+[00:28:46.910] - Speaker 3
+And they then proved that water, the heavy dense and light dense one is quantum coherent, the other one's not.
+
+[00:28:57.550] - Speaker 1
+What does that mean?
+
+[00:28:58.750] - Speaker 3
+Means that tap water, or I can't tell you this water because this is deuterium depleted water, but tap water that comes out in your house or even through your machine, 40% of it will be not coherent, not have the ability to connect with other things. You know, like the story that Andrew talked about yesterday with slicing the brain up that he saw me put on Twitter and he goes a factic transmission, it's really water. Water has the ability to do these things. We just don't know it. 60% is present there. So coherent domains become more prominent in water when sunlight hits it. That's the TLDR of water. So now let's Fast forward to 2013. Rick gets a book by a guy named Jerry Pollock. Jerry Pollack writes a book that is so simple that a third grader couldn't shit the bed with this one. It's really easy to understand. He basically took all the scientists that I just told you the reason I went through this litany. You're a scientist, you're going to fact check me. I just gave you a bunch of names and a lot of things you can read. Eventually you're going to find out that most of the things in Pollock's book book are true.
+
+[00:30:09.600] - Speaker 3
+Not all of them are, but most of them are. The differences that I want Rick to understand is he still uses the term easy. I heard him use it and yesterday I even shut him down. I said, don't say that easy. Water is coherent domain water. It's quantum coherent. So the next step is realizing everything about the human, animal, everything about any animal, we are quantum coherent with our environment. Meaning warm, wet environments allow quantum coherence. What's the key? Potassium changes the water molecules. Potassium chloride put together raises the band gap. 7.67, right? Plus 3.10 you get in the sun. That's the last little bit. What does effectively all of that mean to a physicist? You just created a free pile of redox electrons to move wherever you want.
+
+[00:31:04.720] - Speaker 1
+So that's the energy, that's the battery of the battery of the human.
+
+[00:31:08.470] - Speaker 3
+And that's what the basis of water is. It creates the redox pile of electrons to move within the system, which is exactly what a semiconductor does.
+
+[00:31:18.230] - Speaker 2
+My understanding of the Gerald Pollock synthesis is that in the presence of a solid or in the presence of some plasma like structures or organelles, that water reorganizes so that positive and negative charges no longer are the only ones that attract, but you can now get like charges, you know, positive, positive charges attracting one another. So you structure the water in interesting ways. So when he. When he. I've heard him talk about fourth phase of water, what Rick was calling easy water, and I guess I just think of as fourth phase of water. My understanding, the ellipse on that, that I took to the biology, I'm probably wrong here, is that when water is inside of cells and interacting with organelles like mitochondria, it is not the same water that went into the system. It is structured in this fourth phase arrangement. Where it isn't just positive and negatives that can attract. You can essentially get kind of almost plasma like formations with water. Is that right?
+
+[00:32:25.090] - Speaker 3
+Water is a plasma. So you're right about that. What Pollock has got, his main claim to fame is that he showed easy water has a net negative charge. So you remember from our vernacular, meaning science, the redox potential inside of something, you know, when you're healthy is minus 400 millivolts. When you're not, it's minus 200 millivolts. So if you look at the difference between like say NAD positive or NADPH all the way to oxygen, that difference should be negative 400 millivolts. Well, what happens when you lose the ability to create this redox pile of electrons? You have a problem. What did Pollock tell everybody to do? You shine light on the water, and guess what happens? You create easy. In other words, the battery gets bigger because your charge separating water. Which brings us back to my original point. What got me started on this. The first step in photosynthesis is the charge separation of water to create positive negative charges to create a battery, basically. Now we've worked that out in cell biology. This is in fact true in mitochondria as well. Because remember where the difference in biology, we make our own water.
+
+[00:33:31.290] - Speaker 3
+Remember, photosynthesis takes water from the hydrology cycle on the planet. It uses all types of water, doesn't matter what kind it is. And it makes energy, it makes sugars from. It makes different things. Mitochondria are different. They're racist. They don't like deuterium. Deuterium is a huge problem in the matrix. Now you have to remember that the single most important innovation in the eukaryotic world is the TCA cycle, the Krebs cycle. That's what Albert St. Georgi won the Nobel prize for. Okay, to lay all this stuff out. And that cycle requires that the hydrogens that are added back to NAD positive are protium, which is light hydrogen. Just a hydrogen atom, no electron. And what happens in mitochondria? Those hydrogens are recycled through ATPase. 3.4 turns, you make an ATP, okay, 9,000 protons, usually per second, according to what Ling worked out, creates that. So we. It's an incredible number when you look at it. So you begin to realize you have to have an incredible amount of energy to do this. And if you look at the things that are inside cells, remember I told you before that calcium predominantly is inside the mitochondrial matrix.
+
+[00:34:52.940] - Speaker 3
+So I knew right away that that had to be part of the wide band semiconductor magnesium affects 56 of the enzymes in the energy pathway. So guess what? Magnesium plays a big role, too. What's the big part of the water story for mitochondria? This is probably the simplest one for me. And Andrew, I think it's simple for you, too, because you've talked and followed my work for a while. Cytochrome C oxidase, which is the fourth cytochrome, makes water in us. Remember we talked about the spider on the mirror with mitochondrial respiration and photosynthesis? They're mirror images of each other. So we consume water on the photosynthetic side, but we create it on the mitochondrial side. This basic fact, I have to tell you, most people in centralized medicine miss it. That, like when you say a mitochondria makes water, they look at you like you're crazy. The reason why is because they have been stumped by Peter Mitchell's Nobel Prize, which is why Ling went crazy for 60 years and everybody thought he was a raving lunatic. And I'm telling you my opinion. Top three scientists in the 20th century. Albert Einstein, Feynman and Gilbert Lang.
+
+[00:36:05.230] - Speaker 3
+I'm not kidding you. Everybody else, you can throw in the garbage. And I have a reverence for Albert St. Georgi. He's not the top three. This is how smart Ling was. He was so smart that he had a problem different than Albert Einstein. No one knew what he was talking about. He just died last year. We're sitting here now, and I'm telling you his work is still on the edge of science. But the craziest part of the story is from his science. We got the MRI machine that tells you that this guy was doing something right and we're doing something wrong. Because again, nature doesn't make mistakes.
+
+[00:36:41.500] - Speaker 2
+A question about deuterium and deuterium depleted water. So my understand, My understanding is that deuterium green is enriched in water closer to the ocean at sea level.
+
+[00:36:53.920] - Speaker 3
+Put that on your reading list.
+
+[00:36:55.160] - Speaker 2
+Okay, great.
+
+[00:36:56.160] - Speaker 3
+So, just so you know, the book I just threw at Andrew is a book called Defeating Cancer written by Gabor Somali. There are randomized controlled clinical trials, because I know Andrew likes those about the effect of deuterium depleted water and deuterium on different cancer lines. And you will find that every single cancer out there is associated with amplification, amplification of the COX2 enzyme that affects the uncoupling protein number two to allow deuteramine to block the TCA cycle. It ruins proton tunneling. For the reason I mentioned to Rick earlier. One, deuterium affects how many hydrogens 96. There you go. See, Rick's got it. Rick, that's all you need to know about physics. That that deuterium is bad shit. So Rick, you see what's on my hand?
+
+[00:37:39.600] - Speaker 1
+Yep.
+
+[00:37:39.950] - Speaker 3
+Deuterium depleted 25 parts per million. This bottle, Andrew, would only cost you about 20 bucks.
+
+[00:37:46.370] - Speaker 1
+Hard to get. I found it hard to get.
+
+[00:37:48.440] - Speaker 3
+Well, it is. This stuff is. This is the stuff that that book's written about. This is what my clients use when they come to see me. If so remember you asked me yesterday because I want to be directionally accurate with you. You said, jack, what supplements you're okay with. Here it is, Andrew.
+
+[00:38:05.240] - Speaker 2
+Got it.
+
+[00:38:05.800] - Speaker 3
+This is the supplement of Kings.
+
+[00:38:08.150] - Speaker 1
+So you what was the question? You were asking a question before the book came.
+
+[00:38:11.660] - Speaker 2
+Yeah, yeah. Well, I had a question walking in here today, but it has more to do with melanin. I'll remind me.
+
+[00:38:17.100] - Speaker 3
+We're going to get to that.
+
+[00:38:17.950] - Speaker 2
+Remind me to actually my me to ask later. I'm going to see this story. I'll just see that it's a question about tattoos. And so because you can't, you can't blog about it. Yeah. Okay, great. So let's, let's remember to talk about that. But I think right now so with.
+
+[00:38:30.560] - Speaker 3
+Deteriorating the story, I just want to give this to you. So you know Rick, I don't know if you know this. The part of the lady that was in this story may wan ho. She knew all of these same people. She wrote a series of books that I would strongly recommend. She's dead now she can't get on your podcast, which is a shame. But that book details everything that I just told you about water.
+
+[00:38:53.920] - Speaker 1
+Okay.
+
+[00:38:54.310] - Speaker 2
+This book is literally heavy.
+
+[00:38:56.020] - Speaker 3
+Yeah, well, take a look.
+
+[00:38:57.000] - Speaker 2
+No, like if you feel the weight of this book, Rick, the reason it's not a huge book.
+
+[00:39:00.640] - Speaker 3
+But I want you to look at what I did to that book. Does it look anything similar to what I did to your book?
+
+[00:39:06.020] - Speaker 1
+Yeah, you're writing all over it.
+
+[00:39:08.230] - Speaker 2
+Right?
+
+[00:39:08.810] - Speaker 3
+So that's what I do with books.
+
+[00:39:10.480] - Speaker 2
+So deuterium depleted water. My understand crude un like educated version of this is deuterium is enriched in water closer to sea level. As you get away from sea level, deuterium is less deuterium in water from springs and Alps and mountain top high latitude.
+
+[00:39:34.440] - Speaker 3
+The reason this works because I want you to understand this is really important if you understand Jack Cruz's science here that when you get close to the equator, deuterium doesn't matter. Why because the sun is so strong. Remember we talked about 12 hours of sunlight and daylight. When you go up to this 59th latitude, the boreal forest marks the end of where life is. So from 59 above, there's no life. Okay. It's all albedo effect could because there's no sun up there. So what happens? Deuterium depleted water is much higher there because what does it do? Carries more energy because there's not enough light.
+
+[00:40:07.070] - Speaker 2
+This feels analogous to yesterday's discussion about animals having to go into the dark and creating energy from an internal source.
+
+[00:40:15.050] - Speaker 3
+Correct.
+
+[00:40:15.320] - Speaker 2
+I mean, I realize this is broad thematic rush sweeping on my part, but this idea that in the end what cells and organisms are trying to do is create stable sources of energy.
+
+[00:40:27.340] - Speaker 3
+Absolutely.
+
+[00:40:28.100] - Speaker 2
+And sun obviously is the best one for many organisms, not all. But in the absence of sun, cells have alternate routes.
+
+[00:40:37.380] - Speaker 3
+That's exactly the ticket. And the alternate route we covered in detail yesterday, which is very UV VUV to ir. We can create light stronger than the sun by using atoms on the periodic table that build wideband semiconductors. You just mentioned the one you wanted to talk about. Here's your time to step in because I just gave you the story of water. That's it. Melanin is the best. There's nothing. Evolution hasn't come up with anything better than neuromelanin. Now we have pheomelanin and eumelanin. Remember I told you they're doped with sulfur and nitrogen, but neuromelan is doped with, with other things. Now, the reason I bring this to you is I want you to go back to Stanford to talk to the semiconductor guys because what they're doing right now, they are now studying condensed matter. Physicists are studying melanin. It is the most unique material. I think they're beginning to realize that maybe the whole story about graphene, let's move away from that. Melanin is way more interesting.
+
+[00:41:45.290] - Speaker 2
+Well, to me, that. And again, I'm. This is. I'm like kindergarten version of this. But to me, one of the more interesting things about melanin is this link between melanin and dopamine. You know, I love, and I, by the way, I love randomized controlled trials. I also love the idea that nature is the ultimate trial. I fully subscribe to that cause I love animals so very much. And early on I was delighted is the only word to learn that. For instance, the same gene pathway that is involved in the synthesis of dopamine is involved in controlling pelage color like a rabbit in the winter is white. And in the summer is dark and in the spring and summer is trying to mate like crazy and is eating like crazy and getting leaner. Right? And in the wintertime is eating very little and is getting fatter and is very pale. And that's because of the relationship between the tyrosinase enzyme. And in the summer and, you know, in the winter, it's depressed, literally, you know, it's physically and probably emotionally a little depressed. And in the summer, it's ready to go wild. Spring fever as well.
+
+[00:42:50.220] - Speaker 2
+And so the relationship between melanin and dopamine, to me is so intriguing because of what we talked about yesterday, which is, you know, I, I, I don't shy away from the woo, you know. So I think a comment on Twitter yesterday, somebody said that the wow behind the woo is what it's all about, and I love that.
+
+[00:43:08.120] - Speaker 3
+But it is because when you see the mechanism yourself, like one of the things that you're saying now that I hope it's resonating, this is the reason I'm jumping in here. The link between melanin and dopamine is light, water and oxygen that changes seasonally. Remember yesterday when I mentioned to you that that tryptophan is one of these really interesting amino acids that can be catabolized as a ketone or as a gluconeogenic amino acid. So that's got to get you as a biochemist and go, why is nature doing this? And it turns out you just answered it in your rabbit example, because that's how animals change seasons. And guess what? We didn't have seasonal changes when the atmosphere was dominated by methane and a reducing element, when there was CO2, but there was no nitrogen, no oxygen. That's the point that I'm trying to make to you. And this is the reason why on Twitter, you saw me go nuts when you started talking about fluoride and oxygen. Because the quantum leap that I got to get you to understand how you change the VUV IR frequency is water chemistry changes, oxygen tensions change, and this is what's going to change dopamine.
+
+[00:44:20.930] - Speaker 3
+And when you really step down the rabbit hole, what am I really saying? I'm telling you that this leptin melanocortin pathway, it explains a lot of things, like where our frontal lobes came from, where autism came from. And those are hyperbolic big things that normally most people at Stanford are going to say, well, that's going to require a lot of proof. Well, I got news for you. I'm laying it at your doorstep. This is it.
+
+[00:44:47.320] - Speaker 1
+Is there anything we can do to produce more melanin internally?
+
+[00:44:54.100] - Speaker 3
+Yeah, I told you yesterday, you're doing it. Look at your skin.
+
+[00:44:57.180] - Speaker 1
+So if you have melanin on the outside, you'll pull it in.
+
+[00:44:59.700] - Speaker 3
+I'm glad you're bringing this up, Rick, because I dreamed last night that I didn't tell Andrew enough about Gurwitz's paper, the UV radiation. And in the blog that I put right at the end about the cancer research that now found that cancer cells metastasize not the way we thought. It's actually when mitosis is broken, when there's no UV light, that's when cells migrate the most.
+
+[00:45:23.810] - Speaker 2
+Oh, you're talking about the approach to the surface of dense melanoma. You talked about neuromelanin and we talked yesterday about the fact that when you look at a brain, even unstained for any neurochemicals, you can see dark regions like substantia nigra. You're the neurosurgeon. I've spent a lot of time looking at brains too. But you spent far more than I have for sure. So if I zoom in really close to a neuron or a little volume of brain tissue, I don't see those cells as dark. But you're telling me there is neuromelanin in them. It's just kind of look at your.
+
+[00:46:03.340] - Speaker 3
+Own skin or look at your own eye. You realize that the blue that you have in your eye is also melanin, right? The skin of me, you and Rick, because we're all white guys, he's probably Fitzpatrick 2. I'm Fitzpatrick 1 59th latitude.
+
+[00:46:17.450] - Speaker 1
+You're.
+
+[00:46:17.690] - Speaker 3
+You're probably Fitzpatrick too. So you got melanin in your skin. But see, the problem is you don't look at it like that. But I want you to. Somebody who's an albino or who has vitiligo, when you see that and they have your skin, you're like, oh yeah, that's obvious. Their melanin has been pulled in. The same thing in an albino. They may not have the darkest dark, but they are going to have something where the substantia nigra is. Now realize, are they subject to other diseases that we don't get? The answer is yes. So they are a clue to this mystery, you know, that I'm trying to lay out to you.
+
+[00:46:51.920] - Speaker 1
+That was a question I asked yesterday was about when I'm tan and I get on a flight and I get off a flight, six hours later, I'm not as tan anymore. Which is strange because it's too short of a time.
+
+[00:47:03.650] - Speaker 3
+But that's why I thought Andrew would love this story. Because the idea that the you're sucking it in.
+
+[00:47:08.290] - Speaker 1
+What Jack is saying is that the reason it's not on my skin anymore is cause going inside to do work inside.
+
+[00:47:13.080] - Speaker 3
+Well, guess what? Because this is, this is the neuroplasticity. Like Andrew and I, I know that we learned this together. The brain was not neuroplastic. As soon as you were six years old, you were screwed. That's what I was taught, you know, that the brain just doesn't come back. And what I'm saying to the world right now is not only is the brain neuroplastic, it's way more plastic than we could even fathom. And the evidence is standing right in front of us in Becker's work on fingertip regeneration on melanin. But the biggie, the biggie in complex mammals with huge epigenetic toolboxes, which is humans or chimps, is in our immune system. That's where it's really found. Because what does a wet white blood cell have? I tweeted this morning about what were we going to talk about today? And I put down a very specific slide that I'm referencing to you now because you can go look at it. White blood cells. And you know, Peter, Adia had told you all this stuff about the heart. Dude, I'm trying to hit everybody. I'm trying to knock down every sacred cow. Telomere length is affected massively when it's screwed in white blood cells.
+
+[00:48:25.250] - Speaker 3
+It's threefold higher risk to cause heart attacks. So remember yesterday when I casually dropped to you that rats and humans have POMCY in their cytoplasm? What's the whole point of that? To keep your white blood cells mobile, you have to block UV light coming from the nucleus. So guess what? Their cytoplasm does something completely bizarre that allows it to migrate and mobilize to go where it needs to go to do its job. So we think about this pathologically because cancer is the first thing we think about with mobility in cells. And why does it go? It turns out the reason why cancer cells move is they're looking for UV light because the tissue they came from doesn't have any of this VUV to IR light. And Gurich's paper is the key for you to understand that that mitogenic radiation, it's huge. So the dominant paradigm, the absolute thing that I hate the most that I know Rick no longer believes, is that UV light isn't a toxin. It's actually the fountain of youth for mammals.
+
+[00:49:34.610] - Speaker 2
+Internally generated UV light.
+
+[00:49:36.520] - Speaker 3
+No. Externally too.
+
+[00:49:37.770] - Speaker 2
+Well, externally.
+
+[00:49:38.480] - Speaker 3
+Right, because remember.
+
+[00:49:39.600] - Speaker 2
+Or both.
+
+[00:49:40.150] - Speaker 3
+Right, because remember what we're saying here. Alpha MSH comes from Pomsy. You as a neuroplasticity guy. Now your. Your job, if you choose to accept it, is to go find out every tissue that makes pomc. Like I did a pretty. I think they're amazing talks in Vermont 2016 on photosynthesis, because that's what we're talking about today. Then the one in 2017 was all about equals MC squared and how light gets slowed down. And it was a little bit about what we're talking now. The one I did in 2018 was the first part of the deuterium story that we haven't even touched on yet. Why deuterium's in the blood and it's not anywhere else. It actually is a UV story. So I'll give it to you. In the blood, we have 150 parts per million of deuterium. But in the mitochondrial matrix, you want almost next to none. So on the surface, let's ask the question, does nature make a mistake? So it's our job to innovate what the hell she's doing?
+
+[00:50:38.490] - Speaker 1
+Yeah.
+
+[00:50:39.090] - Speaker 3
+So it turns out. Remember yesterday I told you, you actually mentioned. No, I think it was Rick mentioned the scorpions down in Costa Rica and because of the UV light. And remember I casually mentioned to you that hunters use UV lights to follow red blood cells because porphyrins are UV to IR sensors. Hemoglobin's absorption spectra is 250 to 600. With a sharp cutoff, it doesn't absorb anything past 600. So when you understand that, you got to go to yourself, why is hemoglobin absorbing 250 when 250 is really not getting in there? Remember the slide I always show Rick online about UV light? And UVB light really stops at the epidermis. The only one that gets a little bit lower is uva, but not that much. So nitric oxide brings them up. It's still not enough. It turns out the reason why nature put deuterium in our blood. Do you know how a deuterium arc lamp works? If you heat up deuterium, it makes arc lights. This is what Helmholtz used in his original experiments for the photoelectric effect. Turns out deuterium when you squeeze it. Put any squeeze on at all, emits UVC light. How do you like that?
+
+[00:51:57.190] - Speaker 2
+Wild.
+
+[00:51:57.970] - Speaker 3
+It is wild.
+
+[00:51:58.700] - Speaker 1
+We do not want it.
+
+[00:51:59.700] - Speaker 3
+Well, I'm going to tell you the reason why, because guess what, Remember, and I don't know what you were told from the Stanford guys, maybe you can enlighten us. But when you have any heart surgery, one of the big things that they're worried about is when you especially go bypass, your blood goes through the machine. You're much more likely to clot and get clots and have issues. So a lot of times they'll put people on aspirin, Plavix or, you know, Eliquis, some of the other blood thinners. What sunlight does, it's a natural anticoagulant because it increases the zeta potential. What's that? That goes back to what Andrew asked me about earlier, about like, like charges from Pollock's book. When you have a like, like charge, it repels platelets from adhering to the endothelium or to other red blood cells. So guess what? Nature is telling us. Nature's telling us we have to create the extreme UVC light right here in the blood before we get the show started. Because what did I tell you before? The tissues make their own from these wide band semiconductors. What does the blood do? Remember, the blood blood cells have no mitochondria.
+
+[00:53:03.410] - Speaker 3
+None. We lose it. Fetal red blood cells do, but our adult form make none. So what does that do? It effectively increases the charge capacitance. We're back to pollux work. We're back to photosynthesis. That's what charge separates water right at that level. And then when you really begin to understand blood the way I do, blood is thick, so tripic. What does that mean to you? Heinz ketchup comes out like really, really slow. It's got a viscosity. When you add sunlight to it, it's less viscous, so it flows better. Okay. When you add UVC light to it, it becomes a magneto hydrodynamic fluid. Say that again. Magneto hydrodynamic fluid. That's thixotropic. That can change based on what light is around it. So what is the purpose of blood when you have a quantum mechanical understanding of what semiconductors are capable of doing? Basically, it creates the wireless system that connects the cathode ray of the sun to the anodes in you. That's how information is transferred wirelessly.
+
+[00:54:14.610] - Speaker 2
+I think that's important enough that I'm going to ask if you'd say it again, not because I didn't hear you, but because that for me sets off a giant exclamation mark.
+
+[00:54:28.250] - Speaker 1
+Anything you can tease out in It. To make it more.
+
+[00:54:33.260] - Speaker 2
+Yeah, so.
+
+[00:54:34.320] - Speaker 1
+More clear.
+
+[00:54:34.970] - Speaker 2
+Yeah. So, I mean, I don't completely get it. Yeah. I'm at.
+
+[00:54:38.000] - Speaker 3
+You know, I put pictures in the blog for you to look at it.
+
+[00:54:40.240] - Speaker 2
+I mean, the biologist in me, you know, thinks, okay, this thing in the environment impinges on neurons that then convert it into electricity, into chemicals, and then they talk to other neurons, et cetera, et cetera. I think that one of the biggies from yesterday is the idea that light isn't just triggering, like flicking the first domino, but that every domino in the chain actually can and does use light. Meaning that light is something in the body. They're very, very different model in my mind. And what I just heard Jack say was that, okay, so that links us with the sun in a very different way.
+
+[00:55:21.500] - Speaker 3
+Correct.
+
+[00:55:22.370] - Speaker 2
+It also gives us independence from the sun in very interesting ways, but then gives us additional reliance on other things.
+
+[00:55:31.580] - Speaker 1
+It also speaks to. In the spiritual literature, referring to humans as light beings.
+
+[00:55:37.300] - Speaker 3
+Correct.
+
+[00:55:38.520] - Speaker 2
+Absolutely. Absolutely.
+
+[00:55:40.540] - Speaker 3
+The other thing that you just said, though, I want you to go back to this and stop for a minute. Think about this. The mammals we talked about yesterday at the KT event are very different than the mammals today. So realize thermodynamically what you just said, the implications are big here. Do you understand now why I'm saying there's a cognitive de evolution going on, moving back? Because we're effectively doing the same thing now that we've got these unbelievable semiconductors inside. If we block the sun now, we're really the T. Rex of today. You know, we're not like mammals that can pull it in. I mean, take a look at Rick's beard. He's pulled most of his melanin out of that sucker. And thankfully he goes to Costa Rica and Hawaii, and he's got beautiful Alpha MSH that he can draw on. And the craziest thing about Rick is he's so in tune. He's such a wild animal that he says, I get off the plane, Jack, and I notice the difference. He's not crazy. But the reason I want you to hear this is what I said to you yesterday in the melanin story about the vitiligo.
+
+[00:56:42.070] - Speaker 3
+Remember I told you when I had my. My band, TED Talk, and I started talking to all these people?
+
+[00:56:47.500] - Speaker 2
+You say banned.
+
+[00:56:48.410] - Speaker 3
+Yeah, my TED Talk was banned over 12 years ago.
+
+[00:56:50.650] - Speaker 2
+Was it really? Yeah, because you're the original band Science.
+
+[00:56:54.770] - Speaker 3
+I was banned. I was banned before Sheldrake.
+
+[00:56:57.370] - Speaker 2
+Well, you have Sheldrake. Wait, I don't know if I want.
+
+[00:57:01.410] - Speaker 3
+To tell this story.
+
+[00:57:02.160] - Speaker 1
+Sheldrake BAND well, don't worry.
+
+[00:57:03.940] - Speaker 2
+I have no ambitions of ever doing a TED Talk. And I'll say that twice. I, you know, I've been asked a few times. I have no ambitions of ever doing a TED Talk for. Because it constrains the. The kind of tag on somebody. I'm not, I'm not being disparaging of any people they've given them. But the only TED Talk I think anyone should absolutely see is the one which is a parody of TED Talks called this is how to Be a Thought Leader.
+
+[00:57:26.930] - Speaker 3
+Yeah.
+
+[00:57:27.330] - Speaker 2
+Where they break down how every step in the TED Talk is essentially like a stereotype of like, paste the stage, face the stage, like picture of the world for no reason, you know, like. Like, it's an. It is hilarious. Hilarious.
+
+[00:57:39.760] - Speaker 3
+I've seen it. And I have to tell you, you have to remember this is a long time ago. It was 2011. So I did it with the intention of doing kind of what we're doing here today and yesterday. And I was totally. Listen, Andrew, I'm positively thrilled that.
+
+[00:57:57.760] - Speaker 2
+To hear that you got banned for giving a TED Talk. I mean, some of the TED talks are so dreadful. In fact, there's like, I think a gallery of the worst ones and, and they're pretty amusing, too. But anyway, I keep interrupting you because I'm so tickled by the idea that you were. That your. Your TED Talk was banned or that you were banned from giving one. Which one was it?
+
+[00:58:15.260] - Speaker 3
+No, I gave it in total. It was awesome. I'm not kidding you. I can't get a copy of it, but guess what it was on. It was on this topic, the leptin melanocortin pathway and cold thermogenesis and how I found it and how I used it in patients.
+
+[00:58:30.650] - Speaker 2
+Why in the world would they want to ban it?
+
+[00:58:33.250] - Speaker 3
+Because they realized the implications. They realized that the people that were supporting the event were big Pharma. And three weeks after they had people from big Pharma, remember what I told you about the original injury with my knee? And who gave me the information? That information got back to corporate America. Just so you know, I've been visited by the FBI. I've been visited by state medical boards after that talk, just so you know.
+
+[00:59:02.450] - Speaker 2
+Wow.
+
+[00:59:03.570] - Speaker 3
+I've also been. Been. I don't want to say I've been to other places that you can only imagine who are very interested in the work that I was doing, because this was hitting on things that would be really important in different aspects of Life, like space and things like that. So military was quite interesting.
+
+[00:59:24.540] - Speaker 2
+Yeah, I was going to say. I mean, I'm fortunate to do some, like, I don't publicize any of it, some work with military and I find them to be incredibly open minded that certain communities within the military, well, they want to win. Yeah, they're very open minded.
+
+[00:59:35.650] - Speaker 3
+Well, do you remember the story that I told you offline yesterday about Becker? You think they were that open minded? And remember the one thing I'm going to get on your case because Chantal told me I had to pound you on this. Rick, yesterday in the car when we were going to lunch, said I gave you the going somewhere book by Andrew Marino. Your duty, if you choose to accept it before I come on, you better have read it.
+
+[00:59:57.190] - Speaker 2
+Oh, I'll read it. Yeah.
+
+[00:59:58.300] - Speaker 3
+Because that book I think you read.
+
+[00:59:59.510] - Speaker 1
+You sent me a message that you were reading it and loved it. This is we.
+
+[01:00:02.310] - Speaker 2
+I keep confusing the book. I keep. There's the monk who sold his Ferrari. I haven't read that one.
+
+[01:00:07.770] - Speaker 3
+You don't need the Marino book.
+
+[01:00:08.970] - Speaker 2
+Is the merino book is the EMF book with the gallery of pictures on the. Yes. Okay. I am in the process of reading before Rick thinks that I'm fully shit when I tell him I bought that book because he suggested it. I've been reading it and so I'm about a third of the way through.
+
+[01:00:24.050] - Speaker 3
+Yeah, it's a dense read.
+
+[01:00:25.010] - Speaker 1
+And you sent me a message. I keep confusing you loved it.
+
+[01:00:27.190] - Speaker 2
+I don't know all of these, but I, I do love it.
+
+[01:00:29.110] - Speaker 1
+I know you told me because it.
+
+[01:00:30.580] - Speaker 2
+Starts off, you know, I mean, there's something that happens when you read a narrative from another scientist and you're like, okay, like, like we're from the same thing. It's clear he gets it. He was, he was an insider. And.
+
+[01:00:42.550] - Speaker 3
+But think about what you just said and what's in that book. They're completely at odds with each other. See, my audience is going to listen to this podcast. I can tell you right now, they're going to come back and say at, you know, hour seven twelve, Uberman shits the bed. You know, you need to realize that who are these.
+
+[01:01:01.620] - Speaker 2
+These people?
+
+[01:01:02.430] - Speaker 1
+I'll tell you who know.
+
+[01:01:03.660] - Speaker 2
+Really, like, who are these?
+
+[01:01:04.940] - Speaker 1
+Let me tell you about these people. Because that first day when I saw Jack Cruz all Those years ago, 24, 2014, I didn't understand a lot of what he was talking about, but there were other people around who did. Followers who are like, we'll explain it to you. Like where the follower. Like we. Where the translators got it. And there was a whole group of.
+
+[01:01:25.880] - Speaker 2
+People, they started coming out very. On Twitter.
+
+[01:01:27.910] - Speaker 1
+Very helpful.
+
+[01:01:28.750] - Speaker 2
+I was just confused between books and authors. Okay. The Monk who Sold His Ferrari Different. The Merino book I own, I've been reading it with the gallery of photos on the front. It's.
+
+[01:01:38.480] - Speaker 3
+I'm just going to tell you when you finish it. The point I want to make to you. Your opinion of what you have on the military is going to change radically.
+
+[01:01:45.080] - Speaker 2
+Okay.
+
+[01:01:45.660] - Speaker 3
+That's all I'm going to say.
+
+[01:01:46.580] - Speaker 2
+Okay.
+
+[01:01:48.020] - Speaker 3
+They are not our friend when it comes to biology. They're not.
+
+[01:01:53.060] - Speaker 2
+Okay.
+
+[01:01:53.930] - Speaker 3
+And just so you know, Billy Tauzan, who used to be my congressman when I was a resident, he basically cooked the FCC Act. This is the reason why I don't like to come to la. I only come to LA if Rick says this is important.
+
+[01:02:08.660] - Speaker 2
+Got it.
+
+[01:02:09.280] - Speaker 3
+And my nurse tells me, you better get your ass there, Jack to talk to you.
+
+[01:02:13.350] - Speaker 2
+Well, I've enjoyed my work with the military, but I'll keep an open mind as I read the book. The point that you made earlier about the sun being a source totally onboard that, but that ultimately the opposite end of that electrical field is the mitochondria. That, to me, is a very important thing to highlight. It might seem overly simplistic to you, but to me it seems very, very important because I think that we all can kind of into the idea that sun is impacting the cells on our skin and our eyes, maybe even some of it's getting into our brain, et cetera, and that each cell is responsible for carrying out all these reactions and creating energy. But it's a very different thing to think about it from the perspective of the sun at one end, one electrode. Right. And your mitochondria being the other electrode. I think that in its simplicity, it also helps span the gap that I think most people, like myself, with conventional training don't naturally default to.
+
+[01:03:17.870] - Speaker 3
+All right, so do you want me to bridge a little bit of the gap? Because I wasn't going to go this deep. Let's do it. All right.
+
+[01:03:23.630] - Speaker 2
+Does that make sense?
+
+[01:03:24.350] - Speaker 1
+Yeah.
+
+[01:03:24.850] - Speaker 2
+Like the idea that I'm like, in charged by the sun, it's like, cool, but that's just a statement. But the idea that my mitochondria are getting charged, cool, but that's just another statement. But the idea that these are two separate electrodes between which you can generate electrical fields. Now I'm like, okay, for me, that just has an intuitive texture to it that a light switch would have. That makes the most sense.
+
+[01:03:47.360] - Speaker 3
+Yeah, because it's just like a cell tower and a cell phone. That's really what I'm saying. But what I need to do because it does go back to the story of water. I gave it to you guys in the Twitter feed this morning. But I wasn't going to get into it here. But I'm going to give you the two major connections. Three, when you get them, you research them. But then you'll say now I understand Jack's magics. So the most dominant atom in the sun is hydrogen. Do you know what the atomic emission spectra of hydrogen is? It's red. It's red light. The reason why red light's the most dominant part of sunlight is because hydrogen makes up the number one dominant atom in the sun. So what's the connection directly from that connection to your mitochondria? What did we say yesterday? What makes water Cytochrome C oxidase. What are the frequencies of the red light chromophores and the cytochromes? 626, 87, 16, 860. Guess what? They are all in the infrared. A guess what that is the domain of the hydrogen emission spectra from the sun. That's connection one. Connection two happens to come from our friends Del Jusay and Purpara.
+
+[01:05:00.970] - Speaker 3
+Remember I just talked to you about them in the water story. You're going to learn something about the sun that's very queer. Where classical physics cannot explain something in the hydrogen spectrum in the sun called the lamb shift. Write that down.
+
+[01:05:17.370] - Speaker 2
+I've heard of the lamb shift.
+
+[01:05:18.730] - Speaker 3
+So the lamb shift isn't explained. But you know who does explain it? Quantum field theory or quantum electrodynamics. Which happens to be our friend Richard Feynman and Julian Swinger. Okay. They won the Nobel Prize in 1965. Guess where Julian, I should say Delguche and Proparter talked about that. Water also accounts for the lamb shift. So what's the other connection to the mitochondria? It's actually in the water via the lamb shift. Because what do mitochondria do? They take hydrogen protons and create deuterium depleted water. So those are the two major connections. And what did I just tell you there? That two of the three legged stool is linked in that wireless connection. That's the Marconi link that you need to make the part, the third leg of the stool has to do with the reductionist way of thinking. You have to reverse engineer. Where does magnetism come into the mitochondrial story? Because remember I said Magneto hydrodynamic right of blood. The FO head of the ATPase, which we know formed probably way before even Luca. You know, that's the guy I told you, Nick Lane, who you do need to get on your podcast. He's the world expert in mitochondria.
+
+[01:06:40.250] - Speaker 3
+The FO head spins. And it spins because protons move through it 9,000 to 12,000 per second. Okay? Every 3.4 turns, you get an ATP. We think 9 to 12 protons creates an ATP in very, very quick fashion. There's papers written that I can send you that show that the ATPase functionally, is a quantum nano rotor engine that only works on red light. So when you take apart everything you learned in your biology, I'm going to tell you something that's going to stun you. This is how simple is the basis of what I told you yesterday. Now, we're at the other end of the story. We're at the mitochondrial side. Remember, it's called Black Swan. Mitochondria. Black Swan was the event. The mitochondria is the other part. The mitochondria has VDR receptors on it.
+
+[01:07:37.080] - Speaker 1
+What's VDR receptor?
+
+[01:07:38.430] - Speaker 3
+Vitamin D receptors. You know what they are. So you got to ask yourself, did nature make a mistake by putting a UV detector inside the inner mitochondrial membrane where electron chain transport is? Doesn't make sense on the surface, right? But does she make mistakes? Turns out, what do you do when you go in the sun? You don't have to eat that much because the vitamin D that's made from your skin circulates in your body, blocks electron chain transport. What does that do? If you're thinking like Faraday, you stop the electron, what has to make ATP? Red light. Does red light ever go away when sunlight's out? Never. What else did I tell you before yesterday? Red light penetrates the body 6-10 cm.
+
+[01:08:21.190] - Speaker 2
+Yeah, I was going to ask you. So how deep does red light go?
+
+[01:08:23.670] - Speaker 3
+Well, it depends on the frequency, but guess what we do know. 626, 87, 16, 860, all penetrate.
+
+[01:08:30.840] - Speaker 2
+So if I'm standing outside.
+
+[01:08:32.680] - Speaker 3
+Stop for a minute. I'm not going to let you go there. Remember what I told you about with the light that we emit from the wide base, semiconductors goes from VUV up to what? Ir? So the chroma force in us, some of the chromophores that you mentioned yesterday, they make infrared light, too. And you know that that's true why? Because if you have your fish tank, infrared candle, and you Poke it at you. Like when Rick said at night, jack, I'm hot. Me and you have the same problem. You use an infrared, you'll see that you emit infrared. So what else does a mitochondria do? It's also a Carnot heat engine. What do you know about Karno engines? Meaning the hotter they run, the more thermally efficient. Where are they? Where do they work the best? And this is now Fulton steam engine stuff. If you put them in a cold environment, they work better. So this cold is linking back to thermal.
+
+[01:09:24.510] - Speaker 1
+It's why sleeping cold is better.
+
+[01:09:26.390] - Speaker 3
+Well, but the real reason is what I told you yesterday. It's because wide base semiconductors work better in cold.
+
+[01:09:32.480] - Speaker 1
+I see. And why the ice stub works as well.
+
+[01:09:35.060] - Speaker 3
+Exactly. But the thing is, what am I trying to do here? I'm trying to go from the classical to the thermodynamic to the quantum mechanical. See what I'm trying to do? You guys said some really cool things that I probably wouldn't have said yesterday about space time travel. What I'm doing is I'm taking you. Not only space time are we talking about, we're talking about levels of complexity this way. So it's much like the examination I'm asking you to do about the periodic table. I want you to look across tables and rows and I want you to see the peculiarity of what cells are doing by what they're using. It's just remarkable that we stop at oxygen. But if you look at the history of the Earth, all the things that were in the atmosphere before aren't here now. So when you wrote in the book, I actually have it starred that when the great oxygenation event happened, that. Right, that. But I'm just saying, you said that sometimes something new starts.
+
+[01:10:38.440] - Speaker 1
+Yes.
+
+[01:10:38.920] - Speaker 3
+And you have to realize your mind has to take what you know today to be present and say, well, what was it like back then? And how did life exist then? And you have to ask yourself the question. Some of the pieces and parts of those ideas have to still be in us because we're here as proof that it worked. See, that's the ultimate thing. Like I, I made.
+
+[01:10:59.870] - Speaker 1
+It works. It keeps. It keeps happening. If the system doesn't work, we're gone.
+
+[01:11:04.520] - Speaker 2
+Yeah. I mean, a very now seemingly trivial, but not trivial example is those melanopsin cells. Those are frog skin. And rhabdomyric opsin. From homologous to what's present in insects. We've got a little bit of insect like eye in our eye. And I Think for most people, they see Drosophila and then they see human and they go, that has nothing to do with us. And we've co opted some of the exact same biology.
+
+[01:11:31.950] - Speaker 3
+Right? And it does have something to do with us, I think. I like that you made that link yesterday. I like that you brought it up here again. But the thing that I want to shoot, because we did it yesterday, remember that when you start dealing with chromophores, you have to realize that if you have no light controls in your experiments, everything you think is true, it's not.
+
+[01:11:54.550] - Speaker 1
+True, it's never been tested.
+
+[01:11:55.770] - Speaker 3
+Correct. That, that, that is, that is almost probably the biggest statement that I'm making about why I don't believe anything in centralized medicine or healthcare. It's the reason why when you guys asked me the question that you asked Eddie Chang why I gave you the answer I gave you. But it's also the reason why centralized medicine focuses on RNA and DNA and not mitochondrial DNA. And here's the crazy thing, Andrew. Do you think it's easier to study a genome with 23,000 genes or one with 37 that only 13 make energy? Do you see the stupidity that we are not focused in on the most important part? Like it's not the body plan or the semiconductor proteins that RNA and DNA make, it's actually how we transform energy. That's what the mitochondrial DNA does. And when you understand that it's connected wirelessly to the sun, understanding the things that you need to understand about the sun to the mitochondria, that's not that difficult. All the other stuff that we're talking about, like how energy comes from the mitochondria, how it's being transformed and how we're making even stronger light inside us. And that this ability is distinctly a specialization of mammals because of melanin.
+
+[01:13:18.920] - Speaker 3
+I mean, everybody learns in third grade what makes mammals mammals. They have hair all over their body. Well, people don't put two and two together. Hair is melanin. And we just established from Rick's own biohack that he can lose his tan really fast. And I told you that I found the lady who is black with vitiligo 15 years ago that I was able to refix her skin in three or four months. So it doesn't take that damn long.
+
+[01:13:43.310] - Speaker 2
+A question about pelage color. Just since we're here as maybe we could take a minute. There was a lot of enthusiasm a couple of years ago about papers showing that stress creates high peroxide groups in the hair follicle. Which is what makes hair gray. That can't be the only thing that makes hair gray. But thought that was pretty interesting given that we know.
+
+[01:14:07.200] - Speaker 3
+Well, the other thing I would tell you that makes it gray because I want to give it to you. So you got it. The hair follicle loses the ability to make vuv light. So when you lose view light, what, what's the stimulus there for the neuroplasticity neuroectoderm, which is the melanocyte to go out of the hair in see replacing back. When you understand this, seeing people who are bald and gray kind of is a big tell for a quantum clinician, you know, and it tells you kind of what's going on. Like we always, you know, the linkage that we always have like little small Italian guys that are bald, you know, and they're muscular, they have high testosterone levels. Testosterone makes your hair fall out. But people don't know that UV light actually destroys or lowers testosterone. But we have these stupid anti aging doctors out there putting gel on people's skin. I mean when you see the stupidity of what these people are doing because it's clear they don't understand functionally how a cell is organized and how it really works. And it's this atomic organization inside. And one of the things we haven't even touched on yet.
+
+[01:15:12.290] - Speaker 3
+But I do want to tell this to you. You are going to find out when you go back to Stanford. Do you know that we still do not, we still do not know the true anatomic structure of neuromelanin. Which is the reason why now the condensed matter guys are very interested in.
+
+[01:15:29.760] - Speaker 2
+It is because neuromelanin is in every, every neuron.
+
+[01:15:34.310] - Speaker 3
+No, I wouldn't say it's in every neuron. It's affected where it is. Remember there are certain places, you know, in the brain. The stuff that you talked about yesterday is the obvious ones, Niagara. But it's also in the, in the cardiac plexus, you know, in the autonomic nervous system. How about the big one? We never talked about, we talked about this much. The gut, the entering chromium cells. As soon as you realize my paradigm you start going, Jesus Christ, now I understand everything about the gut. All this you hear from, you know, the paleo people and the autoimmune people. You just go, let it go in one ear and out the other.
+
+[01:16:05.260] - Speaker 2
+Well, let's talk about the gut because endochromafin cells. So we were just talking about how there are brain. There are neurons in the brain like the Neurons of Danish Nigra that make tons of dopamine. And they are. They are literally black to the naked eye. That's how much.
+
+[01:16:18.680] - Speaker 3
+Same thing in the rpe.
+
+[01:16:19.590] - Speaker 2
+Don't forget that RPE and adrenal medulla, right? Dark tissue. You don't need to any. Any fancy stains to reveal what they are. You can see them without a microscope.
+
+[01:16:31.180] - Speaker 3
+Think about the diseases that you learned about now. Poots, Jaegers, think about Addison's disease. Start thinking about them differently, don't you? Because you're like, yeah, those people get, you know, melanin in their mucous membranes. So what does that do? It tells you that you're pulling the melanin out. So when you think about John Kennedy because he had Addison's disease, he had bad back, what does that tell you about Becker's things in semiconduction? You go, wow. And then you start realizing, so this is the real reason why astronauts get osteoporosis in space, because they're facing a totally different electromagnetic field, and it knocks the two copper ions out, and then the P and N semiconductor don't work. See, space osteoporosis is different than osteoporosis here, except if you live in California, New York, because guess what? The spectrum here, closer to space, it's closer to space than it is to, say, in El Salvador or New Orleans or Florida.
+
+[01:17:26.080] - Speaker 2
+So we're moving to Florida. Could be. You never know. So let's talk about the gut. The endochromafin cells are super interesting cells. I mean, I. I think one of the bigger discoveries that, you know, widened my eyes in the last few years is this Diego Borges work out of Duke, showing that, you know, your gut really is. Has neurons that are sensing amino acids and fatty acids and sugar, too, and are sending signals to the brain. So subconsciously, you're craving more of those things. Basically, your gut is sending signals to your brain telling you what's present and what's not present, which, when you hear it, you just go, of course. Right. You know, but what's the signal?
+
+[01:18:05.640] - Speaker 3
+See, I'd stop you right there.
+
+[01:18:06.800] - Speaker 2
+I think that they think that it's the V through the Vegas.
+
+[01:18:09.560] - Speaker 3
+Yeah, it's through the Vegas. But that's not what I'm asking you.
+
+[01:18:12.000] - Speaker 2
+What's the nature of the signal?
+
+[01:18:13.930] - Speaker 3
+Remember, I'm pulling a gasey arse on you. Come to my level. So I said something to you outside yesterday. Let's repeat it for the podcast, because I don't know if we said it here. What's the difference? What did Fritz Pop find in his work? That the two first two domains of life, archaea and prokaryotes, bacteria emit 5,000 times more light than eukaryotes. So remember the movie screen and the projector story? What does that tell you? Remember, bacteria are functionally different than us. They emit way more light.
+
+[01:18:46.770] - Speaker 2
+So they're the projector.
+
+[01:18:48.060] - Speaker 3
+You got it. And the light that goes between those bacteria and the enter chromosome cells, that's the light coming through. So that process, I named it, called quorum sensing. So what's happening? We need to know about the interaction. There's. So the microbiome. The key to the microbiome is understanding the light that each bacteria emits. We don't know that. One thing we do know is that the construction of the microbiome is important. The interesting part of the story, I was supposed to be invited back to Vermont to give another talk the next year. The talk was going to be on the gut. This is what I was going to talk about. And the people that were the organizers in Vermont are tied to the Western A. Price Foundation. And I hit them pretty hard the first time because I said if Weston A. Price was still alive, he'd be a mitochondriac. He wouldn't be a member of his own society because he was a dentist. And I used to be a dentist. I was an oral surgeon before I was a neurosurgeon. And I pointed out to them that it's not the food that's the problem, it's the fuel.
+
+[01:19:50.600] - Speaker 3
+The fuel and the engines. I should say, not the fuel, but the engines. The mitochondria is the big deal. And I pointed out to them a study that had just came out. This is now five, six years ago, a guy named Jeff Leach, who's down in Texas, went to see the Maasai and he basically checked their poop all the time. And one of the things that he did is he fed them their normal diet, checked their poop, then he fed them Fanta Tab, Mars Bars, Three Musketeers. And guess what he found? The microbiome didn't change, which is a complete slap in the face to what modern science says. And the reason for that is, if you understand my perspective, it wouldn't change because the light is the key to the story of the microbiome. It's not what you eat. And the only way this perspective is going to change is when people realize what we talked about yesterday is the key to this whole puzzle, that it's always a light story. Start with light, water, magnetism, work your way from there, and you'll do way better in trying to figure out modern diseases. And the same thing is true if you think about, like things that we do now about fecal transplants.
+
+[01:21:02.670] - Speaker 3
+You know, one of the things that we do know, probably the one indication that I think is hardcore everywhere in the United States is if somebody gets C. Difficile, you get C. Difficile, which is a clostridium infection of the gut. Pretty much every doctor you go to in the United States in 2023 will say this is indicated if everything else fails. So you're trying to repopulate. You were smart to keep your appendix. Why? Because that's what the appendix effectively does. It's an inoculum for the gut. When the gut goes bad, like when you have a bad night of the shits, you know, you repopulate it because you need to make the light. Remember a lack of light. What does that mean?
+
+[01:21:43.580] - Speaker 2
+You're in poor conditions? Well, it means the cells within you need to compensate.
+
+[01:21:48.920] - Speaker 3
+No. Let's go. I want to make sure this lands. Alexander Gurwich. No light. That means those cells migrate. Opens up further. Think about Barry Marshall. Think about the implications. Think about colon cancer now. Think about everything you know about the gut. Cells migrate. That's not good. Think about how metastases occur. Why does the liver always get pounded? What's the first thing you hit? Portal circulation. You're into the liver. UV light show. It's filled with heme. We didn't talk about heme as a nitride based semiconductor because that's what hemoglobin is. But you know, catalase is a heme semiconductor. Cytochrome C oxidase in the mitochondria. Every cytochrome is heme based. Want to hear something crazy? You know where heme is made in the human body? First up, the mitochondrial matrix. So if your mitochondria is bad, can you replace your heme semiconductors? That was part of your hack with the methylene blue. So you know the disease called methemoglobinemia? That is a disorder of hemoglobin. Generally, when too much carbon monoxide binds to hemoglobin irreversibly and it can't deliver oxygen. You know what the treatment for that is in centralized medicine? Methylene blue.
+
+[01:23:24.400] - Speaker 2
+That's what the script is most commonly used for, Correct?
+
+[01:23:27.850] - Speaker 3
+That's the number one common use for methylene blue.
+
+[01:23:31.160] - Speaker 2
+Injectable methylene blue?
+
+[01:23:32.410] - Speaker 3
+Yes. Iv. And you give it and what happens Generally, somebody who's got methemoglobinemia, they have blue lips, you know, blue mucous membranes. And if it's from carbon monoxide poisoning, they come into the ER and they're pink. Their whole body is pink because the hemoglobin's got that color, because it's holding on to the carbon monoxide. You give the methylene blue, and it dislodges the carbon monoxide and allows oxygen to bind. But the other thing it does, it also delivers nitric oxide to what? Cytochrome C oxidase. Wherever that mitochondria is, that vasodilates, remember. Now we're back to letting that magnetohydrodynamic fluid flow better.
+
+[01:24:14.270] - Speaker 2
+Is cytochrome C always in the mitochondria?
+
+[01:24:17.000] - Speaker 3
+No, it can be in other places, but the dominant place in humans that it is is cytochrome C oxidase. But I don't want you to think like the number one heme protein, obviously, in blood is catalase. But you mentioned, you know, in gray hair before about peroxides. What's the quencher. What is the. The free radical quencher of hydrogen peroxide? Catalase. Every kid in third grade knows that. Why? Because you can take liver and put it in baking soda and make a bomb.
+
+[01:24:47.490] - Speaker 2
+When. Whenever we would stain brains for mitochondria, like, we would do an experiment, like expose an animal to a particular experience. Then you sacrifice the animal, take the brain tissue out, slice it up, soak it in cytochrome oxidase, and you'd. And the final step in the reaction was to add hydrogen peroxide. And then you take the brain tissue out, and you'd see all these dark regions. Those dark regions are the regions that were active and presumably involved in the behavior or whatever it was. So it's an older technique now, right?
+
+[01:25:20.810] - Speaker 3
+It is older, but guess what?
+
+[01:25:22.420] - Speaker 2
+It still works.
+
+[01:25:23.170] - Speaker 3
+Yeah. Not only does it still work, but it actually, for you, probably going, maybe I want to start doing this a little bit more to find out really what's going on at neuron levels.
+
+[01:25:33.770] - Speaker 1
+There was a story. I don't know if it's true, but there was a story that a patient came to you wanting to do a brain, wanting you to do a brain surgery that other surgeons refused to do. And you said you would only do it if the person would sign a waiver so that you could soak the brain in hydrogen peroxide and shoot red light on it.
+
+[01:25:52.100] - Speaker 3
+Yeah, I do that almost all the time. In fact, the lady. The story of the lady I just told you that I did that surgery on that had the subdural from the blood thinners and I. I put the bone flap back on. I gave her medications to shrink the bane back. But once it shrank, shrank back. I put hydrogen peroxide, 50% cut in the water. The reason why hydrogen peroxide has another effect. If you have to know a little bit about brain anatomy with this, the brain is kind of asked backwards. It's the only organ where the most sensitive part, all the semiconductors are on the surface. All the shit that's deep in the brain, most of it really doesn't matter. It's like white matter tracks. It's just the fiber optic cables that come down. So that tells you the blood vessels also are backwards. Like if you think about a kidney, it comes into the pole of the kidney and then radiates out the brain. The blood vessels come in from outside in. So the carotid arteries break up to all the branches. They go in the subarachnoid space and they dive in. So this unusual phenomenon tells you that the surface of the brain is very, very different.
+
+[01:27:00.790] - Speaker 3
+So when I'm dealing with this type of problem, I realize if I put hydrogen peroxide on the surface of the brain, which seems crazy, but it re liberates oxygen at that level when the brain is starving for oxygen. Because what am I trying to do? I'm trying to improve mitochondrial function. The side effect of doing that, if you put the bone flap back on, you can create air in the head. And the patient will wake up and may have headaches for two or three days. But the one thing that they won't have is a stroke. So not to throw anybody under the bus, but somebody else in this hospital where this went down had the exact same case going on at the same time. They didn't do that. Their patient got a stroke, Mine didn't. So where did I learn that trick? I learned that trick from my version of Eddie Chang. That was David Klein, who actually is a peripheral nerve expert. But he taught me. He goes, this is what we used to do, you know, back in the day. And it's kind of like, you know those things, Rick, you would like that sometimes, the old school stuff, don't throw it away.
+
+[01:28:07.010] - Speaker 3
+You need. Dr. Klein used to make us. He come in the OR, Chantel can tell you, because she's the girl that was in there doing this. He'd turn the lights out, turn everything off. He goes, okay, we just lost power. We have a hurricane. How are you going to open the head. So I tell Chantel, go get me a giggly saw. A giggly saw is the saw that used to cut legs off in the Civil War. So we'd get a twist drill. You had to learn how to twist drill. An opening, Take the cranio. And we would have to do a craniotomy. After your first year of residency at LSU, if you couldn't open the head with a giggly saw. True or not true? Chantal.
+
+[01:28:43.850] - Speaker 2
+Amazing.
+
+[01:28:45.130] - Speaker 3
+But guess what? This is what I'm. The difference is, Andrew, you can ask Eddie this offline. I don't believe modern neurosurgery training programs do those things.
+
+[01:28:57.710] - Speaker 2
+Probably not. I wouldn't know, though. I'll have to ask him.
+
+[01:29:00.090] - Speaker 1
+Could all surgery happen under red light?
+
+[01:29:02.490] - Speaker 3
+All surgery should happen. And I'll give you another one because you.
+
+[01:29:06.380] - Speaker 2
+Yeah, well, that's interesting idea.
+
+[01:29:08.790] - Speaker 3
+Oh, yeah, it should. But I'll tell you, the other thing I do is, you know, when I open the duro and I do spine surgery.
+
+[01:29:12.880] - Speaker 1
+Wait, wait, wait. Let me ask. If you were doing a surgery under red light, are there things you need to see that you wouldn't be able to understand because it was red light?
+
+[01:29:22.230] - Speaker 3
+Yes.
+
+[01:29:22.690] - Speaker 1
+So are there glasses the surgeon could wear that would allow you to see what you need to see, where the patient gets the red light?
+
+[01:29:29.980] - Speaker 3
+My eyes are adapted to red light, so I could do it. But the thing that. I would like to pose this. And again, this is not a question for you to answer. This is a rhetorical question. I'd like you to sit down, too, after I ask you this question and pose it to every neurosurgeon. You know, because this was my conundrum. When you get my mindset and you have the knowledge that melanopsin is the single biggest option everywhere in the brain and in blood vessels. You know how we do brain surgery right under an operating microscope that has what, Xenon lights? You ever check the spectrum of a xenon bulb? Horrible.
+
+[01:30:06.520] - Speaker 2
+So it's down in that. What is it for?
+
+[01:30:08.500] - Speaker 3
+So guess what I'm saying to you. The way in which we do the surgery is a huge fucking problem. And the problem is it's doing damage.
+
+[01:30:18.040] - Speaker 1
+Just by having the light on the brain.
+
+[01:30:20.010] - Speaker 3
+Absolutely. Because you know what it's doing? It's destroying melanin. So when you come to my hospital and the nurses in the ICU or the recovery room. So, yeah, Dr. Cruz is a little bit different. He wants all of his patients, no matter what surgery he has to recover outside in the sun, you now Know the reason why, if I use the microscope on them or headlight, that has a bad spectrum, I know that I just hurt my patients.
+
+[01:30:47.210] - Speaker 2
+So this raises an important question. So in the, in the eye, the pigmented epithelium supplies pigment for the photoreceptors. If you, if like a detached retina, if someone gets a. It's not connected to the pe. Pigmented epithelium. And that's why they encourage people to keep their eyes closed for a bit after the surgery. Right. You know, because it needs to reattach. In the brain, the neuromelanin can be manufactured by individual cells. But my question, and I think I already know the answer, but I'm gonna ask anyway, the idea there is that you can still regenerate the neuromelanin or once it's hit, when xenon light hits it, it's gone forever.
+
+[01:31:23.590] - Speaker 3
+No, I believe some of the work that we're seeing in the pancreas, like with beta cells, even people have type 1 diabetics. If you radiate it with the right light, you can regenerate. So I'm going to tell you a really cool story. I told Chantal. I was going to tell you this, and this is the perfect segue. So there's a researcher named Kossik, male and female, both married. There's a disease related to. You've heard of this disease called Gilbert's disease. It's not a big deal. It's a defect in an enzyme where your bilirubin in your blood, when they check it, that's the stuff that makes you jaundice when you're a baby, runs a little bit higher than normal in other people. It's not a big deal. Clinically not significant. But the worst condition of that is called Krigler Niger syndrome, which is really bad, that usually kills you. They have shown, Kosk has shown, that if you use light frequencies alone in people with that, you can completely bypass the genetic defect. Now, that's the only and first disease I know, that light can fix an RNA DNA problem. So this is what I'm going to tell you.
+
+[01:32:32.000] - Speaker 3
+My belief right now in 2023, there's a lot more diseases out there like that than we know. But the problem is maybe all we're not getting to it because this perspective that I'm sharing with you is not the dominant paradigm. The dominant paradigm is Genentech and Amgen and Pfizer and Merck.
+
+[01:32:52.730] - Speaker 2
+Can light, can sunlight get through the skull? And I know the obvious answer is to most people, it's going to be.
+
+[01:32:59.590] - Speaker 3
+No, but it's obviously yes. I mean, Hamlin and Carew have already proved it. It's in their books.
+
+[01:33:04.190] - Speaker 2
+Long wavelength.
+
+[01:33:05.050] - Speaker 3
+I've proved it. So what can I tell you? Let's stop for a minute. Any anesthesiologist will prove it because pulse ox uses red light to check hemoglobin. But not only that, we have a strain gage that we put in to measure ICP that also uses infrared light. So anybody who believes that they're idiots.
+
+[01:33:24.640] - Speaker 2
+Because the reptiles have pits to allow sunlight directly to the pineal.
+
+[01:33:30.120] - Speaker 3
+Correct.
+
+[01:33:30.620] - Speaker 2
+They have literally holes that allow the light. Right.
+
+[01:33:33.220] - Speaker 3
+They call that the third eye.
+
+[01:33:34.710] - Speaker 2
+Relatively thin skull.
+
+[01:33:36.950] - Speaker 1
+Right.
+
+[01:33:37.260] - Speaker 2
+Birds. So humans, obviously. Hair and skull. Skull's pretty thick in a human. Relatively speaking.
+
+[01:33:45.610] - Speaker 3
+Higher your vitamin D levels. Thicker.
+
+[01:33:47.230] - Speaker 2
+The skull is so light of.
+
+[01:33:49.790] - Speaker 3
+Let's say bone does not stop red light transmission. Just so you know, that goes right through. Doesn't matter how thick the bone is either.
+
+[01:33:57.120] - Speaker 2
+We know that the bone at the temporal margin is really thin as well. Huh.
+
+[01:34:01.700] - Speaker 3
+Thinnest bone is actually right here. And also Rick talked about it yesterday when he used the V light up his nose. The ethmoid plate, which is right underneath the optic chiasm. And the pituitary right there. But the real thin one, if you want to. The thinnest bone is like. If you realized what it's like here. This is the reason why, Andrew, when people put that damn cell phone up to the side of their head, I don't think they realize what they're doing. And then, you know, with Rick being my friend and being such a legend in the music business, I want him to know that melanin's in the cochlea, and this is a big deal. And I never want him to put a cell phone up to the side of his head.
+
+[01:34:35.940] - Speaker 2
+Yeah, I don't have a phone in my head. I also don't use the earbuds. Remember that technology a few years back, those human charger? They were like. They were like earplugs with. With light. What are your thoughts on. On those?
+
+[01:34:46.960] - Speaker 3
+I. To be honest, it's all going to depend on the spectrum. The thing is, if it's infrared, I'm fine with it.
+
+[01:34:52.130] - Speaker 1
+But, Andrew, it was white light.
+
+[01:34:53.920] - Speaker 2
+It was white, yeah.
+
+[01:34:54.890] - Speaker 3
+Then I'm out. I. What I would do with the light, I would check it with my spectroscope and I would give you an informed answer based on all the things that we've talked about. I don't know. I have to know the spectrum. And then I can tell you what I would be worried about, but I would tell you I am a huge fan of using light to do things, but you have to use the light correctly. In other words, when I say correctly, if you fully understand all the things that we have talked about, I've told you that there's an atomic specificity for atoms. And the reason that specificity is there is because the light we use predominantly visible spectrum changes inside, and we do different things with all those different spectrums of light. That's what chromophores are all about. You know, not that I want to get into an argument with you about Richard Axel and the smell thing and Turin and all that. I'm in the Turin camp, and I know you're probably not, but I think after this, you're going to start to look at it and go, this vibrational mode thing makes a lot of sense when you understand the quantum mechanisms.
+
+[01:36:00.840] - Speaker 3
+And the guy that I think is going to get you over the hump with that isn't going to be Jack Cruz. It's actually going to be Jim El Khalili. When Jim El Khalili sits you down and explains to you exactly that the studies for electron tunneling and proton tunneling have been in the physics literature since the 60s. And you're going to sit there and go, why in the hell doesn't anybody in biology know this? And it turns out there's some. But these guys are so small and they can't get funding. I mean, Jim is the Jim. He works for the biologist named John Joy McFadden. He's written a book. If you haven't read the book, it's Life at the Edge Spectacular. And in that book, he lays out, like, how European robins use magneto reception. Just so you know, that paper was written by two scientists in 1976 called the Wilchkos. Everybody thought they were batshit crazy, just like people thought Barry Marshall was crazy until he had to drink his own helicobacter to prove he was right.
+
+[01:36:57.660] - Speaker 2
+There have been a few reports even published in Science about human magnetoreception being cryptocurrency better than chance. And also the presence of. We know that in the fly there's magnetoreception in the eye.
+
+[01:37:11.940] - Speaker 3
+I think ours, if you were going to ask me this, is from my years of being a neurosurgeon and seeing some unusual things. I think our cryptochromes are buried in our ethmoid plates. Plate. When I do pituitary surgery. Pituitary surgery has Changed in my career. Like when me and Chantel started doing it 30, 35 years ago. We still use cocaine. We went, you know, straight transphenoidal. I still like doing it that way. Now people use endoscopic techniques. So what does the endoscope do? It narrows your vision. When you're using the way we used to do it, which was fluoro and. And magnification, you actually could see. And there is pits in the wall of the ethoid plate. And also the. The pituitary, the sphenoid bone that comes up there, that in humans. There's some unusual stuff going on there. And I've always believed that magnetoreception, from what I've learned quantum mechanically, I think it has to be relatively close to the scn. I don't think it can be too far away because I think there's a tunneling effect.
+
+[01:38:18.930] - Speaker 1
+Where is that in English terms?
+
+[01:38:20.650] - Speaker 2
+Above, basically. Above the roof of the mouth.
+
+[01:38:22.950] - Speaker 3
+Yeah. Well, I'd say it's the roof of the nose. But if you put your finger in your nose, like where you put your V light.
+
+[01:38:28.330] - Speaker 1
+Yeah.
+
+[01:38:28.660] - Speaker 3
+You're aiming right at it.
+
+[01:38:29.870] - Speaker 1
+I see.
+
+[01:38:30.650] - Speaker 3
+And people don't realize, you know, the Egyptians took the brains out of the mummies this way. Your brain is only about that far away from your naris. The way we do it now is we make an incision in the front part of the mouth, push your upper lip up, and go through your nares, through your mouth.
+
+[01:38:45.990] - Speaker 2
+Wow.
+
+[01:38:46.560] - Speaker 3
+We did.
+
+[01:38:47.020] - Speaker 2
+Neurosurgeons are amazing.
+
+[01:38:48.150] - Speaker 1
+But the better way, the old way, was through the nose.
+
+[01:38:50.900] - Speaker 3
+Well, it wasn't the. I wouldn't say the old way. Both ways were old. You can do endonasal or you can do through the mouth. I like doing through the mouth because I told you I'm an oral surgeon, so I'm pretty familiar about moving the bones of the face around really easy. And when I do a pituitary, I can do it very fast. Like 45 minutes, I'm done. And I believe the issue with pituitary surgery, because we have to use fluoro or you can use navigation. Now, you want to limit the amount of X rays you're using when you're doing this because, you know, with the pituitary, it's exquisitely sensitive to radiation. You know, we've learned that from kids with, you know, creating pan hypo pit kids, which means their pituitary is shot. And this is the reason why radiation is. I'm a big believer that one of the big mistakes we're making in neurosurgery now that we need to cut all use of radiation in and around the brain. I don't care if it's myelinated or not, because I think the effects are huge. And I'm telling you what I just told you about. When we open the head up and we're putting a microscope or we're putting our headlight on that, and we now know that melanopsin is everywhere.
+
+[01:39:56.620] - Speaker 3
+The problem is it's, you know how, like lawyers say ignorance of the law doesn't matter, you're still guilty. I kind of feel the same way about us.
+
+[01:40:05.690] - Speaker 1
+Yeah.
+
+[01:40:06.270] - Speaker 3
+You know, and it's kind of like.
+
+[01:40:08.430] - Speaker 1
+If you see damages being done, it just makes you crazy.
+
+[01:40:10.880] - Speaker 3
+It's like you said yesterday, when you know better, you're changed, see the world through different eyes. And this is one of the things, you know, that I can't. To be honest with you, Andrew, I can't have this discussion with neurosurgeons. I can't. Because they'll think you're batshit crazy because they don't fundamentally know what you and I talked about yesterday for six hours. And that's a shame. And see, I know that's something that you can help me with because you know that it's not hyperbolic with Jack's saying that melanopsin is everywhere in the brain. It's freaking everywhere. It's even in the blood vessels. And, you know, Rick, not being a scientist, but having a problem that really was melanopsin based in his aortic valve and his aorta. That's a big freaking deal. You know, and the thing is, when you think about the things that I have to deal with, the major flow to the brain, carotids and vertebrals, and you think about all the different things we have. Like, I can't tell you, almost every patient now above 50, 55 years old that walks into a neurosurgery clinic, they're almost always on Plavix, aspirin, or Eliquis.
+
+[01:41:18.630] - Speaker 3
+And why is that? Because they're never in the sun. Because the dermatologist and ophthalmologists been really successful of keeping people out of the sun. And they also look like Casper the Ghost when they come in. They have no melanin anywhere in their body.
+
+[01:41:29.410] - Speaker 2
+Well, there you and I have been aligned. Because even though I've, you know, I've made some errors, clearly, you know, telling people contacts are okay, which, by the way, folks, they're not. Because I wasn't aware of this oxygenation of the cornea.
+
+[01:41:40.860] - Speaker 3
+And that's. That's the reason. That's the reason I didn't pound you on him. It's also the reason I don't pound neurosurgeon about the slight issue. I hope, through this podcast that people, even if you don't believe me, examine what I'm saying. You know, it's the mark of an educated mind. Take something you don't believe, look at it for yourself and decide. And it's the reason that I don't get on Wim Hof's case about cold, because he's completely wrong about the physiology. But the story still fits. You know what I'm saying? It's okay to embrace cold because it increases vuv light, you know, and that's the reason why it works. If people learn why it works. Wim's a great guy.
+
+[01:42:18.720] - Speaker 1
+It doesn't matter.
+
+[01:42:20.790] - Speaker 2
+He got the stimulus right for sure. And I think that, yeah, I've encouraged people to get, you know, as, you know, morning sunlight avoid. And evening sunlight avoid, bright, artificial lights at night. I'm. I'm starting to become even more concerned about artificial light at night, unless it's red light. I do have a question about that.
+
+[01:42:38.840] - Speaker 3
+No, you need to be concerned about red light at night, too.
+
+[01:42:41.480] - Speaker 2
+Okay.
+
+[01:42:41.920] - Speaker 3
+It actually affects.
+
+[01:42:43.100] - Speaker 2
+Yeah, I'd like to know about that because I've adopted the. You know, what happened was I went to visit Peter Attia.
+
+[01:42:47.980] - Speaker 3
+Yeah.
+
+[01:42:49.310] - Speaker 2
+Stayed in his little studio adjacent to his house, and he said, by the way, Rick was just here, and all the lights in there are now red lights. And I had the best sleep of my life, and it was a great couple of days. But I believe that because. So I stole the red lights when I left because no one else there was going to appreciate it. And I've been traveling with them, right? And so when I check into a hotel, I bring these red light bulbs and screw them. This isn't a panel. This is just.
+
+[01:43:18.590] - Speaker 3
+I got the same thing in my hotel room.
+
+[01:43:20.570] - Speaker 2
+Well, and it's. It's really transformed my evenings and my sleep in. In a. In an important way.
+
+[01:43:25.580] - Speaker 3
+But I'm going to tell you, it's the theory of relativity of light, my friend. I. I don't want you to feel too comfortable. What you're. The reason why it's helped you is because you subtracted out the horrible for the better. But red still has a problem why red light's not present after sunset.
+
+[01:43:40.830] - Speaker 2
+What would you like? What would you. You want to see purple light?
+
+[01:43:43.910] - Speaker 3
+Well, that's the Interesting thing. I don't. I don't have good data to back up what I told you and Rick yesterday offline, but I tell people all the time about John Ott's book and that that restaurant that's no longer in Chicago, that for 25 years used UVA light and nobody ever missed a day.
+
+[01:44:05.250] - Speaker 1
+Meaning black light.
+
+[01:44:06.620] - Speaker 3
+Yeah, it would have been uva.
+
+[01:44:08.510] - Speaker 2
+We're going black lights. Rick, your house.
+
+[01:44:10.860] - Speaker 1
+I'm ready.
+
+[01:44:11.450] - Speaker 2
+I like it.
+
+[01:44:12.350] - Speaker 1
+I like it better, actually.
+
+[01:44:13.570] - Speaker 3
+What we use. Me and Chantal use fire. We use candles.
+
+[01:44:17.310] - Speaker 2
+Yeah.
+
+[01:44:17.770] - Speaker 3
+And we'll use a combination of infrared A and UVA light. Like, I have pictures that you can see on my Instagram of my house, and it looks like a Pink Floyd show.
+
+[01:44:28.240] - Speaker 2
+Well, there are a couple of papers I particularly like that are this guy, his name escapes me right now, but from University of Colorado, two papers where basically he took undergraduates camping for two days, where basically they were going to rise with the sun and go to go sleep with sun. And they were able to use campfire at night. And then they looked at the action spectra of the light, and it turns out that even a really blazing campfire is pretty photon sparse. Like, it's not that bright. When you. In terms of.
+
+[01:45:01.660] - Speaker 3
+Do you know what the photon sensibility of your retina is?
+
+[01:45:06.810] - Speaker 2
+The photon.
+
+[01:45:07.580] - Speaker 3
+What, five photons?
+
+[01:45:09.120] - Speaker 2
+Yeah. Or even less in pitch black. Yeah.
+
+[01:45:11.520] - Speaker 3
+I'm just telling you.
+
+[01:45:12.110] - Speaker 2
+So, yeah, you can see one photon flicker, which is amazing. Right. In a completely dark environment. If I just flashed one photon, you'd say, I saw that.
+
+[01:45:20.310] - Speaker 3
+Correct.
+
+[01:45:20.850] - Speaker 2
+One photon. That's like. I mean, if you like to internalize that, that's like the equivalent of being able to see like a speck of dust from a mile away. It's in. In many ways.
+
+[01:45:29.600] - Speaker 1
+Yeah.
+
+[01:45:29.860] - Speaker 3
+I want to pull something up.
+
+[01:45:31.530] - Speaker 2
+That's how sensitive.
+
+[01:45:32.710] - Speaker 3
+I have a picture that shows all the different modern lights, but the bottom one is candlelight and fire. And believe it or not, it's. I think it's 3% melatonin disruption. So this is what I want, the take home. I want you to get the people that you're talking to on the podcast, your audience. They're predominantly, mostly healthy. The people I'm dealing with are the people coming in that are train wrecks, so they can have no tolerance. It's the same thing, I think about the people on the Titanic, the jacks on the boat. You know, they could stay in the water, cold water, with whatever the girl's name was, for quite some time, dealing with the cold before they Died. My patients don't have that talent. So, for example, if somebody comes to see me with als, pd, Alzheimer's, a brain tumor, I want zero tolerance. Why? Because their melanin renovation project is shot. I need to get them going. Like, if Rick walked in, even with his history, I'm not worried, because Rick has already embraced this for over 10 years. You know, Jack Dorsey the same way. My good friends now, not all of my friends do it.
+
+[01:46:46.960] - Speaker 3
+Some of my family didn't even do it. But when it comes to my patients, I actually asked them, I said, you tell me, are you willing to do this or not? If they tell me no, then I don't give them the whole shebang like I'm giving you. And I think that that's how medicine should be practiced. I think, to me, that's what concierge medicine is all about, is tell the patients, give them informed consent. You know, it goes to, you know, what we just went through with COVID for two years. Everything should be informed consent. The doctor should be informed, the patient should be informed, and we make that choice. The thing is, I really believe that when you know better, you do better. When you know the intricacies about light, you know, the intricacies about mitochondria, I can sit down even with a patient who's not scientifically based. I. I don't try to do all the science stuff, except for you guys, but when I sit down with a patient in the office, I mean, Chantal has seen me do it. I use really common sense stuff, like the sunglasses. I use the orange tree with the tarp over it, and they're like, yeah.
+
+[01:47:55.830] - Speaker 2
+Well, I love this, and I promise I will forever credit you. When you know better, you do better. Because, you know, a big part of my podcast has been to, you know, give people some mechanism. And, you know, a lot of people are saying, well, I just want the PDF for, you know, and we have.
+
+[01:48:11.480] - Speaker 3
+Tools for tldr, right?
+
+[01:48:12.650] - Speaker 2
+You know, and I get it. But I do believe what you just said. I've just never thought about it that way. So thank you. Which is that when it's the difference.
+
+[01:48:19.200] - Speaker 3
+Between, remember, you're a research scientist and I'm a clinician. And the thing that I want to do, I want to teach you the clinical stuff. Like, I really wish that you live close to me so that you could see what we do in the clinic. You would be, holy shit, this is cool.
+
+[01:48:35.070] - Speaker 2
+And it starts before the patient comes in.
+
+[01:48:37.140] - Speaker 3
+Oh, absolutely. In fact, it starts before I operate on sometimes, like, you Know the band TED Talk. I'll tell you, I'll tell you.
+
+[01:48:44.720] - Speaker 2
+I want to see this talk. Well, I'm going to tell you, I'm.
+
+[01:48:47.430] - Speaker 3
+Going to tell you two things that happened that made it controversial. The first thing is I talked about a guy and, you know, he cleared me. He's now dead. He's not alive anymore. But he was a banjo player and Rick would love the story. He's a musician in Nashville. And he said, doc, my quality of life is terrible. I'm in a wheelchair, I can't walk. He had horrible spinal stenosis and spinal stenosis, for those who don't know, it's pinching off of all your nerves in your lower back. So he needed like a five level operation to deal with it. That means a decompression, take the bone out the ligaments and then I have to put them back together with screws and rods. Not a fun operation in an 80 year old guy. This is a surgery that in 99 out of 100 patients, Jack Cruz would not do. But this guy said to me, I only have two or three years left to live, and I know that. And music is my driving passion. And I talked to his family and this guy has been playing the banjo for. That's what he's known for. He says, if you can give me that.
+
+[01:49:46.530] - Speaker 3
+He goes, I'm willing to go through anything. I said, I said, okay, so I'll tell you what, I'm willing to do this, but you have to do something for me. So I put him on my cold thermogenesis protocol six weeks before. I also had him using infrared light six weeks before. Okay, I take him to surgery, do the operation. Hardly any blood loss. The guy did great. And you know, you asked Eddie Chang, five level fusion, it's shocking. I don't even think I lost 50cc's of blood. The guy gets up, we put him on the floor. He's. He's too old. The anesthesiologist won't let me put him outside. So I put him on a freezing cooling blanket and I said to him, lonnie, you're going to shiver. He shivered for two or three days. He walked out of the hospital after a five level fusion at 80 years old, not in a wheelchair. He lived for, I think, two and a half more years. Played his banjo, went back on stage, did whatever he wanted. He had no problem. The other thing I did that was unusual, I used to have infra, I should say UVA lights.
+
+[01:50:53.650] - Speaker 3
+I cleared it with him. I said, once your Dura is exposed. I would like to put UVA light on your dura because I think it'll reduce your swelling and I think it'll lead to quicker recovery. Will you allow me to do that? And he signed the consent. He used the infrared light post op. He hardly was on any pain medication. You ask Eddie, what I just told you. You talk to any neurosurgeon, you say a five level fusion with screws. This guy would be on whopping doses of pain medicine. Turns out this is one of the huge benefits. Remember what I told you about Palm C?
+
+[01:51:31.070] - Speaker 2
+Yes. It has an endorphin element.
+
+[01:51:32.940] - Speaker 3
+Right, an endorphin. So we're tuning the system to the natural opiate.
+
+[01:51:37.870] - Speaker 2
+Can I ask you what are the six domains of Palm C? We've got an endorphin in there. Yeah.
+
+[01:51:45.100] - Speaker 3
+You also have the big one that we haven't talked about. But it's huge for your work. And mine is acth. That's where the cortisol story starts.
+
+[01:51:52.680] - Speaker 2
+Right. So if so, in pomc you've got acth, endorphin, beta lipotropin.
+
+[01:51:59.910] - Speaker 3
+I think's in there.
+
+[01:52:00.680] - Speaker 2
+Okay. I don't know what that does, but it sounds like it's a growth thing.
+
+[01:52:04.990] - Speaker 3
+Yeah. And I can't remember the other ones.
+
+[01:52:07.650] - Speaker 2
+Okay, I'll look them up. But I mean, this is super interesting.
+
+[01:52:11.740] - Speaker 3
+It's an unbelievable chemical.
+
+[01:52:12.930] - Speaker 2
+I mean, this is an unbelievable protein. Right. Because what we're really talking about here is a multiplex. It's like a little.
+
+[01:52:18.200] - Speaker 3
+It's a natural multivitamin, sunlight.
+
+[01:52:19.960] - Speaker 2
+It's like a bento box of. Of like a really great biological molecule.
+
+[01:52:25.690] - Speaker 3
+Like, biologically, it's the supplement I want you to get behind.
+
+[01:52:28.530] - Speaker 2
+Right.
+
+[01:52:28.980] - Speaker 3
+You know, and it's the sunlight supplement that's huge. Here, this is the other one. This is the lady that I. Oh my goodness.
+
+[01:52:39.880] - Speaker 2
+So what Jack's showing me is a picture of a woman, black woman, with severe vitiligo on her face.
+
+[01:52:45.520] - Speaker 3
+Take the phone, though. I want you to look at her hair. Look at the difference in the hair. You see that she went from gray hair to darker hair.
+
+[01:52:51.420] - Speaker 2
+And then after the treatment is pigmented in all the regions where previously she had these very white, almost albino, like.
+
+[01:52:59.620] - Speaker 3
+So don't you think Michael Jackson may have wanted to be a patient of Jack Cruz?
+
+[01:53:03.420] - Speaker 2
+Yeah. I mean, and esthetically it's, you know, essentially untraceable. That she had vital. You said it's a female patient. Yeah, because you can't tell from here.
+
+[01:53:13.500] - Speaker 3
+She shaved her head because she didn't like the gray hair. And then she noticed after the treatment where we used a combination of lights on her.
+
+[01:53:21.700] - Speaker 2
+Let me ask you something. This is.
+
+[01:53:23.430] - Speaker 3
+How about this one? There's this one I'm going to show you just to shock you.
+
+[01:53:27.170] - Speaker 2
+That's me passing red light into a vein.
+
+[01:53:30.550] - Speaker 3
+Correct. So directly delivering it to the system. Because, you know, there's something else that you probably have heard of is UV blood irradiation. Well, we are starting to develop fiber optic cables, like the Mueller cells, directly into your veins.
+
+[01:53:46.960] - Speaker 1
+Tell me, tell me about grounding.
+
+[01:53:48.850] - Speaker 3
+Oh, it's huge. I mean, grounding is. Grounding is. Goes to the point that we were making a while back with Andrew, that when you want to have a perfect electrical conductor. Let's talk about, like, your coffee maker. Coffee makers are more thermodynamically efficient. When they're grounded, it turns out you are too. Okay, so the better the way the sun works. It's a cathode ray. The planet is an anode. Anytime a cathode ray hits an anode, it creates free electrons. So we are the only primate, the silly talking monkey, that has sweat glands on our feet and our hand. So the reason why I told Andrew the old way I used to deal with new people is make like the Sphinx. All FL4 on the ground look to the east. That wasn't hyperbole. There's actually a reason for that. When you're grounded, we also know that you absorb more photobiomodulation, infrared A and UV light from the sun. So the more connected you are, the more thermally efficient you are. That's the main reason to do grounding. The best way to ground. You already know this because I know you do it every morning. You walk in the beach with your feet wet.
+
+[01:55:02.080] - Speaker 3
+Absolute best way to ground. There's no better way. Even wet sand works. You don't have to go all the way in the water. But as long as you're on wet sand, because what you're doing, you're effectively transferring free electrons from the ground into the sweat glands of your feet and bringing them up. And if you think about what I just told Andrew before he went to the pisser. Sodium chloride. Sodium chloride is what? A huge band gap. Sodium. The effect of this is unbelievable. And it's the reverse effect of what you see from leptin, if you understand the leptin prescription. Basically, you eat less and have to. I should say, you eat less and you don't have to exercise as much, because what happens on the inner Mitochondrial membrane. When you're in the sun, the VDR receptor stops electron chain ATPase spins. You still make ATP. So remember, where do electrons come from? They come from the food you eat. So you don't need the food because.
+
+[01:55:56.450] - Speaker 1
+You have the electrons coming in.
+
+[01:55:57.710] - Speaker 3
+Correct, Because VDR is blocking it. So it turns out with grounding, if you have more free electrons. Remember I told you that life is the way people like to describe it? I think Albert St. Georgie said this, that basically what life is all about is exciting electron letting it fall to the ground state and the tissues capture the photon. That's exactly what grounding allows you to do. Because remember, you cannot capture light. Because of our friend Albert Einstein, the photoelectric effect says photons can only excite electrons. So you need electrons as the base to get the light in. So grounding gives you more electrons. Like when you walk on the beach every morning, you are hopefully replacing the electrons that you lost from the first 50 or 60 years of your life that caused the melanopsin damage in your heart. And you know, I've told you this, I think it's completely reversible, irrespective of the surgery or not. You know you're not going to go back to the base rate you were when you crawled out of your mother the first time. But do I believe that Rick Rubin can live a pretty damn good life longevity wise, irrespective of all the other stuff that people have told you, if you're mindful of the light?
+
+[01:57:10.880] - Speaker 3
+The light to me is the single most important thing in longevity.
+
+[01:57:13.950] - Speaker 1
+What are the other things besides grounding that can upset the way that the human machine works as it's powered by your understanding?
+
+[01:57:26.320] - Speaker 3
+I would say anything that doesn't allow you to connect properly to the source code. So in your vernacular, I look, the source is the sun. The other source, there isn't a secondary source, which is the magnetic field of the earth. So the magnetic field of the Earth is important. So for the Schumann resonance that goes back again, we're back now to water hydrogen bonding. The 7.83 Hz of the Schumann resonance, which was found in 1951, correlates with the EEG alpha wave. So we know clearly that, you know, sleep cycles in the alpha wave are totally tied. That's the heartbeat of the earth. And the heartbeat of the earth is found in our hydrogen bonding network. That means it sets up a resonance that occurs. That's part of the answer that we didn't talk about yesterday when Andrew brought up the paper with the slices of the brain and how these waves seem to propagate. It's actually through the hydrogen bonding network of water. And most of what we are in cells is water. I mean, I told you, when we're born, we're 80% water. You and I at 60 years old, we're probably 55% water.
+
+[01:58:34.160] - Speaker 3
+The more water you have, the better you are, because what gives you the quantum coherent effect in your body that we're talking about? That connection? You're asking me out. The more coherent the tissues are in you, the bigger your connection is. In other words, you don't need as much sun. And Chantal wanted me to tell you this yesterday, and I forgot to. So I'm glad you brought this up. Children don't need as much sun as me and Rick. The older we get, the more we need. So I classically teach this through heteroplasmic rate. As the heteroplasmic rate goes up. Learn this from Doug Wallace. What is aging? What is like Aubrey de Gray and Peter Adia really missing? They don't understand mitochondria. Well, what the issue is, is every decade we go up the efficiency, the thermodynamic efficiency of mitochondria drops. The name for that is called the heteroplasmic rate. Wallace has found through his 50 years in the field that heteroplasmic rate goes up about 10% per decade. But that is in a classic healthy state. Can you be. Let's use Bond, Scott, because he's dead, we can't get in trouble. Bon Scott likely had a heteroplasmy rate of an 80 year old when he died.
+
+[01:59:49.160] - Speaker 3
+And that's the point when people ask me questions about explain childhood cancer. We now know because of our epigenetic toolbox that it's controlled by light. Well, you can be born from an egg that has a high heteroplasmic rate. You're going to wind up with childhood retinoblastoma or type 1 diabetes. Like, it's not hard for a mitochondriac to explain this. It's hard for some of your clients or Huberman's people to accept it, but it's not hard for me because Wallace has clearly showed this. There's no argument. In fact, he's shown slides that show you the higher the heteroplasmic rate the disease shows up. If you lower the heteroplasmic rate, the disease goes completely away. And it's irrespective of the disease. So when you realize that, you start to go, wait a Minute. That means all Neolithic disease are an energy game. So the reason why Chantal wanted me to tell you this, because I don't usually talk about this stuff, you know, the way we're talking about it, like at a very foundational level and building it up so you can see how the quantum mechanical level meets longevity. You guys, you know, hear podcast over podcast about how guys think moving and picking up heavy things is the way to go.
+
+[02:01:00.810] - Speaker 3
+That helps. It helps mitochondria. But guess what? If you're doing it in a blue lit gym, it's. It's kind of like. I don't want to use that analogy. That's probably bad. Let's put it this way. The dildo of unintended consequences often comes without lube. How's that?
+
+[02:01:22.870] - Speaker 1
+So they had the right idea in Venice beach when they were pumping iron in the sun.
+
+[02:01:26.290] - Speaker 3
+Absolutely correct. You want to do your exercises outside in the sun. A lot of people try to characterize me as a not an exercise guy. That's not what I'm saying. The thing that I like to affront them with, and the thing is, I know Adia really likes Neil Barzai, but he seems not to want to address the big elephant in the room that all these old Jewish guys in New york that are 110 plus don't look like Michelangelo's David. In fact, nobody who lives long looks like that. In fact, most of the guys that do look like that die of heart disease somewhere between 50 and 70 years old. Now, that's a great generalization I just gave you, but I gave you the idea in the first six hours. The reason for that is we don't bury our mitochondrial capacity in our muscle skeletal system. We do more in bone than we do in muscle. So when you think about it, when you hypertrophy muscle, you're actually stealing from here and here.
+
+[02:02:26.860] - Speaker 2
+So the idea that really big guys have less brain power is maybe I.
+
+[02:02:31.380] - Speaker 3
+Actually think there's something to it. But let me, let me flip this around. I'm going to ask you this question because I've said this in a couple of podcasts to people who I was sparring with, you know, and I did it on purpose to make them realize this. You know, how people will talk about your body type and this and that and say, well, because they look like this, you probably shouldn't follow their advice. How would it sound if I came on your podcast and said, you're such a dumb ass that you don't know about wide bad semiconduction? Why would I listen to anything that you have to say. You see the logic there? I don't do that. Now, do I believe that most people are dumb asses because they don't know that? Yeah, because if I figured it out, you should be able to figure it out.
+
+[02:03:16.270] - Speaker 2
+I think most people just haven't been exposed to the concept.
+
+[02:03:19.460] - Speaker 3
+Right.
+
+[02:03:20.030] - Speaker 2
+You know, I think you and I share. No, I know. I can tell you are. I mean, I also. I was telling Rick this yesterday. I mean, I also know that, you know, in the field of neurosurgery, I know enough neurosurgeons and enough physicians from other specialties in medicine to know that, you know, neurosurgery is the. It's the space program of medicine. Right. It's the hardest training or among the hardest training.
+
+[02:03:41.150] - Speaker 3
+It is the hardest.
+
+[02:03:42.060] - Speaker 2
+And the hazing process that occurs there is like none other. And it's. I like to think there's always a human element, but I like to think that it's tacked to a respect for what's at stake as opposed to the individuals. In other words, what I'm saying is when people like you, like, if you school me a bit, like I'm. I don't look at that as you schooling me, because somehow you think I'm gonna take that to my psychologist or something and you're gonna get a cut because I'm not gonna. But the. There far too many other issues to deal with. The reason I think you do it is because you care so very much about knowledge and the truth.
+
+[02:04:20.670] - Speaker 3
+Yeah, I care about it.
+
+[02:04:22.030] - Speaker 2
+So I see it in service to people not in the room here and not just the audience. So I get that. And dare I say, I think we share that. Right. Different styles. But I think you care very deeply about the fact that most people, including people not just in centralized medicine, but scientists, are. And as a consequence, the general public are missing the reservoir of incredible resource that's all around them all the time. And they're drinking from the sewer water as opposed to the clean spring. Correct. And so I get it, and so that's why I invite it as opposed to hide from it. There are a couple things that I want to ask you about as it relates to cold. And before I do that, though maybe a segue would be. A number of different products exist now for cooling the bed at night. But one issue that I have, even though some of these I use, is that they almost all rely on having an app and a wireless connection, which is why I wouldn't use them, which is an issue Right. So why doesn't somebody manufacture just a cold pad well, that doesn't require an app or a WI FI connection?
+
+[02:05:46.170] - Speaker 3
+We actually have somebody. I'm always on Clubhouse. The other part of my life, besides being a decentralized physician, I'm a decentralized bitcoiner. You know, Jack Dorsey is a good friend of mine. So he's tasked me with going into Clubhouse and teaching people about Bitcoin. There's a guy in there who's a light engineer. His name is Michael Shapiro. He gets shit from everybody because he's a really aggravating guy, but he is working on this stuff. He's big into infrared light lights. He's big into UVA lights. In fact, he's told me that he wants to build a bed that's programmable for, like, somebody like me. Because one of the things I need in my clinic that I can't seem to find anybody to build for me, I want a programmable uva, uvb and infrared a bed that I can use for really complex brain injuries, because that's the people I take care of. That's not something that I think a regular biohacker would want, because you need to really know what you're doing. But Shapiro has been working on this. I would tell you, come and. Come and join Clubhouse. I'll get him in. We can talk about it.
+
+[02:06:55.070] - Speaker 3
+Because I'd like to hook you two up, because maybe you and him could come up with something so that you could, you know, sell it through your podcast, your website. Because I'm a big believer if you come up with something new that's going to help people. Because I agree with you, like the aura ring, all that. So anything that's tied to an app, I'm out. You know, a lot of the other guys out there, you know, get behind stuff like that. I don't.
+
+[02:07:19.550] - Speaker 2
+Yeah, I've gotten behind some of the cooling devices, but I've. I've asked them, you know, is there any way to do this where I don't have to have, like, a little mini WI Fi tower next to the bed? You know, not WI Fi tower, but, you know, unit.
+
+[02:07:32.850] - Speaker 3
+But you're right. That's what it is.
+
+[02:07:34.570] - Speaker 2
+Yeah. And also, when you travel, you want to be able to roll something up and plug it in. I think there's tremendous opportunity there.
+
+[02:07:40.920] - Speaker 3
+Oh, I agree with you. And I do think that people need to know that cool at night, like, the whole thing, centralized sleep. Doctors know this, that the interesting way sleep works, that the signal, the metabolic signal that gets us into sleep is adenosine. What? People don't realize that adenosine is the waste product of ATP. So it goes ATP, adp, amp, adenosine. Here's the interesting thing. New studies out. This is specifically for Rick. High intensity photobiomodulation. Red light improves adenosine. Want to hear something else, Rick? When somebody has. If you pull out a BLS or ACLS book, do you know what's one of the things on our crash card in the algorithms given adenosine? So anybody who gets that rhythm, you know by definition what I tell people, that person has had a previous circadian mismatch. So the reason I'm telling you this, I don't have to tell you, but high intensity photobiomodulation light, for someone with a brand new valve and a brand new aorta is probably something you want to pay attention to. But I know that you already do a good job with the sun. And I'm a much bigger fan of the sun than an artificial light.
+
+[02:08:55.260] - Speaker 1
+I also use the sauna space.
+
+[02:08:58.200] - Speaker 2
+So what's the relationship between. So adenosine I think of as the molecule that makes us sleepy.
+
+[02:09:03.560] - Speaker 3
+Well, it signals. But remember what happens then? That starts the process after melanopsin effect. So think about sunset. It's a decrescendo effect, meaning that literally the sun is on the calorie, I should say the color temperature. The Kelvins are like 1200 kelvin. Then all of a sudden, everything goes off. You go from 12,000 to nothing. That decrescendo effect is what the melatonin's paying attention to. It's the same thing with cortisol. So this is a POMC effect. So what happens? You need four hours of darkness. Okay. Melatonin builds, builds, builds, builds, builds. When does melatonin offload most of its excited electrons? It's at nighttime.
+
+[02:09:47.590] - Speaker 2
+Pretty early in the day.
+
+[02:09:48.490] - Speaker 1
+Right?
+
+[02:09:48.790] - Speaker 3
+But what people don't realize, melatonin is made from an aromatic amino acid. So you regenerate melatonin in the daytime. So everybody thinks of it as a hormone of darkness when it's not. It's actually a light hormone, but it works at dark. So the way I like to think about it, it's got a biphasic result. So what happens then when melatonin begins to offload its photonic power to the semiconductive tissues? It works best the colder you are. So generally in the brain, and I've done, when we do surgery, we actually can put an infrared thermometer in the csf and you can see with Certain anesthetics, different changes in their temperature. So when you said yesterday. Jack, I know that. My surgeon at Stanford told me that he cooled my head. Do you understand what he's doing? He's actually optimizing you for melatonin. So technically he's doing something that's neuroprotective, just as the methylene blue buds. But mine was in addition to what you were having. And the reason that melatonin works better with the 2 to 3 degrees Fahrenheit change in the brain goes back to what we talked about yesterday. It's because you're able to make extreme or very low UV light.
+
+[02:11:09.530] - Speaker 3
+So we're talking about below 250. So usually it's between 150 and 200 because you need to look at the action spectra of the aromatic amino acids. Once the offload of melatonin is done, temperature rises up. The temperature change changes. The band gap oxygen changes. That signals prolactin and growth hormone. So people ask me all the time, where is human hibernation? Because all other mammals hibernate. We don't. It actually occurs every night between 12 and 2 o'clock. This is assuming circadian mechanism attack, which it's not. So the growth hormone story actually is also a band gap story. So hibernation is built into every cycle. We sleep. And the reason why this is only.
+
+[02:11:53.790] - Speaker 1
+From 12 to 2.
+
+[02:11:54.750] - Speaker 3
+Well, I'm saying that's in normal circadian biology.
+
+[02:11:59.030] - Speaker 1
+Yes.
+
+[02:11:59.540] - Speaker 3
+The reason why this is important, and I'm dancing with you guys with this because I want to let you understand it, the signal from the fat that's also released right at this time where this is all coordinating. This is when leptin is released from the sub Q fat and goes and populates the hypothalamus to allow the leptin melanocortin pathway to act as a quantum accountant. It checks the energy level in the body. That's what sets the whole system. So when you get past 2am, assuming circadian biology is correct, what happens from that point? Melatonin starts dropping 2:00. And what starts rising? Cortisol. Cortisol starts to rise all the way. Four or five. Cortisol wakes us up. I told you. POMC is where cortisol is made. Why? Because acth, which is adrenocortedropin releasing hormone, is the precursor in the pituitary, anterior pituitary to make cortisol. What does cortisol do as it rises? It actually changes the piezoelectric current of collagen and what does that do? Temporal Grandin story shrinks everything down and that's what wakes us up.
+
+[02:13:12.080] - Speaker 1
+Interesting.
+
+[02:13:13.050] - Speaker 2
+Yeah, and I saw a pretty nice paper recently. I mean, to you, this will just be a duh, but I think that. But to a lot of people, I think it was surprising, including me, which was that morning sunlight viewing raises the Cortisol peak by 55.0%. And you want a lot of cortisol in the morning.
+
+[02:13:32.360] - Speaker 3
+But you know, the reason why now it's pomc. I mean, POMSI is the supplement that Huberman needs to stamp saying, okay, this is key because not only is it the cortisol hormone, it's also tells you a lot about the cortisol melatonin cycle. So you're getting into something I hope I want to go into. So you're not a clinician, but you're going to go back and talk to Eddie Chang. Eddie Chang is going to help you with this one. T1 weighted images on MRI. So what does a quantum clinician look for to figure out if your patient has a lot of melanopsin damage, you know, from bad light? Only things that show up on a T1 weighted image. Subacute blood, melanin. What else?
+
+[02:14:14.090] - Speaker 2
+White matter. Fat white matter.
+
+[02:14:16.830] - Speaker 3
+So what does that tell me? It's given me an idea. If there's melanin problems, I can see it. The other thing that shows up, you can see a deuterium shadow in different organs, because guess what I told you. When too much deuterium is getting into the mitochondrial matrix, it gets in through Cox 2amplification in the mitochondria. That opens up the uncoupling proteins. The doors swing open, deuterium gets in, screws up all the hydrogen in there. It spins the ATPase. We see that as a signal change on the MRI. So on several of the blogs that are on my Patreon site, I have MRIs of patients who are my pharm clients, who they've cleared for me to show this is what I'm doing when they come to see me as a clinician. So you know how most people will go and do blood work. Blood work for me is kind of who gives a shit. But what I'm trying to tell you, it's a proxy. Somebody comes in and has a flatline cortisol melatonin level. The first thing I know is that they have a problem with melanin renovation in their head. So I'm interested in their MRI in places where I know melanin exists.
+
+[02:15:28.000] - Speaker 3
+The second Thing I ask them about, like I check hearing, I look at their pupils, like all the things where any melanin is. I'm looking for the efferent reflex. Okay. If they're totally flatlined, then I know they have a palm C problem. Guess what also goes hand in hand with that? Nitric oxide levels are low. Right, because you make that from UVA light. What else is jacked up? Heart rate variability is terrible.
+
+[02:15:58.310] - Speaker 2
+Okay. I thought you were going to tell me about the endorphin enkeling.
+
+[02:16:01.450] - Speaker 3
+Oh, yeah, that's. That's totally jacked up. Most of those people, they. They also have a very low pain tolerance. Now I don't deal with pain tolerance unless it's a surgery. Most of the people that come for me that are non neurosurgical, they're usually having a disease that they want to fix. So I'm looking for other issues tied to this light problem. So usually they're flatlined in cortisol. Like we'll order a salivary cortisol melatonin study. And it's totally flat. So they're not making it at night. They're not making it in the day.
+
+[02:16:30.630] - Speaker 2
+Yeah, you want an early day peak and you want that thing down at night.
+
+[02:16:33.950] - Speaker 3
+What I'm saying to you is these are all proxies that give me clues. So like the gentleman who allowed me to talk to you about this, I just left him to come to you guys. His name is Dick Randadorian. He lives in Southern California. He has a goal to live into 100 years old. So he's probably not unlike a lot of the people that pay Peter Addy to do what he does. The difference was Dick Grand's been a patient of mine probably for about two, two and a half years. He's got very specific issues and I've been putting it together. He's done way better the first year. But this year he came. He's got a couple of new issues. And not that I'm going to share directly what the issues are, but they're muscle skeletal issues. So this should pique your interest based on what I said with Peter Adia, because these muscle skeletal issues cropped up and he had some other issues associated with it, associated with melanin issues. And this guy is Tanner than you are, but he lives in Southern California. He has to supplement his vitamin D because he can't get it up naturally.
+
+[02:17:38.300] - Speaker 3
+So that told me right away that he's got a big issue. So I said, dickrant, would you be okay if I don't do your MRI this year on your muscle skeletal system, even though that's where you're having the problem, because I think your problem is actually in and around your basal ganglion and I think it may be in your hypothalamus. And he goes, sure. So we just did that scan two, three days ago. Two, three days ago. Found white matter lesions all over that area.
+
+[02:18:08.370] - Speaker 2
+There isn't a whole lot of white matter in the hypothalamus to begin with.
+
+[02:18:11.330] - Speaker 3
+Well, everything distal to it. I can show you the pictures.
+
+[02:18:14.350] - Speaker 2
+Oh, I believe you. You're the neurosurgeon. I'm just, it just sounds. I'm not going to challenge your, your clinical acumen. I just meant that, you know, when I think about the brain and white matter, I don't, obviously those neurons are myelin.
+
+[02:18:25.980] - Speaker 3
+I'm going to tell you, I'm going to tell you the follow up story because this goes directly to really why I came here, because I want you to hear this. So it turns out the lesions that I found correlate directly to the orthopedic problems that he was having. He went to see two orthopedic surgeons in Southern California. One of them, I bet you know, I'm not going to say his name, but I bet you know him because he happens to work with a lot of professional athletes in the Los Angeles area. Okay. He was told by both orthopedic surgeons that he needed this joint replaced. Okay. I looked at the X rays. I'm not an orthopedic surgeon. These joints didn't look bad. Okay? I've been hanging around with a lot of orthopedic surgeons. None of them knew about this study. But this was the interesting part. The first doctor he saw, this person worked for four professional sports teams. As the sports medicine guy, this guy asked him the question, what about alternatives to surgery? Could I use, you know, red light? And the guy looked at him and said, what's red light? Now just remember that the four teams that he works for all have photobiomodulation as part of their training.
+
+[02:19:48.050] - Speaker 3
+But this guy's affiliated and is telling a regular patient there's no role. Now let me tell you why you're important in this story. There's two possibilities here. Either the guy's a total moron or he's unethical. Because if you're a million dollar athlete, you get pbm. But when you're just a regular guy in Southern California, you don't. And I need to replace your joint so I can pay my house Note and my Mercedes payment. I don't know which one it is. I'm betting it's probably number two, the reason why this is important for me to come out and tell you this. This is clinical medicine. You are teaching the next generation of orthopedic surgeons. I need you to get in their head and say, look, you need to understand that there's more answers than what you're going to hear about going straight to joint replacement. Because I think everybody's in agreement that what you came out of your mama with is probably more important than what Cinti's or JJ can replace it with.
+
+[02:20:52.680] - Speaker 2
+Right?
+
+[02:20:53.550] - Speaker 3
+That's the key.
+
+[02:20:54.590] - Speaker 2
+Right?
+
+[02:20:55.210] - Speaker 3
+And the thing that frustrated me, that he wasn't given the option, you know? And I know that he can default to say, well, you know, this is not something I know a lot about. Well, then why are the people that you're working with on the professional side getting it? But he's not. All right?
+
+[02:21:13.720] - Speaker 2
+This sounds like a circumstance where he has some explaining to do. At the very least, y'all are going to have to forgive me because I'm half hour behind my. I'm supposed to be somebody. But wait, There is something I really want to say because I. I hope this is not the first and last time that we get to sit in the same room together. I'll come to you.
+
+[02:21:33.670] - Speaker 3
+Yeah. I'm not coming back.
+
+[02:21:35.880] - Speaker 2
+It was. Were we that bad? No, he's talking about California.
+
+[02:21:39.220] - Speaker 3
+No, it's. It's not. It's not that. It's just that I can tell you that when I'm here, I don't feel as good as I do. But remember, it's kind of like what I told you about your eyes this morning that I noticed. You have to realize I live between the 13th and the 28th latitude. I'm now at the 34th. But really, when you add the EMF in, I'm probably kind of like the 50th latitude. Last 20 years of my life. I'm not used to. I know that the stuff around here is causing hypoxia. I said to Rick, he's got gorgeous trees, by the way. If you ever come to his studio, marvel at his trees because they're creating oxygen so this man can keep doing what he's doing for us. They're beautiful trees. But I know that Rick doesn't spend all his time here either.
+
+[02:22:23.690] - Speaker 1
+Almost none.
+
+[02:22:24.660] - Speaker 2
+Yeah. So I.
+
+[02:22:25.500] - Speaker 1
+Almost none.
+
+[02:22:26.230] - Speaker 2
+Well, I'll come to you. In that case, I want to thank you and you for coming to here and you Rick, you know, for hosting this. You know, I know you well enough now to know that you didn't come here for compliments. But I just want to say thanks for coming all this way and doing your best to educate me. I took a ton of notes, which itself doesn't translate to anything, except more importantly, I woke up this morning thinking about waves of light inside of me. I don't think I can unsee that. As Rick would say, once you've seen it, you can't unsee it. The tie with the cephalopods also, for me, felt like a bit of a cosmic handshake between us and them. And I do think everything's connected. And I don't mean that in any kind of like, woo, levitation, magic, cartwheel way. I mean, we're really talking about the substrates of life here at every level. But I do want to thank you because I'm relatively late to this whole game on light and came to it through a different path and the public education stance through a different path. And what I can promise you is that I'm going to internalize this in a real way.
+
+[02:23:36.360] - Speaker 2
+I fully expect and invite that I'll get some pushback for the ways I get it wrong. As I said earlier, I look at all of that as reverence for life, not any kind of ego battle. And I hope that when people listen or they see us go back and forth on social media, I hope they also will capture a little bit of the spirit that you really brought here, which is like, you're not here to soften it up for us, but you are here because you want people to learn and understand. So I, you know, I really just want to say thank you.
+
+[02:24:09.620] - Speaker 3
+I. Listen, I appreciate the invite. It was fun. I'm going to tell you, I'm not perfect. I make a lot of mistakes, but this is what I want to leave you with. Life and science is like a photograph we develop from the negatives. So remember, the mistakes are what guide us. If we went through life never making a mistake, we would never progress. Mistakes are good. Remember, Rick, if you really understand what's going on here, the quantum entanglement of this triangle that we're sitting in right now, it's in Rick's book. There's a reason why he brought us together to do this, because he knew it was in you and me. He wants to deliver to the audience. What he's doing to us right now is exactly what he does to Metallica. Except instead of doing music now, he's using a podcast to do it. And I think he's more entangled to me and you than he is to Metallica or ACDC or Adele. No, we're not putting money in his pocket, but we're giving him time. We're giving him time that he knows that he may not have had. And the older you get, the one thing that you do realize, time is the most valuable asset that we have.
+
+[02:25:31.500] - Speaker 3
+And unfortunately, what I learned at the foot of Michelangelo, the first 40 years, I pissed my time away. I focused in on the wrong things. I'm not willing to do that anymore.
+
+[02:25:45.400] - Speaker 1
+I completely understand. I'm with you. I spent the first 30 years of my life in a small, dark room making music forever. I had no life outside of it. Never saw the sunlight at all. Never was pale. One of my friends, first time I went to Hawaii, said he didn't think I was capable of getting tan because I was so white. Ghost white.
+
+[02:26:10.960] - Speaker 3
+Think about what he's saying. It's the same thing you get in the gym. That's how I want you to go back and talk to Peter. Adia. Exactly.
+
+[02:26:18.300] - Speaker 2
+Okay. Peter's gonna love this. Peter's a good friend of mine. He's. He's gonna love this.
+
+[02:26:23.380] - Speaker 1
+Peter's a good friend of both of us.
+
+[02:26:24.580] - Speaker 3
+Yeah, well, that's the reason I'm being provocative. Why? Because guess what.
+
+[02:26:27.890] - Speaker 2
+Yeah. You linked me to Peter for the first time. I mean, we. He and I knew each other a little bit on social media. I think it was through you that we finally.
+
+[02:26:33.470] - Speaker 3
+Well, I'm hoping that you do a podcast with PETA and you tell him, basically, when you do all this, you're going to find out that sunlight through melanin actually is the best way to build your muscles. When you get that message, then I think we just upgraded him.
+
+[02:26:47.440] - Speaker 2
+Well, just don't be surprised, Jack, if we all show up on your doorstep. Thank you very much. Appreciate that. Thank you. Because I'm not sure he was going to say it.
+
+[02:26:57.760] - Speaker 3
+Actually. She's probably your biggest advocate besides Rick, because if it wasn't for these two, I wasn't going to do this. I'm going to be honest with you. I didn't.
+
+[02:27:07.110] - Speaker 2
+I believe you.
+
+[02:27:07.820] - Speaker 1
+I don't think there was Absolutely. You didn't respond for a long time when I asked.
+
+[02:27:10.950] - Speaker 3
+I don't.
+
+[02:27:11.510] - Speaker 1
+I know.
+
+[02:27:12.460] - Speaker 3
+That's true.
+
+[02:27:13.380] - Speaker 2
+I know.
+
+[02:27:13.980] - Speaker 3
+And. And the thing. The thing is, to be honest with you, she's the most connected mammal to me, and I listen to her more than I listen to myself. Why? Because she's been through the battles with me, it's kind of like, I don't know, Rick maybe can speak to this in his job. My job is really interesting. It's kind of like an airline pilot and a co pilot. I can't do my job without her, like an OR nurse, especially in neurosurgery. Like, she can finish my thoughts. And we've been working together for over 30 years, and it's just crazy. And I'm sure Rick has got people that work with him here. I'm sure you got people in your lab that work with you like that. And the thing is, people that you trust like that, when they tell you something, you have a choice, are you filtering this information properly or not? And I decided, you know what, as much as I hate California much, I'm really dreading getting up to take this flight tomorrow morning because I got to go right back to work, you know, back to trauma call. But do I feel that it was worth it?
+
+[02:28:29.160] - Speaker 3
+Am I thankful to you, Rick, for doing this? Absolutely. Appreciate you coming. And I don't think this was really a lecture or a lesson. I think what this was, to use the analogy that we used yesterday, we all sat in a movie theater and we all looked at the light going through the projector to the screen, and now maybe we see the same picture on the screen. That's really what the goal was.
+
+[02:28:55.770] - Speaker 2
+And the screens are also inside of us.
+
+[02:28:58.490] - Speaker 3
+There you go.
+
+[02:28:59.930] - Speaker 1
+How cool is that? I never saw that coming.
+
+[02:29:03.660] - Speaker 2
+I never saw that coming.
+
+[02:29:04.990] - Speaker 1
+And I listen to everything he says, and I never saw that come.
+
+[02:29:07.430] - Speaker 3
+Well, I told. I gave you in this podcast something that I have never told the public. Those three blogs that I wrote for you guys. I hope that you truly have a chance to read them, because I think when you read them, I'm gonna read.
+
+[02:29:22.250] - Speaker 1
+Him with Andrew and he's gonna explain it.
+
+[02:29:23.910] - Speaker 2
+We're doing a little journal club, me and Rick. Rick's also going to try and convince me that the Beatles are worth listening to because I'm one of the last people on the planet that never really get. Got the Beatles. And he's like, we just need to listen to the Beatles together.
+
+[02:29:35.000] - Speaker 1
+You're missing out.
+
+[02:29:35.880] - Speaker 2
+So. Well, you said you'd help.
+
+[02:29:37.590] - Speaker 1
+Absolutely. We just find the right path.
+
+[02:29:39.250] - Speaker 2
+Yeah, I'm not. I'm not anti. I just. And we resonate on other music.
+
+[02:29:42.870] - Speaker 1
+Absolutely.
+
+[02:29:44.880] - Speaker 2
+A lot of lot. What's that?
+
+[02:29:46.510] - Speaker 1
+Loads.
+
+[02:29:47.100] - Speaker 2
+Loads. So, you know, there's neuroplasticity within me yet.
+
+[02:29:51.410] - Speaker 3
+Absolutely.
+
+[02:29:52.440] - Speaker 1
+It's in all the Beatles were one of Joe Strummer's. Favorite groups.
+
+[02:29:55.770] - Speaker 2
+Well, there, that's, that's, that's a. I don't have many heroes in life, but. But strong.
+
+[02:30:00.690] - Speaker 1
+I did listen. I did listen to the Beatles with Joe Strummer. A hundred percent. Drive it in my car.
+
+[02:30:05.650] - Speaker 2
+Oh, man. Well, this was a delight. And I'll say that about many things.
+
+[02:30:10.260] - Speaker 3
+Well, there was not many things that.
+
+[02:30:13.370] - Speaker 2
+You know, I mean, you know, I'm a happy guy and I, for the most part, but, but this was a delight. I mean, I learned. So.
+
+[02:30:46.500] - Speaker 3
+Temporality. Temporality.

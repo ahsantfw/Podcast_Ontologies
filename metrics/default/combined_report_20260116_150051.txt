@@ -1,0 +1,40 @@
+
+================================================================================
+📊 INGESTION METRICS REPORT
+================================================================================
+Generated: 2026-01-16 15:00:51
+================================================================================
+📊 No API calls tracked.
+
+================================================================================
+⚡ PERFORMANCE REPORT
+================================================================================
+
+📈 OVERALL STATISTICS:
+  Total Operations:      3
+  Total Duration:        6.57s
+  Total Items Processed: 4,162
+  Overall Throughput:    633.12 items/sec
+
+📊 BY OPERATION:
+  initialize_schema:
+    Count:         1
+    Total Time:    5.26s
+    Items:         0
+    Avg Duration:  5.26s
+  chunk_documents:
+    Count:         1
+    Total Time:    1.28s
+    Items:         4,100
+    Avg Duration:  1.28s
+    Avg Throughput: 3205.96 items/sec
+  load_transcripts:
+    Count:         1
+    Total Time:    0.03s
+    Items:         62
+    Avg Duration:  0.03s
+    Avg Throughput: 2032.47 items/sec
+
+================================================================================
+
+================================================================================
