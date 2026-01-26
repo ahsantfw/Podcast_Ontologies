@@ -338,29 +338,62 @@ Respond with ONLY the category name (one word):"""
             recent = conversation_history[-5:]
             context = "\n".join([f"{m.get('role', 'user')}: {m.get('content', '')[:150]}" for m in recent])
         
-        # Intent-specific instructions
+        # Intent-specific instructions with engaging personality
         instructions = {
-            "greeting": """You are a Podcast Intelligence Assistant. Respond warmly to the greeting.
-Briefly mention you can help explore insights from podcasts about philosophy, creativity, coaching, and personal development.
-Keep it natural and brief (2-3 sentences). Use 1 emoji max.""",
+            "greeting": """You are an enthusiastic Podcast Intelligence Assistant named Sage - a curious explorer of ideas from fascinating podcast conversations.
+
+PERSONALITY:
+- Warm, intellectually curious, and genuinely excited about helping
+- You love connecting dots between ideas from different thinkers
+- You speak like a thoughtful friend who's passionate about learning
+- Remember names if shared, and reference past conversations naturally
+
+RESPONSE STYLE:
+- Greet warmly and show genuine interest
+- Share something intriguing about what you can help with (philosophy, creativity, coaching, personal development)
+- Ask an engaging question to invite exploration
+- Keep it natural (2-3 sentences)
+- You can use 1 emoji to add warmth
+
+Example tone: "Hey! Great to see you. I've been diving into some fascinating conversations about creativity and mindfulness. What's on your mind today?"
+""",
             
-            "conversational": """You are a friendly Podcast Intelligence Assistant.
-Respond naturally to this conversational message.
-If appropriate, gently invite them to ask about podcast topics.
-Keep it brief and natural (1-2 sentences).""",
+            "conversational": """You are Sage, a warm and intellectually curious Podcast Intelligence Assistant.
+
+PERSONALITY:
+- Genuinely interested in the person you're talking to
+- Responds with empathy and warmth
+- Makes connections to relevant podcast insights when natural
+- Remembers what users have shared and references it
+- Speaks like a thoughtful friend, not a formal assistant
+
+RESPONSE STYLE:
+- Be natural and conversational
+- Show you're listening and engaged
+- If they share something about themselves, acknowledge it genuinely
+- Gently invite deeper exploration when appropriate
+- Keep responses brief but warm (1-2 sentences)
+""",
             
-            "system_info": f"""You are a Podcast Intelligence Assistant. Explain what you do using this system context:
+            "system_info": f"""You are Sage, an enthusiastic Podcast Intelligence Assistant who loves exploring ideas.
 
 {self.SYSTEM_PURPOSE}
 
-When explaining the system:
-1. Clearly state the MISSION and DOMAIN
-2. Explain key CAPABILITIES (what you can do)
-3. Give 2-3 specific example questions users could ask
-4. Be inviting and helpful
-5. Keep it concise and natural
+PERSONALITY when explaining yourself:
+- Be genuinely excited about your capabilities
+- Speak like you're sharing something cool with a friend
+- Give specific, intriguing examples of questions
+- Show your personality - you're curious, thoughtful, and helpful
 
-Use plain text, avoid complex markdown. Use numbered lists or plain sentences, not bullet points with dashes.""",
+When explaining:
+1. Share your MISSION with enthusiasm
+2. Explain what makes you unique (connecting ideas across conversations)
+3. Give 2-3 specific, intriguing example questions that spark curiosity
+4. Invite them to explore with you
+
+Example tone: "I'm like your personal guide through some of the most fascinating conversations about creativity, philosophy, and human potential. I can help you discover what Phil Jackson thinks about mindfulness in leadership, or how Rick Rubin approaches creativity..."
+
+Use plain text, avoid complex markdown. Be concise but engaging.""",
         }
         
         instruction = instructions.get(intent_type, instructions["conversational"])
@@ -374,12 +407,23 @@ USER: "{query}"
 Respond naturally:"""
 
         try:
+            # Build messages array with conversation history for proper context
+            messages = [{"role": "system", "content": instruction}]
+            
+            # Add conversation history as proper messages (not just text context)
+            if conversation_history:
+                for msg in conversation_history[-5:]:  # Last 5 messages
+                    role = msg.get("role", "user")
+                    content = msg.get("content", "")
+                    if role in ["user", "assistant"] and content:
+                        messages.append({"role": role, "content": content})
+            
+            # Add current query
+            messages.append({"role": "user", "content": query})
+            
             response = self.openai_client.chat.completions.create(
                 model=self.model,
-                messages=[
-                    {"role": "system", "content": instruction},
-                    {"role": "user", "content": query}
-                ],
+                messages=messages,
                 temperature=0.7,
                 max_tokens=300,
             )
@@ -450,41 +494,41 @@ Respond naturally:"""
         user_name = session_metadata.get("user_name", "") if session_metadata else ""
         user_facts = session_metadata.get("user_facts", []) if session_metadata else []
         
-        # Build context from conversation history
-        conv_context = ""
-        if conversation_history:
-            conv_context = "\n".join([
-                f"{m.get('role', 'user')}: {m.get('content', '')[:200]}" 
-                for m in conversation_history[-10:]
-            ])
-        
-        # Use LLM to answer based on stored info
-        prompt = f"""The user is asking about information they previously shared with you.
+        # Build messages array with conversation history
+        messages = [
+            {"role": "system", "content": f"""You are Sage, a warm and attentive Podcast Intelligence Assistant who remembers what users share.
 
 USER'S STORED INFO:
-- Name: {user_name if user_name else "Not provided"}
-- Facts they shared: {user_facts if user_facts else "None stored"}
+- Name: {user_name if user_name else "They haven't shared their name yet"}
+- Facts they've shared: {user_facts if user_facts else "Nothing stored yet"}
 
-CONVERSATION HISTORY:
-{conv_context if conv_context else "No prior conversation"}
+PERSONALITY:
+- Warm and genuinely interested in them
+- If you remember something, share it naturally like a friend would
+- If you don't have the information, be honest but warm - invite them to share
+- Never make up information
+- Reference the conversation naturally
 
-USER QUESTION: "{query}"
-
-RULES:
-1. If you have the information, provide it naturally
-2. If you DON'T have the information, honestly say you don't remember or they haven't told you
-3. Be friendly and conversational
-4. Don't make up information
-
-Respond naturally:"""
+Example responses:
+- If you know their name: "Of course I remember you, [Name]! You mentioned..."
+- If you don't know: "I don't think you've mentioned that yet - I'd love to know!"
+"""}
+        ]
+        
+        # Add conversation history for context
+        if conversation_history:
+            for msg in conversation_history[-8:]:
+                role = msg.get("role", "user")
+                content = msg.get("content", "")
+                if role in ["user", "assistant"] and content:
+                    messages.append({"role": role, "content": content})
+        
+        messages.append({"role": "user", "content": query})
 
         try:
             response = self.openai_client.chat.completions.create(
                 model=self.model,
-                messages=[
-                    {"role": "system", "content": "You are a friendly assistant with memory of what users tell you."},
-                    {"role": "user", "content": prompt}
-                ],
+                messages=messages,
                 temperature=0.7,
                 max_tokens=200,
             )
@@ -496,11 +540,11 @@ Respond naturally:"""
             self.logger.error(f"User memory response failed: {e}")
             if user_name:
                 return AgentResponse(
-                    answer=f"Your name is {user_name}!",
+                    answer=f"Of course! Your name is {user_name}. What else would you like to know?",
                     metadata={"type": "user_memory"}
                 )
             return AgentResponse(
-                answer="I don't think you've told me that yet. Feel free to share!",
+                answer="I don't think you've shared that with me yet - I'd love to know!",
                 metadata={"type": "user_memory"}
             )
 
@@ -511,15 +555,27 @@ Respond naturally:"""
     ) -> AgentResponse:
         """Handle out of scope with LLM - polite refusal."""
         try:
-            response = self.openai_client.chat.completions.create(
-                model=self.model,
-                messages=[
-                    {"role": "system", "content": """You are a Podcast Intelligence Assistant.
+            # Build messages array with conversation history
+            messages = [
+                {"role": "system", "content": """You are a Podcast Intelligence Assistant with a warm, engaging personality.
 The user asked something outside your expertise (you only know about podcasts on philosophy, creativity, coaching, personal development).
 Politely explain this is outside your expertise and invite them to ask about podcast topics instead.
-Be brief and friendly."""},
-                    {"role": "user", "content": query}
-                ],
+Be brief, friendly, and maintain any relationship you've built in the conversation."""}
+            ]
+            
+            # Add conversation history for context
+            if conversation_history:
+                for msg in conversation_history[-3:]:
+                    role = msg.get("role", "user")
+                    content = msg.get("content", "")
+                    if role in ["user", "assistant"] and content:
+                        messages.append({"role": role, "content": content})
+            
+            messages.append({"role": "user", "content": query})
+            
+            response = self.openai_client.chat.completions.create(
+                model=self.model,
+                messages=messages,
                 temperature=0.7,
                 max_tokens=150,
             )
@@ -1019,6 +1075,77 @@ Provide a clear, well-formatted answer:"""
             metadata={"type": "count_query", "episode_count": episode_count, "concept_count": concept_count}
         )
 
+    def _detect_complex_question(self, query: str) -> Dict[str, Any]:
+        """
+        Detect if a question is complex (multi-part, ambiguous, or requires clarification).
+        
+        Returns:
+            Dict with 'is_complex', 'reason', and optionally 'sub_questions'
+        """
+        query_lower = query.lower().strip()
+        
+        # Patterns indicating multi-part questions
+        multi_part_patterns = [
+            r'\band\b.*\?',  # "What is X and what about Y?"
+            r'\balso\b',     # "Also tell me..."
+            r'\bfirst\b.*\bthen\b',  # "First X, then Y"
+            r'\b(additionally|furthermore|moreover)\b',
+            r'\?.*\?',       # Multiple question marks
+        ]
+        
+        # Check for multiple question indicators
+        question_count = query.count('?')
+        has_multi_parts = question_count > 1 or any(re.search(p, query_lower) for p in multi_part_patterns)
+        
+        # Check for vague/ambiguous questions
+        vague_patterns = [
+            r'^(what|how|why|tell me) about (.{1,10})$',  # Very short "what about X"
+            r'^(explain|describe|talk about) (.{1,15})$',
+        ]
+        is_vague = any(re.search(p, query_lower) for p in vague_patterns)
+        
+        # Check if it's a comparison question
+        comparison_patterns = [
+            r'\bcompare\b',
+            r'\bdifference between\b',
+            r'\bsimilar(ities)?\b.*\bbetween\b',
+            r'\bvs\.?\b|\bversus\b',
+        ]
+        is_comparison = any(re.search(p, query_lower) for p in comparison_patterns)
+        
+        return {
+            "is_complex": has_multi_parts or is_comparison,
+            "is_vague": is_vague,
+            "has_multiple_parts": has_multi_parts,
+            "is_comparison": is_comparison,
+            "question_count": question_count,
+        }
+
+    def _handle_complex_question(
+        self,
+        query: str,
+        complexity_info: Dict[str, Any],
+        conversation_history: Optional[List[Dict[str, Any]]] = None,
+        session_metadata: Optional[Dict[str, Any]] = None,
+    ) -> Optional[AgentResponse]:
+        """
+        Handle complex questions by potentially breaking them down or providing structured responses.
+        
+        Returns AgentResponse if handled, None if should fall through to normal processing.
+        """
+        # For comparison questions, ensure we search for all entities
+        if complexity_info.get("is_comparison"):
+            # Don't block - let normal processing handle it with enhanced search
+            return None
+        
+        # For multi-part questions with 2+ question marks, acknowledge and address each part
+        if complexity_info.get("question_count", 0) >= 2:
+            # Let the LLM handle multi-part questions naturally
+            # The improved prompts should handle this
+            return None
+        
+        return None
+
     def _handle_knowledge_query(
         self,
         query: str,
@@ -1029,6 +1156,16 @@ Provide a clear, well-formatted answer:"""
         tools_used = []
         rag_results = []
         kg_results = []
+        
+        # Check for complex questions
+        complexity_info = self._detect_complex_question(query)
+        if complexity_info.get("is_complex"):
+            self.logger.info(f"Detected complex question: {complexity_info}")
+            complex_response = self._handle_complex_question(
+                query, complexity_info, conversation_history, session_metadata
+            )
+            if complex_response:
+                return complex_response
         
         # Check if this is a count query first
         count_response = self._handle_count_query(query)
@@ -1320,24 +1457,33 @@ EXAMPLE HONEST RESPONSE IF MISSING COVERAGE:
 REMEMBER: Even if Judd Apatow or Rick Rubin appear in the sources, DO NOT use them - they are NOT in the query!"""
         
         # Synthesize with LLM
-        system_prompt = f"""You are a Podcast Intelligence Assistant answering questions using ONLY the provided sources.
+        system_prompt = f"""You are Sage, a warm and intellectually curious Podcast Intelligence Assistant. You help people explore insights from fascinating podcast conversations.
 {entity_coverage_constraint}
-CRITICAL RULES - YOU MUST FOLLOW THESE:
+PERSONALITY:
+- Genuinely excited about sharing insights and making connections
+- Speak like a thoughtful friend who's passionate about ideas
+- Weave in context naturally, like you're having a conversation
+- Show enthusiasm for the ideas you're sharing
+- If you remember the user's name or previous context, reference it naturally
+
+CRITICAL RULES FOR ACCURACY:
 1. ONLY cite and reference speakers/episodes that appear in the TRANSCRIPT SOURCES below
 2. DO NOT mention or cite anyone not in the provided sources
 3. If a speaker is not in the sources, DO NOT reference them - state this explicitly
-4. Cite naturally by speaker name (e.g., "Phil Jackson explains..." not "[Source 1]")
+4. Cite naturally by speaker name (e.g., "Phil Jackson shares this fascinating insight..." not "[Source 1]")
 
-WHAT YOU CAN CITE:
-- Only the speakers listed in the "TRANSCRIPT SOURCES" section below
-- Only information that appears in those sources
+RESPONSE STYLE:
+- Start with the insight, not meta-commentary
+- Weave citations naturally into your narrative
+- Show genuine enthusiasm for interesting ideas
+- Make connections between concepts when relevant
+- End with an invitation to explore further if appropriate
 
 WHAT YOU CANNOT DO:
 - Reference speakers not in the provided sources
-- Use proxy speakers, "peers", or "similar creatives" as substitutes
 - Make up quotes or information
 - Use "[Source 1]" style citations
-- Infer shared principles without direct evidence from ALL mentioned entities
+- Infer shared principles without direct evidence
 
 FORMATTING:
 - Use plain paragraphs for most content
@@ -1357,12 +1503,23 @@ KNOWLEDGE GRAPH:
 Provide a well-sourced answer with NATURAL citations. {f"IMPORTANT: Be honest about missing coverage for any entities." if coverage_info and not coverage_info["all_covered"] else ""}"""
 
         try:
+            # Build proper messages array with conversation history for follow-up support
+            messages = [{"role": "system", "content": system_prompt}]
+            
+            # Add conversation history as proper messages (enables better follow-up)
+            if conversation_history:
+                for msg in conversation_history[-5:]:
+                    role = msg.get("role", "user")
+                    content = msg.get("content", "")
+                    if role in ["user", "assistant"] and content:
+                        messages.append({"role": role, "content": content})
+            
+            # Add current query with context
+            messages.append({"role": "user", "content": user_prompt})
+            
             response = self.openai_client.chat.completions.create(
                 model=self.model,
-                messages=[
-                    {"role": "system", "content": system_prompt},
-                    {"role": "user", "content": user_prompt}
-                ],
+                messages=messages,
                 temperature=0.5,
                 max_tokens=800,
             )

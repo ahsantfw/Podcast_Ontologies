@@ -218,3 +218,4 @@ gcloud projects add-iam-policy-binding <project-id> \
 ---
 
 **🎯 FIRST THING TO DO RIGHT NO
+.env

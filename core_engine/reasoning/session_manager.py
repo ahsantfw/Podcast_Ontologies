@@ -261,7 +261,19 @@ class SessionManager:
         if self.session_db:
             try:
                 db_session = self.session_db.get_session(session_id)
-                if db_session and db_session.get("workspace_id") == self.workspace_id:
+                
+                # Log what we're loading for debugging
+                self.logger.info("session_loading_from_db", extra={
+                    "context": {
+                        "session_id": session_id,
+                        "found": db_session is not None,
+                        "db_workspace": db_session.get("workspace_id") if db_session else None,
+                        "expected_workspace": self.workspace_id,
+                    }
+                })
+                
+                # Be more permissive with workspace matching - allow loading if session exists
+                if db_session:
                     # Restore session from database
                     messages = db_session.get("messages", [])
                     
