@@ -6827,3 +6827,84 @@ Traceback (most recent call last):
   File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_async_compat/network/_util.py", line 151, in _dns_resolver
     raise ValueError(f"Cannot resolve address {address}") from e
 ValueError: Cannot resolve address 150bc1e7.databases.neo4j.io:7687
+{"ts":"2026-01-28T17:21:30","level":"ERROR","logger":"core_engine.reasoning.langgraph_nodes","msg":"langgraph_synthesis_error","context":"\"{}\""}
+Traceback (most recent call last):
+  File "/home/tayyab/Music/Ontology-Project/ontology_production_v1/core_engine/reasoning/langgraph_nodes.py", line 216, in synthesize_node
+    response = agent._synthesize_answer(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: PodcastAgent._synthesize_answer() missing 1 required positional argument: 'resolved_query'
+{"ts":"2026-01-28T17:21:31","level":"ERROR","logger":"core_engine.reasoning.langgraph_nodes","msg":"langgraph_synthesis_error","context":"\"{}\""}
+Traceback (most recent call last):
+  File "/home/tayyab/Music/Ontology-Project/ontology_production_v1/core_engine/reasoning/langgraph_nodes.py", line 216, in synthesize_node
+    response = agent._synthesize_answer(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: PodcastAgent._synthesize_answer() missing 1 required positional argument: 'resolved_query'
+{"ts":"2026-01-28T17:21:32","level":"ERROR","logger":"core_engine.reasoning.langgraph_nodes","msg":"langgraph_synthesis_error","context":"\"{}\""}
+Traceback (most recent call last):
+  File "/home/tayyab/Music/Ontology-Project/ontology_production_v1/core_engine/reasoning/langgraph_nodes.py", line 216, in synthesize_node
+    response = agent._synthesize_answer(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: PodcastAgent._synthesize_answer() missing 1 required positional argument: 'resolved_query'
+{"ts":"2026-01-28T17:21:33","level":"ERROR","logger":"core_engine.reasoning.langgraph_nodes","msg":"langgraph_synthesis_error","context":"\"{}\""}
+Traceback (most recent call last):
+  File "/home/tayyab/Music/Ontology-Project/ontology_production_v1/core_engine/reasoning/langgraph_nodes.py", line 216, in synthesize_node
+    response = agent._synthesize_answer(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: PodcastAgent._synthesize_answer() missing 1 required positional argument: 'resolved_query'
+{"ts":"2026-01-28T17:21:33","level":"ERROR","logger":"core_engine.reasoning.langgraph_nodes","msg":"langgraph_synthesis_error","context":"\"{}\""}
+Traceback (most recent call last):
+  File "/home/tayyab/Music/Ontology-Project/ontology_production_v1/core_engine/reasoning/langgraph_nodes.py", line 216, in synthesize_node
+    response = agent._synthesize_answer(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: PodcastAgent._synthesize_answer() missing 1 required positional argument: 'resolved_query'
+{"ts":"2026-01-28T17:21:34","level":"ERROR","logger":"core_engine.reasoning.langgraph_nodes","msg":"langgraph_synthesis_error","context":"\"{}\""}
+Traceback (most recent call last):
+  File "/home/tayyab/Music/Ontology-Project/ontology_production_v1/core_engine/reasoning/langgraph_nodes.py", line 216, in synthesize_node
+    response = agent._synthesize_answer(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: PodcastAgent._synthesize_answer() missing 1 required positional argument: 'resolved_query'
+{"ts":"2026-01-28T17:21:35","level":"ERROR","logger":"core_engine.reasoning.langgraph_nodes","msg":"langgraph_synthesis_error","context":"\"{}\""}
+Traceback (most recent call last):
+  File "/home/tayyab/Music/Ontology-Project/ontology_production_v1/core_engine/reasoning/langgraph_nodes.py", line 216, in synthesize_node
+    response = agent._synthesize_answer(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: PodcastAgent._synthesize_answer() missing 1 required positional argument: 'resolved_query'
+{"ts":"2026-01-28T17:21:36","level":"ERROR","logger":"core_engine.reasoning.langgraph_nodes","msg":"langgraph_synthesis_error","context":"\"{}\""}
+Traceback (most recent call last):
+  File "/home/tayyab/Music/Ontology-Project/ontology_production_v1/core_engine/reasoning/langgraph_nodes.py", line 216, in synthesize_node
+    response = agent._synthesize_answer(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: PodcastAgent._synthesize_answer() missing 1 required positional argument: 'resolved_query'
+{"ts":"2026-01-28T17:21:37","level":"ERROR","logger":"core_engine.reasoning.langgraph_nodes","msg":"langgraph_synthesis_error","context":"\"{}\""}
+Traceback (most recent call last):
+  File "/home/tayyab/Music/Ontology-Project/ontology_production_v1/core_engine/reasoning/langgraph_nodes.py", line 216, in synthesize_node
+    response = agent._synthesize_answer(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: PodcastAgent._synthesize_answer() missing 1 required positional argument: 'resolved_query'
+{"ts":"2026-01-28T17:21:37","level":"ERROR","logger":"core_engine.reasoning.langgraph_nodes","msg":"langgraph_synthesis_error","context":"\"{}\""}
+Traceback (most recent call last):
+  File "/home/tayyab/Music/Ontology-Project/ontology_production_v1/core_engine/reasoning/langgraph_nodes.py", line 216, in synthesize_node
+    response = agent._synthesize_answer(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: PodcastAgent._synthesize_answer() missing 1 required positional argument: 'resolved_query'
+{"ts":"2026-01-28T17:21:38","level":"ERROR","logger":"core_engine.reasoning.langgraph_nodes","msg":"langgraph_synthesis_error","context":"\"{}\""}
+Traceback (most recent call last):
+  File "/home/tayyab/Music/Ontology-Project/ontology_production_v1/core_engine/reasoning/langgraph_nodes.py", line 216, in synthesize_node
+    response = agent._synthesize_answer(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: PodcastAgent._synthesize_answer() missing 1 required positional argument: 'resolved_query'
+{"ts":"2026-01-28T17:21:39","level":"ERROR","logger":"core_engine.reasoning.langgraph_nodes","msg":"langgraph_synthesis_error","context":"\"{}\""}
+Traceback (most recent call last):
+  File "/home/tayyab/Music/Ontology-Project/ontology_production_v1/core_engine/reasoning/langgraph_nodes.py", line 216, in synthesize_node
+    response = agent._synthesize_answer(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: PodcastAgent._synthesize_answer() missing 1 required positional argument: 'resolved_query'
+{"ts":"2026-01-28T23:42:12","level":"ERROR","logger":"core_engine.reasoning.langgraph_nodes","msg":"langgraph_plan_error","context":"\"{}\""}
+Traceback (most recent call last):
+  File "/home/tayyab/Music/Ontology-Project/ontology_production_v1/core_engine/reasoning/langgraph_nodes.py", line 61, in plan_query_node
+    plan = planner.plan(
+           ^^^^^^^^^^^^^
+  File "/home/tayyab/Music/Ontology-Project/ontology_production_v1/core_engine/reasoning/intelligent_query_planner.py", line 93, in plan
+    if not relevance_check["is_relevant"]:
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+KeyError: 'is_relevant'

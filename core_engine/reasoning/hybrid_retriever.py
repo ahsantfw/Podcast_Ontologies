@@ -17,6 +17,8 @@ except ImportError:
 
 from core_engine.kg.neo4j_client import Neo4jClient
 from core_engine.logging import get_logger
+from core_engine.reasoning.embedding_cache import get_embedding_cache
+from core_engine.reasoning.query_expander import QueryExpander
 
 
 def load_env() -> None:
@@ -98,13 +100,21 @@ class HybridRetriever:
         else:
             self.openai_client = OpenAI(api_key=api_key)
             self.embed_model = embed_model
-            self.logger.info("openai_client_initialized")
-
+        # Initialize embedding cache
+        self.embedding_cache = get_embedding_cache()
+        
+        # Initialize Query Expander (lazy loaded or initialized here)
+        self.query_expander = QueryExpander(
+            openai_client=self.openai_client,
+            max_variations=3,
+        )
+        
     def retrieve(
         self,
         query: str,
         use_vector: bool = True,
         use_graph: bool = True,
+        query_type: str = None,  # NEW: Allow passing query type for adaptive weights
     ) -> List[Dict[str, Any]]:
         """
         Retrieve results using hybrid approach.
@@ -113,27 +123,60 @@ class HybridRetriever:
             query: Search query
             use_vector: Whether to use vector search
             use_graph: Whether to use graph search
+            query_type: Optional query type for adaptive weights (entity_centric, multi_hop, etc.)
 
         Returns:
             List of retrieved results with scores
         """
+        # OPTIMIZATION: Adaptive weights based on query type
+        vector_weight, graph_weight = self._get_adaptive_weights(query, query_type)
+        
+        # PROACTIVE OPTIMIZATION: Pre-retrieval query expansion
+        # Generate variations to improve vector search recall
+        variations = [query]
+        if use_vector:  # Only expand for vector search
+            try:
+                # Use query expander to get synonyms/variations
+                variations = self.query_expander.expand(
+                    query, 
+                    context={"query_type": query_type or "general"}
+                )
+            except Exception as e:
+                self.logger.warning(f"Query expansion failed: {e}")
+                variations = [query]
+        
         vector_results = []
         graph_results = []
         
-        # Vector search
+        # Vector search - Run for ALL variations to maximize recall
         if use_vector and self.qdrant_client and self.openai_client:
-            try:
-                vector_results = self._vector_search(query)
-            except Exception as e:
-                self.logger.warning(
-                    "vector_search_failed",
-                    extra={"context": {"error": str(e)}},
-                )
+            seen_texts = set()
+            for variation in variations:
+                try:
+                    # Apply expansion weight penalty (original=1.0, variations=0.9)
+                    # This ensures exact matches to original query are ranked higher
+                    var_weight = vector_weight if variation == query else vector_weight * 0.9
+                    
+                    results = self._vector_search(variation, weight=var_weight)
+                    
+                    # Deduplicate results across variations
+                    for res in results:
+                        text_key = res.get("text", "")[:50].lower()
+                        if text_key not in seen_texts:
+                            seen_texts.add(text_key)
+                            vector_results.append(res)
+                            
+                except Exception as e:
+                    self.logger.warning(
+                        "vector_search_failed",
+                        extra={"context": {"error": str(e), "variation": variation}},
+                    )
         
-        # Graph search
+        # Graph search - Run ONLY for original query (precision + performance)
+        # Graph already handles aliases/fuzzy matching better
         if use_graph:
             try:
-                graph_results = self._graph_search(query)
+                graph_results = self._graph_search(query, weight=graph_weight)
             except Exception as e:
                 self.logger.warning(
                     "graph_search_failed",
@@ -147,17 +190,98 @@ class HybridRetriever:
         diverse_results = self._diversify_results(fused)
         
         return diverse_results[:self.top_k]
+    
+    def _get_adaptive_weights(self, query: str, query_type: str = None) -> tuple:
+        """
+        Compute adaptive weights for RAG vs KG based on query characteristics.
+        
+        Strategy:
+        - Entity queries (who is X, tell me about X) → More KG (0.3, 0.7)
+        - Relationship queries (how does X relate to Y) → More KG (0.3, 0.7)
+        - Concept queries (what is X, explain X) → More RAG (0.7, 0.3)
+        - Multi-hop queries → Balanced (0.5, 0.5)
+        - Default → Balanced (0.5, 0.5)
+        
+        Returns:
+            Tuple of (vector_weight, graph_weight)
+        """
+        import re
+        query_lower = query.lower().strip()
+        
+        # Pattern detection for entity-focused queries (favor KG)
+        entity_patterns = [
+            r"^who (is|are|was|were)",
+            r"^tell me about ",
+            r"^what did .+ say",
+            r"^what does .+ think",
+            r"^(what|who) (is|are) .+('s|s') ",  # possessives
+        ]
+        
+        # Pattern detection for relationship queries (favor KG)
+        relationship_patterns = [
+            r"(relate|relationship|connect|between).*(and|to|with)",
+            r"how (does|do|did).+affect",
+            r"what (leads?|lead) to",
+            r"(cause|effect|impact|influence)",
+        ]
+        
+        # Pattern detection for concept queries (favor RAG)
+        concept_patterns = [
+            r"^what (is|are) ",
+            r"^explain ",
+            r"^describe ",
+            r"^(how|why) (does|do|is|are) ",
+        ]
+        
+        # Check query type if provided
+        if query_type:
+            if query_type in ["entity_centric", "entity_linking"]:
+                return (0.35, 0.65)  # Favor KG
+            elif query_type == "multi_hop":
+                return (0.4, 0.6)  # Slightly favor KG
+            elif query_type == "cross_episode":
+                return (0.5, 0.5)  # Balanced
+        
+        # Pattern-based detection
+        for pattern in entity_patterns:
+            if re.search(pattern, query_lower):
+                self.logger.info(
+                    "adaptive_weights_entity",
+                    extra={"context": {"query": query[:30], "weights": "(0.35, 0.65)"}}
+                )
+                return (0.35, 0.65)  # Favor KG
+        
+        for pattern in relationship_patterns:
+            if re.search(pattern, query_lower):
+                self.logger.info(
+                    "adaptive_weights_relationship",
+                    extra={"context": {"query": query[:30], "weights": "(0.35, 0.65)"}}
+                )
+                return (0.35, 0.65)  # Favor KG
+        
+        for pattern in concept_patterns:
+            if re.search(pattern, query_lower):
+                self.logger.info(
+                    "adaptive_weights_concept",
+                    extra={"context": {"query": query[:30], "weights": "(0.65, 0.35)"}}
+                )
+                return (0.65, 0.35)  # Favor RAG
+        
+        # Default: balanced
+        return (self.vector_weight, self.graph_weight)
 
-    def _vector_search(self, query: str) -> List[Dict[str, Any]]:
+    def _vector_search(self, query: str, weight: float = None) -> List[Dict[str, Any]]:
         """
         Search using vector similarity.
 
         Args:
             query: Search query
+            weight: Weight to apply to results (default: self.vector_weight)
 
         Returns:
             List of vector search results
         """
+        weight = weight if weight is not None else self.vector_weight
         try:
             # Check if collection exists
             collections = self.qdrant_client.get_collections().collections
@@ -172,12 +296,17 @@ class HybridRetriever:
                 )
                 return []
             
-            # Create embedding
-            response = self.openai_client.embeddings.create(
-                model=self.embed_model,
-                input=[query],
-            )
-            query_embedding = response.data[0].embedding
+            # Create embedding (with caching)
+            query_embedding = self.embedding_cache.get(query)
+            
+            if query_embedding is None:
+                # Cache miss - generate embedding
+                response = self.openai_client.embeddings.create(
+                    model=self.embed_model,
+                    input=[query],
+                )
+                query_embedding = response.data[0].embedding
+                self.embedding_cache.set(query, query_embedding)
             
             # Search Qdrant - use query_points or query_batch depending on version
             try:
@@ -243,10 +372,13 @@ class HybridRetriever:
                 else:
                     continue
                     
+                # Add explanation
+                payload["match_reason"] = "Semantic similarity match (Vector Search)"
+                
                 vector_results.append({
                     "text": payload.get("text", ""),
                     "source": "vector",
-                    "score": score * self.vector_weight,
+                    "score": score * weight,
                     "metadata": payload,
                 })
             
@@ -259,16 +391,18 @@ class HybridRetriever:
             )
             raise
 
-    def _graph_search(self, query: str) -> List[Dict[str, Any]]:
+    def _graph_search(self, query: str, weight: float = None) -> List[Dict[str, Any]]:
         """
         Search using graph traversal with relationships.
 
         Args:
             query: Search query
+            weight: Weight to apply to results (default: self.graph_weight)
 
         Returns:
             List of graph search results
         """
+        weight = weight if weight is not None else self.graph_weight
         # Enhanced graph search - find concepts AND their relationships
         # Extract keywords from query
         import re
@@ -351,10 +485,17 @@ class HybridRetriever:
                                           for r in result.get("relationships_out", [])[:3]])
                     text_parts.append(f"Relationships: {rels_text}")
                 
+                # Add explanation
+                match_reason = "Keyword match in Graph"
+                if score > 1.0:
+                    match_reason = "Strong Entity Match in Knowledge Graph"
+                elif rel_count > 0:
+                    match_reason = f"Concept Match with {rel_count} Relationships"
+                
                 graph_results.append({
                     "text": " | ".join(text_parts),
                     "source": "graph",
-                    "score": score * self.graph_weight,
+                    "score": score * weight,
                     "metadata": {
                         "name": result.get("name"),
                         "type": result.get("type"),
@@ -363,6 +504,7 @@ class HybridRetriever:
                         "id": result.get("id"),
                         "relationships_out": result.get("relationships_out", []),
                         "relationships_in": result.get("relationships_in", []),
+                        "match_reason": match_reason,  # Add explanation
                     },
                 })
         

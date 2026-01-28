@@ -1,0 +1,288 @@
+{
+  "test_timestamp": "2026-01-28T20:55:51.480767",
+  "api_url": "http://localhost:8000/api/v1/query",
+  "test_queries": [
+    {
+      "query": "What is RAG?",
+      "should_reject": true,
+      "timestamp": "2026-01-28T20:55:51.480775",
+      "status": "success",
+      "rag_count": 0,
+      "kg_count": 0,
+      "intent": "out_of_scope",
+      "method": "langgraph",
+      "is_rejected": true,
+      "answer_preview": "I couldn't find information about that in the podcast knowledge base. Could you rephrase your question or ask about a specific topic related to philosophy, creativity, coaching, or personal developmen",
+      "full_answer": "I couldn't find information about that in the podcast knowledge base. Could you rephrase your question or ask about a specific topic related to philosophy, creativity, coaching, or personal development from the podcasts?",
+      "metadata": {
+        "method": "langgraph",
+        "tools_used": [],
+        "rag_count": 0,
+        "kg_count": 0,
+        "intent": "out_of_scope"
+      },
+      "passed": true
+    },
+    {
+      "query": "What is Retrieval Augmented Generation?",
+      "should_reject": true,
+      "timestamp": "2026-01-28T20:55:56.304750",
+      "status": "success",
+      "rag_count": 0,
+      "kg_count": 0,
+      "intent": "out_of_scope",
+      "method": "langgraph",
+      "is_rejected": true,
+      "answer_preview": "I couldn't find information about that in the podcast knowledge base. Could you rephrase your question or ask about a specific topic related to philosophy, creativity, coaching, or personal developmen",
+      "full_answer": "I couldn't find information about that in the podcast knowledge base. Could you rephrase your question or ask about a specific topic related to philosophy, creativity, coaching, or personal development from the podcasts?",
+      "metadata": {
+        "method": "langgraph",
+        "tools_used": [],
+        "rag_count": 0,
+        "kg_count": 0,
+        "intent": "out_of_scope"
+      },
+      "passed": true
+    },
+    {
+      "query": "Do you know Urdu?",
+      "should_reject": true,
+      "timestamp": "2026-01-28T20:56:00.494878",
+      "status": "success",
+      "rag_count": 0,
+      "kg_count": 0,
+      "intent": "out_of_scope",
+      "method": "langgraph",
+      "is_rejected": true,
+      "answer_preview": "I couldn't find information about that in the podcast knowledge base. Could you rephrase your question or ask about a specific topic related to philosophy, creativity, coaching, or personal developmen",
+      "full_answer": "I couldn't find information about that in the podcast knowledge base. Could you rephrase your question or ask about a specific topic related to philosophy, creativity, coaching, or personal development from the podcasts?",
+      "metadata": {
+        "method": "langgraph",
+        "tools_used": [],
+        "rag_count": 0,
+        "kg_count": 0,
+        "intent": "out_of_scope"
+      },
+      "passed": true
+    },
+    {
+      "query": "Can you translate Me acha hu into English?",
+      "should_reject": true,
+      "timestamp": "2026-01-28T20:56:04.936414",
+      "status": "success",
+      "rag_count": 0,
+      "kg_count": 0,
+      "intent": "out_of_scope",
+      "method": "langgraph",
+      "is_rejected": true,
+      "answer_preview": "I couldn't find information about that in the podcast knowledge base. Could you rephrase your question or ask about a specific topic related to philosophy, creativity, coaching, or personal developmen",
+      "full_answer": "I couldn't find information about that in the podcast knowledge base. Could you rephrase your question or ask about a specific topic related to philosophy, creativity, coaching, or personal development from the podcasts?",
+      "metadata": {
+        "method": "langgraph",
+        "tools_used": [],
+        "rag_count": 0,
+        "kg_count": 0,
+        "intent": "out_of_scope"
+      },
+      "passed": true
+    },
+    {
+      "query": "What are the issues of society?",
+      "should_reject": true,
+      "timestamp": "2026-01-28T20:56:08.826087",
+      "status": "success",
+      "rag_count": 0,
+      "kg_count": 0,
+      "intent": "out_of_scope",
+      "method": "langgraph",
+      "is_rejected": true,
+      "answer_preview": "I couldn't find information about that in the podcast knowledge base. Could you rephrase your question or ask about a specific topic related to philosophy, creativity, coaching, or personal developmen",
+      "full_answer": "I couldn't find information about that in the podcast knowledge base. Could you rephrase your question or ask about a specific topic related to philosophy, creativity, coaching, or personal development from the podcasts?",
+      "metadata": {
+        "method": "langgraph",
+        "tools_used": [],
+        "rag_count": 0,
+        "kg_count": 0,
+        "intent": "out_of_scope"
+      },
+      "passed": true
+    },
+    {
+      "query": "What are the main problems in society?",
+      "should_reject": true,
+      "timestamp": "2026-01-28T20:56:12.582794",
+      "status": "success",
+      "rag_count": 0,
+      "kg_count": 0,
+      "intent": "out_of_scope",
+      "method": "langgraph",
+      "is_rejected": true,
+      "answer_preview": "I couldn't find information about that in the podcast knowledge base. Could you rephrase your question or ask about a specific topic related to philosophy, creativity, coaching, or personal developmen",
+      "full_answer": "I couldn't find information about that in the podcast knowledge base. Could you rephrase your question or ask about a specific topic related to philosophy, creativity, coaching, or personal development from the podcasts?",
+      "metadata": {
+        "method": "langgraph",
+        "tools_used": [],
+        "rag_count": 0,
+        "kg_count": 0,
+        "intent": "out_of_scope"
+      },
+      "passed": true
+    },
+    {
+      "query": "What are solutions to social problems?",
+      "should_reject": true,
+      "timestamp": "2026-01-28T20:56:15.865396",
+      "status": "success",
+      "rag_count": 0,
+      "kg_count": 0,
+      "intent": "out_of_scope",
+      "method": "langgraph",
+      "is_rejected": true,
+      "answer_preview": "I couldn't find information about that in the podcast knowledge base. Could you rephrase your question or ask about a specific topic related to philosophy, creativity, coaching, or personal developmen",
+      "full_answer": "I couldn't find information about that in the podcast knowledge base. Could you rephrase your question or ask about a specific topic related to philosophy, creativity, coaching, or personal development from the podcasts?",
+      "metadata": {
+        "method": "langgraph",
+        "tools_used": [],
+        "rag_count": 0,
+        "kg_count": 0,
+        "intent": "out_of_scope"
+      },
+      "passed": true
+    },
+    {
+      "query": "What is the meaning of life?",
+      "should_reject": true,
+      "timestamp": "2026-01-28T20:56:19.502090",
+      "status": "success",
+      "rag_count": 0,
+      "kg_count": 0,
+      "intent": "out_of_scope",
+      "method": "langgraph",
+      "is_rejected": true,
+      "answer_preview": "I couldn't find information about that in the podcast knowledge base. Could you rephrase your question or ask about a specific topic related to philosophy, creativity, coaching, or personal developmen",
+      "full_answer": "I couldn't find information about that in the podcast knowledge base. Could you rephrase your question or ask about a specific topic related to philosophy, creativity, coaching, or personal development from the podcasts?",
+      "metadata": {
+        "method": "langgraph",
+        "tools_used": [],
+        "rag_count": 0,
+        "kg_count": 0,
+        "intent": "out_of_scope"
+      },
+      "passed": true
+    },
+    {
+      "query": "What is philosophy?",
+      "should_reject": true,
+      "timestamp": "2026-01-28T20:56:23.303587",
+      "status": "success",
+      "rag_count": 0,
+      "kg_count": 0,
+      "intent": "out_of_scope",
+      "method": "langgraph",
+      "is_rejected": true,
+      "answer_preview": "I couldn't find information about that in the podcast knowledge base. Could you rephrase your question or ask about a specific topic related to philosophy, creativity, coaching, or personal developmen",
+      "full_answer": "I couldn't find information about that in the podcast knowledge base. Could you rephrase your question or ask about a specific topic related to philosophy, creativity, coaching, or personal development from the podcasts?",
+      "metadata": {
+        "method": "langgraph",
+        "tools_used": [],
+        "rag_count": 0,
+        "kg_count": 0,
+        "intent": "out_of_scope"
+      },
+      "passed": true
+    },
+    {
+      "query": "What is creativity?",
+      "should_reject": true,
+      "timestamp": "2026-01-28T20:56:26.689833",
+      "status": "success",
+      "rag_count": 0,
+      "kg_count": 0,
+      "intent": "out_of_scope",
+      "method": "langgraph",
+      "is_rejected": true,
+      "answer_preview": "I couldn't find information about that in the podcast knowledge base. Could you rephrase your question or ask about a specific topic related to philosophy, creativity, coaching, or personal developmen",
+      "full_answer": "I couldn't find information about that in the podcast knowledge base. Could you rephrase your question or ask about a specific topic related to philosophy, creativity, coaching, or personal development from the podcasts?",
+      "metadata": {
+        "method": "langgraph",
+        "tools_used": [],
+        "rag_count": 0,
+        "kg_count": 0,
+        "intent": "out_of_scope"
+      },
+      "passed": true
+    }
+  ],
+  "valid_queries": [
+    {
+      "query": "Hi",
+      "should_reject": false,
+      "timestamp": "2026-01-28T20:56:30.132157",
+      "status": "success",
+      "rag_count": 0,
+      "kg_count": 0,
+      "intent": "unknown",
+      "method": "langgraph",
+      "is_rejected": false,
+      "answer_preview": "Hey there! It\u2019s great to see you. I\u2019ve been listening to some amazing podcast conversations lately about curiosity and how it sparks creativity. Is there something you\u2019re curious about or exploring th",
+      "full_answer": "Hey there! It\u2019s great to see you. I\u2019ve been listening to some amazing podcast conversations lately about curiosity and how it sparks creativity. Is there something you\u2019re curious about or exploring these days? \ud83d\ude0a",
+      "metadata": {
+        "method": "langgraph",
+        "tools_used": [],
+        "rag_count": 0,
+        "kg_count": 0,
+        "type": "greeting"
+      },
+      "passed": true
+    },
+    {
+      "query": "Hello",
+      "should_reject": false,
+      "timestamp": "2026-01-28T20:56:34.770486",
+      "status": "success",
+      "rag_count": 0,
+      "kg_count": 0,
+      "intent": "unknown",
+      "method": "langgraph",
+      "is_rejected": false,
+      "answer_preview": "Hello again! It\u2019s always a pleasure to connect. Lately, I\u2019ve been reflecting on how simple greetings can open the door to meaningful conversations\u2014just like in some of my favorite podcast episodes. Is",
+      "full_answer": "Hello again! It\u2019s always a pleasure to connect. Lately, I\u2019ve been reflecting on how simple greetings can open the door to meaningful conversations\u2014just like in some of my favorite podcast episodes. Is there a topic or idea you\u2019ve been turning over in your mind lately?",
+      "metadata": {
+        "method": "langgraph",
+        "tools_used": [],
+        "rag_count": 0,
+        "kg_count": 0,
+        "type": "greeting"
+      },
+      "passed": true
+    },
+    {
+      "query": "Hey",
+      "should_reject": false,
+      "timestamp": "2026-01-28T20:56:39.627650",
+      "status": "success",
+      "rag_count": 0,
+      "kg_count": 0,
+      "intent": "unknown",
+      "method": "langgraph",
+      "is_rejected": false,
+      "answer_preview": "Hey, hey! I love the enthusiasm. \ud83d\ude04 I\u2019ve been thinking about how small moments of connection\u2014like a simple \u201chey\u201d\u2014can lead to big ideas, especially in podcast interviews. Is there a particular conversat",
+      "full_answer": "Hey, hey! I love the enthusiasm. \ud83d\ude04 I\u2019ve been thinking about how small moments of connection\u2014like a simple \u201chey\u201d\u2014can lead to big ideas, especially in podcast interviews. Is there a particular conversation or topic you\u2019d like to dive into today?",
+      "metadata": {
+        "method": "langgraph",
+        "tools_used": [],
+        "rag_count": 0,
+        "kg_count": 0,
+        "type": "greeting"
+      },
+      "passed": true
+    }
+  ],
+  "summary": {
+    "total_tested": 13,
+    "passed": 13,
+    "failed": 0,
+    "skipped": 0,
+    "pass_rate": 100.0
+  }
+}

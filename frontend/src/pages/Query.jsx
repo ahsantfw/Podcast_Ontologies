@@ -206,34 +206,100 @@ export default function Query() {
             {showSources && answer.sources && answer.sources.length > 0 && (
               <div className="mt-6 pt-6 border-t border-gray-200">
                 <h3 className="text-lg font-semibold text-gray-900 mb-3">
-                  Sources
+                  Sources ({answer.sources.length})
                 </h3>
                 <div className="space-y-2 max-h-96 overflow-y-auto">
-                  {answer.sources.slice(0, 10).map((source, idx) => (
-                    <div
-                      key={idx}
-                      className="p-3 bg-gray-50 rounded border border-gray-200"
-                    >
-                      <div className="flex items-center justify-between mb-1">
-                        <span className="font-medium text-sm">
-                          {source.episode_id || 'Unknown Episode'}
-                        </span>
-                        {source.timestamp && (
-                          <span className="text-xs text-gray-500">
-                            {source.timestamp}
-                          </span>
-                        )}
+                  {answer.sources.slice(0, 10).map((source, idx) => {
+                    // Handle transcript sources (RAG)
+                    if (source.type === 'transcript' || !source.type) {
+                      const episodeName = source.episode_name || source.episode_id || 'Unknown Episode'
+                      const confidence = source.confidence !== undefined ? source.confidence : null
+                      
+                      return (
+                        <div
+                          key={idx}
+                          className="p-3 bg-gray-50 rounded border border-gray-200 hover:border-gray-300 transition-colors"
+                        >
+                          <div className="flex items-center justify-between mb-1 flex-wrap gap-2">
+                            <span className="font-medium text-sm">
+                              {episodeName}
+                            </span>
+                            <div className="flex items-center gap-2">
+                              {source.timestamp && (
+                                <span className="text-xs text-gray-500">
+                                  {source.timestamp}
+                                </span>
+                              )}
+                              {confidence !== null && (
+                                <span className="text-xs px-1.5 py-0.5 rounded bg-blue-100 text-blue-700 font-medium">
+                                  {Math.round(confidence * 100)}%
+                                </span>
+                              )}
+                            </div>
+                          </div>
+                          {source.speaker && source.speaker !== 'Unknown Speaker' && (
+                            <span className="text-xs text-gray-600 block mb-1">
+                              Speaker: {source.speaker}
+                            </span>
+                          )}
+                          {source.text && (
+                            <p className="text-sm text-gray-700 mt-2 italic">
+                              "{source.text.substring(0, 200)}{source.text.length > 200 ? '...' : ''}"
+                            </p>
+                          )}
+                        </div>
+                      )
+                    }
+                    
+                    // Handle knowledge graph sources
+                    if (source.type === 'knowledge_graph') {
+                      const confidence = source.confidence !== undefined ? source.confidence : null
+                      const episodeNames = source.episode_names && source.episode_names.length > 0 
+                        ? source.episode_names 
+                        : (source.episode_ids && source.episode_ids.length > 0 
+                            ? source.episode_ids.map(id => id.replace(/_/g, ' ').replace(/\b\w/g, l => l.toUpperCase()))
+                            : [])
+                      
+                      return (
+                        <div
+                          key={idx}
+                          className="p-3 bg-purple-50 rounded border border-purple-200 hover:border-purple-300 transition-colors"
+                        >
+                          <div className="flex items-center justify-between mb-1 flex-wrap gap-2">
+                            <div className="flex items-center gap-2">
+                              <span className="text-purple-700 font-medium text-sm">KG:</span>
+                              <span className="font-medium text-sm text-purple-900">
+                                {source.concept || source.node_type || 'Concept'}
+                              </span>
+                            </div>
+                            {confidence !== null && (
+                              <span className="text-xs px-1.5 py-0.5 rounded bg-purple-100 text-purple-700 font-medium">
+                                {Math.round(confidence * 100)}%
+                              </span>
+                            )}
+                          </div>
+                          {source.description && (
+                            <p className="text-purple-700 text-sm mb-1">
+                              {source.description}
+                            </p>
+                          )}
+                          {episodeNames.length > 0 && (
+                            <div className="text-purple-600 text-xs mt-2">
+                              <span className="font-medium">Episodes:</span> {episodeNames.slice(0, 3).join(', ')}
+                              {episodeNames.length > 3 && ` +${episodeNames.length - 3} more`}
+                            </div>
+                          )}
+                        </div>
+                      )
+                    }
+                    
+                    // Fallback
+                    return (
+                      <div key={idx} className="p-3 bg-gray-50 rounded border border-gray-200">
+                        <pre className="text-xs">{JSON.stringify(source, null, 2)}</pre>
                       </div>
-                      {source.speaker && (
-                        <span className="text-xs text-gray-600">
-                          Speaker: {source.speaker}
-                        </span>
-                      )}
-                      <p className="text-sm text-gray-700 mt-2">
-                        {source.text?.substring(0, 200)}...
-                      </p>
-                    </div>
-                  ))}
+                    )
+                  })}
                 </div>
               </div>
             )}

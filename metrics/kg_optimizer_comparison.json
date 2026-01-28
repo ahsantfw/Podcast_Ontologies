@@ -1,0 +1,172 @@
+{
+  "before": {
+    "timestamp": 1769608743.3976462,
+    "queries": [
+      {
+        "query": "What did Phil say about meditation?",
+        "type": "entity_linking",
+        "description": "Entity linking: 'Phil' should map to 'Phil Jackson'",
+        "kg_count": 10,
+        "latency_ms": 337.2387886047363
+      },
+      {
+        "query": "What practices lead to better decision-making?",
+        "type": "multi_hop",
+        "description": "Multi-hop: Practices \u2192 Outcomes \u2192 Decision-making",
+        "kg_count": 10,
+        "latency_ms": 220.42107582092285
+      },
+      {
+        "query": "What concepts appear in multiple episodes?",
+        "type": "cross_episode",
+        "description": "Cross-episode: Find concepts with episode_ids.length >= 2",
+        "kg_count": 10,
+        "latency_ms": 287.367582321167
+      },
+      {
+        "query": "How does meditation relate to creativity?",
+        "type": "multi_hop",
+        "description": "Multi-hop: Find relationships between concepts",
+        "kg_count": 10,
+        "latency_ms": 312.14070320129395
+      },
+      {
+        "query": "What practices optimize clarity?",
+        "type": "multi_hop",
+        "description": "Multi-hop: Practices \u2192 OPTIMIZES \u2192 Clarity",
+        "kg_count": 10,
+        "latency_ms": 222.47767448425293
+      }
+    ],
+    "summary": {
+      "total_queries": 5,
+      "total_latency_ms": 1379.645824432373,
+      "avg_latency_ms": 275.9291648864746,
+      "total_kg_results": 50,
+      "avg_kg_results": 10.0,
+      "queries_with_results": 5,
+      "queries_with_zero_results": 0
+    }
+  },
+  "after": {
+    "timestamp": 1769608744.7776945,
+    "queries": [
+      {
+        "query": "What did Phil say about meditation?",
+        "type": "entity_linking",
+        "description": "Entity linking: 'Phil' should map to 'Phil Jackson'",
+        "kg_count": 10,
+        "latency_ms": 916.1064624786377
+      },
+      {
+        "query": "What practices lead to better decision-making?",
+        "type": "multi_hop",
+        "description": "Multi-hop: Practices \u2192 Outcomes \u2192 Decision-making",
+        "kg_count": 1,
+        "latency_ms": 273.2584476470947
+      },
+      {
+        "query": "What concepts appear in multiple episodes?",
+        "type": "cross_episode",
+        "description": "Cross-episode: Find concepts with episode_ids.length >= 2",
+        "kg_count": 10,
+        "latency_ms": 254.53662872314453
+      },
+      {
+        "query": "How does meditation relate to creativity?",
+        "type": "multi_hop",
+        "description": "Multi-hop: Find relationships between concepts",
+        "kg_count": 8,
+        "latency_ms": 276.36218070983887
+      },
+      {
+        "query": "What practices optimize clarity?",
+        "type": "multi_hop",
+        "description": "Multi-hop: Practices \u2192 OPTIMIZES \u2192 Clarity",
+        "kg_count": 0,
+        "latency_ms": 304.0342330932617
+      }
+    ],
+    "summary": {
+      "total_queries": 5,
+      "total_latency_ms": 2024.2979526519775,
+      "avg_latency_ms": 404.8595905303955,
+      "total_kg_results": 29,
+      "avg_kg_results": 5.8,
+      "queries_with_results": 4,
+      "queries_with_zero_results": 1
+    }
+  },
+  "comparison": {
+    "latency": {
+      "before_avg_ms": 275.9291648864746,
+      "after_avg_ms": 404.8595905303955,
+      "change_ms": 128.9304256439209,
+      "change_pct": 46.72591449220914
+    },
+    "kg_results": {
+      "before_avg": 10.0,
+      "after_avg": 5.8,
+      "improvement": -4.2,
+      "improvement_pct": -42.00000000000001
+    },
+    "coverage": {
+      "before_with_results": 5,
+      "after_with_results": 4,
+      "improvement": -1
+    },
+    "query_by_query": [
+      {
+        "query": "What did Phil say about meditation?",
+        "type": "entity_linking",
+        "before_kg_count": 10,
+        "after_kg_count": 10,
+        "kg_improvement": 0,
+        "before_latency_ms": 337.2387886047363,
+        "after_latency_ms": 916.1064624786377,
+        "latency_change_ms": 578.8676738739014
+      },
+      {
+        "query": "What practices lead to better decision-making?",
+        "type": "multi_hop",
+        "before_kg_count": 10,
+        "after_kg_count": 1,
+        "kg_improvement": -9,
+        "before_latency_ms": 220.42107582092285,
+        "after_latency_ms": 273.2584476470947,
+        "latency_change_ms": 52.837371826171875
+      },
+      {
+        "query": "What concepts appear in multiple episodes?",
+        "type": "cross_episode",
+        "before_kg_count": 10,
+        "after_kg_count": 10,
+        "kg_improvement": 0,
+        "before_latency_ms": 287.367582321167,
+        "after_latency_ms": 254.53662872314453,
+        "latency_change_ms": -32.83095359802246
+      },
+      {
+        "query": "How does meditation relate to creativity?",
+        "type": "multi_hop",
+        "before_kg_count": 10,
+        "after_kg_count": 8,
+        "kg_improvement": -2,
+        "before_latency_ms": 312.14070320129395,
+        "after_latency_ms": 276.36218070983887,
+        "latency_change_ms": -35.77852249145508
+      },
+      {
+        "query": "What practices optimize clarity?",
+        "type": "multi_hop",
+        "before_kg_count": 10,
+        "after_kg_count": 0,
+        "kg_improvement": -10,
+        "before_latency_ms": 222.47767448425293,
+        "after_latency_ms": 304.0342330932617,
+        "latency_change_ms": 81.55655860900879
+      }
+    ]
+  },
+  "timestamp": 1769608746.8024123
+}

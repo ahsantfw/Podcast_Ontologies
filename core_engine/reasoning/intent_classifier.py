@@ -660,7 +660,7 @@ JSON Response:"""
         try:
             response = self.openai_client.chat.completions.create(
                 model=self.model,
-                temperature=0.1,
+                temperature=0.0,  # Zero for deterministic, consistent classification
                 messages=[
                     {
                         "role": "system",
@@ -1090,7 +1090,7 @@ RESPOND NATURALLY TO: "{query}"
             response = self.openai_client.chat.completions.create(
                 model=self.model,
                 messages=messages,
-                temperature=0.8,  # Slightly higher for more natural variation
+                temperature=0.0,  # Zero for deterministic classification (was 0.8)
                 max_tokens=150,
             )
             

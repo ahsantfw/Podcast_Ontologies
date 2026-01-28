@@ -1,0 +1,388 @@
+{
+  "timestamp": "2026-01-28T17:21:39.576011",
+  "mode": "langgraph",
+  "total_tests": 12,
+  "passed_tests": 12,
+  "failed_tests": 0,
+  "avg_latency_ms": 930.8654268582662,
+  "total_latency_ms": 11170.385122299194,
+  "results": [
+    {
+      "query": "Hi",
+      "category": "greeting",
+      "success": true,
+      "latency_ms": 1992.079257965088,
+      "answer_length": 117,
+      "has_answer": true,
+      "rag_count": 10,
+      "kg_count": 10,
+      "sources_count": 0,
+      "has_sources": false,
+      "error": null,
+      "answer_preview": "Error synthesizing answer: PodcastAgent._synthesize_answer() missing 1 required positional argument: 'resolved_query'",
+      "metadata": {
+        "method": "langgraph",
+        "tools_used": [
+          "search_transcripts",
+          "search_knowledge_graph"
+        ],
+        "rag_count": 10,
+        "kg_count": 10,
+        "error": "PodcastAgent._synthesize_answer() missing 1 required positional argument: 'resolved_query'"
+      }
+    },
+    {
+      "query": "What is creativity?",
+      "category": "simple_definition",
+      "success": true,
+      "latency_ms": 769.6483135223389,
+      "answer_length": 117,
+      "has_answer": true,
+      "rag_count": 10,
+      "kg_count": 0,
+      "sources_count": 0,
+      "has_sources": false,
+      "error": null,
+      "answer_preview": "Error synthesizing answer: PodcastAgent._synthesize_answer() missing 1 required positional argument: 'resolved_query'",
+      "metadata": {
+        "method": "langgraph",
+        "tools_used": [
+          "search_transcripts"
+        ],
+        "rag_count": 10,
+        "kg_count": 0,
+        "error": "PodcastAgent._synthesize_answer() missing 1 required positional argument: 'resolved_query'"
+      }
+    },
+    {
+      "query": "Who is Phil Jackson?",
+      "category": "simple_entity",
+      "success": true,
+      "latency_ms": 1027.3206233978271,
+      "answer_length": 117,
+      "has_answer": true,
+      "rag_count": 10,
+      "kg_count": 10,
+      "sources_count": 0,
+      "has_sources": false,
+      "error": null,
+      "answer_preview": "Error synthesizing answer: PodcastAgent._synthesize_answer() missing 1 required positional argument: 'resolved_query'",
+      "metadata": {
+        "method": "langgraph",
+        "tools_used": [
+          "search_transcripts",
+          "search_knowledge_graph"
+        ],
+        "rag_count": 10,
+        "kg_count": 10,
+        "error": "PodcastAgent._synthesize_answer() missing 1 required positional argument: 'resolved_query'"
+      }
+    },
+    {
+      "query": "How does meditation relate to creativity?",
+      "category": "relationship_query",
+      "success": true,
+      "latency_ms": 818.9597129821777,
+      "answer_length": 117,
+      "has_answer": true,
+      "rag_count": 10,
+      "kg_count": 10,
+      "sources_count": 0,
+      "has_sources": false,
+      "error": null,
+      "answer_preview": "Error synthesizing answer: PodcastAgent._synthesize_answer() missing 1 required positional argument: 'resolved_query'",
+      "metadata": {
+        "method": "langgraph",
+        "tools_used": [
+          "search_transcripts",
+          "search_knowledge_graph"
+        ],
+        "rag_count": 10,
+        "kg_count": 10,
+        "error": "PodcastAgent._synthesize_answer() missing 1 required positional argument: 'resolved_query'"
+      }
+    },
+    {
+      "query": "What practices help with anxiety?",
+      "category": "practice_query",
+      "success": true,
+      "latency_ms": 725.7628440856934,
+      "answer_length": 117,
+      "has_answer": true,
+      "rag_count": 10,
+      "kg_count": 10,
+      "sources_count": 0,
+      "has_sources": false,
+      "error": null,
+      "answer_preview": "Error synthesizing answer: PodcastAgent._synthesize_answer() missing 1 required positional argument: 'resolved_query'",
+      "metadata": {
+        "method": "langgraph",
+        "tools_used": [
+          "search_transcripts",
+          "search_knowledge_graph"
+        ],
+        "rag_count": 10,
+        "kg_count": 10,
+        "error": "PodcastAgent._synthesize_answer() missing 1 required positional argument: 'resolved_query'"
+      }
+    },
+    {
+      "query": "What are the connections between mindfulness, clarity, and creativity across different episodes?",
+      "category": "complex_multi_entity",
+      "success": true,
+      "latency_ms": 760.3538036346436,
+      "answer_length": 117,
+      "has_answer": true,
+      "rag_count": 10,
+      "kg_count": 10,
+      "sources_count": 0,
+      "has_sources": false,
+      "error": null,
+      "answer_preview": "Error synthesizing answer: PodcastAgent._synthesize_answer() missing 1 required positional argument: 'resolved_query'",
+      "metadata": {
+        "method": "langgraph",
+        "tools_used": [
+          "search_transcripts",
+          "search_knowledge_graph"
+        ],
+        "rag_count": 10,
+        "kg_count": 10,
+        "error": "PodcastAgent._synthesize_answer() missing 1 required positional argument: 'resolved_query'"
+      }
+    },
+    {
+      "query": "How do different practices lead to improved mental states?",
+      "category": "complex_causal",
+      "success": true,
+      "latency_ms": 722.9006290435791,
+      "answer_length": 117,
+      "has_answer": true,
+      "rag_count": 10,
+      "kg_count": 10,
+      "sources_count": 0,
+      "has_sources": false,
+      "error": null,
+      "answer_preview": "Error synthesizing answer: PodcastAgent._synthesize_answer() missing 1 required positional argument: 'resolved_query'",
+      "metadata": {
+        "method": "langgraph",
+        "tools_used": [
+          "search_transcripts",
+          "search_knowledge_graph"
+        ],
+        "rag_count": 10,
+        "kg_count": 10,
+        "error": "PodcastAgent._synthesize_answer() missing 1 required positional argument: 'resolved_query'"
+      }
+    },
+    {
+      "query": "What did he say about that?",
+      "category": "follow_up_vague",
+      "success": true,
+      "latency_ms": 844.3853855133057,
+      "answer_length": 117,
+      "has_answer": true,
+      "rag_count": 10,
+      "kg_count": 5,
+      "sources_count": 0,
+      "has_sources": false,
+      "error": null,
+      "answer_preview": "Error synthesizing answer: PodcastAgent._synthesize_answer() missing 1 required positional argument: 'resolved_query'",
+      "metadata": {
+        "method": "langgraph",
+        "tools_used": [
+          "search_transcripts",
+          "search_knowledge_graph"
+        ],
+        "rag_count": 10,
+        "kg_count": 5,
+        "error": "PodcastAgent._synthesize_answer() missing 1 required positional argument: 'resolved_query'"
+      }
+    },
+    {
+      "query": "What is 2 + 2?",
+      "category": "out_of_scope_math",
+      "success": true,
+      "latency_ms": 1099.6489524841309,
+      "answer_length": 117,
+      "has_answer": true,
+      "rag_count": 10,
+      "kg_count": 0,
+      "sources_count": 0,
+      "has_sources": false,
+      "error": null,
+      "answer_preview": "Error synthesizing answer: PodcastAgent._synthesize_answer() missing 1 required positional argument: 'resolved_query'",
+      "metadata": {
+        "method": "langgraph",
+        "tools_used": [
+          "search_transcripts"
+        ],
+        "rag_count": 10,
+        "kg_count": 0,
+        "error": "PodcastAgent._synthesize_answer() missing 1 required positional argument: 'resolved_query'"
+      }
+    },
+    {
+      "query": "How do I write a Python function?",
+      "category": "out_of_scope_coding",
+      "success": true,
+      "latency_ms": 825.6003856658936,
+      "answer_length": 117,
+      "has_answer": true,
+      "rag_count": 10,
+      "kg_count": 10,
+      "sources_count": 0,
+      "has_sources": false,
+      "error": null,
+      "answer_preview": "Error synthesizing answer: PodcastAgent._synthesize_answer() missing 1 required positional argument: 'resolved_query'",
+      "metadata": {
+        "method": "langgraph",
+        "tools_used": [
+          "search_transcripts",
+          "search_knowledge_graph"
+        ],
+        "rag_count": 10,
+        "kg_count": 10,
+        "error": "PodcastAgent._synthesize_answer() missing 1 required positional argument: 'resolved_query'"
+      }
+    },
+    {
+      "query": "What's the weather today?",
+      "category": "out_of_scope_general",
+      "success": true,
+      "latency_ms": 730.3571701049805,
+      "answer_length": 117,
+      "has_answer": true,
+      "rag_count": 10,
+      "kg_count": 1,
+      "sources_count": 0,
+      "has_sources": false,
+      "error": null,
+      "answer_preview": "Error synthesizing answer: PodcastAgent._synthesize_answer() missing 1 required positional argument: 'resolved_query'",
+      "metadata": {
+        "method": "langgraph",
+        "tools_used": [
+          "search_transcripts",
+          "search_knowledge_graph"
+        ],
+        "rag_count": 10,
+        "kg_count": 1,
+        "error": "PodcastAgent._synthesize_answer() missing 1 required positional argument: 'resolved_query'"
+      }
+    },
+    {
+      "query": "What are some quotes about mindfulness?",
+      "category": "source_extraction",
+      "success": true,
+      "latency_ms": 853.3680438995361,
+      "answer_length": 117,
+      "has_answer": true,
+      "rag_count": 10,
+      "kg_count": 10,
+      "sources_count": 0,
+      "has_sources": false,
+      "error": null,
+      "answer_preview": "Error synthesizing answer: PodcastAgent._synthesize_answer() missing 1 required positional argument: 'resolved_query'",
+      "metadata": {
+        "method": "langgraph",
+        "tools_used": [
+          "search_transcripts",
+          "search_knowledge_graph"
+        ],
+        "rag_count": 10,
+        "kg_count": 10,
+        "error": "PodcastAgent._synthesize_answer() missing 1 required positional argument: 'resolved_query'"
+      }
+    }
+  ],
+  "summary": {
+    "category_stats": {
+      "greeting": {
+        "total": 1,
+        "passed": 1,
+        "avg_latency": 1992.079257965088,
+        "total_latency": 1992.079257965088
+      },
+      "simple_definition": {
+        "total": 1,
+        "passed": 1,
+        "avg_latency": 769.6483135223389,
+        "total_latency": 769.6483135223389
+      },
+      "simple_entity": {
+        "total": 1,
+        "passed": 1,
+        "avg_latency": 1027.3206233978271,
+        "total_latency": 1027.3206233978271
+      },
+      "relationship_query": {
+        "total": 1,
+        "passed": 1,
+        "avg_latency": 818.9597129821777,
+        "total_latency": 818.9597129821777
+      },
+      "practice_query": {
+        "total": 1,
+        "passed": 1,
+        "avg_latency": 725.7628440856934,
+        "total_latency": 725.7628440856934
+      },
+      "complex_multi_entity": {
+        "total": 1,
+        "passed": 1,
+        "avg_latency": 760.3538036346436,
+        "total_latency": 760.3538036346436
+      },
+      "complex_causal": {
+        "total": 1,
+        "passed": 1,
+        "avg_latency": 722.9006290435791,
+        "total_latency": 722.9006290435791
+      },
+      "follow_up_vague": {
+        "total": 1,
+        "passed": 1,
+        "avg_latency": 844.3853855133057,
+        "total_latency": 844.3853855133057
+      },
+      "out_of_scope_math": {
+        "total": 1,
+        "passed": 1,
+        "avg_latency": 1099.6489524841309,
+        "total_latency": 1099.6489524841309
+      },
+      "out_of_scope_coding": {
+        "total": 1,
+        "passed": 1,
+        "avg_latency": 825.6003856658936,
+        "total_latency": 825.6003856658936
+      },
+      "out_of_scope_general": {
+        "total": 1,
+        "passed": 1,
+        "avg_latency": 730.3571701049805,
+        "total_latency": 730.3571701049805
+      },
+      "source_extraction": {
+        "total": 1,
+        "passed": 1,
+        "avg_latency": 853.3680438995361,
+        "total_latency": 853.3680438995361
+      }
+    },
+    "performance": {
+      "avg_latency_ms": 930.8654268582662,
+      "min_latency_ms": 722.9006290435791,
+      "max_latency_ms": 1992.079257965088
+    },
+    "retrieval": {
+      "avg_rag_count": 10.0,
+      "avg_kg_count": 7.166666666666667,
+      "avg_sources_count": 0.0,
+      "queries_with_sources": 0
+    },
+    "quality": {
+      "queries_with_answer": 12,
+      "avg_answer_length": 117.0
+    }
+  }
+}

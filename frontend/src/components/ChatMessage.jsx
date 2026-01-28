@@ -250,26 +250,81 @@ export default function ChatMessage({ message, showSources = false, onToggleSour
             <div className="mt-4 pt-4 border-t border-gray-200">
               <div className="text-xs font-semibold text-gray-700 mb-3 uppercase tracking-wide">Sources ({message.sources.length})</div>
               <div className="space-y-2 max-h-64 overflow-y-auto">
-                {message.sources.map((source, sIdx) => (
-                  <div key={sIdx} className="text-xs bg-gray-50 p-3 rounded-lg border border-gray-200 hover:border-gray-300 transition-colors">
-                    <div className="font-semibold text-gray-900 mb-1 flex items-center gap-2">
-                      <span>{source.episode_id || 'Unknown Episode'}</span>
-                      {source.timestamp && (
-                        <span className="text-gray-500 font-normal">({source.timestamp})</span>
-                      )}
+                {message.sources.map((source, sIdx) => {
+                  // Handle transcript sources (RAG)
+                  if (source.type === 'transcript' || !source.type) {
+                    const episodeName = source.episode_name || source.episode_id || 'Unknown Episode'
+                    const confidence = source.confidence !== undefined ? source.confidence : null
+                    
+                    return (
+                      <div key={sIdx} className="text-xs bg-gray-50 p-3 rounded-lg border border-gray-200 hover:border-gray-300 transition-colors">
+                        <div className="font-semibold text-gray-900 mb-1 flex items-center gap-2 flex-wrap">
+                          <span>{episodeName}</span>
+                          {source.timestamp && (
+                            <span className="text-gray-500 font-normal">({source.timestamp})</span>
+                          )}
+                          {confidence !== null && (
+                            <span className="text-xs px-1.5 py-0.5 rounded bg-blue-100 text-blue-700 font-medium">
+                              {Math.round(confidence * 100)}%
+                            </span>
+                          )}
+                        </div>
+                        {source.speaker && source.speaker !== 'Unknown Speaker' && (
+                          <div className="text-gray-600 mb-1.5">
+                            <span className="font-medium">Speaker:</span> {source.speaker}
+                          </div>
+                        )}
+                        {source.text && (
+                          <div className="text-gray-700 mt-2 italic text-xs leading-relaxed">
+                            "{source.text.substring(0, 250)}{source.text.length > 250 ? '...' : ''}"
+                          </div>
+                        )}
+                      </div>
+                    )
+                  }
+                  
+                  // Handle knowledge graph sources
+                  if (source.type === 'knowledge_graph') {
+                    const confidence = source.confidence !== undefined ? source.confidence : null
+                    const episodeNames = source.episode_names && source.episode_names.length > 0 
+                      ? source.episode_names 
+                      : (source.episode_ids && source.episode_ids.length > 0 
+                          ? source.episode_ids.map(id => id.replace(/_/g, ' ').replace(/\b\w/g, l => l.toUpperCase()))
+                          : [])
+                    
+                    return (
+                      <div key={sIdx} className="text-xs bg-purple-50 p-3 rounded-lg border border-purple-200 hover:border-purple-300 transition-colors">
+                        <div className="font-semibold text-purple-900 mb-1 flex items-center gap-2 flex-wrap">
+                          <span className="text-purple-700 font-medium">KG:</span>
+                          <span>{source.concept || source.node_type || 'Concept'}</span>
+                          {confidence !== null && (
+                            <span className="text-xs px-1.5 py-0.5 rounded bg-purple-100 text-purple-700 font-medium">
+                              {Math.round(confidence * 100)}%
+                            </span>
+                          )}
+                        </div>
+                        {source.description && (
+                          <div className="text-purple-700 mb-1.5 text-xs">
+                            {source.description}
+                          </div>
+                        )}
+                        {episodeNames.length > 0 && (
+                          <div className="text-purple-600 mt-2 text-xs">
+                            <span className="font-medium">Episodes:</span> {episodeNames.slice(0, 3).join(', ')}
+                            {episodeNames.length > 3 && ` +${episodeNames.length - 3} more`}
+                          </div>
+                        )}
+                      </div>
+                    )
+                  }
+                  
+                  // Fallback for unknown source types
+                  return (
+                    <div key={sIdx} className="text-xs bg-gray-50 p-3 rounded-lg border border-gray-200">
+                      <div className="text-gray-700">{JSON.stringify(source)}</div>
                     </div>
-                    {source.speaker && (
-                      <div className="text-gray-600 mb-1.5">
-                        <span className="font-medium">Speaker:</span> {source.speaker}
-                      </div>
-                    )}
-                    {source.text && (
-                      <div className="text-gray-700 mt-2 italic text-xs leading-relaxed">
-                        "{source.text.substring(0, 250)}{source.text.length > 250 ? '...' : ''}"
-                      </div>
-                    )}
-                  </div>
-                ))}
+                  )
+                })}
               </div>
             </div>
           )}

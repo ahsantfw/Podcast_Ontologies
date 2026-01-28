@@ -231,7 +231,47 @@ Apply these consistently throughout your response."""
             self.logger.info(f"Query classified as OUT OF SCOPE by LLM: {query[:50]}")
             return self._handle_out_of_scope_llm(query, conversation_history)
         
+        # CRITICAL: Check if query is a knowledge question BEFORE routing
+        query_lower = query.lower().strip()
+        question_patterns = [
+            r"^(what|who|how|why|when|where|are|is|can|do|does|did|will|would|should|tell me|explain|describe|list|show|give|find|search)",
+            r"\?$",  # Ends with question mark
+        ]
+        is_question = any(re.search(pattern, query_lower, re.IGNORECASE) for pattern in question_patterns)
+        
+        # Check for knowledge-seeking phrases
+        knowledge_phrases = [
+            "issues", "problems", "solutions", "concepts", "ideas", "practices",
+            "society", "societal", "main", "translate", "weather", "current", "pm of", "prime minister",
+            "rag", "retrieval", "augmented", "generation"
+        ]
+        has_knowledge_phrase = any(phrase in query_lower for phrase in knowledge_phrases)
+        
+        # CRITICAL: If it's a question or has knowledge phrases, ALWAYS route to knowledge query
+        # This prevents misclassification from bypassing retrieval
+        if is_question or has_knowledge_phrase:
+            if intent in ["greeting", "conversational"]:
+                # This was misclassified - treat as knowledge query
+                self.logger.warning(
+                    f"Query '{query[:50]}' was classified as {intent} but looks like a knowledge question. Routing to retrieval.",
+                    extra={"is_question": is_question, "has_knowledge_phrase": has_knowledge_phrase}
+                )
+                return self._handle_knowledge_query(query, conversation_history, session_metadata)
+        
         if intent == "greeting":
+            # CRITICAL: Verify it's a TRUE greeting before allowing
+            true_greeting_patterns = ["hi", "hello", "hey", "thanks", "thank you", "bye", "goodbye", "hmm", "ok", "okay"]
+            is_true_greeting = (
+                query_lower in true_greeting_patterns or 
+                query_lower in [p + "!" for p in true_greeting_patterns] or 
+                query_lower in [p + "." for p in true_greeting_patterns]
+            )
+            
+            # If it's NOT a true greeting but classified as one, route to knowledge query
+            if not is_true_greeting and (is_question or has_knowledge_phrase):
+                self.logger.warning(f"Query '{query[:50]}' was classified as greeting but looks like a knowledge question. Routing to retrieval.")
+                return self._handle_knowledge_query(query, conversation_history, session_metadata)
+            
             # Check if user is introducing themselves
             self._extract_user_info(query, session_metadata)
             return self._handle_with_llm(query, conversation_history, "greeting", session_metadata)
@@ -239,6 +279,14 @@ Apply these consistently throughout your response."""
         if intent == "conversational":
             # Check if user is sharing info about themselves
             self._extract_user_info(query, session_metadata)
+            
+            # SAFETY CHECK: If query looks like a knowledge question, route to retrieval instead
+            # This prevents misclassification from bypassing retrieval
+            if is_question or has_knowledge_phrase:
+                # This was misclassified - treat as knowledge query
+                self.logger.warning(f"Query '{query[:50]}' was routed to _handle_with_llm but looks like a knowledge question. Routing to retrieval.")
+                return self._handle_knowledge_query(query, conversation_history, session_metadata)
+            
             return self._handle_with_llm(query, conversation_history, "conversational", session_metadata)
         
         if intent == "system_info":
@@ -304,14 +352,16 @@ YOUR TASK: Classify the user query into ONE category based on:
 3. Whether the query requires searching the knowledge base
 
 CATEGORIES:
-- greeting: Simple hello/hi/hey
-- conversational: Casual chat, thanks, how are you, reactions (hmm, ok, wow)
+- greeting: Simple hello/hi/hey (ONLY for greetings, NOT questions)
+- conversational: Casual chat, thanks, how are you, reactions (hmm, ok, wow) - ONLY for non-question statements
 - system_info: Questions about what this system is/does (capabilities, purpose)
 - user_memory: Questions about what the user told you (their name, preferences, things they said)
 - list_kg: Requests to list/show ALL concepts, nodes, or relationship types from knowledge graph
 - kg_query: Questions about SPECIFIC relationships (e.g., "what is ABOUT", "show ENABLES", "what does X relate to")
-- knowledge_query: Questions seeking information from podcast content (concepts, people, practices, quotes)
+- knowledge_query: Questions seeking information from podcast content (concepts, people, practices, quotes) - DEFAULT for any question
 - out_of_scope: ANY question NOT about podcast content, knowledge graph, or domain topics (math, general knowledge, etc.)
+
+CRITICAL RULE: If a query is a QUESTION (starts with "what", "who", "how", "why", "when", "where", "are", "is", "can", "do", etc.), it is ALMOST ALWAYS knowledge_query, NOT conversational, UNLESS it's clearly asking about the user's personal info or system capabilities.
 
 INTELLIGENT CLASSIFICATION RULES:
 
@@ -386,6 +436,30 @@ Respond with ONLY the category name (one word):"""
     ) -> AgentResponse:
         """Handle any intent with LLM - no hard-coded responses."""
         
+        # SAFETY CHECK: If this looks like a knowledge question, route to retrieval instead
+        # This prevents misclassification from bypassing retrieval
+        if intent_type == "conversational":
+            question_patterns = [
+                r"^(what|who|how|why|when|where|are|is|can|do|does|did|will|would|should|tell me|explain|describe|list|show|give|find|search)",
+                r"\?$",  # Ends with question mark
+            ]
+            query_lower = query.lower().strip()
+            is_question = any(re.search(pattern, query_lower, re.IGNORECASE) for pattern in question_patterns)
+            
+            # Also check for knowledge-seeking phrases
+            knowledge_phrases = [
+                "issues", "problems", "solutions", "concepts", "ideas", "practices", 
+                "what did", "what are", "what is", "who is", "how does", "why does",
+                "society", "societal", "main", "translate", "weather", "current", "pm of", "prime minister",
+                "rag", "retrieval", "augmented", "generation"
+            ]
+            has_knowledge_phrase = any(phrase in query_lower for phrase in knowledge_phrases)
+            
+            if is_question or has_knowledge_phrase:
+                # This was misclassified - treat as knowledge query
+                self.logger.warning(f"Query '{query[:50]}' was routed to _handle_with_llm but looks like a knowledge question. Routing to retrieval.")
+                return self._handle_knowledge_query(query, conversation_history, session_metadata)
+        
         # Build context
         context = ""
         if conversation_history:
@@ -417,6 +491,10 @@ Example tone: "Hey! Great to see you. I've been diving into some fascinating con
             
             "conversational": """You are Sage, a warm and intellectually curious Podcast Intelligence Assistant.
 
+CRITICAL: This intent is ONLY for casual statements, reactions, or personal sharing (thanks, ok, hmm, etc.). 
+If the user asks a QUESTION about podcast content, concepts, or knowledge, you MUST NOT answer it here - 
+the system will route it to retrieval. Only respond to conversational statements, not knowledge questions.
+
 PERSONALITY:
 - Genuinely interested in the person you're talking to
 - Responds with empathy and warmth
@@ -430,6 +508,7 @@ RESPONSE STYLE:
 - If they share something about themselves, acknowledge it genuinely
 - Gently invite deeper exploration when appropriate
 - Keep responses brief but warm (1-2 sentences)
+- DO NOT answer knowledge questions - only respond to conversational statements
 """,
             
             "system_info": f"""You are Sage, an enthusiastic Podcast Intelligence Assistant who loves exploring ideas.
@@ -1488,6 +1567,48 @@ Provide a clear, well-formatted answer:"""
         """Synthesize answer from RAG + KG using LLM with strict entity coverage."""
         import os
         
+        # HARD STOP: If no results at all, return immediately WITHOUT any LLM call
+        # This is the most critical check - prevents any synthesis when RAG=0, KG=0
+        rag_count = len(rag_results) if rag_results else 0
+        kg_count = len(kg_results) if kg_results else 0
+        
+        # CRITICAL: Also check if results are empty lists (not just None)
+        rag_has_content = rag_count > 0 and any(r.get("text") or r.get("concept") for r in rag_results)
+        kg_has_content = kg_count > 0 and any(r.get("concept") or r.get("description") or r.get("text") for r in kg_results)
+        
+        # REJECT if both are empty OR both have no content
+        if (rag_count == 0 and kg_count == 0) or (not rag_has_content and not kg_has_content):
+            self.logger.error(
+                "synthesis_hard_stop_no_results",
+                extra={
+                    "context": {
+                        "query": query[:50],
+                        "rag_count": rag_count,
+                        "kg_count": kg_count,
+                        "rag_has_content": rag_has_content,
+                        "kg_has_content": kg_has_content,
+                        "rag_results_type": type(rag_results).__name__,
+                        "kg_results_type": type(kg_results).__name__,
+                        "message": "HARD STOP: rag_count=0 AND kg_count=0 OR no content in results, returning without LLM call"
+                    }
+                }
+            )
+            return "I couldn't find information about that in the podcast knowledge base. Could you rephrase your question or ask about a specific topic related to philosophy, creativity, coaching, or personal development from the podcasts?"
+        
+        # Log that we're proceeding with synthesis
+        self.logger.info(
+            "synthesis_proceeding_with_results",
+            extra={
+                "context": {
+                    "query": query[:50],
+                    "rag_count": rag_count,
+                    "kg_count": kg_count,
+                    "will_build_context": True,
+                    "will_call_llm": True
+                }
+            }
+        )
+        
         # Get style/tone instructions
         style_tone_instructions = self._get_style_tone_instructions(session_metadata)
         
@@ -1597,16 +1718,63 @@ EXAMPLE HONEST RESPONSE IF MISSING COVERAGE:
 
 REMEMBER: Even if Judd Apatow or Rick Rubin appear in the sources, DO NOT use them - they are NOT in the query!"""
         
+        # CRITICAL: If no sources, don't synthesize - return explicit message
+        # Check both context strings AND result lists to be absolutely sure
+        has_rag_content = bool(rag_context and rag_context.strip() and rag_context != "No relevant transcripts found.")
+        has_kg_content = bool(kg_context and kg_context.strip() and kg_context != "No relevant concepts found.")
+        has_rag_results = bool(rag_results and len(rag_results) > 0)
+        has_kg_results = bool(kg_results and len(kg_results) > 0)
+        
+        # CRITICAL: Also check if results have actual content (not just empty dicts)
+        if rag_results:
+            has_rag_content = has_rag_content or any(
+                r.get("text") or r.get("concept") or r.get("description") 
+                for r in rag_results if isinstance(r, dict)
+            )
+        if kg_results:
+            has_kg_content = has_kg_content or any(
+                r.get("concept") or r.get("description") or r.get("text") or r.get("name")
+                for r in kg_results if isinstance(r, dict)
+            )
+        
+        # ABSOLUTE HARD STOP: If no content at all, return immediately
+        if not has_rag_content and not has_kg_content and not has_rag_results and not has_kg_results:
+            self.logger.error(
+                "synthesis_blocked_no_sources_absolute",
+                extra={
+                    "context": {
+                        "query": query[:50],
+                        "rag_context_empty": not rag_context or not rag_context.strip(),
+                        "kg_context_empty": not kg_context or not kg_context.strip(),
+                        "rag_results_count": len(rag_results) if rag_results else 0,
+                        "kg_results_count": len(kg_results) if kg_results else 0,
+                        "has_rag_content": has_rag_content,
+                        "has_kg_content": has_kg_content,
+                        "message": "ABSOLUTE HARD STOP: No content in RAG or KG, blocking LLM call"
+                    }
+                }
+            )
+            return "I couldn't find information about that in the podcast knowledge base. Could you rephrase your question or ask about a specific topic related to philosophy, creativity, coaching, or personal development from the podcasts?"
+        
         # Synthesize with LLM
         system_prompt = f"""You are Sage, a warm and intellectually curious Podcast Intelligence Assistant. You help people explore insights from fascinating podcast conversations.
 
 CRITICAL: You ONLY answer questions about podcast transcripts, knowledge graph content, and topics related to philosophy, creativity, coaching, and personal development. If a question is about math, general knowledge, current events, or anything outside your domain, you MUST politely redirect the user to your domain. Do NOT attempt to answer questions outside your expertise.
+
+MANDATORY SOURCE REQUIREMENT:
+- You MUST base your answer ONLY on the TRANSCRIPT SOURCES and KNOWLEDGE GRAPH content provided below
+- If the sources don't contain relevant information, you MUST say "I couldn't find information about that in the podcast knowledge base"
+- DO NOT use general knowledge or information not in the provided sources
+- DO NOT make up information or cite sources that don't exist
 {entity_coverage_constraint}
-PERSONALITY:
-- Genuinely excited about sharing insights and making connections
-- Speak like a thoughtful friend who's passionate about ideas
-- Weave in context naturally, like you're having a conversation
-- Show enthusiasm for the ideas you're sharing
+
+CORE PERSONALITY - BE ENGAGING AND HUMAN:
+- You're a thoughtful friend who genuinely loves exploring ideas - show that passion!
+- Speak naturally, like you're having a real conversation, not reading a report
+- Vary your sentence structure - mix short punchy sentences with longer flowing ones
+- Show genuine curiosity and excitement about the insights you're sharing
+- Make connections feel organic and interesting, not forced or mechanical
+- Use natural transitions: "What's really interesting here is...", "This connects to...", "I love how..."
 - If you remember the user's name or previous context, reference it naturally
 
 {style_tone_instructions}
@@ -1615,39 +1783,130 @@ CRITICAL RULES FOR ACCURACY:
 1. ONLY cite and reference speakers/episodes that appear in the TRANSCRIPT SOURCES below
 2. DO NOT mention or cite anyone not in the provided sources
 3. If a speaker is not in the sources, DO NOT reference them - state this explicitly
-4. Cite naturally by speaker name (e.g., "Phil Jackson shares this fascinating insight..." not "[Source 1]")
+4. Cite naturally by speaker name - weave it into the narrative (e.g., "Phil Jackson shares this fascinating insight..." or "As Marlon Brando puts it..." or "Rick Rubin describes how...")
+5. NEVER use formulaic citations like "[Source 1]" or "[According to Episode X]" - make it feel natural
+6. If the sources don't answer the question, explicitly state: "I couldn't find information about that in the podcast knowledge base"
 
-RESPONSE STYLE:
-- Start with the insight, not meta-commentary
-- Weave citations naturally into your narrative
-- Show genuine enthusiasm for interesting ideas
-- Make connections between concepts when relevant
-- End with an invitation to explore further if appropriate
+RESPONSE STYLE - MAKE IT ENGAGING:
+- Start with something interesting or engaging, not dry facts ("This is fascinating!" or "What's really interesting here is..." or "I love this question because...")
+- Tell a story or paint a picture when possible - don't just list facts
+- Vary how you present information:
+  * Sometimes start with a specific example, then generalize
+  * Sometimes start with the big picture, then dive into details
+  * Sometimes use a question to engage: "You know what's interesting about this?"
+- Weave citations naturally into your narrative - make them feel like part of the story
+- Show genuine enthusiasm: "This is such a powerful insight!", "What's amazing is...", "I find this fascinating because..."
+- Make connections feel organic: "This connects beautifully to...", "What's interesting is how this relates to...", "You'll notice a pattern here..."
+- Use natural language: "tends to", "often", "sometimes", "in many cases" - avoid absolutes unless clearly supported
+- End with something engaging: a question, an invitation to explore, or a thoughtful observation
+
+AVOID DRY/MACHINE-LIKE LANGUAGE:
+- DON'T start with "According to the sources..." or "The data shows..." (too robotic)
+- DON'T use formulaic structures: "First... Second... Third..." (unless listing is truly needed)
+- DON'T be overly structured - let it flow naturally
+- DON'T use academic language unless style is "academic"
+- DON'T list facts without context or story
+- DON'T use repetitive sentence structures
+
+MAKE IT FEEL HUMAN:
+- Use natural transitions and connectors
+- Show personality and genuine interest
+- Vary your approach - don't use the same structure every time
+- Make it conversational, not report-like
+- Let your enthusiasm show through
+- Connect ideas in ways that feel organic, not forced
 
 WHAT YOU CANNOT DO:
 - Reference speakers not in the provided sources
 - Make up quotes or information
 - Use "[Source 1]" style citations
 - Infer shared principles without direct evidence
+- Answer from general knowledge if sources don't contain the answer
+- Be dry, robotic, or machine-like
 
 FORMATTING:
-- Use plain paragraphs for most content
-- For lists, use proper markdown with "- " prefix
-- Keep formatting simple and clean"""
+- Use natural paragraphs that flow (2-4 sentences typically)
+- For lists, use proper markdown with "- " prefix, but make them conversational
+- Use **bold** sparingly for emphasis on key concepts
+- Keep formatting simple and clean, but let personality shine through"""
 
+        # Build source sections - be explicit about empty sources
+        transcript_section = rag_context if has_rag_content else "No relevant transcripts found."
+        kg_section = kg_context if has_kg_content else "No relevant concepts found."
+        
+        # CRITICAL: If both sources are empty, make it VERY clear to LLM
+        # AND add a hard stop instruction
+        if not has_rag_content and not has_kg_content:
+            transcript_section = "⚠️⚠️⚠️ NO TRANSCRIPT SOURCES AVAILABLE ⚠️⚠️⚠️\n\nCRITICAL: DO NOT ANSWER FROM GENERAL KNOWLEDGE. YOU MUST RETURN THE REJECTION MESSAGE BELOW."
+            kg_section = "⚠️⚠️⚠️ NO KNOWLEDGE GRAPH SOURCES AVAILABLE ⚠️⚠️⚠️\n\nCRITICAL: DO NOT ANSWER FROM GENERAL KNOWLEDGE. YOU MUST RETURN THE REJECTION MESSAGE BELOW."
+        
         user_prompt = f"""Question: {query}
 
 TRANSCRIPT SOURCES (cite by speaker name and episode, NOT by source number):
-{rag_context if rag_context else "No relevant transcripts found."}
+{transcript_section}
 
 KNOWLEDGE GRAPH:
-{kg_context if kg_context else "No relevant concepts found."}
+{kg_section}
 
 {f"CONVERSATION CONTEXT:{chr(10)}{conv_context}" if conv_context else ""}
 
-Provide a well-sourced answer with NATURAL citations. {f"IMPORTANT: Be honest about missing coverage for any entities." if coverage_info and not coverage_info["all_covered"] else ""}"""
+YOUR TASK:
+Create an engaging, natural, and human-sounding response that:
+- Feels like a real conversation, not a report or list
+- Shows genuine interest and enthusiasm
+- Weaves citations naturally into the narrative
+- Makes connections feel organic and interesting
+- Varies sentence structure and presentation style
+- Tells a story or paints a picture when possible
+
+CRITICAL RULES - YOU MUST FOLLOW:
+1. Base your answer ONLY on the TRANSCRIPT SOURCES and KNOWLEDGE GRAPH content above
+2. If the sources say "No relevant transcripts found" or "No relevant concepts found", you MUST respond with: "I couldn't find information about that in the podcast knowledge base. Could you rephrase your question or ask about a specific topic related to philosophy, creativity, coaching, or personal development from the podcasts?"
+3. DO NOT use general knowledge, common sense, or information not in the provided sources
+4. DO NOT make up information or cite sources that don't exist
+5. If you cannot answer from the sources, explicitly state that you couldn't find information
+6. Make citations feel natural - weave speaker names into your narrative, don't use formulaic citations
+
+REMEMBER: Your goal is to make the reader feel engaged and interested, not like they're reading a dry report. Show personality, enthusiasm, and genuine curiosity while maintaining strict accuracy. {f"IMPORTANT: Be honest about missing coverage for any entities." if coverage_info and not coverage_info["all_covered"] else ""}"""
 
         try:
+            # ABSOLUTE HARD CHECK: If no sources, return immediately without LLM call
+            # This is the FINAL gate before LLM - be extremely aggressive
+            if not has_rag_content and not has_kg_content and not has_rag_results and not has_kg_results:
+                self.logger.error(
+                    "synthesis_blocked_no_sources_absolute_hard_stop",
+                    extra={
+                        "context": {
+                            "query": query[:50],
+                            "has_rag_content": has_rag_content,
+                            "has_kg_content": has_kg_content,
+                            "has_rag_results": has_rag_results,
+                            "has_kg_results": has_kg_results,
+                            "rag_count": rag_count,
+                            "kg_count": kg_count,
+                            "message": "ABSOLUTE HARD STOP: No sources, blocking LLM call"
+                        }
+                    }
+                )
+                return "I couldn't find information about that in the podcast knowledge base. Could you rephrase your question or ask about a specific topic related to philosophy, creativity, coaching, or personal development from the podcasts?"
+            
+            # DOUBLE CHECK: If counts are 0, reject even if content checks passed
+            if rag_count == 0 and kg_count == 0:
+                self.logger.error(
+                    "synthesis_blocked_zero_counts_absolute",
+                    extra={
+                        "context": {
+                            "query": query[:50],
+                            "rag_count": rag_count,
+                            "kg_count": kg_count,
+                            "has_rag_content": has_rag_content,
+                            "has_kg_content": has_kg_content,
+                            "message": "ABSOLUTE HARD STOP: rag_count=0 AND kg_count=0, blocking LLM call"
+                        }
+                    }
+                )
+                return "I couldn't find information about that in the podcast knowledge base. Could you rephrase your question or ask about a specific topic related to philosophy, creativity, coaching, or personal development from the podcasts?"
+            
             # Build proper messages array with conversation history for follow-up support
             messages = [{"role": "system", "content": system_prompt}]
             
@@ -1665,10 +1924,38 @@ Provide a well-sourced answer with NATURAL citations. {f"IMPORTANT: Be honest ab
             response = self.openai_client.chat.completions.create(
                 model=self.model,
                 messages=messages,
-                temperature=0.5,
-                max_tokens=800,
+                temperature=0.7,  # Increased for more natural, varied responses (was 0.5)
+                # max_tokens removed to allow full-length responses
             )
-            return response.choices[0].message.content
+            
+            answer = response.choices[0].message.content
+            
+            # ABSOLUTE FINAL CHECK: If we have no sources but LLM generated an answer, reject it
+            if (rag_count == 0 and kg_count == 0) or (not has_rag_content and not has_kg_content):
+                # LLM generated answer despite no sources - reject it
+                self.logger.error(
+                    "synthesis_llm_generated_answer_without_sources",
+                    extra={
+                        "context": {
+                            "query": query[:50],
+                            "rag_count": rag_count,
+                            "kg_count": kg_count,
+                            "has_rag_content": has_rag_content,
+                            "has_kg_content": has_kg_content,
+                            "answer_length": len(answer),
+                            "answer_preview": answer[:200],
+                            "message": "LLM generated answer despite no sources - rejecting"
+                        }
+                    }
+                )
+                return "I couldn't find information about that in the podcast knowledge base. Could you rephrase your question or ask about a specific topic related to philosophy, creativity, coaching, or personal development from the podcasts?"
+            
+            # FINAL SAFETY CHECK: If answer doesn't mention "couldn't find" but we have no sources, force the message
+            if (not has_rag_content and not has_kg_content) and "couldn't find" not in answer.lower() and "no information" not in answer.lower():
+                self.logger.warning("synthesis_generated_answer_without_sources", extra={"context": {"query": query[:50], "answer_preview": answer[:100]}})
+                return "I couldn't find information about that in the podcast knowledge base. Could you rephrase your question or ask about a specific topic related to philosophy, creativity, coaching, or personal development from the podcasts?"
+            
+            return answer
         except Exception as e:
             self.logger.error(f"Synthesis failed: {e}")
             return f"Here's what I found:\n\n{rag_context[:500] if rag_context else kg_context[:500]}"
@@ -1790,16 +2077,25 @@ FORBIDDEN: Any speaker NOT in the list above"""
         # Get style/tone instructions
         style_tone_instructions = self._get_style_tone_instructions(session_metadata)
         
-        # Synthesize with LLM - STREAMING
+        # Synthesize with LLM - STREAMING (same enhanced prompt as non-streaming)
         system_prompt = f"""You are Sage, a warm and intellectually curious Podcast Intelligence Assistant. You help people explore insights from fascinating podcast conversations.
 
 CRITICAL: You ONLY answer questions about podcast transcripts, knowledge graph content, and topics related to philosophy, creativity, coaching, and personal development. If a question is about math, general knowledge, current events, or anything outside your domain, you MUST politely redirect the user to your domain. Do NOT attempt to answer questions outside your expertise.
+
+MANDATORY SOURCE REQUIREMENT:
+- You MUST base your answer ONLY on the TRANSCRIPT SOURCES and KNOWLEDGE GRAPH content provided below
+- If the sources don't contain relevant information, you MUST say "I couldn't find information about that in the podcast knowledge base"
+- DO NOT use general knowledge or information not in the provided sources
+- DO NOT make up information or cite sources that don't exist
 {entity_coverage_constraint}
-PERSONALITY:
-- Genuinely excited about sharing insights and making connections
-- Speak like a thoughtful friend who's passionate about ideas
-- Weave in context naturally, like you're having a conversation
-- Show enthusiasm for the ideas you're sharing
+
+CORE PERSONALITY - BE ENGAGING AND HUMAN:
+- You're a thoughtful friend who genuinely loves exploring ideas - show that passion!
+- Speak naturally, like you're having a real conversation, not reading a report
+- Vary your sentence structure - mix short punchy sentences with longer flowing ones
+- Show genuine curiosity and excitement about the insights you're sharing
+- Make connections feel organic and interesting, not forced or mechanical
+- Use natural transitions: "What's really interesting here is...", "This connects to...", "I love how..."
 - If you remember the user's name or previous context, reference it naturally
 
 {style_tone_instructions}
@@ -1808,36 +2104,93 @@ CRITICAL RULES FOR ACCURACY:
 1. ONLY cite and reference speakers/episodes that appear in the TRANSCRIPT SOURCES below
 2. DO NOT mention or cite anyone not in the provided sources
 3. If a speaker is not in the sources, DO NOT reference them - state this explicitly
-4. Cite naturally by speaker name (e.g., "Phil Jackson shares this fascinating insight..." not "[Source 1]")
+4. Cite naturally by speaker name - weave it into the narrative (e.g., "Phil Jackson shares this fascinating insight..." or "As Marlon Brando puts it..." or "Rick Rubin describes how...")
+5. NEVER use formulaic citations like "[Source 1]" or "[According to Episode X]" - make it feel natural
+6. If the sources don't answer the question, explicitly state: "I couldn't find information about that in the podcast knowledge base"
 
-RESPONSE STYLE:
-- Start with the insight, not meta-commentary
-- Weave citations naturally into your narrative
-- Show genuine enthusiasm for interesting ideas
-- Make connections between concepts when relevant
+RESPONSE STYLE - MAKE IT ENGAGING:
+- Start with something interesting or engaging, not dry facts ("This is fascinating!" or "What's really interesting here is..." or "I love this question because...")
+- Tell a story or paint a picture when possible - don't just list facts
+- Vary how you present information:
+  * Sometimes start with a specific example, then generalize
+  * Sometimes start with the big picture, then dive into details
+  * Sometimes use a question to engage: "You know what's interesting about this?"
+- Weave citations naturally into your narrative - make them feel like part of the story
+- Show genuine enthusiasm: "This is such a powerful insight!", "What's amazing is...", "I find this fascinating because..."
+- Make connections feel organic: "This connects beautifully to...", "What's interesting is how this relates to...", "You'll notice a pattern here..."
+- Use natural language: "tends to", "often", "sometimes", "in many cases" - avoid absolutes unless clearly supported
+- End with something engaging: a question, an invitation to explore, or a thoughtful observation
+
+AVOID DRY/MACHINE-LIKE LANGUAGE:
+- DON'T start with "According to the sources..." or "The data shows..." (too robotic)
+- DON'T use formulaic structures: "First... Second... Third..." (unless listing is truly needed)
+- DON'T be overly structured - let it flow naturally
+- DON'T use academic language unless style is "academic"
+- DON'T list facts without context or story
+- DON'T use repetitive sentence structures
+
+MAKE IT FEEL HUMAN:
+- Use natural transitions and connectors
+- Show personality and genuine interest
+- Vary your approach - don't use the same structure every time
+- Make it conversational, not report-like
+- Let your enthusiasm show through
+- Connect ideas in ways that feel organic, not forced
 
 WHAT YOU CANNOT DO:
 - Reference speakers not in the provided sources
 - Make up quotes or information
 - Use "[Source 1]" style citations
 - Infer shared principles without direct evidence
+- Answer from general knowledge if sources don't contain the answer
+- Be dry, robotic, or machine-like
 
 FORMATTING:
-- Use plain paragraphs for most content
-- For lists, use proper markdown with "- " prefix
-- Keep formatting simple and clean"""
+- Use natural paragraphs that flow (2-4 sentences typically)
+- For lists, use proper markdown with "- " prefix, but make them conversational
+- Use **bold** sparingly for emphasis on key concepts
+- Keep formatting simple and clean, but let personality shine through"""
 
+        # Build source sections - be explicit about empty sources (same as non-streaming)
+        has_rag_content = bool(rag_context and rag_context.strip() and rag_context != "No relevant transcripts found.")
+        has_kg_content = bool(kg_context and kg_context.strip() and kg_context != "No relevant concepts found.")
+        
+        transcript_section = rag_context if has_rag_content else "No relevant transcripts found."
+        kg_section = kg_context if has_kg_content else "No relevant concepts found."
+        
+        # CRITICAL: If both sources are empty, make it VERY clear to LLM
+        if not has_rag_content and not has_kg_content:
+            transcript_section = "⚠️ NO TRANSCRIPT SOURCES AVAILABLE - DO NOT ANSWER FROM GENERAL KNOWLEDGE"
+            kg_section = "⚠️ NO KNOWLEDGE GRAPH SOURCES AVAILABLE - DO NOT ANSWER FROM GENERAL KNOWLEDGE"
+        
         user_prompt = f"""Question: {query}
 
 TRANSCRIPT SOURCES (cite by speaker name and episode, NOT by source number):
-{rag_context if rag_context else "No relevant transcripts found."}
+{transcript_section}
 
 KNOWLEDGE GRAPH:
-{kg_context if kg_context else "No relevant concepts found."}
+{kg_section}
 
 {f"CONVERSATION CONTEXT:{chr(10)}{conv_context}" if conv_context else ""}
 
-Provide a well-sourced answer with NATURAL citations. {f"IMPORTANT: Be honest about missing coverage for any entities." if coverage_info and not coverage_info["all_covered"] else ""}"""
+YOUR TASK:
+Create an engaging, natural, and human-sounding response that:
+- Feels like a real conversation, not a report or list
+- Shows genuine interest and enthusiasm
+- Weaves citations naturally into the narrative
+- Makes connections feel organic and interesting
+- Varies sentence structure and presentation style
+- Tells a story or paints a picture when possible
+
+CRITICAL RULES - YOU MUST FOLLOW:
+1. Base your answer ONLY on the TRANSCRIPT SOURCES and KNOWLEDGE GRAPH content above
+2. If the sources say "No relevant transcripts found" or "No relevant concepts found", you MUST respond with: "I couldn't find information about that in the podcast knowledge base. Could you rephrase your question or ask about a specific topic related to philosophy, creativity, coaching, or personal development from the podcasts?"
+3. DO NOT use general knowledge, common sense, or information not in the provided sources
+4. DO NOT make up information or cite sources that don't exist
+5. If you cannot answer from the sources, explicitly state that you couldn't find information
+6. Make citations feel natural - weave speaker names into your narrative, don't use formulaic citations
+
+REMEMBER: Your goal is to make the reader feel engaged and interested, not like they're reading a dry report. Show personality, enthusiasm, and genuine curiosity while maintaining strict accuracy. {f"IMPORTANT: Be honest about missing coverage for any entities." if coverage_info and not coverage_info["all_covered"] else ""}"""
 
         try:
             # Build proper messages array with conversation history
@@ -1859,7 +2212,7 @@ Provide a well-sourced answer with NATURAL citations. {f"IMPORTANT: Be honest ab
                 model=self.model,
                 messages=messages,
                 temperature=0.5,
-                max_tokens=800,
+                # max_tokens removed to allow full-length responses
                 stream=True,  # Enable streaming
             )
             
@@ -1874,16 +2227,179 @@ Provide a well-sourced answer with NATURAL citations. {f"IMPORTANT: Be honest ab
             self.logger.error(f"Streaming synthesis failed: {e}")
             yield f"Here's what I found:\n\n{rag_context[:500] if rag_context else kg_context[:500]}"
 
+    def _format_episode_name(self, episode_id: str) -> str:
+        """
+        Format episode ID to readable name.
+        
+        Examples:
+        - "143_TYLER_COWEN_PART_1" → "Tyler Cowen (Episode 143)"
+        - "001_PHIL_JACKSON" → "Phil Jackson (Episode 001)"
+        - "002_JERROD_CARMICHAEL" → "Jerrod Carmichael (Episode 002)"
+        """
+        if not episode_id or episode_id == "unknown":
+            return "Unknown Episode"
+        
+        parts = episode_id.split("_")
+        if len(parts) >= 2:
+            # Extract episode number (first part)
+            episode_number = parts[0]
+            
+            # Extract name parts (skip "PART", "1", "2", "3", etc.)
+            name_parts = [
+                p for p in parts[1:] 
+                if p.upper() not in ["PART", "1", "2", "3", "4", "5", "ONE", "TWO", "THREE"]
+            ]
+            
+            if name_parts:
+                # Join and title case: "TYLER_COWEN" → "Tyler Cowen"
+                name = " ".join(name_parts).title()
+                return f"{name} (Episode {episode_number})"
+        
+        # Fallback: replace underscores with spaces
+        return episode_id.replace("_", " ").title()
+    
+    def _format_timestamp(self, timestamp: str) -> str:
+        """
+        Format timestamp to readable format.
+        
+        Examples:
+        - "00:15:30" → "15:30"
+        - "01:30:45" → "1:30:45"
+        - "00:05:10" → "5:10"
+        """
+        if not timestamp:
+            return ""
+        
+        # Handle different timestamp formats
+        timestamp = timestamp.strip()
+        
+        # Format: HH:MM:SS
+        if ":" in timestamp:
+            parts = timestamp.split(":")
+            if len(parts) == 3:
+                hours, minutes, seconds = parts
+                try:
+                    hours_int = int(hours)
+                    if hours_int == 0:
+                        # Less than 1 hour: show MM:SS
+                        return f"{int(minutes)}:{seconds.zfill(2)}"
+                    else:
+                        # 1+ hours: show H:MM:SS
+                        return f"{hours_int}:{minutes.zfill(2)}:{seconds.zfill(2)}"
+                except ValueError:
+                    return timestamp
+            elif len(parts) == 2:
+                # Format: MM:SS
+                return timestamp
+        
+        return timestamp
+    
+    def _resolve_speaker(
+        self,
+        metadata: Dict[str, Any],
+        episode_id: str,
+    ) -> str:
+        """
+        Resolve speaker name from metadata or episode.
+        
+        Priority:
+        1. metadata.speaker (if not generic)
+        2. Episode name (extracted from episode_id)
+        3. "Unknown Speaker"
+        """
+        # Try metadata speaker first
+        speaker = (
+            metadata.get("speaker") or 
+            metadata.get("speaker_name") or
+            metadata.get("author") or
+            ""
+        )
+        
+        # Check if speaker is generic/unknown
+        generic_speakers = [
+            "unknown", "speaker 1", "speaker 2", "speaker", 
+            "speaker1", "speaker2", "host", "guest", ""
+        ]
+        
+        if speaker and speaker.lower() not in generic_speakers:
+            return speaker
+        
+        # Fallback: Extract from episode name
+        if episode_id and episode_id != "unknown":
+            formatted_episode = self._format_episode_name(episode_id)
+            # Extract name part: "Tyler Cowen (Episode 143)" → "Tyler Cowen"
+            if " (Episode " in formatted_episode:
+                return formatted_episode.split(" (Episode ")[0]
+            return formatted_episode
+        
+        return "Unknown Speaker"
+    
+    def _calculate_confidence(
+        self,
+        result: Dict[str, Any],
+        all_results: List[Dict[str, Any]],
+        source_type: str = "rag",
+    ) -> float:
+        """
+        Calculate source confidence score.
+        
+        Factors:
+        - Relevance score (from RAG/KG)
+        - Number of sources mentioning similar content
+        - Source type (KG = more reliable)
+        
+        Returns:
+            Confidence score (0.0 - 1.0)
+        """
+        # Start with base score from result
+        score = result.get("score", 0.5)
+        
+        # Normalize score to 0-1 range if needed
+        if score > 1.0:
+            score = score / 100.0  # Assume 0-100 scale
+        elif score < 0.0:
+            score = 0.5  # Default if negative
+        
+        # Boost if mentioned in multiple sources (corroboration)
+        text = result.get("text", "")[:100]  # First 100 chars for comparison
+        if text:
+            similar_count = sum(
+                1 for r in all_results 
+                if text.lower() in r.get("text", "").lower()[:100]
+            )
+            if similar_count > 1:
+                # Boost confidence if multiple sources mention similar content
+                score += min(0.15, (similar_count - 1) * 0.05)
+        
+        # Boost if from KG (structured knowledge is more reliable)
+        if source_type == "kg":
+            score += 0.1
+        
+        # Cap at 1.0
+        return min(score, 1.0)
+    
     def _extract_sources(
         self,
         rag_results: List[Dict[str, Any]],
         kg_results: List[Dict[str, Any]],
     ) -> List[Dict[str, Any]]:
-        """Extract sources with FULL metadata."""
+        """
+        Extract sources with ENHANCED metadata formatting.
+        
+        Improvements:
+        - Formatted episode names (e.g., "Tyler Cowen (Episode 143)")
+        - Formatted timestamps (e.g., "15:30")
+        - Resolved speaker names
+        - Confidence scores
+        """
         import os
         sources = []
         seen = set()
         
+        # Combine all results for confidence calculation
+        all_results = rag_results + kg_results
+        
+        # Extract RAG sources with enhanced formatting
         for r in rag_results:
             metadata = r.get("metadata", {})
             
@@ -1898,32 +2414,31 @@ Provide a well-sourced answer with NATURAL citations. {f"IMPORTANT: Be honest ab
             
             source_path = metadata.get("source_path") or metadata.get("source") or metadata.get("path") or ""
             
-            # Try multiple possible field names for speaker
-            speaker = (
-                metadata.get("speaker") or 
-                metadata.get("speaker_name") or
-                metadata.get("author") or
-                ""
-            )
-            
-            # Try multiple possible field names for timestamp
-            timestamp = (
-                metadata.get("timestamp") or 
-                metadata.get("start_time") or
-                metadata.get("time") or
-                ""
-            )
-            
-            text = r.get("text", "")[:200]
-            
             # Extract episode from path if needed
             if not episode_id or episode_id == "unknown":
                 if source_path:
                     filename = os.path.basename(source_path)
                     episode_id = os.path.splitext(filename)[0]
             
-            # Log what we found for debugging
-            self.logger.debug(f"Source extraction: episode_id={episode_id}, speaker={speaker}, metadata_keys={list(metadata.keys())}")
+            # Format episode name
+            episode_name = self._format_episode_name(episode_id)
+            
+            # Resolve speaker
+            speaker = self._resolve_speaker(metadata, episode_id)
+            
+            # Format timestamp
+            timestamp_raw = (
+                metadata.get("timestamp") or 
+                metadata.get("start_time") or
+                metadata.get("time") or
+                ""
+            )
+            timestamp = self._format_timestamp(timestamp_raw)
+            
+            text = r.get("text", "")[:200]
+            
+            # Calculate confidence
+            confidence = self._calculate_confidence(r, all_results, source_type="rag")
             
             # Deduplicate by episode + speaker + timestamp
             key = f"{episode_id}:{speaker}:{timestamp}"
@@ -1932,21 +2447,45 @@ Provide a well-sourced answer with NATURAL citations. {f"IMPORTANT: Be honest ab
                 sources.append({
                     "type": "transcript",
                     "episode_id": episode_id or "Unknown Episode",
-                    "speaker": speaker or "Unknown Speaker",
-                    "timestamp": timestamp or "",
+                    "episode_name": episode_name,  # Formatted name
+                    "speaker": speaker,  # Resolved speaker
+                    "timestamp": timestamp,  # Formatted timestamp
+                    "timestamp_raw": timestamp_raw,  # Keep raw for reference
                     "text": text,
                     "source_path": source_path,
+                    "confidence": round(confidence, 2),  # Confidence score
+                    "score": r.get("score", 0.5),  # Original relevance score
                 })
         
+        # Extract KG sources with enhanced formatting
         for r in kg_results:
-            concept = r.get("concept", "")
+            concept = r.get("concept", "") or r.get("name", "")
             if concept:
+                # Extract episode IDs from KG result if available
+                episode_ids = r.get("episode_ids", [])
+                episode_names = []
+                
+                if episode_ids:
+                    for ep_id in episode_ids[:3]:  # Limit to first 3 episodes
+                        formatted = self._format_episode_name(str(ep_id))
+                        episode_names.append(formatted)
+                
+                # Calculate confidence
+                confidence = self._calculate_confidence(r, all_results, source_type="kg")
+                
                 sources.append({
                     "type": "knowledge_graph",
                     "concept": concept,
                     "node_type": r.get("type", "Concept"),
                     "description": r.get("description", "")[:100],
+                    "episode_ids": episode_ids[:3] if episode_ids else [],
+                    "episode_names": episode_names,  # Formatted episode names
+                    "confidence": round(confidence, 2),
+                    "score": r.get("relevance", 0.5) if isinstance(r.get("relevance"), (int, float)) else 0.5,
                 })
+        
+        # Sort by confidence (highest first)
+        sources.sort(key=lambda x: x.get("confidence", 0.0), reverse=True)
         
         return sources
 

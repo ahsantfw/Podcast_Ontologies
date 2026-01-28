@@ -22,6 +22,7 @@ ARCHITECTURE:
 
 from __future__ import annotations
 
+import os
 from typing import Optional, Dict, Any, List
 from datetime import timedelta
 from contextlib import contextmanager
@@ -149,10 +150,26 @@ class KGReasoner:
             hybrid_retriever=self.hybrid_retriever,
         )
         
-        # Keep use_agent flag for gradual migration
-        self.use_agent = True  # Set to True to use agent-based architecture
+        # LangGraph is now the default and only path
+        self.use_agent = True  # Agent-based architecture
+        self.langgraph_workflow = None
         
-        self.logger.info("kg_reasoner_initialized", extra={"use_agent": self.use_agent})
+        # Initialize LangGraph workflow (required)
+        try:
+            from core_engine.reasoning.langgraph_workflow import create_retrieval_workflow
+            self.langgraph_workflow = create_retrieval_workflow()
+            if not self.langgraph_workflow:
+                raise RuntimeError("LangGraph workflow creation failed - workflow is None")
+            self.logger.info("langgraph_workflow_initialized")
+        except Exception as e:
+            self.logger.error(
+                "langgraph_init_failed",
+                exc_info=True,
+                extra={"context": {"error": str(e), "message": "LangGraph initialization failed - LangGraph is required"}}
+            )
+            raise RuntimeError(f"Failed to initialize LangGraph workflow: {e}. LangGraph is required for this system.")
+        
+        self.logger.info("kg_reasoner_initialized", extra={"use_agent": self.use_agent, "langgraph_enabled": True})
 
     def query(
         self,
@@ -202,16 +219,13 @@ class KGReasoner:
         
         self.logger.info(
             "agent_query_start",
-            extra={"context": {"question": question[:50], "session_id": session.session_id, "style": style, "tone": tone}}
+            extra={"context": {"question": question[:50], "session_id": session.session_id, "style": style, "tone": tone, "langgraph_enabled": True}}
         )
         
         try:
-            # =====================================================
-            # RUN THE AGENT
-            # Agent autonomously decides what to do
-            # =====================================================
-            agent_response = self.agent.run(
-                query=question,
+            # Use LangGraph workflow (only path)
+            agent_response = self._query_with_langgraph(
+                question=question,
                 conversation_history=conversation_history,
                 session_metadata=session.metadata,
             )
@@ -285,6 +299,96 @@ class KGReasoner:
             self._save_session_to_db(session)
             raise
     
+    def _query_with_langgraph(
+        self,
+        question: str,
+        conversation_history: List[Dict[str, Any]],
+        session_metadata: Dict[str, Any],
+    ):
+        """
+        Query using LangGraph workflow.
+        
+        This wraps the existing components in a LangGraph workflow for better orchestration.
+        
+        Args:
+            question: User question
+            conversation_history: Conversation history
+            session_metadata: Session metadata
+        
+        Returns:
+            AgentResponse compatible with standard flow
+        """
+        from core_engine.reasoning.langgraph_workflow import run_workflow_simple
+        from core_engine.reasoning.agent import AgentResponse
+        
+        try:
+            # Get OpenAI client from agent
+            openai_client = self.agent.openai_client if hasattr(self.agent, 'openai_client') else None
+            
+            # Run LangGraph workflow
+            final_state = run_workflow_simple(
+                workflow=self.langgraph_workflow,
+                query=question,
+                conversation_history=conversation_history,
+                session_metadata=session_metadata,
+                hybrid_retriever=self.hybrid_retriever,
+                neo4j_client=self.neo4j_client,
+                podcast_agent=self.agent,
+                openai_client=openai_client,
+            )
+            
+            # Extract results from final state
+            answer = final_state.get("answer", "")
+            sources = final_state.get("sources", [])
+            metadata = final_state.get("metadata", {})
+            
+            # Count RAG and KG results
+            rag_count = len(final_state.get("rag_results", []))
+            kg_count = len(final_state.get("kg_results", []))
+            
+            # Determine tools used
+            tools_used = []
+            if rag_count > 0:
+                tools_used.append("search_transcripts")
+            if kg_count > 0:
+                tools_used.append("search_knowledge_graph")
+            
+            # Create AgentResponse compatible with standard flow
+            response = AgentResponse(
+                answer=answer,
+                tools_used=tools_used,
+                sources=sources,
+                metadata={
+                    **metadata,
+                    "method": "langgraph",
+                    "rag_count": rag_count,
+                    "kg_count": kg_count,
+                }
+            )
+            
+            self.logger.info(
+                "langgraph_query_complete",
+                extra={
+                    "context": {
+                        "tools_used": tools_used,
+                        "rag_count": rag_count,
+                        "kg_count": kg_count,
+                        "sources_count": len(sources),
+                    }
+                }
+            )
+            
+            return response
+            
+        except Exception as e:
+            self.logger.error(
+                "langgraph_query_failed",
+                exc_info=True,
+                extra={"context": {"question": question[:50], "error": str(e)}}
+            )
+            # Re-raise exception - no fallback, LangGraph is required
+            raise RuntimeError(f"LangGraph query failed: {e}") from e
+    
     def query_streaming(
         self,
         question: str,
@@ -330,23 +434,70 @@ class KGReasoner:
         try:
             # Classify intent first (non-streaming)
             import time
+            import re as regex_module
             intent_start = time.time()
             intent = self.agent._classify_intent_llm(question, conversation_history, session.metadata)
             intent_time = time.time() - intent_start
             self.logger.info(f"Intent classification took {intent_time:.2f}s, result: {intent}")
             
+            # ============================================================
+            # CRITICAL FIX: Force ALL questions through retrieval
+            # ============================================================
+            # Define TRUE greetings - ONLY these bypass retrieval
+            TRUE_GREETINGS = {"hi", "hello", "hey", "thanks", "thank you", "bye", "goodbye", "ok", "okay", "hmm", "yes", "no", "sure", "great", "nice", "cool", "wow"}
+            query_normalized = question.lower().strip().rstrip("!.,?")
+            is_true_greeting = query_normalized in TRUE_GREETINGS
+            
+            # Detect if query is a question (requires knowledge)
+            question_patterns = [
+                r"^(what|who|how|why|when|where|is|are|can|do|does|did|will|would|should|could|tell|explain|describe|show|list|find|give|define|search)",
+                r"\?$",  # Ends with question mark
+            ]
+            is_question = any(regex_module.search(p, question.lower().strip()) for p in question_patterns)
+            
+            # FORCE questions through retrieval - override unreliable intent classification
+            if is_question and not is_true_greeting:
+                self.logger.info(
+                    "forcing_question_through_retrieval",
+                    extra={
+                        "context": {
+                            "question": question[:50],
+                            "original_intent": intent,
+                            "is_question": True,
+                            "action": "overriding_to_knowledge_query"
+                        }
+                    }
+                )
+                intent = "knowledge_query"  # Force through retrieval path
+            
             # Stream for ALL queries (not just knowledge queries)
             # For non-knowledge queries, stream directly from LLM
             if intent not in ["knowledge_query", "kg_query"]:
-                # Stream directly from LLM for non-knowledge queries
-                # Build messages for streaming
-                messages = []
                 
-                # Get style/tone instructions
-                style_tone_instructions = self.agent._get_style_tone_instructions(session.metadata)
-                
-                # Build system prompt based on intent
-                if intent == "greeting":
+                # SAFETY: Double-check it's a TRUE greeting before allowing direct LLM
+                if not is_true_greeting:
+                    self.logger.warning(
+                        "blocking_non_greeting_from_direct_llm",
+                        extra={
+                            "context": {
+                                "question": question[:50],
+                                "intent": intent,
+                                "is_true_greeting": False,
+                                "action": "forcing_to_retrieval"
+                            }
+                        }
+                    )
+                    # Force through retrieval path
+                    intent = "knowledge_query"
+                else:
+                    # TRUE greeting - stream directly from LLM (only for greetings)
+                    # Build messages for streaming
+                    messages = []
+                    
+                    # Get style/tone instructions
+                    style_tone_instructions = self.agent._get_style_tone_instructions(session.metadata)
+                    
+                    # Build system prompt for greetings
                     system_prompt = f"""You are an enthusiastic Podcast Intelligence Assistant named Sage - a curious explorer of ideas from fascinating podcast conversations.
 
 CRITICAL: You ONLY answer questions about podcast transcripts, knowledge graph content, and topics related to philosophy, creativity, coaching, and personal development. Do NOT answer math problems, general knowledge, or questions outside your domain.
@@ -359,68 +510,52 @@ PERSONALITY:
 {style_tone_instructions}
 
 Respond warmly and naturally to greetings. Keep it brief and inviting."""
-                elif intent == "conversational":
-                    system_prompt = f"""You are Sage, a warm and intellectually curious Podcast Intelligence Assistant.
-
-CRITICAL: You ONLY answer questions about podcast transcripts, knowledge graph content, and topics related to philosophy, creativity, coaching, and personal development. Do NOT answer math problems, general knowledge, or questions outside your domain.
-
-{style_tone_instructions}
-
-Respond naturally to conversational queries. Be engaging and helpful."""
-                else:
-                    system_prompt = f"""You are Sage, a Podcast Intelligence Assistant.
-
-CRITICAL: You ONLY answer questions about podcast transcripts, knowledge graph content, and topics related to philosophy, creativity, coaching, and personal development. Do NOT answer math problems, general knowledge, or questions outside your domain.
-
-{style_tone_instructions}
-
-Respond helpfully and naturally."""
-                
-                messages.append({"role": "system", "content": system_prompt})
-                
-                # Add conversation history
-                if conversation_history:
-                    for msg in conversation_history[-5:]:
-                        role = msg.get("role", "user")
-                        content = msg.get("content", "")
-                        if role in ["user", "assistant"] and content:
-                            messages.append({"role": role, "content": content})
-                
-                # Add current question
-                messages.append({"role": "user", "content": question})
-                
-                # Stream response from LLM
-                stream = self.agent.openai_client.chat.completions.create(
-                    model=self.agent.model,
-                    messages=messages,
-                    temperature=0.7,
-                    max_tokens=500,
-                    stream=True,  # Enable streaming
-                )
-                
-                # Yield chunks as they arrive
-                full_answer = ""
-                for chunk in stream:
-                    if chunk.choices and len(chunk.choices) > 0:
-                        delta = chunk.choices[0].delta
-                        if delta and delta.content:
-                            full_answer += delta.content
-                            yield {"chunk": delta.content, "done": False}
-                
-                # Save answer to session
-                if full_answer:
-                    session.add_message("assistant", full_answer)
-                    self._save_session_to_db(session)
-                
-                # Final chunk with metadata
-                yield {
-                    "chunk": "",
-                    "done": True,
-                    "session_id": session.session_id,
-                    "sources": [],
-                    "metadata": {"method": "agent_streaming", "type": intent}
-                }
-                return
+                    
+                    messages.append({"role": "system", "content": system_prompt})
+                    
+                    # Add conversation history
+                    if conversation_history:
+                        for msg in conversation_history[-5:]:
+                            role = msg.get("role", "user")
+                            content = msg.get("content", "")
+                            if role in ["user", "assistant"] and content:
+                                messages.append({"role": role, "content": content})
+                    
+                    # Add current question
+                    messages.append({"role": "user", "content": question})
+                    
+                    # Stream response from LLM
+                    stream = self.agent.openai_client.chat.completions.create(
+                        model=self.agent.model,
+                        messages=messages,
+                        temperature=0.7,
+                        max_tokens=500,
+                        stream=True,  # Enable streaming
+                    )
+                    
+                    # Yield chunks as they arrive
+                    full_answer = ""
+                    for chunk in stream:
+                        if chunk.choices and len(chunk.choices) > 0:
+                            delta = chunk.choices[0].delta
+                            if delta and delta.content:
+                                full_answer += delta.content
+                                yield {"chunk": delta.content, "done": False}
+                    
+                    # Save answer to session
+                    if full_answer:
+                        session.add_message("assistant", full_answer)
+                        self._save_session_to_db(session)
+                    
+                    # Final chunk with metadata
+                    yield {
+                        "chunk": "",
+                        "done": True,
+                        "session_id": session.session_id,
+                        "sources": [],
+                        "metadata": {"method": "agent_streaming", "type": intent}
+                    }
+                    return
             
             # Extract entities and resolve pronouns
             mentioned_entities = self.agent._extract_mentioned_entities(question)
@@ -499,7 +634,38 @@ Respond helpfully and naturally."""
             if mentioned_entities and len(mentioned_entities) > 1:
                 coverage_info = self.agent._validate_entity_coverage(mentioned_entities, rag_results, kg_results)
             
-            # Stream answer synthesis
+            # CRITICAL CHECK: If RAG=0 AND KG=0, REJECT immediately - do NOT synthesize
+            if len(rag_results) == 0 and len(kg_results) == 0:
+                self.logger.warning(
+                    "query_streaming_no_results_reject",
+                    extra={
+                        "context": {
+                            "question": question[:50],
+                            "rag_count": 0,
+                            "kg_count": 0,
+                            "intent": intent,
+                            "action": "rejecting_no_results"
+                        }
+                    }
+                )
+                rejection_message = "I couldn't find information about that in the podcast knowledge base. Could you rephrase your question or ask about a specific topic related to philosophy, creativity, coaching, or personal development from the podcasts?"
+                yield {"chunk": rejection_message, "done": False}
+                
+                # Save rejection to session
+                session.add_message("assistant", rejection_message, metadata={"method": "no_results_rejection", "rag_count": 0, "kg_count": 0})
+                self._save_session_to_db(session)
+                
+                # Final message
+                yield {
+                    "chunk": "",
+                    "done": True,
+                    "session_id": session.session_id,
+                    "sources": [],
+                    "metadata": {"method": "no_results_rejection", "rag_count": 0, "kg_count": 0}
+                }
+                return
+            
+            # Stream answer synthesis (only if we have results)
             full_answer = ""
             for chunk in self.agent._synthesize_answer_streaming(
                 query=question,
@@ -513,6 +679,7 @@ Respond helpfully and naturally."""
             ):
                 full_answer += chunk
                 yield {"chunk": chunk, "done": False}
+
             
             # Extract sources
             sources = self.agent._extract_sources(rag_results[:5], kg_results[:10])

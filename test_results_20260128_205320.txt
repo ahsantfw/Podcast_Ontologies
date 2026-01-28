@@ -1,0 +1,36 @@
+================================================================================
+TESTING: No Results Rejection (RAG=0, KG=0) via API
+================================================================================
+
+API URL: http://localhost:8000/api/v1/query
+Make sure backend is running!
+
+================================================================================
+TEST QUERIES - Should be REJECTED
+================================================================================
+✅ PASS | RAG:  0 | KG:  0 | What is RAG?
+✅ PASS | RAG:  0 | KG:  0 | What is Retrieval Augmented Generation?
+✅ PASS | RAG:  0 | KG:  0 | Do you know Urdu?
+✅ PASS | RAG:  0 | KG:  0 | Can you translate Me acha hu into English?
+✅ PASS | RAG:  0 | KG:  0 | What are the issues of society?
+✅ PASS | RAG:  0 | KG:  0 | What are the main problems in society?
+✅ PASS | RAG:  0 | KG:  0 | What are solutions to social problems?
+✅ PASS | RAG:  0 | KG:  0 | What is the meaning of life?
+✅ PASS | RAG:  0 | KG:  0 | What is philosophy?
+✅ PASS | RAG:  0 | KG:  0 | What is creativity?
+
+================================================================================
+VALID QUERIES - Should be ALLOWED
+================================================================================
+✅ PASS | RAG:  0 | KG:  0 | Hi
+✅ PASS | RAG:  0 | KG:  0 | Hello
+✅ PASS | RAG:  0 | KG:  0 | Hey
+
+================================================================================
+SUMMARY
+================================================================================
+Total Tested: 13
+Passed: 13
+Failed: 0
+Skipped: 0
+Pass Rate: 100.0%
