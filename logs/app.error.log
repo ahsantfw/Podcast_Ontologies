@@ -6263,3 +6263,567 @@ Traceback (most recent call last):
                                       ^^^^^^^^^^^^^^^^^^
 AttributeError: 'IntentClassifier' object has no attribute 'NON_QUERY_RESPONSES'. Did you mean: 'NON_QUERY_RESPONSES_SPAM'?
 {"ts":"2026-01-17T16:57:38","level":"ERROR","logger":"core_engine.reasoning.query_generator_v2","msg":"query_execution_failed","context":"\"{\\\"workspace_id\\\": \\\"default\\\"}\""}
+{"ts":"2026-01-27T01:28:30","level":"ERROR","logger":"core_engine.kg","msg":"neo4j_connection_failed","context":"\"{\\\"workspace_id\\\": \\\"default\\\"}\""}
+Traceback (most recent call last):
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_async_compat/network/_util.py", line 144, in _dns_resolver
+    info = NetworkUtil.get_address_info(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_async_compat/network/_util.py", line 130, in get_address_info
+    return socket.getaddrinfo(host, port, family, type, proto, flags)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tayyab/.local/share/uv/python/cpython-3.12.12-linux-x86_64-gnu/lib/python3.12/socket.py", line 978, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno -2] Name or service not known
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/tayyab/Music/Ontology-Project/ontology_production_v1/core_engine/kg/neo4j_client.py", line 83, in _connect
+    self._driver.verify_connectivity()
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_sync/driver.py", line 1090, in verify_connectivity
+    self._get_server_info(session_config)
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_sync/driver.py", line 1305, in _get_server_info
+    return session._get_server_info()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_sync/work/session.py", line 183, in _get_server_info
+    self._connect(
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_sync/work/session.py", line 136, in _connect
+    super()._connect(
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_sync/work/workspace.py", line 186, in _connect
+    target_db = self._get_routing_target_database(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_sync/work/workspace.py", line 260, in _get_routing_target_database
+    self._pool.update_routing_table(
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_sync/io/_pool.py", line 985, in update_routing_table
+    self._update_routing_table_from(
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_sync/io/_pool.py", line 913, in _update_routing_table_from
+    for address in NetworkUtil.resolve_address(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_async_compat/network/_util.py", line 196, in resolve_address
+    for address_dns_resolved in NetworkUtil._dns_resolver(
+                                ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_async_compat/network/_util.py", line 151, in _dns_resolver
+    raise ValueError(f"Cannot resolve address {address}") from e
+ValueError: Cannot resolve address 150bc1e7.databases.neo4j.io:7687
+{"ts":"2026-01-27T01:28:30","level":"ERROR","logger":"backend.app.api.routes.graph","msg":"get_stats_failed","context":"\"{}\""}
+Traceback (most recent call last):
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_async_compat/network/_util.py", line 144, in _dns_resolver
+    info = NetworkUtil.get_address_info(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_async_compat/network/_util.py", line 130, in get_address_info
+    return socket.getaddrinfo(host, port, family, type, proto, flags)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tayyab/.local/share/uv/python/cpython-3.12.12-linux-x86_64-gnu/lib/python3.12/socket.py", line 978, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno -2] Name or service not known
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/tayyab/Music/Ontology-Project/ontology_production_v1/backend/app/api/routes/graph.py", line 28, in get_graph_stats
+    client = get_neo4j_client(workspace_id=workspace_id)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tayyab/Music/Ontology-Project/ontology_production_v1/core_engine/kg/neo4j_client.py", line 279, in get_neo4j_client
+    return Neo4jClient(
+           ^^^^^^^^^^^^
+  File "/home/tayyab/Music/Ontology-Project/ontology_production_v1/core_engine/kg/neo4j_client.py", line 73, in __init__
+    self._connect()
+  File "/home/tayyab/Music/Ontology-Project/ontology_production_v1/core_engine/kg/neo4j_client.py", line 83, in _connect
+    self._driver.verify_connectivity()
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_sync/driver.py", line 1090, in verify_connectivity
+    self._get_server_info(session_config)
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_sync/driver.py", line 1305, in _get_server_info
+    return session._get_server_info()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_sync/work/session.py", line 183, in _get_server_info
+    self._connect(
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_sync/work/session.py", line 136, in _connect
+    super()._connect(
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_sync/work/workspace.py", line 186, in _connect
+    target_db = self._get_routing_target_database(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_sync/work/workspace.py", line 260, in _get_routing_target_database
+    self._pool.update_routing_table(
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_sync/io/_pool.py", line 985, in update_routing_table
+    self._update_routing_table_from(
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_sync/io/_pool.py", line 913, in _update_routing_table_from
+    for address in NetworkUtil.resolve_address(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_async_compat/network/_util.py", line 196, in resolve_address
+    for address_dns_resolved in NetworkUtil._dns_resolver(
+                                ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_async_compat/network/_util.py", line 151, in _dns_resolver
+    raise ValueError(f"Cannot resolve address {address}") from e
+ValueError: Cannot resolve address 150bc1e7.databases.neo4j.io:7687
+{"ts":"2026-01-27T01:28:30","level":"ERROR","logger":"core_engine.kg","msg":"neo4j_connection_failed","context":"\"{\\\"workspace_id\\\": \\\"default\\\"}\""}
+Traceback (most recent call last):
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_async_compat/network/_util.py", line 144, in _dns_resolver
+    info = NetworkUtil.get_address_info(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_async_compat/network/_util.py", line 130, in get_address_info
+    return socket.getaddrinfo(host, port, family, type, proto, flags)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tayyab/.local/share/uv/python/cpython-3.12.12-linux-x86_64-gnu/lib/python3.12/socket.py", line 978, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno -2] Name or service not known
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/tayyab/Music/Ontology-Project/ontology_production_v1/core_engine/kg/neo4j_client.py", line 83, in _connect
+    self._driver.verify_connectivity()
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_sync/driver.py", line 1090, in verify_connectivity
+    self._get_server_info(session_config)
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_sync/driver.py", line 1305, in _get_server_info
+    return session._get_server_info()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_sync/work/session.py", line 183, in _get_server_info
+    self._connect(
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_sync/work/session.py", line 136, in _connect
+    super()._connect(
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_sync/work/workspace.py", line 186, in _connect
+    target_db = self._get_routing_target_database(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_sync/work/workspace.py", line 260, in _get_routing_target_database
+    self._pool.update_routing_table(
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_sync/io/_pool.py", line 985, in update_routing_table
+    self._update_routing_table_from(
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_sync/io/_pool.py", line 913, in _update_routing_table_from
+    for address in NetworkUtil.resolve_address(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_async_compat/network/_util.py", line 196, in resolve_address
+    for address_dns_resolved in NetworkUtil._dns_resolver(
+                                ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_async_compat/network/_util.py", line 151, in _dns_resolver
+    raise ValueError(f"Cannot resolve address {address}") from e
+ValueError: Cannot resolve address 150bc1e7.databases.neo4j.io:7687
+{"ts":"2026-01-27T01:28:30","level":"ERROR","logger":"backend.app.api.routes.graph","msg":"get_stats_failed","context":"\"{}\""}
+Traceback (most recent call last):
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_async_compat/network/_util.py", line 144, in _dns_resolver
+    info = NetworkUtil.get_address_info(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_async_compat/network/_util.py", line 130, in get_address_info
+    return socket.getaddrinfo(host, port, family, type, proto, flags)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tayyab/.local/share/uv/python/cpython-3.12.12-linux-x86_64-gnu/lib/python3.12/socket.py", line 978, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno -2] Name or service not known
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/tayyab/Music/Ontology-Project/ontology_production_v1/backend/app/api/routes/graph.py", line 28, in get_graph_stats
+    client = get_neo4j_client(workspace_id=workspace_id)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tayyab/Music/Ontology-Project/ontology_production_v1/core_engine/kg/neo4j_client.py", line 279, in get_neo4j_client
+    return Neo4jClient(
+           ^^^^^^^^^^^^
+  File "/home/tayyab/Music/Ontology-Project/ontology_production_v1/core_engine/kg/neo4j_client.py", line 73, in __init__
+    self._connect()
+  File "/home/tayyab/Music/Ontology-Project/ontology_production_v1/core_engine/kg/neo4j_client.py", line 83, in _connect
+    self._driver.verify_connectivity()
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_sync/driver.py", line 1090, in verify_connectivity
+    self._get_server_info(session_config)
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_sync/driver.py", line 1305, in _get_server_info
+    return session._get_server_info()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_sync/work/session.py", line 183, in _get_server_info
+    self._connect(
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_sync/work/session.py", line 136, in _connect
+    super()._connect(
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_sync/work/workspace.py", line 186, in _connect
+    target_db = self._get_routing_target_database(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_sync/work/workspace.py", line 260, in _get_routing_target_database
+    self._pool.update_routing_table(
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_sync/io/_pool.py", line 985, in update_routing_table
+    self._update_routing_table_from(
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_sync/io/_pool.py", line 913, in _update_routing_table_from
+    for address in NetworkUtil.resolve_address(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_async_compat/network/_util.py", line 196, in resolve_address
+    for address_dns_resolved in NetworkUtil._dns_resolver(
+                                ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_async_compat/network/_util.py", line 151, in _dns_resolver
+    raise ValueError(f"Cannot resolve address {address}") from e
+ValueError: Cannot resolve address 150bc1e7.databases.neo4j.io:7687
+{"ts":"2026-01-27T01:28:39","level":"ERROR","logger":"core_engine.kg","msg":"neo4j_connection_failed","context":"\"{\\\"workspace_id\\\": \\\"default\\\"}\""}
+Traceback (most recent call last):
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_async_compat/network/_util.py", line 144, in _dns_resolver
+    info = NetworkUtil.get_address_info(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_async_compat/network/_util.py", line 130, in get_address_info
+    return socket.getaddrinfo(host, port, family, type, proto, flags)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tayyab/.local/share/uv/python/cpython-3.12.12-linux-x86_64-gnu/lib/python3.12/socket.py", line 978, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno -2] Name or service not known
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/tayyab/Music/Ontology-Project/ontology_production_v1/core_engine/kg/neo4j_client.py", line 83, in _connect
+    self._driver.verify_connectivity()
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_sync/driver.py", line 1090, in verify_connectivity
+    self._get_server_info(session_config)
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_sync/driver.py", line 1305, in _get_server_info
+    return session._get_server_info()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_sync/work/session.py", line 183, in _get_server_info
+    self._connect(
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_sync/work/session.py", line 136, in _connect
+    super()._connect(
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_sync/work/workspace.py", line 186, in _connect
+    target_db = self._get_routing_target_database(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_sync/work/workspace.py", line 260, in _get_routing_target_database
+    self._pool.update_routing_table(
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_sync/io/_pool.py", line 985, in update_routing_table
+    self._update_routing_table_from(
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_sync/io/_pool.py", line 913, in _update_routing_table_from
+    for address in NetworkUtil.resolve_address(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_async_compat/network/_util.py", line 196, in resolve_address
+    for address_dns_resolved in NetworkUtil._dns_resolver(
+                                ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_async_compat/network/_util.py", line 151, in _dns_resolver
+    raise ValueError(f"Cannot resolve address {address}") from e
+ValueError: Cannot resolve address 150bc1e7.databases.neo4j.io:7687
+{"ts":"2026-01-27T01:28:39","level":"ERROR","logger":"backend.app.api.routes.graph","msg":"get_stats_failed","context":"\"{}\""}
+Traceback (most recent call last):
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_async_compat/network/_util.py", line 144, in _dns_resolver
+    info = NetworkUtil.get_address_info(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_async_compat/network/_util.py", line 130, in get_address_info
+    return socket.getaddrinfo(host, port, family, type, proto, flags)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tayyab/.local/share/uv/python/cpython-3.12.12-linux-x86_64-gnu/lib/python3.12/socket.py", line 978, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno -2] Name or service not known
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/tayyab/Music/Ontology-Project/ontology_production_v1/backend/app/api/routes/graph.py", line 28, in get_graph_stats
+    client = get_neo4j_client(workspace_id=workspace_id)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tayyab/Music/Ontology-Project/ontology_production_v1/core_engine/kg/neo4j_client.py", line 279, in get_neo4j_client
+    return Neo4jClient(
+           ^^^^^^^^^^^^
+  File "/home/tayyab/Music/Ontology-Project/ontology_production_v1/core_engine/kg/neo4j_client.py", line 73, in __init__
+    self._connect()
+  File "/home/tayyab/Music/Ontology-Project/ontology_production_v1/core_engine/kg/neo4j_client.py", line 83, in _connect
+    self._driver.verify_connectivity()
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_sync/driver.py", line 1090, in verify_connectivity
+    self._get_server_info(session_config)
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_sync/driver.py", line 1305, in _get_server_info
+    return session._get_server_info()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_sync/work/session.py", line 183, in _get_server_info
+    self._connect(
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_sync/work/session.py", line 136, in _connect
+    super()._connect(
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_sync/work/workspace.py", line 186, in _connect
+    target_db = self._get_routing_target_database(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_sync/work/workspace.py", line 260, in _get_routing_target_database
+    self._pool.update_routing_table(
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_sync/io/_pool.py", line 985, in update_routing_table
+    self._update_routing_table_from(
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_sync/io/_pool.py", line 913, in _update_routing_table_from
+    for address in NetworkUtil.resolve_address(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_async_compat/network/_util.py", line 196, in resolve_address
+    for address_dns_resolved in NetworkUtil._dns_resolver(
+                                ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_async_compat/network/_util.py", line 151, in _dns_resolver
+    raise ValueError(f"Cannot resolve address {address}") from e
+ValueError: Cannot resolve address 150bc1e7.databases.neo4j.io:7687
+{"ts":"2026-01-27T01:28:39","level":"ERROR","logger":"core_engine.kg","msg":"neo4j_connection_failed","context":"\"{\\\"workspace_id\\\": \\\"default\\\"}\""}
+Traceback (most recent call last):
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_async_compat/network/_util.py", line 144, in _dns_resolver
+    info = NetworkUtil.get_address_info(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_async_compat/network/_util.py", line 130, in get_address_info
+    return socket.getaddrinfo(host, port, family, type, proto, flags)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tayyab/.local/share/uv/python/cpython-3.12.12-linux-x86_64-gnu/lib/python3.12/socket.py", line 978, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno -2] Name or service not known
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/tayyab/Music/Ontology-Project/ontology_production_v1/core_engine/kg/neo4j_client.py", line 83, in _connect
+    self._driver.verify_connectivity()
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_sync/driver.py", line 1090, in verify_connectivity
+    self._get_server_info(session_config)
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_sync/driver.py", line 1305, in _get_server_info
+    return session._get_server_info()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_sync/work/session.py", line 183, in _get_server_info
+    self._connect(
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_sync/work/session.py", line 136, in _connect
+    super()._connect(
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_sync/work/workspace.py", line 186, in _connect
+    target_db = self._get_routing_target_database(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_sync/work/workspace.py", line 260, in _get_routing_target_database
+    self._pool.update_routing_table(
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_sync/io/_pool.py", line 985, in update_routing_table
+    self._update_routing_table_from(
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_sync/io/_pool.py", line 913, in _update_routing_table_from
+    for address in NetworkUtil.resolve_address(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_async_compat/network/_util.py", line 196, in resolve_address
+    for address_dns_resolved in NetworkUtil._dns_resolver(
+                                ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_async_compat/network/_util.py", line 151, in _dns_resolver
+    raise ValueError(f"Cannot resolve address {address}") from e
+ValueError: Cannot resolve address 150bc1e7.databases.neo4j.io:7687
+{"ts":"2026-01-27T01:28:39","level":"ERROR","logger":"backend.app.api.routes.graph","msg":"get_stats_failed","context":"\"{}\""}
+Traceback (most recent call last):
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_async_compat/network/_util.py", line 144, in _dns_resolver
+    info = NetworkUtil.get_address_info(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_async_compat/network/_util.py", line 130, in get_address_info
+    return socket.getaddrinfo(host, port, family, type, proto, flags)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tayyab/.local/share/uv/python/cpython-3.12.12-linux-x86_64-gnu/lib/python3.12/socket.py", line 978, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno -2] Name or service not known
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/tayyab/Music/Ontology-Project/ontology_production_v1/backend/app/api/routes/graph.py", line 28, in get_graph_stats
+    client = get_neo4j_client(workspace_id=workspace_id)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tayyab/Music/Ontology-Project/ontology_production_v1/core_engine/kg/neo4j_client.py", line 279, in get_neo4j_client
+    return Neo4jClient(
+           ^^^^^^^^^^^^
+  File "/home/tayyab/Music/Ontology-Project/ontology_production_v1/core_engine/kg/neo4j_client.py", line 73, in __init__
+    self._connect()
+  File "/home/tayyab/Music/Ontology-Project/ontology_production_v1/core_engine/kg/neo4j_client.py", line 83, in _connect
+    self._driver.verify_connectivity()
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_sync/driver.py", line 1090, in verify_connectivity
+    self._get_server_info(session_config)
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_sync/driver.py", line 1305, in _get_server_info
+    return session._get_server_info()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_sync/work/session.py", line 183, in _get_server_info
+    self._connect(
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_sync/work/session.py", line 136, in _connect
+    super()._connect(
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_sync/work/workspace.py", line 186, in _connect
+    target_db = self._get_routing_target_database(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_sync/work/workspace.py", line 260, in _get_routing_target_database
+    self._pool.update_routing_table(
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_sync/io/_pool.py", line 985, in update_routing_table
+    self._update_routing_table_from(
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_sync/io/_pool.py", line 913, in _update_routing_table_from
+    for address in NetworkUtil.resolve_address(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_async_compat/network/_util.py", line 196, in resolve_address
+    for address_dns_resolved in NetworkUtil._dns_resolver(
+                                ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_async_compat/network/_util.py", line 151, in _dns_resolver
+    raise ValueError(f"Cannot resolve address {address}") from e
+ValueError: Cannot resolve address 150bc1e7.databases.neo4j.io:7687
+{"ts":"2026-01-27T01:30:18","level":"ERROR","logger":"core_engine.kg","msg":"neo4j_connection_failed","context":"\"{\\\"workspace_id\\\": \\\"default\\\"}\""}
+Traceback (most recent call last):
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_async_compat/network/_util.py", line 144, in _dns_resolver
+    info = NetworkUtil.get_address_info(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_async_compat/network/_util.py", line 130, in get_address_info
+    return socket.getaddrinfo(host, port, family, type, proto, flags)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tayyab/.local/share/uv/python/cpython-3.12.12-linux-x86_64-gnu/lib/python3.12/socket.py", line 978, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno -2] Name or service not known
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/tayyab/Music/Ontology-Project/ontology_production_v1/core_engine/kg/neo4j_client.py", line 83, in _connect
+    self._driver.verify_connectivity()
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_sync/driver.py", line 1090, in verify_connectivity
+    self._get_server_info(session_config)
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_sync/driver.py", line 1305, in _get_server_info
+    return session._get_server_info()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_sync/work/session.py", line 183, in _get_server_info
+    self._connect(
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_sync/work/session.py", line 136, in _connect
+    super()._connect(
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_sync/work/workspace.py", line 186, in _connect
+    target_db = self._get_routing_target_database(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_sync/work/workspace.py", line 260, in _get_routing_target_database
+    self._pool.update_routing_table(
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_sync/io/_pool.py", line 985, in update_routing_table
+    self._update_routing_table_from(
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_sync/io/_pool.py", line 913, in _update_routing_table_from
+    for address in NetworkUtil.resolve_address(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_async_compat/network/_util.py", line 196, in resolve_address
+    for address_dns_resolved in NetworkUtil._dns_resolver(
+                                ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_async_compat/network/_util.py", line 151, in _dns_resolver
+    raise ValueError(f"Cannot resolve address {address}") from e
+ValueError: Cannot resolve address 150bc1e7.databases.neo4j.io:7687
+{"ts":"2026-01-27T01:30:18","level":"ERROR","logger":"backend.app.api.routes.graph","msg":"get_stats_failed","context":"\"{}\""}
+Traceback (most recent call last):
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_async_compat/network/_util.py", line 144, in _dns_resolver
+    info = NetworkUtil.get_address_info(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_async_compat/network/_util.py", line 130, in get_address_info
+    return socket.getaddrinfo(host, port, family, type, proto, flags)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tayyab/.local/share/uv/python/cpython-3.12.12-linux-x86_64-gnu/lib/python3.12/socket.py", line 978, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno -2] Name or service not known
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/tayyab/Music/Ontology-Project/ontology_production_v1/backend/app/api/routes/graph.py", line 28, in get_graph_stats
+    client = get_neo4j_client(workspace_id=workspace_id)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tayyab/Music/Ontology-Project/ontology_production_v1/core_engine/kg/neo4j_client.py", line 279, in get_neo4j_client
+    return Neo4jClient(
+           ^^^^^^^^^^^^
+  File "/home/tayyab/Music/Ontology-Project/ontology_production_v1/core_engine/kg/neo4j_client.py", line 73, in __init__
+    self._connect()
+  File "/home/tayyab/Music/Ontology-Project/ontology_production_v1/core_engine/kg/neo4j_client.py", line 83, in _connect
+    self._driver.verify_connectivity()
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_sync/driver.py", line 1090, in verify_connectivity
+    self._get_server_info(session_config)
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_sync/driver.py", line 1305, in _get_server_info
+    return session._get_server_info()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_sync/work/session.py", line 183, in _get_server_info
+    self._connect(
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_sync/work/session.py", line 136, in _connect
+    super()._connect(
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_sync/work/workspace.py", line 186, in _connect
+    target_db = self._get_routing_target_database(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_sync/work/workspace.py", line 260, in _get_routing_target_database
+    self._pool.update_routing_table(
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_sync/io/_pool.py", line 985, in update_routing_table
+    self._update_routing_table_from(
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_sync/io/_pool.py", line 913, in _update_routing_table_from
+    for address in NetworkUtil.resolve_address(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_async_compat/network/_util.py", line 196, in resolve_address
+    for address_dns_resolved in NetworkUtil._dns_resolver(
+                                ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_async_compat/network/_util.py", line 151, in _dns_resolver
+    raise ValueError(f"Cannot resolve address {address}") from e
+ValueError: Cannot resolve address 150bc1e7.databases.neo4j.io:7687
+{"ts":"2026-01-27T01:30:18","level":"ERROR","logger":"core_engine.kg","msg":"neo4j_connection_failed","context":"\"{\\\"workspace_id\\\": \\\"default\\\"}\""}
+Traceback (most recent call last):
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_async_compat/network/_util.py", line 144, in _dns_resolver
+    info = NetworkUtil.get_address_info(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_async_compat/network/_util.py", line 130, in get_address_info
+    return socket.getaddrinfo(host, port, family, type, proto, flags)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tayyab/.local/share/uv/python/cpython-3.12.12-linux-x86_64-gnu/lib/python3.12/socket.py", line 978, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno -2] Name or service not known
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/tayyab/Music/Ontology-Project/ontology_production_v1/core_engine/kg/neo4j_client.py", line 83, in _connect
+    self._driver.verify_connectivity()
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_sync/driver.py", line 1090, in verify_connectivity
+    self._get_server_info(session_config)
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_sync/driver.py", line 1305, in _get_server_info
+    return session._get_server_info()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_sync/work/session.py", line 183, in _get_server_info
+    self._connect(
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_sync/work/session.py", line 136, in _connect
+    super()._connect(
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_sync/work/workspace.py", line 186, in _connect
+    target_db = self._get_routing_target_database(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_sync/work/workspace.py", line 260, in _get_routing_target_database
+    self._pool.update_routing_table(
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_sync/io/_pool.py", line 985, in update_routing_table
+    self._update_routing_table_from(
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_sync/io/_pool.py", line 913, in _update_routing_table_from
+    for address in NetworkUtil.resolve_address(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_async_compat/network/_util.py", line 196, in resolve_address
+    for address_dns_resolved in NetworkUtil._dns_resolver(
+                                ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_async_compat/network/_util.py", line 151, in _dns_resolver
+    raise ValueError(f"Cannot resolve address {address}") from e
+ValueError: Cannot resolve address 150bc1e7.databases.neo4j.io:7687
+{"ts":"2026-01-27T01:30:18","level":"ERROR","logger":"backend.app.api.routes.graph","msg":"get_stats_failed","context":"\"{}\""}
+Traceback (most recent call last):
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_async_compat/network/_util.py", line 144, in _dns_resolver
+    info = NetworkUtil.get_address_info(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_async_compat/network/_util.py", line 130, in get_address_info
+    return socket.getaddrinfo(host, port, family, type, proto, flags)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tayyab/.local/share/uv/python/cpython-3.12.12-linux-x86_64-gnu/lib/python3.12/socket.py", line 978, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno -2] Name or service not known
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/tayyab/Music/Ontology-Project/ontology_production_v1/backend/app/api/routes/graph.py", line 28, in get_graph_stats
+    client = get_neo4j_client(workspace_id=workspace_id)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tayyab/Music/Ontology-Project/ontology_production_v1/core_engine/kg/neo4j_client.py", line 279, in get_neo4j_client
+    return Neo4jClient(
+           ^^^^^^^^^^^^
+  File "/home/tayyab/Music/Ontology-Project/ontology_production_v1/core_engine/kg/neo4j_client.py", line 73, in __init__
+    self._connect()
+  File "/home/tayyab/Music/Ontology-Project/ontology_production_v1/core_engine/kg/neo4j_client.py", line 83, in _connect
+    self._driver.verify_connectivity()
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_sync/driver.py", line 1090, in verify_connectivity
+    self._get_server_info(session_config)
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_sync/driver.py", line 1305, in _get_server_info
+    return session._get_server_info()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_sync/work/session.py", line 183, in _get_server_info
+    self._connect(
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_sync/work/session.py", line 136, in _connect
+    super()._connect(
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_sync/work/workspace.py", line 186, in _connect
+    target_db = self._get_routing_target_database(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_sync/work/workspace.py", line 260, in _get_routing_target_database
+    self._pool.update_routing_table(
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_sync/io/_pool.py", line 985, in update_routing_table
+    self._update_routing_table_from(
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_sync/io/_pool.py", line 913, in _update_routing_table_from
+    for address in NetworkUtil.resolve_address(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_async_compat/network/_util.py", line 196, in resolve_address
+    for address_dns_resolved in NetworkUtil._dns_resolver(
+                                ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tayyab/Music/Ontology-Project/.venv/lib/python3.12/site-packages/neo4j/_async_compat/network/_util.py", line 151, in _dns_resolver
+    raise ValueError(f"Cannot resolve address {address}") from e
+ValueError: Cannot resolve address 150bc1e7.databases.neo4j.io:7687

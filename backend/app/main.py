@@ -21,6 +21,7 @@ if str(ROOT) not in sys.path:
 load_dotenv()
 
 from core_engine.logging import get_logger
+from backend.app.core.reasoner_pool import get_reasoner_pool
 
 logger = get_logger(__name__)
 
@@ -65,6 +66,23 @@ app.include_router(sessions.router, prefix="/api/v1", tags=["sessions"])
 
 # React frontend handles all page routes (/, /chat, /dashboard, etc.)
 # Backend only serves API endpoints under /api/v1/*
+
+@app.on_event("startup")
+async def startup_event():
+    """Initialize on startup."""
+    logger.info("app_startup")
+    # Reasoner pool will be initialized on first use
+
+@app.on_event("shutdown")
+async def shutdown_event():
+    """Cleanup on shutdown."""
+    logger.info("app_shutdown")
+    try:
+        pool = get_reasoner_pool()
+        pool.cleanup_all()
+        logger.info("reasoner_pool_cleaned_up_on_shutdown")
+    except Exception as e:
+        logger.warning("reasoner_pool_cleanup_failed", extra={"error": str(e)})
 
 @app.get("/api/v1/health")
 async def health():

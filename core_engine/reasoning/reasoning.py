@@ -160,6 +160,8 @@ class KGReasoner:
         session_id: Optional[str] = None,
         use_llm: Optional[bool] = None,
         use_hybrid: Optional[bool] = None,
+        style: str = "casual",
+        tone: str = "warm",
     ) -> Dict[str, Any]:
         """
         Query using the AGENT-BASED architecture.
@@ -174,6 +176,8 @@ class KGReasoner:
             session_id: Optional session ID for conversation context
             use_llm: Override default LLM usage (ignored in agent mode)
             use_hybrid: Override default hybrid usage (ignored in agent mode)
+            style: Response style (casual, professional, academic, concise, detailed)
+            tone: Response tone (warm, neutral, formal, enthusiastic)
 
         Returns:
             Query result with answer and metadata
@@ -183,6 +187,10 @@ class KGReasoner:
             session_id=session_id,
             workspace_id=self.workspace_id,
         )
+        
+        # Store style and tone in session metadata
+        session.metadata["style"] = style
+        session.metadata["tone"] = tone
         
         # Add user message to session
         session.add_message("user", question)
@@ -194,7 +202,7 @@ class KGReasoner:
         
         self.logger.info(
             "agent_query_start",
-            extra={"context": {"question": question[:50], "session_id": session.session_id}}
+            extra={"context": {"question": question[:50], "session_id": session.session_id, "style": style, "tone": tone}}
         )
         
         try:
@@ -219,9 +227,19 @@ class KGReasoner:
                 }
             )
             
-            # Add assistant response to session
+            # Prepare metadata with sources, rag_count, and kg_count
+            rag_count = len([s for s in agent_response.sources if s.get("type") == "transcript"])
+            kg_count = len([s for s in agent_response.sources if s.get("type") == "knowledge_graph"])
+            message_metadata = {
+                "method": agent_response.metadata.get("method", "agent"),
+                "rag_count": rag_count,
+                "kg_count": kg_count,
+                "sources": agent_response.sources,  # Include sources in metadata for persistence
+            }
+            
+            # Add assistant response to session with metadata
             if agent_response.answer:
-                session.add_message("assistant", agent_response.answer)
+                session.add_message("assistant", agent_response.answer, metadata=message_metadata)
             
             # Log session metadata after agent processing
             self.logger.info(
@@ -266,6 +284,343 @@ class KGReasoner:
             # Save session even if there's an error
             self._save_session_to_db(session)
             raise
+    
+    def query_streaming(
+        self,
+        question: str,
+        session_id: Optional[str] = None,
+        style: str = "casual",
+        tone: str = "warm",
+    ):
+        """
+        Query with streaming response - yields answer chunks as they're generated.
+        
+        Args:
+            question: Natural language question
+            session_id: Optional session ID for conversation context
+            style: Response style
+            tone: Response tone
+            
+        Yields:
+            Dict with 'chunk' (text) and 'done' (bool) keys
+        """
+        # Get or create session
+        session = self.session_manager.get_or_create_session(
+            session_id=session_id,
+            workspace_id=self.workspace_id,
+        )
+        
+        # Store style and tone in session metadata
+        session.metadata["style"] = style
+        session.metadata["tone"] = tone
+        
+        # Add user message to session
+        session.add_message("user", question)
+        
+        # Get conversation history for context
+        conversation_history = [
+            msg.to_dict() for msg in session.get_conversation_history(max_messages=10)
+        ]
+        
+        self.logger.info(
+            "agent_query_streaming_start",
+            extra={"context": {"question": question[:50], "session_id": session.session_id}}
+        )
+        
+        try:
+            # Classify intent first (non-streaming)
+            import time
+            intent_start = time.time()
+            intent = self.agent._classify_intent_llm(question, conversation_history, session.metadata)
+            intent_time = time.time() - intent_start
+            self.logger.info(f"Intent classification took {intent_time:.2f}s, result: {intent}")
+            
+            # Stream for ALL queries (not just knowledge queries)
+            # For non-knowledge queries, stream directly from LLM
+            if intent not in ["knowledge_query", "kg_query"]:
+                # Stream directly from LLM for non-knowledge queries
+                # Build messages for streaming
+                messages = []
+                
+                # Get style/tone instructions
+                style_tone_instructions = self.agent._get_style_tone_instructions(session.metadata)
+                
+                # Build system prompt based on intent
+                if intent == "greeting":
+                    system_prompt = f"""You are an enthusiastic Podcast Intelligence Assistant named Sage - a curious explorer of ideas from fascinating podcast conversations.
+
+CRITICAL: You ONLY answer questions about podcast transcripts, knowledge graph content, and topics related to philosophy, creativity, coaching, and personal development. Do NOT answer math problems, general knowledge, or questions outside your domain.
+
+PERSONALITY:
+- Warm, intellectually curious, and genuinely excited about helping
+- You love connecting dots between ideas from different thinkers
+- You speak like a thoughtful friend who's passionate about learning
+
+{style_tone_instructions}
+
+Respond warmly and naturally to greetings. Keep it brief and inviting."""
+                elif intent == "conversational":
+                    system_prompt = f"""You are Sage, a warm and intellectually curious Podcast Intelligence Assistant.
+
+CRITICAL: You ONLY answer questions about podcast transcripts, knowledge graph content, and topics related to philosophy, creativity, coaching, and personal development. Do NOT answer math problems, general knowledge, or questions outside your domain.
+
+{style_tone_instructions}
+
+Respond naturally to conversational queries. Be engaging and helpful."""
+                else:
+                    system_prompt = f"""You are Sage, a Podcast Intelligence Assistant.
+
+CRITICAL: You ONLY answer questions about podcast transcripts, knowledge graph content, and topics related to philosophy, creativity, coaching, and personal development. Do NOT answer math problems, general knowledge, or questions outside your domain.
+
+{style_tone_instructions}
+
+Respond helpfully and naturally."""
+                
+                messages.append({"role": "system", "content": system_prompt})
+                
+                # Add conversation history
+                if conversation_history:
+                    for msg in conversation_history[-5:]:
+                        role = msg.get("role", "user")
+                        content = msg.get("content", "")
+                        if role in ["user", "assistant"] and content:
+                            messages.append({"role": role, "content": content})
+                
+                # Add current question
+                messages.append({"role": "user", "content": question})
+                
+                # Stream response from LLM
+                stream = self.agent.openai_client.chat.completions.create(
+                    model=self.agent.model,
+                    messages=messages,
+                    temperature=0.7,
+                    max_tokens=500,
+                    stream=True,  # Enable streaming
+                )
+                
+                # Yield chunks as they arrive
+                full_answer = ""
+                for chunk in stream:
+                    if chunk.choices and len(chunk.choices) > 0:
+                        delta = chunk.choices[0].delta
+                        if delta and delta.content:
+                            full_answer += delta.content
+                            yield {"chunk": delta.content, "done": False}
+                
+                # Save answer to session
+                if full_answer:
+                    session.add_message("assistant", full_answer)
+                    self._save_session_to_db(session)
+                
+                # Final chunk with metadata
+                yield {
+                    "chunk": "",
+                    "done": True,
+                    "session_id": session.session_id,
+                    "sources": [],
+                    "metadata": {"method": "agent_streaming", "type": intent}
+                }
+                return
+            
+            # Extract entities and resolve pronouns
+            mentioned_entities = self.agent._extract_mentioned_entities(question)
+            resolved_query = self.agent._resolve_pronouns(question, session.metadata)
+            
+            # Parallel RAG + KG search
+            rag_results = []
+            kg_results = []
+            
+            def _rag_search():
+                if self.hybrid_retriever:
+                    try:
+                        return self.hybrid_retriever.retrieve(resolved_query, use_vector=True, use_graph=False), None
+                    except Exception as e:
+                        return [], e
+                return [], None
+            
+            def _kg_search():
+                if self.neo4j_client:
+                    try:
+                        # Check if Neo4j is actually connected
+                        try:
+                            # Quick health check
+                            test_query = "RETURN 1 as test"
+                            self.neo4j_client.execute_read(test_query, {})
+                        except Exception as conn_error:
+                            self.logger.error(f"Neo4j connection check failed: {conn_error}")
+                            return [], f"Neo4j connection error: {conn_error}"
+                        
+                        results = self.agent._search_knowledge_graph(resolved_query)
+                        return results, None
+                    except Exception as e:
+                        self.logger.error(f"KG search exception: {e}", exc_info=True)
+                        return [], e
+                else:
+                    self.logger.warning("Neo4j client not available for KG search")
+                    return [], None
+            
+            # Execute searches in parallel with timeout
+            from concurrent.futures import ThreadPoolExecutor, TimeoutError as FutureTimeoutError
+            import time
+            start_time = time.time()
+            
+            with ThreadPoolExecutor(max_workers=2) as executor:
+                rag_future = executor.submit(_rag_search)
+                kg_future = executor.submit(_kg_search)
+                
+                # Wait for RAG first (usually faster), then KG with timeout
+                try:
+                    rag_result, rag_error = rag_future.result(timeout=10.0)  # 10s timeout for RAG
+                    rag_results = rag_result
+                    self.logger.info(f"RAG search completed in {time.time() - start_time:.2f}s, returned {len(rag_results)} results")
+                except FutureTimeoutError:
+                    self.logger.warning("RAG search timed out after 10s")
+                    rag_results = []
+                    rag_error = "Timeout"
+                
+                # Don't wait too long for KG - start streaming if RAG is ready
+                try:
+                    kg_result, kg_error = kg_future.result(timeout=5.0)  # 5s timeout for KG
+                    kg_results = kg_result
+                    self.logger.info(f"KG search completed in {time.time() - start_time:.2f}s, returned {len(kg_results)} results")
+                except FutureTimeoutError:
+                    self.logger.warning("KG search timed out after 5s - proceeding without KG results")
+                    kg_results = []
+                    kg_error = "Timeout"
+                
+                # Log errors
+                if rag_error:
+                    self.logger.warning(f"RAG search error: {rag_error}")
+                if kg_error:
+                    self.logger.warning(f"KG search error: {kg_error}")
+            
+            # Validate entity coverage
+            coverage_info = None
+            if mentioned_entities and len(mentioned_entities) > 1:
+                coverage_info = self.agent._validate_entity_coverage(mentioned_entities, rag_results, kg_results)
+            
+            # Stream answer synthesis
+            full_answer = ""
+            for chunk in self.agent._synthesize_answer_streaming(
+                query=question,
+                resolved_query=resolved_query,
+                rag_results=rag_results[:5],
+                kg_results=kg_results[:10],
+                conversation_history=conversation_history,
+                coverage_info=coverage_info,
+                mentioned_entities=mentioned_entities,
+                session_metadata=session.metadata,
+            ):
+                full_answer += chunk
+                yield {"chunk": chunk, "done": False}
+            
+            # Extract sources
+            sources = self.agent._extract_sources(rag_results[:5], kg_results[:10])
+            
+            # Prepare metadata with sources, rag_count, and kg_count
+            message_metadata = {
+                "method": "agent_streaming",
+                "tools_used": ["search_transcripts", "search_knowledge_graph"],
+                "rag_count": len(rag_results),
+                "kg_count": len(kg_results),
+                "sources": sources,  # Include sources in metadata for persistence
+            }
+            
+            # Debug logging
+            self.logger.info(
+                "saving_message_with_metadata",
+                extra={
+                    "context": {
+                        "session_id": session.session_id,
+                        "rag_count": message_metadata["rag_count"],
+                        "kg_count": message_metadata["kg_count"],
+                        "sources_count": len(sources),
+                        "metadata_keys": list(message_metadata.keys())
+                    }
+                }
+            )
+            
+            # Save complete answer to session with metadata
+            if full_answer:
+                # Add message with metadata - ensure it's a proper dict
+                if not isinstance(message_metadata, dict):
+                    message_metadata = dict(message_metadata) if message_metadata else {}
+                
+                # Add message with metadata
+                session.add_message("assistant", full_answer, metadata=message_metadata)
+                
+                # CRITICAL: Directly set metadata on the message object to ensure it's saved
+                # This is a workaround in case the Message constructor doesn't preserve metadata correctly
+                last_msg = list(session.messages)[-1] if session.messages else None
+                if last_msg and last_msg.role == "assistant":
+                    # Force set metadata directly on the message object
+                    last_msg.metadata = message_metadata.copy() if message_metadata else {}
+                    
+                    self.logger.info(
+                        "metadata_force_set",
+                        extra={
+                            "context": {
+                                "session_id": session.session_id,
+                                "metadata_keys": list(last_msg.metadata.keys()),
+                                "rag_count": last_msg.metadata.get("rag_count"),
+                                "kg_count": last_msg.metadata.get("kg_count"),
+                            }
+                        }
+                    )
+                    
+                    self.logger.info(
+                        "message_saved_with_metadata",
+                        extra={
+                            "context": {
+                                "has_metadata": bool(last_msg.metadata),
+                                "metadata_keys": list(last_msg.metadata.keys()) if last_msg.metadata else [],
+                                "rag_count": last_msg.metadata.get("rag_count") if last_msg.metadata else None,
+                                "kg_count": last_msg.metadata.get("kg_count") if last_msg.metadata else None,
+                                "sources_count": len(last_msg.metadata.get("sources", [])) if last_msg.metadata else 0,
+                            }
+                        }
+                    )
+                
+                # Save to database
+                self._save_session_to_db(session)
+                
+                # Verify what was saved
+                messages_for_verification = [msg.to_dict() for msg in session.get_conversation_history()]
+                last_msg_dict = messages_for_verification[-1] if messages_for_verification else None
+                if last_msg_dict and last_msg_dict.get("role") == "assistant":
+                    self.logger.info(
+                        "verifying_saved_metadata",
+                        extra={
+                            "context": {
+                                "has_metadata_in_dict": bool(last_msg_dict.get("metadata")),
+                                "metadata_keys_in_dict": list(last_msg_dict.get("metadata", {}).keys()),
+                                "rag_count_in_dict": last_msg_dict.get("metadata", {}).get("rag_count"),
+                                "kg_count_in_dict": last_msg_dict.get("metadata", {}).get("kg_count"),
+                            }
+                        }
+                    )
+            
+            # Final message with metadata
+            yield {
+                "chunk": "",
+                "done": True,
+                "session_id": session.session_id,
+                "sources": sources,
+                "metadata": {
+                    "method": "agent_streaming",
+                    "tools_used": ["search_transcripts", "search_knowledge_graph"],
+                    "rag_count": len(rag_results),
+                    "kg_count": len(kg_results),
+                }
+            }
+            
+        except Exception as e:
+            self.logger.error(
+                "query_streaming_failed",
+                exc_info=True,
+                extra={"context": {"question": question[:100], "error": str(e)}},
+            )
+            yield {"chunk": f"Error: {str(e)}", "done": True}
 
     def _has_sufficient_context_for_answer(
         self,
@@ -1083,7 +1438,30 @@ CRITICAL INSTRUCTIONS:
             db_path = db.db_path
             
             # Convert session messages to format expected by SessionDB
-            messages_for_db = [msg.to_dict() for msg in session.get_conversation_history()]
+            messages_for_db = []
+            for msg in session.get_conversation_history():
+                msg_dict = msg.to_dict()
+                # Ensure metadata is included (defensive check)
+                if not msg_dict.get("metadata"):
+                    msg_dict["metadata"] = msg.metadata if hasattr(msg, 'metadata') else {}
+                messages_for_db.append(msg_dict)
+            
+            # Debug: Log what we're about to save
+            if messages_for_db:
+                last_msg = messages_for_db[-1]
+                if last_msg.get("role") == "assistant":
+                    self.logger.info(
+                        "saving_to_db_with_metadata",
+                        extra={
+                            "context": {
+                                "session_id": session.session_id,
+                                "has_metadata": bool(last_msg.get("metadata")),
+                                "metadata_keys": list(last_msg.get("metadata", {}).keys()),
+                                "rag_count": last_msg.get("metadata", {}).get("rag_count"),
+                                "kg_count": last_msg.get("metadata", {}).get("kg_count"),
+                            }
+                        }
+                    )
             
             # Save entire session at once (INSERT OR REPLACE)
             conn = sqlite3.connect(db_path)
@@ -1096,8 +1474,8 @@ CRITICAL INSTRUCTIONS:
             """, (
                 session.session_id,
                 session.workspace_id,
-                json.dumps(messages_for_db),
-                json.dumps(session.metadata or {})
+                json.dumps(messages_for_db, default=str),
+                json.dumps(session.metadata or {}, default=str)
             ))
             
             conn.commit()

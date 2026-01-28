@@ -20,6 +20,9 @@ export default {
           900: '#0c4a6e',
         },
       },
+      fontFamily: {
+        'serif': ['"Times New Roman"', 'Times', 'serif'],
+      },
     },
   },
   plugins: [],

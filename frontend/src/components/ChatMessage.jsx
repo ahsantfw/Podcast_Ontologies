@@ -4,73 +4,77 @@ import ReactMarkdown from 'react-markdown'
 
 // Custom components for markdown rendering with proper styling
 const MarkdownComponents = {
-  // Headings
-  h1: ({ children }) => <h1 className="text-xl font-bold mt-4 mb-2 text-gray-900">{children}</h1>,
-  h2: ({ children }) => <h2 className="text-lg font-bold mt-3 mb-2 text-gray-900">{children}</h2>,
-  h3: ({ children }) => <h3 className="text-base font-semibold mt-2 mb-1 text-gray-900">{children}</h3>,
+  // Headings - Better spacing and hierarchy
+  h1: ({ children }) => <h1 className="text-2xl font-bold mt-6 mb-4 text-gray-900 leading-tight border-b border-gray-200 pb-2">{children}</h1>,
+  h2: ({ children }) => <h2 className="text-xl font-bold mt-5 mb-3 text-gray-900 leading-tight">{children}</h2>,
+  h3: ({ children }) => <h3 className="text-lg font-semibold mt-4 mb-2 text-gray-900 leading-tight">{children}</h3>,
+  h4: ({ children }) => <h4 className="text-base font-semibold mt-3 mb-2 text-gray-900">{children}</h4>,
   
-  // Paragraphs
-  p: ({ children }) => <p className="mb-2 leading-relaxed">{children}</p>,
+  // Paragraphs - Better spacing and readability
+  p: ({ children }) => <p className="mb-4 leading-relaxed text-gray-800">{children}</p>,
   
-  // Bold and italic
-  strong: ({ children }) => <strong className="font-semibold text-gray-900">{children}</strong>,
-  em: ({ children }) => <em className="italic">{children}</em>,
+  // Bold and italic - More prominent
+  strong: ({ children }) => <strong className="font-bold text-gray-900">{children}</strong>,
+  em: ({ children }) => <em className="italic text-gray-700">{children}</em>,
   
-  // Lists
-  ul: ({ children }) => <ul className="list-disc list-inside mb-2 space-y-1 ml-2">{children}</ul>,
-  ol: ({ children }) => <ol className="list-decimal list-inside mb-2 space-y-1 ml-2">{children}</ol>,
-  li: ({ children }) => <li className="text-gray-800">{children}</li>,
+  // Lists - Better spacing and indentation
+  ul: ({ children }) => <ul className="list-disc list-outside mb-4 space-y-2 ml-6 text-gray-800">{children}</ul>,
+  ol: ({ children }) => <ol className="list-decimal list-outside mb-4 space-y-2 ml-6 text-gray-800">{children}</ol>,
+  li: ({ children }) => <li className="leading-relaxed pl-1">{children}</li>,
   
-  // Code
+  // Code - Better styling
   code: ({ inline, children }) => {
     if (inline) {
-      return <code className="bg-gray-100 px-1.5 py-0.5 rounded text-sm font-mono text-gray-800">{children}</code>
+      return <code className="bg-gray-100 px-2 py-0.5 rounded text-sm font-mono text-gray-900 border border-gray-200">{children}</code>
     }
     return (
-      <pre className="bg-gray-900 text-gray-100 p-3 rounded-lg overflow-x-auto my-2">
-        <code className="text-sm font-mono">{children}</code>
+      <pre className="bg-gray-900 text-gray-100 p-4 rounded-lg overflow-x-auto my-4 border border-gray-700">
+        <code className="text-sm font-mono leading-relaxed">{children}</code>
       </pre>
     )
   },
   
-  // Blockquotes
+  // Blockquotes - More prominent
   blockquote: ({ children }) => (
-    <blockquote className="border-l-4 border-blue-500 pl-4 py-1 my-2 bg-blue-50 rounded-r-lg italic text-gray-700">
+    <blockquote className="border-l-4 border-blue-500 pl-5 py-2 my-4 bg-blue-50 rounded-r-lg text-gray-800 italic">
       {children}
     </blockquote>
   ),
   
-  // Tables - with proper borders and styling
+  // Tables - Better borders and styling
   table: ({ children }) => (
-    <div className="overflow-x-auto my-3">
-      <table className="min-w-full border border-gray-300 rounded-lg overflow-hidden">
+    <div className="overflow-x-auto my-4 border border-gray-200 rounded-lg">
+      <table className="min-w-full divide-y divide-gray-200">
         {children}
       </table>
     </div>
   ),
   thead: ({ children }) => <thead className="bg-gray-100">{children}</thead>,
-  tbody: ({ children }) => <tbody className="divide-y divide-gray-200">{children}</tbody>,
-  tr: ({ children }) => <tr className="hover:bg-gray-50">{children}</tr>,
+  tbody: ({ children }) => <tbody className="bg-white divide-y divide-gray-200">{children}</tbody>,
+  tr: ({ children }) => <tr className="hover:bg-gray-50 transition-colors">{children}</tr>,
   th: ({ children }) => (
-    <th className="px-4 py-2 text-left text-xs font-semibold text-gray-700 uppercase tracking-wider border-b border-gray-300">
+    <th className="px-4 py-3 text-left text-sm font-bold text-gray-900 border-b-2 border-gray-300">
       {children}
     </th>
   ),
   td: ({ children }) => (
-    <td className="px-4 py-2 text-sm text-gray-800 border-b border-gray-200">
+    <td className="px-4 py-3 text-sm text-gray-800 border-b border-gray-200">
       {children}
     </td>
   ),
   
-  // Links
+  // Links - Better styling
   a: ({ href, children }) => (
-    <a href={href} className="text-blue-600 hover:text-blue-800 underline" target="_blank" rel="noopener noreferrer">
+    <a href={href} className="text-blue-600 hover:text-blue-800 underline font-medium" target="_blank" rel="noopener noreferrer">
       {children}
     </a>
   ),
   
-  // Horizontal rule
-  hr: () => <hr className="my-4 border-gray-300" />,
+  // Horizontal rule - More visible
+  hr: () => <hr className="my-6 border-gray-300 border-t-2" />,
+  
+  // Line breaks
+  br: () => <br className="block my-1" />,
 }
 
 export default function ChatMessage({ message, showSources = false, onToggleSources }) {
@@ -88,71 +92,153 @@ export default function ChatMessage({ message, showSources = false, onToggleSour
 
   if (message.role === 'user') {
     return (
-      <div className="flex gap-3 justify-end mb-6">
-        <div className="max-w-[80%] sm:max-w-[75%] rounded-2xl px-4 py-3 bg-blue-600 text-white shadow-sm">
+      <div className="flex gap-3 justify-end mb-6 items-start">
+        <div className="max-w-2xl rounded-2xl px-4 py-3 text-white shadow-sm" style={{ backgroundColor: '#353535' }}>
           <div className="whitespace-pre-wrap text-sm leading-relaxed">{message.content}</div>
-        </div>
-        <div className="w-8 h-8 rounded-full bg-gray-500 flex items-center justify-center text-white font-semibold text-sm flex-shrink-0">
-          U
         </div>
       </div>
     )
   }
 
   return (
-    <div className="flex gap-3 justify-start mb-6">
-      <div className="w-8 h-8 rounded-full bg-blue-600 flex items-center justify-center text-white font-semibold text-sm flex-shrink-0">
-        AI
-      </div>
-      <div className="max-w-[80%] sm:max-w-[75%]">
-        <div className={`rounded-2xl px-4 py-3 shadow-sm ${
+    <div className="flex gap-3 justify-start mb-6 items-start">
+      <div className="max-w-4xl w-full">
+        <div className={`rounded-2xl px-4 py-3 ${
           message.error
             ? 'bg-red-50 text-red-900 border border-red-200'
-            : 'bg-white border border-gray-200 text-gray-900'
+            : 'bg-gray-50 text-gray-900'
         }`}>
-          {/* Render markdown content */}
-          <div className="text-sm leading-relaxed prose prose-sm max-w-none">
-            <ReactMarkdown components={MarkdownComponents}>
-              {message.content}
-            </ReactMarkdown>
-          </div>
+          {/* Thinking Steps UI - Show ONLY when thinking is NOT complete */}
+          {message.streaming && message.thinkingSteps && !message.thinkingComplete && (
+            <div className="mb-4 space-y-2">
+              {/* Understanding Step */}
+              <div className="flex items-center gap-2 text-sm">
+                {message.thinkingSteps.understanding ? (
+                  <div className="w-5 h-5 rounded-full flex items-center justify-center flex-shrink-0" style={{ backgroundColor: '#2b2b2b' }}>
+                    <Check className="h-3 w-3 text-white" />
+                  </div>
+                ) : (
+                  <div className="w-5 h-5 flex-shrink-0 flex items-center justify-center">
+                    <svg className="w-5 h-5 animate-spin text-gray-700" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                      <path d="M12 2C6.47715 2 2 6.47715 2 12C2 17.5228 6.47715 22 12 22C17.5228 22 22 17.5228 22 12" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" fill="none"/>
+                    </svg>
+                  </div>
+                )}
+                <span className={message.thinkingSteps.understanding ? 'text-gray-700' : 'text-gray-400'}>
+                  Understood the question and identifying how to answer
+                </span>
+              </div>
+
+              {/* Searching RAG Step */}
+              <div className="flex items-center gap-2 text-sm">
+                {message.thinkingSteps.searchingRAG ? (
+                  <div className="w-5 h-5 rounded-full flex items-center justify-center flex-shrink-0" style={{ backgroundColor: '#2b2b2b' }}>
+                    <Check className="h-3 w-3 text-white" />
+                  </div>
+                ) : message.thinkingSteps.understanding ? (
+                  <div className="w-5 h-5 flex-shrink-0 flex items-center justify-center">
+                    <svg className="w-5 h-5 animate-spin text-gray-700" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                      <path d="M12 2C6.47715 2 2 6.47715 2 12C2 17.5228 6.47715 22 12 22C17.5228 22 22 17.5228 22 12" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" fill="none"/>
+                    </svg>
+                  </div>
+                ) : (
+                  <div className="w-5 h-5 rounded-full border-2 border-gray-300 flex-shrink-0"></div>
+                )}
+                <span className={message.thinkingSteps.searchingRAG ? 'text-gray-700' : 'text-gray-400'}>
+                  Searching in the RAG database for relevant information
+                </span>
+              </div>
+
+              {/* Searching KG Step */}
+              <div className="flex items-center gap-2 text-sm">
+                {message.thinkingSteps.searchingKG ? (
+                  <div className="w-5 h-5 rounded-full flex items-center justify-center flex-shrink-0" style={{ backgroundColor: '#2b2b2b' }}>
+                    <Check className="h-3 w-3 text-white" />
+                  </div>
+                ) : message.thinkingSteps.searchingRAG ? (
+                  <div className="w-5 h-5 flex-shrink-0 flex items-center justify-center">
+                    <svg className="w-5 h-5 animate-spin text-gray-700" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                      <path d="M12 2C6.47715 2 2 6.47715 2 12C2 17.5228 6.47715 22 12 22C17.5228 22 22 17.5228 22 12" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" fill="none"/>
+                    </svg>
+                  </div>
+                ) : (
+                  <div className="w-5 h-5 rounded-full border-2 border-gray-300 flex-shrink-0"></div>
+                )}
+                <span className={message.thinkingSteps.searchingKG ? 'text-gray-700' : 'text-gray-400'}>
+                  Searching knowledge graph for related concepts and relationships
+                </span>
+              </div>
+
+              {/* Generating Step */}
+              <div className="flex items-center gap-2 text-sm">
+                {message.thinkingSteps.generating ? (
+                  <div className="w-5 h-5 flex-shrink-0 flex items-center justify-center">
+                    <svg className="w-5 h-5 animate-spin text-gray-700" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                      <path d="M12 2C6.47715 2 2 6.47715 2 12C2 17.5228 6.47715 22 12 22C17.5228 22 22 17.5228 22 12" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" fill="none"/>
+                    </svg>
+                  </div>
+                ) : message.thinkingSteps.searchingKG ? (
+                  <div className="w-5 h-5 flex-shrink-0 flex items-center justify-center">
+                    <svg className="w-5 h-5 animate-spin text-gray-700" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                      <path d="M12 2C6.47715 2 2 6.47715 2 12C2 17.5228 6.47715 22 12 22C17.5228 22 22 17.5228 22 12" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" fill="none"/>
+                    </svg>
+                  </div>
+                ) : (
+                  <div className="w-5 h-5 rounded-full border-2 border-gray-300 flex-shrink-0"></div>
+                )}
+                <span className={message.thinkingSteps.generating ? 'text-gray-700' : 'text-gray-400'}>
+                  Synthesizing answer from retrieved information
+                </span>
+              </div>
+            </div>
+          )}
+
+          {/* Render markdown content - Show when thinking is complete OR when not streaming */}
+          {(message.thinkingComplete || !message.streaming || !message.thinkingSteps) && (
+            <div className="text-sm leading-relaxed prose prose-sm max-w-none min-h-[2rem] prose-headings:font-bold prose-p:mb-4 prose-ul:mb-4 prose-ol:mb-4">
+              <ReactMarkdown components={MarkdownComponents}>
+                {message.content || ''}
+              </ReactMarkdown>
+            </div>
+          )}
           
-          {/* Action Buttons */}
-          {!message.error && (
-            <div className="flex items-center gap-3 mt-3 pt-3 border-t border-gray-200">
+          {/* Action Buttons - Only show when message is complete (not streaming) - Aligned with text */}
+          {!message.error && !message.streaming && message.content && (
+            <div className="flex items-center gap-3 mt-3">
+              {/* Copy Icon - No text - 1px outside alignment */}
               <button
                 onClick={handleCopy}
-                className="flex items-center gap-1.5 px-2.5 py-1.5 text-xs text-gray-600 hover:bg-gray-100 rounded-md transition-colors"
+                className="p-1.5 text-gray-500 hover:text-gray-700 hover:bg-gray-100 rounded transition-colors -ml-[7px]"
                 title="Copy message"
               >
                 {copied ? (
-                  <>
-                    <Check className="h-3.5 w-3.5" />
-                    <span>Copied</span>
-                  </>
+                  <Check className="h-4 w-4" />
                 ) : (
-                  <>
-                    <Copy className="h-3.5 w-3.5" />
-                    <span>Copy</span>
-                  </>
+                  <Copy className="h-4 w-4" />
                 )}
               </button>
+              
+              {/* RAG Count - Always show if available */}
+              {message.metadata && (message.metadata.rag_count !== undefined && message.metadata.rag_count !== null) && (
+                <span className="text-xs text-gray-600">RAG: {message.metadata.rag_count}</span>
+              )}
+              
+              {/* KG Count - Always show if available */}
+              {message.metadata && (message.metadata.kg_count !== undefined && message.metadata.kg_count !== null) && (
+                <span className="text-xs text-gray-600">KG: {message.metadata.kg_count}</span>
+              )}
+              
+              {/* Sources Icon - Always show if sources exist */}
               {message.sources && message.sources.length > 0 && (
                 <button
                   onClick={onToggleSources}
-                  className="flex items-center gap-1.5 px-2.5 py-1.5 text-xs text-gray-600 hover:bg-gray-100 rounded-md transition-colors"
-                  title={showSources ? "Hide sources" : "Show sources"}
+                  className="p-1.5 text-gray-500 hover:text-gray-700 hover:bg-gray-100 rounded transition-colors"
+                  title={showSources ? "Hide sources" : `Show ${message.sources.length} sources`}
                 >
                   {showSources ? (
-                    <>
-                      <EyeOff className="h-3.5 w-3.5" />
-                      <span>Hide Sources</span>
-                    </>
+                    <EyeOff className="h-4 w-4" />
                   ) : (
-                    <>
-                      <Eye className="h-3.5 w-3.5" />
-                      <span>Sources ({message.sources.length})</span>
-                    </>
+                    <Eye className="h-4 w-4" />
                   )}
                 </button>
               )}
@@ -162,9 +248,9 @@ export default function ChatMessage({ message, showSources = false, onToggleSour
           {/* Sources */}
           {!message.error && showSources && message.sources && message.sources.length > 0 && (
             <div className="mt-4 pt-4 border-t border-gray-200">
-              <div className="text-xs font-semibold text-gray-700 mb-3 uppercase tracking-wide">Sources</div>
+              <div className="text-xs font-semibold text-gray-700 mb-3 uppercase tracking-wide">Sources ({message.sources.length})</div>
               <div className="space-y-2 max-h-64 overflow-y-auto">
-                {message.sources.slice(0, 5).map((source, sIdx) => (
+                {message.sources.map((source, sIdx) => (
                   <div key={sIdx} className="text-xs bg-gray-50 p-3 rounded-lg border border-gray-200 hover:border-gray-300 transition-colors">
                     <div className="font-semibold text-gray-900 mb-1 flex items-center gap-2">
                       <span>{source.episode_id || 'Unknown Episode'}</span>
@@ -188,30 +274,7 @@ export default function ChatMessage({ message, showSources = false, onToggleSour
             </div>
           )}
 
-          {/* Metadata */}
-          {!message.error && message.metadata && (
-            <div className="mt-3 pt-3 border-t border-gray-200 flex items-center gap-3 text-xs">
-              <span className={`px-2 py-1 rounded font-medium ${
-                message.metadata.method === 'hybrid' ? 'bg-blue-100 text-blue-800' :
-                message.metadata.method === 'rag' ? 'bg-green-100 text-green-800' :
-                message.metadata.method?.startsWith('direct_') ? 'bg-emerald-100 text-emerald-800' :
-                message.metadata.method === 'agent' ? 'bg-violet-100 text-violet-800' :
-                'bg-purple-100 text-purple-800'
-              }`}>
-                {/* Show intent type for agent, otherwise show method */}
-                {message.metadata.method === 'agent' 
-                  ? (message.metadata.type?.toUpperCase() || 'AGENT')
-                  : (message.metadata.method?.toUpperCase().replace('DIRECT_', '') || 'UNKNOWN')
-                }
-              </span>
-              {(message.metadata.rag_count !== undefined && message.metadata.rag_count !== null) && (
-                <span className="text-gray-600">RAG: {message.metadata.rag_count}</span>
-              )}
-              {(message.metadata.kg_count !== undefined && message.metadata.kg_count !== null) && (
-                <span className="text-gray-600">KG: {message.metadata.kg_count}</span>
-              )}
-            </div>
-          )}
+          {/* Response Category Badge - HIDDEN in UI (kept in backend) */}
         </div>
       </div>
     </div>

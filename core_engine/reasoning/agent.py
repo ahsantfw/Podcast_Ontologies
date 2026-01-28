@@ -30,9 +30,12 @@ from dataclasses import dataclass, field
 import json
 import os
 import re
+from concurrent.futures import ThreadPoolExecutor
 from dotenv import load_dotenv
 
 from core_engine.logging import get_logger
+from core_engine.reasoning.style_config import STYLE_INSTRUCTIONS, DEFAULT_STYLE
+from core_engine.reasoning.tone_config import TONE_INSTRUCTIONS, DEFAULT_TONE
 
 load_dotenv()
 
@@ -129,7 +132,10 @@ class PodcastAgent:
         r"\b(capital of|population of|geography)\b",
         r"\bwho is (?:the )?(?:pm|president|king|queen|leader) of\b",
         r"\b(translate|translation|language)\b",
-        r"\b(calculate|math|equation|solve)\b",
+        r"\b(calculate|math|equation|solve|algebra|geometry|trigonometry|calculus)\b",
+        r"\b(\d+\s*[+\-*/]\s*\d+|x\s*[=+\-*/]|solve for x|what is x|value of x)\b",
+        r"\b(if\s+\d+.*=\s*\d+.*what is|if\s+.*equation|solve this|math problem)\b",
+        r"\b(2\+2|3x|5y|quadratic|polynomial|derivative|integral)\b",
     ]
 
     def __init__(
@@ -161,6 +167,30 @@ class PodcastAgent:
             "has_rag": hybrid_retriever is not None,
             "has_kg": neo4j_client is not None,
         })
+
+    def _get_style_tone_instructions(self, session_metadata: Optional[Dict[str, Any]] = None) -> str:
+        """
+        Generate style and tone-specific instructions based on user preferences.
+        
+        Instructions are loaded from config files:
+        - core_engine/reasoning/style_config.py (for styles)
+        - core_engine/reasoning/tone_config.py (for tones)
+        
+        Developers can modify these config files to change prompt instructions.
+        """
+        style = session_metadata.get("style", DEFAULT_STYLE) if session_metadata else DEFAULT_STYLE
+        tone = session_metadata.get("tone", DEFAULT_TONE) if session_metadata else DEFAULT_TONE
+        
+        # Get instructions from config files
+        style_text = STYLE_INSTRUCTIONS.get(style, STYLE_INSTRUCTIONS[DEFAULT_STYLE])
+        tone_text = TONE_INSTRUCTIONS.get(tone, TONE_INSTRUCTIONS[DEFAULT_TONE])
+        
+        return f"""
+{style_text}
+
+{tone_text}
+
+Apply these consistently throughout your response."""
 
     def run(
         self,
@@ -197,18 +227,22 @@ class PodcastAgent:
         self.logger.info(f"LLM classified intent: {intent}", extra={"query": query[:50]})
         
         # Route based on LLM's decision
+        if intent == "out_of_scope":
+            self.logger.info(f"Query classified as OUT OF SCOPE by LLM: {query[:50]}")
+            return self._handle_out_of_scope_llm(query, conversation_history)
+        
         if intent == "greeting":
             # Check if user is introducing themselves
             self._extract_user_info(query, session_metadata)
-            return self._handle_with_llm(query, conversation_history, "greeting")
+            return self._handle_with_llm(query, conversation_history, "greeting", session_metadata)
         
         if intent == "conversational":
             # Check if user is sharing info about themselves
             self._extract_user_info(query, session_metadata)
-            return self._handle_with_llm(query, conversation_history, "conversational")
+            return self._handle_with_llm(query, conversation_history, "conversational", session_metadata)
         
         if intent == "system_info":
-            return self._handle_with_llm(query, conversation_history, "system_info")
+            return self._handle_with_llm(query, conversation_history, "system_info", session_metadata)
         
         if intent == "user_memory":
             return self._handle_user_memory(query, conversation_history, session_metadata)
@@ -255,9 +289,18 @@ class PodcastAgent:
 
 {self.SYSTEM_PURPOSE}
 
+CRITICAL: This system ONLY answers questions about podcast transcripts, knowledge graph content, and topics related to philosophy, creativity, coaching, and personal development. 
+
+STRICT RULES - REJECT IMMEDIATELY:
+- Math problems, equations, calculations, algebra, geometry → NOT ALLOWED
+- General knowledge questions (history, science facts, geography) → NOT ALLOWED  
+- Current events, news, politics → NOT ALLOWED
+- Code, programming, technical questions → NOT ALLOWED
+- Any question NOT related to podcast content or knowledge graph → NOT ALLOWED
+
 YOUR TASK: Classify the user query into ONE category based on:
 1. The system's purpose and capabilities
-2. Whether the query aligns with the domain (philosophy, creativity, coaching, personal development)
+2. Whether the query aligns STRICTLY with the domain (philosophy, creativity, coaching, personal development from podcasts)
 3. Whether the query requires searching the knowledge base
 
 CATEGORIES:
@@ -268,8 +311,10 @@ CATEGORIES:
 - list_kg: Requests to list/show ALL concepts, nodes, or relationship types from knowledge graph
 - kg_query: Questions about SPECIFIC relationships (e.g., "what is ABOUT", "show ENABLES", "what does X relate to")
 - knowledge_query: Questions seeking information from podcast content (concepts, people, practices, quotes)
+- out_of_scope: ANY question NOT about podcast content, knowledge graph, or domain topics (math, general knowledge, etc.)
 
 INTELLIGENT CLASSIFICATION RULES:
+
 1. If query asks "how many transcripts/episodes/concepts" → knowledge_query (needs to query data)
 2. If query is about podcast content (people, concepts, practices, ideas, "what practices are associated with X") → knowledge_query
 3. If query asks about system structure ("list concepts", "show relationships") → list_kg
@@ -277,6 +322,13 @@ INTELLIGENT CLASSIFICATION RULES:
 5. If query is clearly out of scope (weather, news, code) → Already filtered, won't reach here
 6. Consider the system's domain - if query doesn't relate to philosophy/creativity/coaching/personal development, 
    but is general knowledge, be honest about limitations
+
+7. If query is math, calculation, equation, problem-solving → out_of_scope
+8. If query asks "how many transcripts/episodes/concepts" → knowledge_query (needs to query data)
+9. If query is about podcast content (people, concepts, practices, ideas, "what practices are associated with X") → knowledge_query
+10. If query asks about system structure ("list concepts", "show relationships") → list_kg
+11. If query asks about specific relationship types ("what is ABOUT?", "show ENABLES") → kg_query
+12. STRICT: Only classify as knowledge_query/list_kg/kg_query if it's clearly about podcast/knowledge graph content
 
 EXAMPLES:
 - "list all concepts" → list_kg
@@ -316,9 +368,10 @@ Respond with ONLY the category name (one word):"""
             intent = response.choices[0].message.content.strip().lower()
             
             # Validate intent
-            valid_intents = {"greeting", "conversational", "system_info", "user_memory", "list_kg", "kg_query", "knowledge_query"}
+            valid_intents = {"greeting", "conversational", "system_info", "user_memory", "list_kg", "kg_query", "knowledge_query", "out_of_scope"}
             if intent not in valid_intents:
-                return "knowledge_query"
+                # If unclear, default to out_of_scope to be safe
+                return "out_of_scope"
             return intent
         except Exception as e:
             self.logger.error(f"Intent classification failed: {e}")
@@ -329,6 +382,7 @@ Respond with ONLY the category name (one word):"""
         query: str,
         conversation_history: Optional[List[Dict[str, Any]]] = None,
         intent_type: str = "general",
+        session_metadata: Optional[Dict[str, Any]] = None,
     ) -> AgentResponse:
         """Handle any intent with LLM - no hard-coded responses."""
         
@@ -337,6 +391,9 @@ Respond with ONLY the category name (one word):"""
         if conversation_history:
             recent = conversation_history[-5:]
             context = "\n".join([f"{m.get('role', 'user')}: {m.get('content', '')[:150]}" for m in recent])
+        
+        # Get style/tone instructions
+        style_tone_instructions = self._get_style_tone_instructions(session_metadata)
         
         # Intent-specific instructions with engaging personality
         instructions = {
@@ -399,6 +456,8 @@ Use plain text, avoid complex markdown. Be concise but engaging.""",
         instruction = instructions.get(intent_type, instructions["conversational"])
         
         prompt = f"""{instruction}
+
+{style_tone_instructions}
 
 {f"CONVERSATION CONTEXT:{chr(10)}{context}" if context else ""}
 
@@ -553,14 +612,28 @@ Example responses:
         query: str,
         conversation_history: Optional[List[Dict[str, Any]]] = None,
     ) -> AgentResponse:
-        """Handle out of scope with LLM - polite refusal."""
+        """Handle out of scope with LLM - STRICT refusal focused on product domain."""
         try:
             # Build messages array with conversation history
             messages = [
-                {"role": "system", "content": """You are a Podcast Intelligence Assistant with a warm, engaging personality.
-The user asked something outside your expertise (you only know about podcasts on philosophy, creativity, coaching, personal development).
-Politely explain this is outside your expertise and invite them to ask about podcast topics instead.
-Be brief, friendly, and maintain any relationship you've built in the conversation."""}
+                {"role": "system", "content": """You are a Podcast Intelligence Assistant named Sage. You are STRICTLY focused on your product domain.
+
+YOUR DOMAIN (ONLY):
+- Questions about podcast transcripts and their content
+- Concepts, people, practices, and ideas from podcasts
+- Knowledge graph queries about philosophy, creativity, coaching, personal development
+- Relationships between concepts in the knowledge graph
+
+WHAT YOU CANNOT DO:
+- Solve math problems, equations, or calculations
+- Answer general knowledge questions
+- Provide current events or news
+- Write code or solve technical problems
+- Answer questions outside the podcast/knowledge graph domain
+
+The user asked something outside your expertise. You MUST politely but firmly redirect them to your domain. Be brief and clear that you only answer questions about podcast content and the knowledge graph. Do NOT attempt to answer the question - only redirect.
+
+Example response: "I'm focused on insights from podcast transcripts about philosophy, creativity, coaching, and personal development. I can help you explore concepts, practices, and ideas from those conversations. What would you like to learn about in those areas?"""}
             ]
             
             # Add conversation history for context
@@ -1183,23 +1256,56 @@ Provide a clear, well-formatted answer:"""
         # Resolve pronouns
         resolved_query = self._resolve_pronouns(query, session_metadata)
         
-        # RAG Search
-        if self.hybrid_retriever:
-            try:
-                rag_results = self.hybrid_retriever.retrieve(resolved_query, use_vector=True, use_graph=False)
-                tools_used.append("search_transcripts")
-                self.logger.info(f"RAG returned {len(rag_results)} results")
-            except Exception as e:
-                self.logger.error(f"RAG search failed: {e}")
+        # PARALLEL RAG + KG Search for better performance
+        rag_results = []
+        kg_results = []
         
-        # KG Search
-        if self.neo4j_client:
-            try:
-                kg_results = self._search_knowledge_graph(resolved_query)
+        def _rag_search():
+            """RAG search function for parallel execution."""
+            if self.hybrid_retriever:
+                try:
+                    results = self.hybrid_retriever.retrieve(resolved_query, use_vector=True, use_graph=False)
+                    self.logger.info(f"RAG returned {len(results)} results")
+                    return results, None
+                except Exception as e:
+                    self.logger.error(f"RAG search failed: {e}")
+                    return [], e
+            return [], None
+        
+        def _kg_search():
+            """KG search function for parallel execution."""
+            if self.neo4j_client:
+                try:
+                    results = self._search_knowledge_graph(resolved_query)
+                    self.logger.info(f"KG returned {len(results)} results")
+                    return results, None
+                except Exception as e:
+                    self.logger.error(f"KG search failed: {e}")
+                    return [], e
+            return [], None
+        
+        # Execute RAG and KG searches in parallel
+        with ThreadPoolExecutor(max_workers=2) as executor:
+            rag_future = executor.submit(_rag_search)
+            kg_future = executor.submit(_kg_search)
+            
+            # Wait for both to complete
+            rag_result, rag_error = rag_future.result()
+            kg_result, kg_error = kg_future.result()
+            
+            rag_results = rag_result
+            kg_results = kg_result
+            
+            if rag_results:
+                tools_used.append("search_transcripts")
+            if kg_results:
                 tools_used.append("search_knowledge_graph")
-                self.logger.info(f"KG returned {len(kg_results)} results")
-            except Exception as e:
-                self.logger.error(f"KG search failed: {e}")
+            
+            # Log any errors
+            if rag_error:
+                self.logger.warning(f"RAG search completed with error: {rag_error}")
+            if kg_error:
+                self.logger.warning(f"KG search completed with error: {kg_error}")
         
         # Validate entity coverage for multi-entity queries
         coverage_info = None
@@ -1253,7 +1359,8 @@ Provide a clear, well-formatted answer:"""
         # Synthesize answer (pass coverage info for strict validation)
         answer = self._synthesize_answer(
             query, resolved_query, rag_results[:5], kg_results[:10], 
-            conversation_history, coverage_info=coverage_info, mentioned_entities=mentioned_entities
+            conversation_history, coverage_info=coverage_info, mentioned_entities=mentioned_entities,
+            session_metadata=session_metadata
         )
         
         # Extract sources with full metadata
@@ -1298,44 +1405,74 @@ Provide a clear, well-formatted answer:"""
         return query
 
     def _search_knowledge_graph(self, query: str) -> List[Dict[str, Any]]:
-        """Search KG for relevant concepts."""
-        results = []
+        """Search KG for relevant concepts - OPTIMIZED with single query."""
         words = query.lower().split()
         
+        # Extract meaningful search terms (filter stop words and short words)
+        stop_words = {"what", "are", "is", "the", "a", "an", "that", "which", "who", "how", "when", "where", "why", "does", "do", "did", "this", "that", "about", "for", "with", "from"}
+        search_terms = [w for w in words if len(w) > 2 and w not in stop_words]
+        
+        # Add full query as first term
+        if query.lower().strip():
+            search_terms = [query.lower().strip()] + search_terms
+        
+        # Limit to top 3 most relevant terms
+        search_terms = search_terms[:3]
+        
+        if not search_terms:
+            return []
+        
+        # OPTIMIZED: Single query with OR conditions - Fixed ORDER BY to avoid Neo4j error
         cypher = """
         MATCH (c)
         WHERE c.workspace_id = $workspace_id
-          AND (toLower(c.name) CONTAINS $search_term 
-               OR toLower(c.description) CONTAINS $search_term)
+          AND (
+            ANY(term IN $search_terms WHERE toLower(c.name) CONTAINS term)
+            OR ANY(term IN $search_terms WHERE toLower(c.description) CONTAINS term)
+          )
         OPTIONAL MATCH (c)-[r]->(related)
         WHERE related.workspace_id = $workspace_id
+        WITH DISTINCT c, collect(DISTINCT {rel: type(r), target: related.name})[..5] as relationships
         RETURN c.name as concept, 
                labels(c)[0] as type,
                c.description as description,
-               collect(DISTINCT {rel: type(r), target: related.name})[..5] as relationships
+               relationships,
+               CASE 
+                 WHEN ANY(term IN $search_terms WHERE toLower(c.name) = term) THEN 1
+                 WHEN ANY(term IN $search_terms WHERE toLower(c.name) STARTS WITH term) THEN 2
+                 ELSE 3
+               END as relevance
+        ORDER BY relevance
         LIMIT 10
         """
         
-        search_terms = [query.lower()] + [w for w in words if len(w) > 3]
-        
-        for term in search_terms[:3]:
-            try:
-                result = self.neo4j_client.execute_read(cypher, {"workspace_id": self.workspace_id, "search_term": term})
-                if result:
-                    results.extend(result)
-            except Exception as e:
-                self.logger.warning(f"KG search for '{term}' failed: {e}")
-        
-        # Deduplicate
-        seen = set()
-        unique = []
-        for r in results:
-            concept = r.get("concept", "")
-            if concept and concept not in seen:
-                seen.add(concept)
-                unique.append(r)
-        
-        return unique
+        try:
+            # Log search parameters for debugging
+            self.logger.info(f"KG search: workspace_id={self.workspace_id}, search_terms={search_terms}")
+            
+            # Check Neo4j connection
+            if not self.neo4j_client:
+                self.logger.error("Neo4j client is None - KG search cannot proceed")
+                return []
+            
+            results = self.neo4j_client.execute_read(
+                cypher, 
+                {"workspace_id": self.workspace_id, "search_terms": search_terms}
+            )
+            
+            if results:
+                self.logger.info(f"KG search returned {len(results)} results for terms: {search_terms}")
+                # Log first result for debugging
+                if len(results) > 0:
+                    self.logger.debug(f"First KG result: {results[0].get('concept', 'N/A')}")
+                return results
+            else:
+                self.logger.warning(f"KG search returned 0 results for terms: {search_terms} (workspace_id: {self.workspace_id})")
+                return []
+                
+        except Exception as e:
+            self.logger.error(f"KG search failed: {e}", exc_info=True)
+            return []
 
     def _synthesize_answer(
         self,
@@ -1346,9 +1483,13 @@ Provide a clear, well-formatted answer:"""
         conversation_history: Optional[List[Dict[str, Any]]] = None,
         coverage_info: Optional[Dict[str, Any]] = None,
         mentioned_entities: Optional[List[str]] = None,
+        session_metadata: Optional[Dict[str, Any]] = None,
     ) -> str:
         """Synthesize answer from RAG + KG using LLM with strict entity coverage."""
         import os
+        
+        # Get style/tone instructions
+        style_tone_instructions = self._get_style_tone_instructions(session_metadata)
         
         # Format RAG context with full metadata
         rag_context = ""
@@ -1458,6 +1599,8 @@ REMEMBER: Even if Judd Apatow or Rick Rubin appear in the sources, DO NOT use th
         
         # Synthesize with LLM
         system_prompt = f"""You are Sage, a warm and intellectually curious Podcast Intelligence Assistant. You help people explore insights from fascinating podcast conversations.
+
+CRITICAL: You ONLY answer questions about podcast transcripts, knowledge graph content, and topics related to philosophy, creativity, coaching, and personal development. If a question is about math, general knowledge, current events, or anything outside your domain, you MUST politely redirect the user to your domain. Do NOT attempt to answer questions outside your expertise.
 {entity_coverage_constraint}
 PERSONALITY:
 - Genuinely excited about sharing insights and making connections
@@ -1465,6 +1608,8 @@ PERSONALITY:
 - Weave in context naturally, like you're having a conversation
 - Show enthusiasm for the ideas you're sharing
 - If you remember the user's name or previous context, reference it naturally
+
+{style_tone_instructions}
 
 CRITICAL RULES FOR ACCURACY:
 1. ONLY cite and reference speakers/episodes that appear in the TRANSCRIPT SOURCES below
@@ -1527,6 +1672,207 @@ Provide a well-sourced answer with NATURAL citations. {f"IMPORTANT: Be honest ab
         except Exception as e:
             self.logger.error(f"Synthesis failed: {e}")
             return f"Here's what I found:\n\n{rag_context[:500] if rag_context else kg_context[:500]}"
+    
+    def _synthesize_answer_streaming(
+        self,
+        query: str,
+        resolved_query: str,
+        rag_results: List[Dict[str, Any]],
+        kg_results: List[Dict[str, Any]],
+        conversation_history: Optional[List[Dict[str, Any]]] = None,
+        coverage_info: Optional[Dict[str, Any]] = None,
+        mentioned_entities: Optional[List[str]] = None,
+        session_metadata: Optional[Dict[str, Any]] = None,
+    ):
+        """
+        Synthesize answer with streaming support - yields chunks as they're generated.
+        
+        Yields:
+            str: Chunks of the answer as they're generated
+        """
+        import os
+        
+        # Format RAG context with full metadata
+        rag_context = ""
+        if rag_results:
+            rag_parts = []
+            for i, r in enumerate(rag_results, 1):
+                text = r.get("text", "")[:400]
+                metadata = r.get("metadata", {})
+                
+                # Extract episode info
+                episode_id = metadata.get("episode_id", "")
+                source_path = metadata.get("source_path", "")
+                if not episode_id or episode_id == "unknown":
+                    if source_path:
+                        filename = os.path.basename(source_path)
+                        episode_id = os.path.splitext(filename)[0]
+                
+                speaker = metadata.get("speaker", "")
+                timestamp = metadata.get("timestamp", "")
+                
+                # Format source line
+                speaker_display = speaker if speaker and speaker != "Unknown" else ""
+                episode_display = ""
+                
+                if episode_id and episode_id != "unknown":
+                    parts = episode_id.split("_")
+                    if len(parts) >= 2:
+                        name_parts = [p for p in parts[1:] if p.upper() not in ["PART", "1", "2", "3"]]
+                        if name_parts:
+                            episode_display = " ".join(name_parts).title()
+                    if not episode_display:
+                        episode_display = episode_id.replace("_", " ")
+                
+                if not speaker_display or speaker_display in ["Speaker 1", "Speaker 2", "Speaker"]:
+                    speaker_display = episode_display or "Speaker"
+                
+                source_info = f"--- {speaker_display}"
+                if episode_id and episode_id != "unknown":
+                    source_info += f" (Episode: {episode_id})"
+                if timestamp:
+                    source_info += f" at {timestamp}"
+                source_info += " ---"
+                
+                rag_parts.append(f"{source_info}\n\"{text}\"")
+            rag_context = "\n\n".join(rag_parts)
+        
+        # Format KG context
+        kg_context = ""
+        if kg_results:
+            kg_parts = []
+            for r in kg_results:
+                concept = r.get("concept", "")
+                desc = r.get("description", "")
+                rels = r.get("relationships", [])
+                
+                part = f"**{concept}**"
+                if desc:
+                    part += f": {desc[:200]}"
+                if rels:
+                    rel_strs = [f"{rel['rel']} → {rel['target']}" for rel in rels[:3]]
+                    part += f" (Relationships: {', '.join(rel_strs)})"
+                kg_parts.append(part)
+            kg_context = "\n".join(kg_parts)
+        
+        # Conversation context
+        conv_context = ""
+        if conversation_history:
+            recent = conversation_history[-5:]
+            conv_parts = [f"{m.get('role', 'user')}: {m.get('content', '')[:200]}" for m in recent]
+            conv_context = "\n".join(conv_parts)
+        
+        # Build entity coverage constraint
+        entity_coverage_constraint = ""
+        if mentioned_entities and len(mentioned_entities) > 1:
+            mentioned_list = ', '.join([e.title() for e in mentioned_entities])
+            
+            if coverage_info and not coverage_info["all_covered"]:
+                missing = ", ".join([e.title() for e in coverage_info["missing"]])
+                covered = ", ".join([e.title() for e in coverage_info["covered"]])
+            else:
+                missing = ""
+                covered = mentioned_list
+            
+            entity_coverage_constraint = f"""
+CRITICAL ENTITY COVERAGE REQUIREMENT (MULTI-ENTITY QUERY):
+The user specifically asked about these people: {mentioned_list}
+
+STRICT RULES - YOU MUST FOLLOW:
+1. ONLY use sources from: {mentioned_list}
+2. DO NOT use sources from ANYONE else
+3. If you don't have sources for ALL mentioned entities, be explicit
+4. DO NOT use proxy speakers or related people as substitutes
+
+ALLOWED SPEAKERS FOR THIS QUERY: {mentioned_list}
+FORBIDDEN: Any speaker NOT in the list above"""
+        
+        # Get style/tone instructions
+        style_tone_instructions = self._get_style_tone_instructions(session_metadata)
+        
+        # Synthesize with LLM - STREAMING
+        system_prompt = f"""You are Sage, a warm and intellectually curious Podcast Intelligence Assistant. You help people explore insights from fascinating podcast conversations.
+
+CRITICAL: You ONLY answer questions about podcast transcripts, knowledge graph content, and topics related to philosophy, creativity, coaching, and personal development. If a question is about math, general knowledge, current events, or anything outside your domain, you MUST politely redirect the user to your domain. Do NOT attempt to answer questions outside your expertise.
+{entity_coverage_constraint}
+PERSONALITY:
+- Genuinely excited about sharing insights and making connections
+- Speak like a thoughtful friend who's passionate about ideas
+- Weave in context naturally, like you're having a conversation
+- Show enthusiasm for the ideas you're sharing
+- If you remember the user's name or previous context, reference it naturally
+
+{style_tone_instructions}
+
+CRITICAL RULES FOR ACCURACY:
+1. ONLY cite and reference speakers/episodes that appear in the TRANSCRIPT SOURCES below
+2. DO NOT mention or cite anyone not in the provided sources
+3. If a speaker is not in the sources, DO NOT reference them - state this explicitly
+4. Cite naturally by speaker name (e.g., "Phil Jackson shares this fascinating insight..." not "[Source 1]")
+
+RESPONSE STYLE:
+- Start with the insight, not meta-commentary
+- Weave citations naturally into your narrative
+- Show genuine enthusiasm for interesting ideas
+- Make connections between concepts when relevant
+
+WHAT YOU CANNOT DO:
+- Reference speakers not in the provided sources
+- Make up quotes or information
+- Use "[Source 1]" style citations
+- Infer shared principles without direct evidence
+
+FORMATTING:
+- Use plain paragraphs for most content
+- For lists, use proper markdown with "- " prefix
+- Keep formatting simple and clean"""
+
+        user_prompt = f"""Question: {query}
+
+TRANSCRIPT SOURCES (cite by speaker name and episode, NOT by source number):
+{rag_context if rag_context else "No relevant transcripts found."}
+
+KNOWLEDGE GRAPH:
+{kg_context if kg_context else "No relevant concepts found."}
+
+{f"CONVERSATION CONTEXT:{chr(10)}{conv_context}" if conv_context else ""}
+
+Provide a well-sourced answer with NATURAL citations. {f"IMPORTANT: Be honest about missing coverage for any entities." if coverage_info and not coverage_info["all_covered"] else ""}"""
+
+        try:
+            # Build proper messages array with conversation history
+            messages = [{"role": "system", "content": system_prompt}]
+            
+            # Add conversation history
+            if conversation_history:
+                for msg in conversation_history[-5:]:
+                    role = msg.get("role", "user")
+                    content = msg.get("content", "")
+                    if role in ["user", "assistant"] and content:
+                        messages.append({"role": role, "content": content})
+            
+            # Add current query
+            messages.append({"role": "user", "content": user_prompt})
+            
+            # Stream response
+            stream = self.openai_client.chat.completions.create(
+                model=self.model,
+                messages=messages,
+                temperature=0.5,
+                max_tokens=800,
+                stream=True,  # Enable streaming
+            )
+            
+            # Yield chunks as they arrive
+            for chunk in stream:
+                if chunk.choices and len(chunk.choices) > 0:
+                    delta = chunk.choices[0].delta
+                    if delta and delta.content:
+                        yield delta.content
+                        
+        except Exception as e:
+            self.logger.error(f"Streaming synthesis failed: {e}")
+            yield f"Here's what I found:\n\n{rag_context[:500] if rag_context else kg_context[:500]}"
 
     def _extract_sources(
         self,

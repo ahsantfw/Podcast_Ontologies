@@ -25,12 +25,111 @@ api.interceptors.request.use(
 
 // API functions
 export const queryAPI = {
-  query: async (question, sessionId = null) => {
+  query: async (question, sessionId = null, style = 'casual', tone = 'warm') => {
     const response = await api.post('/query', {
       question,
       session_id: sessionId,
+      style: style,
+      tone: tone,
     })
     return response.data
+  },
+
+  queryStream: async function* (question, sessionId = null, style = 'casual', tone = 'warm') {
+    /**
+     * Stream query results using Server-Sent Events (SSE).
+     * 
+     * Yields objects with:
+     * - chunk: text chunk
+     * - done: boolean indicating if stream is complete
+     * - session_id: session ID (when done)
+     * - sources: array of sources (when done)
+     * - metadata: response metadata (when done)
+     */
+    const workspaceId = localStorage.getItem('workspace_id') || 'default'
+    const baseURL = import.meta.env.VITE_API_URL || '/api/v1'
+    
+    try {
+      const response = await fetch(`${baseURL}/query/stream`, {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+          'X-Workspace-Id': workspaceId,
+        },
+        body: JSON.stringify({
+          question,
+          session_id: sessionId,
+          style: style,
+          tone: tone,
+        }),
+      })
+
+      if (!response.ok) {
+        throw new Error(`HTTP error! status: ${response.status}`)
+      }
+
+      const reader = response.body.getReader()
+      const decoder = new TextDecoder()
+      let buffer = ''
+
+      while (true) {
+        const { done, value } = await reader.read()
+        
+        if (done) {
+          // Process any remaining buffer
+          if (buffer.trim()) {
+            const lines = buffer.split('\n')
+            for (const line of lines) {
+              if (line.startsWith('data: ')) {
+                try {
+                  const data = JSON.parse(line.slice(6))
+                  yield data
+                  if (data.done) return
+                } catch (e) {
+                  console.error('Failed to parse SSE data:', e, line)
+                }
+              }
+            }
+          }
+          break
+        }
+
+        // Decode and process immediately for faster streaming
+        buffer += decoder.decode(value, { stream: true })
+        const lines = buffer.split('\n')
+        buffer = lines.pop() || '' // Keep incomplete line in buffer
+
+        // Process all complete lines immediately
+        for (const line of lines) {
+          if (line.startsWith('data: ')) {
+            try {
+              const data = JSON.parse(line.slice(6))
+              yield data
+              
+              if (data.done) {
+                return
+              }
+            } catch (e) {
+              console.error('Failed to parse SSE data:', e, line)
+              // Yield error so frontend can handle it
+              yield {
+                chunk: `Error parsing stream data: ${e.message}`,
+                done: true,
+                error: true
+              }
+              return
+            }
+          }
+        }
+      }
+    } catch (error) {
+      console.error('Streaming query failed:', error)
+      yield {
+        chunk: `Error: ${error.message || 'Failed to get response'}`,
+        done: true,
+        error: true
+      }
+    }
   },
 
   getHistory: async (sessionId) => {
