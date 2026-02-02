@@ -1,158 +1,100 @@
-# Knowledge Graph Pipeline - Production
+# Podcast Intelligence System
 
-Complete pipeline for processing transcripts and querying with hybrid RAG + KG.
-
-## Quick Start
-
-```bash
-# Cleanup existing data (optional - for fresh start)
-python cleanup_database.py --confirm
-
-# Process all transcripts (creates KG + RAG embeddings)
-python main.py process --input data/transcripts/
-
-# Query with hybrid RAG + KG
-python main.py query
-
-# Or do both at once
-python main.py all --input data/transcripts/
-```
-
-## Setup
-
-### Step 1: Start Required Services
-
-**Option A: Quick Setup Script (Recommended)**
-```bash
-./setup_services.sh
-```
-
-**Option B: Docker Compose**
-```bash
-# Use 'docker compose' (newer) or 'docker-compose' (older)
-docker compose up -d
-# Or if that doesn't work:
-docker-compose up -d
-```
-
-**Option C: Manual Docker**
-```bash
-# Neo4j
-docker run -d --name neo4j -p 7474:7474 -p 7687:7687 -e NEO4J_AUTH=neo4j/password neo4j:latest
-
-# Qdrant
-docker run -d --name qdrant -p 6333:6333 -p 6334:6334 qdrant/qdrant
-```
-
-**Verify services:**
-```bash
-docker ps  # Should show neo4j and qdrant running
-```
-
-### Step 2: Install Dependencies
-
-```bash
-pip install neo4j openai python-dotenv qdrant-client langchain langchain-community langchain-openai numpy
-```
-
-### Step 3: Configure Environment
-
-Copy `.env.example` to `.env` and update:
-
-```bash
-cp .env.example .env
-# Edit .env with your settings
-```
-
-**Required settings:**
-- `NEO4J_PASSWORD` - Your Neo4j password
-- `OPENAI_API_KEY` - Your OpenAI API key
-
-See `SETUP.md` for detailed setup instructions.
-
-## Usage
-
-### Process Transcripts
-
-```bash
-python main.py process --input data/transcripts/
-```
-
-**What it does:**
-- Loads all `.txt` files from directory
-- Chunks text intelligently
-- Extracts knowledge graph (concepts, relationships, quotes)
-- Stores in Neo4j
-- Creates vector embeddings
-- Stores in Qdrant (for RAG)
-- Runs cross-episode analysis
-
-### Query Knowledge Graph
-
-```bash
-# Hybrid RAG + KG mode (RECOMMENDED)
-python main.py query
-
-# Graph-only mode
-python main.py query --no-hybrid
-```
-
-**How it works:**
-1. **RAG (Vector Search)**: Finds relevant text chunks using semantic similarity
-2. **KG (Graph Query)**: Queries structured knowledge graph
-3. **LLM Synthesis**: Combines both sources into comprehensive answer
-
-### Example Queries
-
-```
-💬 Question: What concepts appear in multiple episodes?
-💬 Question: who is Avett Brothers
-💬 Question: What practices optimize creativity?
-💬 Question: What quotes are about meditation?
-```
-
-## Structure
-
-```
-ontology_production_v1/
-├── main.py              # ← SINGLE FILE TO RUN EVERYTHING
-├── core_engine/         # Core functionality
-│   ├── ingestion/      # Load transcripts
-│   ├── chunking/       # Text chunking
-│   ├── kg/             # Knowledge graph extraction
-│   ├── embeddings/     # Vector embeddings (Qdrant)
-│   └── reasoning/      # Query engine (RAG + KG hybrid)
-├── data/
-│   └── transcripts/    # Your transcript files
-└── .env                 # Environment variables
-```
-
-## Features
-
-✅ **Hybrid RAG + KG**: Combines vector search with graph queries
-✅ **LLM Synthesis**: GPT-4o combines multiple sources
-✅ **Cross-Episode Analysis**: Finds recurring concepts across episodes
-✅ **No Duplicates**: MERGE operations prevent duplicate entries
-✅ **Session Management**: Maintains conversation context
-✅ **Production Ready**: Clean, working code
-
-## Troubleshooting
-
-### "Qdrant connection failed"
-- Make sure Qdrant is running: `docker ps | grep qdrant`
-- Check `QDRANT_URL` in `.env`
-
-### "Neo4j connection failed"
-- Make sure Neo4j is running: `docker ps | grep neo4j`
-- Check `NEO4J_URI`, `NEO4J_USER`, `NEO4J_PASSWORD` in `.env`
-
-### "OPENAI_API_KEY not set"
-- Add `OPENAI_API_KEY=your_key` to `.env` file
-
-### Queries return "No results"
-- Make sure you've processed transcripts first: `python main.py process`
-- Check if data exists in Neo4j/Qdrant
+**Production-ready** AI platform for ingesting podcast transcripts, extracting structured knowledge, and querying insights via natural language. Built with FastAPI, React, Neo4j, Qdrant, and OpenAI.
 
 ---
 
-**That's it! Use `main.py` for everything.** 🚀
+## Features
+
+- **Knowledge Graph** — Extract concepts, relationships, and quotes from transcripts using GPT-4
+- **Hybrid Retrieval** — Combine vector search (Qdrant) and graph traversal (Neo4j) for better answers
+- **Natural Language QA** — Ask questions in plain English; an agent uses RAG + KG tools
+- **Streaming Responses** — Server-sent events for real-time answer streaming
+- **Multi-Workspace** — Isolated data per workspace (transcripts, KG, embeddings)
+- **Script Generation** — Generate thematic scripts (tapestry, thematic, linear) from the knowledge graph
+- **Graph Exploration** — Browse concepts, relationships, and cross-episode links
+
+---
+
+## Quick Links
+
+| Document | Description |
+|----------|-------------|
+| [docs/QUICK_START.md](docs/QUICK_START.md) | Get up and running in 15 minutes |
+| [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md) | Architecture diagrams and component overview |
+| [docs/DOCUMENTATION.md](docs/DOCUMENTATION.md) | Complete A–Z documentation |
+
+---
+
+## Tech Stack
+
+| Component | Technology |
+|-----------|------------|
+| Backend | FastAPI, Python 3.10+ |
+| Frontend | React, Vite |
+| Knowledge Graph | Neo4j |
+| Vector Store | Qdrant |
+| LLM & Embeddings | OpenAI (GPT-4, text-embedding-3-large) |
+
+---
+
+## Project Structure
+
+```
+ontology_production_v1/
+├── backend/           # FastAPI REST API
+├── core_engine/       # Ingestion, KG extraction, reasoning, script generation
+├── frontend/          # React SPA
+├── data/              # Transcripts, workspaces
+├── docs/              # Documentation (Quick Start, Architecture, A–Z)
+├── extra/             # Testing, debug, and utility scripts (not required for core app)
+├── configs/           # Logging configuration
+└── docker-compose.yml # Qdrant service
+```
+
+---
+
+## Getting Started
+
+1. **Install dependencies**
+
+   ```bash
+   pip install -r backend/requirements.txt
+   pip install openai langchain langchain-openai langchain-text-splitters langchain-core qdrant-client neo4j python-dotenv langgraph
+   cd frontend && npm install
+   ```
+
+2. **Configure `.env`** (project root)
+
+   ```
+   OPENAI_API_KEY=sk-...
+   QDRANT_URL=http://localhost:6333
+   QDRANT_COLLECTION=ontology_chunks
+   WORKSPACE_ID=default
+   EMBED_MODEL=text-embedding-3-large
+   NEO4J_URI=bolt://localhost:7687
+   NEO4J_USERNAME=neo4j
+   NEO4J_PASSWORD=your_password
+   NEO4J_DATABASE=neo4j
+   USE_LANGGRAPH=true
+   RERANKING_STRATEGY=rrf_mmr
+   ```
+   See [docs/QUICK_START.md](docs/QUICK_START.md) for the full list.
+
+3. **Start services**
+
+   ```bash
+   docker-compose up -d qdrant
+   uvicorn backend.app.main:app --reload --host 0.0.0.0 --port 8000
+   cd frontend && npm run dev
+   ```
+
+4. **Upload transcripts** at http://localhost:3000/upload, process them, then query in Chat.
+
+For detailed steps, see [docs/QUICK_START.md](docs/QUICK_START.md).
+
+---
+
+## License
+
+Proprietary. All rights reserved.

@@ -6097,3 +6097,11 @@ KeyError: 'is_relevant'
 {"ts":"2026-01-29T01:05:02","level":"INFO","logger":"core_engine.reasoning.reasoning","msg":"message_saved_with_metadata","context":"{\"workspace_id\": \"default\"}"}
 {"ts":"2026-01-29T01:05:02","level":"INFO","logger":"core_engine.reasoning.reasoning","msg":"saving_to_db_with_metadata","context":"{\"workspace_id\": \"default\"}"}
 {"ts":"2026-01-29T01:05:02","level":"INFO","logger":"core_engine.reasoning.reasoning","msg":"verifying_saved_metadata","context":"{\"workspace_id\": \"default\"}"}
+{"ts":"2026-01-29T01:43:57","level":"INFO","logger":"app.main","msg":"app_shutdown","context":"{}"}
+{"ts":"2026-01-29T01:43:57","level":"INFO","logger":"core_engine.reasoning.reasoning","msg":"saving_to_db_with_metadata","context":"{\"workspace_id\": \"default\"}"}
+{"ts":"2026-01-29T01:43:59","level":"INFO","logger":"core_engine.reasoning.hybrid_retriever","msg":"hybrid_retriever_closed","context":"{\"workspace_id\": \"default\"}"}
+{"ts":"2026-01-29T01:44:00","level":"INFO","logger":"core_engine.kg","msg":"neo4j_connection_closed","context":"{\"workspace_id\": \"default\"}"}
+{"ts":"2026-01-29T01:44:00","level":"INFO","logger":"core_engine.reasoning.reasoning","msg":"kg_reasoner_closed","context":"{\"workspace_id\": \"default\"}"}
+{"ts":"2026-01-29T01:44:01","level":"INFO","logger":"backend.app.core.reasoner_pool","msg":"reasoner_pool_cleaned_up","context":"{}"}
+{"ts":"2026-01-29T01:44:01","level":"INFO","logger":"app.main","msg":"reasoner_pool_cleaned_up_on_shutdown","context":"{}"}
+{"ts":"2026-02-02T23:31:29","level":"INFO","logger":"app.main","msg":"app_startup","context":"{}"}
